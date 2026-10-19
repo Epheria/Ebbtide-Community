@@ -1,0 +1,7 @@
+term,en,ko,how to handle it
+Ebbtide,Ebbtide,Ebbtide,Game title. Do not translate.
+Nexus,Nexus,넥서스,Name of the infected hive intelligence. Do not translate; transliterate only if your script requires it.
+FOB,FOB,FOB,Forward operating base. Keep the abbreviation if your country's military uses it; otherwise use its standard term.
+Task Force,Task Force,태스크포스,Naval unit name. Use your navy's standard term.
+Commander,Commander,사령관,How characters address the player. Use the formal military form of address.
+Callsigns,"Dagger, Hawg, Viper, Spooky, Kestrel",,Radio callsigns. Never translate.

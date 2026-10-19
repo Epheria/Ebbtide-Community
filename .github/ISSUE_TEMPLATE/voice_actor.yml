@@ -1,0 +1,47 @@
+name: Voice actor application
+description: Apply to voice a role in Ebbtide.
+title: "[Voice] "
+labels: ["voice"]
+body:
+  - type: dropdown
+    id: roles
+    attributes:
+      label: Roles you are interested in
+      multiple: true
+      options:
+        - Fighter or attack pilot
+        - Helicopter crew
+        - Ship officer (carrier or destroyer)
+        - Tank or armored vehicle crew
+        - Infantry squad
+        - Russian-language roles
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: sample
+    attributes:
+      label: Sample
+      description: A link to a short recording of your voice (the Discord audition or any demo).
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Recording setup
+      description: Microphone and room, briefly.
+  - type: input
+    id: discord
+    attributes:
+      label: Discord name
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: My recordings are my own voice and are not AI-generated or AI-altered.
+          required: true
+        - label: I have read and agree to CONTRIBUTOR_TERMS.md.
+          required: true
+        - label: I am 18 or older, or a parent or guardian agrees with me.
+          required: true

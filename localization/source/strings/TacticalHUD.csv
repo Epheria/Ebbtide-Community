@@ -1,0 +1,1645 @@
+key,en,ko
+AirAsset_A10,A-10,A-10
+AirAsset_A10Section,A-10 Flight,A-10 편대
+AirAsset_AC130J,AC-130J Gunship,AC-130J 건십
+AirAsset_CarrierSection,F/A-18F flight,F/A-18F 편대
+AirAsset_CasJet,F-16 Falcon,F-16 전투기
+AirAsset_CasSection,F-15 Flight,F-15 편대
+AirAsset_F15ESection,F-15E flight,F-15E 편대
+AirAsset_F35BSection,F-35B flight,F-35B 편대
+AirAsset_Gunship,AH-1Z Viper,AH-1Z 바이퍼
+AirAsset_MQ9Reaper,MQ-9 Reaper,MQ-9 리퍼
+AirAsset_NapalmSection,F-15 Napalm Flight,F-15 네이팜 편대
+AirAsset_ThermobaricSection,F-15 Thermobaric Flight,F-15 열압력 편대
+AirPhase_Inbound,INBOUND,INBOUND
+AirPhase_OnStation_Format,ON STN {0}s,ON STN {0}s
+AirPhase_Rtb,RTB,RTB
+AirSupport_Caption,AIR SUPPORT,항공 지원
+Air_Heli_Attack,LMB GUN · RMB ROCKETS · AMMO {0}% · B RTB,LMB 기관포 · RMB 로켓 · 탄약 {0}% · B 복귀
+Air_Heli_Ingress,VIPER FLIGHT · INGRESS,Viper 편대 합류 · 표적 진입
+Air_Heli_Recovery,F DESCEND · B AUTO RECOVERY,F 하강 · B 자동회수
+Air_Heli_Takeoff,R CLIMB · VERTICAL TAKEOFF,R 상승 · 수직 이륙
+Air_Phase_Attack,ATTACK · BOMBS {0} · B RTB,공격 · 폭탄 {0} · B 복귀
+Air_Phase_Complete,RECOVERY COMPLETE,착륙 완료
+Air_Phase_Ingress,FORM UP · INGRESS,편대 합류 · 표적 진입
+Air_Phase_Initializing,FORMING FLIGHT,편대 준비 중
+Air_Phase_Recovery,S SLOW + F DESCEND · B AUTO RECOVERY,S 감속 + F 하강 · B 자동회수
+Air_Phase_RecoveryAuto,AUTO RECOVERY IN PROGRESS,자동 착륙 진행 중
+Air_Phase_Return,RETURNING · B AUTO RECOVERY,귀환 중 · B 자동회수
+Air_Phase_Scan,ARMED RECON SCAN {0}%,무장정찰 스캔 {0}%
+Air_Phase_Takeoff,W THROTTLE · TAKE OFF,W 스로틀 · 이륙
+Air_Region_Target,TARGET AREA {0} · ENTERING COMBAT AIRSPACE,목표권역 {0} · 전투공역 진입
+Air_Route_Outbound,{0} → {1} · INGRESS {2}% · {3} km,{0} → {1} · 접근 {2}% · {3} km
+Air_Route_Return,{0} → {1} · RETURN {2}% · {3} km,{0} → {1} · 귀환 {2}% · {3} km
+Air_Transition_Source,ENTERING {0} RECOVERY AREA,{0} 복귀권역 진입
+Air_Transition_Target,ENTERING {0} OPERATIONS AREA,{0} 작전권역 진입
+Alert_FriendlyInBlast,Friendlies inside the blast radius - expect casualties,폭발 범위 안에 아군 · 시민 있음 — 오사 주의
+Ammo_DragonsBreath,Dragon's breath,드래곤 브레스
+Ammo_Slug,Slug,슬러그
+Ammo_TacticalBuckshot,Tactical buckshot,택티컬 벅샷
+Banner_Prep,PREP {0},준비 시간 {0}
+Banner_WaveStart,WAVE INCOMING — HOLD THE LINE,웨이브 접근 — 방어선 사수
+Bark_Casualty,Man down!,사상자 발생!
+Bark_OrderAck,Roger!,라저!
+Bark_OutOfAmmo,Out of ammo! Sidearm!,탄약 없음! 권총으로!
+Bark_Phase_Dawn,Dawn breaking. Prepare to stand down.,여명이다. 야간 경계 해제 준비.
+Bark_Phase_Day,Day ops. Sweep and secure.,주간 작전 개시. 탐색 및 확보 진행.
+Bark_Phase_Dusk,"Dusk — all units, defensive posture!",황혼이다 — 전 부대 방어 태세 전환!
+Bark_Phase_Night,Night watch! Brace for waves!,야간 경계 태세! 웨이브에 대비하라!
+Bark_PoliceEvacuated,{0} civilians sheltered in the police station,경찰서로 시민 {0}명 대피 완료
+Bark_Reloading,Reloading!,재장전!
+Bark_Speaker_HQ,HQ,지휘부
+Card_Ammo_AP,AP,철갑
+Card_Ammo_Auto,AUTO,자동
+Card_Ammo_CycleTooltip,"Select, then change in popup (V)",선택 후 위 팝업에서 전환 (V)
+Card_Ammo_HE,HE,고폭
+Card_Player_Callsign,RANGER,레인저
+Cargo_Fuel,FUEL DRUM,연료 드럼
+Cargo_NuclearFuel,NUCLEAR FUEL,핵연료 컨테이너
+Cargo_Tech,TECH CACHE,기술 자료
+Cargo_Weapons,WEAPONS CACHE,무기 상자
+Clock_Day_Format,DAY {0},DAY {0}
+Clock_Until_Format,{0} in {1},{0}까지 {1}
+ControlGroup_Ungroup,×,×
+Debug_FlameEquip,Equip Player Flamethrower,플레이어 화염방사기 장착
+Debug_FlameRestore,Restore Previous Weapon,플레이어 이전 무기 복구
+Debug_FlameSpawn,Spawn One Flamethrower Soldier,화염방사수 1명 추가
+Debug_FlameWeapons,Flame Weapons,화염 무기
+Debug_FobUnlimitedDefenseAmmo,Unlimited Defense Ammo,방어시설 탄약 무제한
+Debug_InfantryUnlimitedAmmo,Unlimited Infantry Ammo,보병 탄약 무제한
+Debug_LaTimeOfDayHours,LA Time of Day (0–24 h),LA 시각 (0–24시)
+Debug_ShotgunAmmo,Shotgun ammo,샷건 탄종
+FC_AccessBlocked,Worker approach is blocked.,작업자 진입 경로가 막혀 있습니다.
+FC_Ammo,Rounds {0} / Reserve {1} · {2},탄약 {0} / 예비 {1} · {2}
+FC_Approaching,Worker approaching,작업자 접근 중
+FC_Cancel,Cancel work,공사 취소
+FC_CancelPolicy,Cancel before work starts for a refund. No refund after work starts.,착공 전 취소는 자재 반환 · 착공 후 취소는 반환 없음
+FC_Cancelled,Cancelled,취소됨
+FC_Complete,Complete,완공
+FC_Dry,Out of ammunition,탄약 소진
+FC_EndPreview,End preview,미리보기 종료
+FC_FireBlocked,Blocked / outside firing arc,사선 차단 / 사각
+FC_FireClear,Clear line of fire,사선 확보
+FC_Help,Select a squad on the roof. Click to place; R to rotate; RMB/ESC to cancel.,옥상 위 분대를 선택하세요. 좌클릭 설치 · R 회전 · 우클릭/ESC 취소
+FC_Insufficient,Insufficient components at the source.,공급 거점의 부품이 부족합니다.
+FC_MachineGun,Mounted machine gun platform,발판 포함 기관총 진지
+FC_Occupy,Assign soldier,보병 배치
+FC_Open,Rooftop,옥상 설치
+FC_Overlap,"Overlaps a reservation, soldier, or obstacle.",다른 시설·병사·장애물과 겹칩니다.
+FC_Paused,Paused,중단됨
+FC_Platform,Firing platform,사격 발판
+FC_PreviewStatus,"Components {0} · Work {1}s
+{2}","부품 {0} · 작업 {1}초
+{2}"
+FC_Reloading,Reloading,재장전
+FC_Reserved,Reserved,예약
+FC_Resume,Resume,작업 재개
+FC_RoofRequired,Choose the floor of your squad's rooftop.,병사가 있는 옥상의 바닥을 지정하세요.
+FC_Rotate,Rotate R,회전 R
+FC_SelectInstallation,Choose an installation.,설치물을 선택하세요.
+FC_SelectWorker,Select an available infantry squad on this roof.,같은 옥상의 사용 가능한 보병 분대를 선택하세요.
+FC_SiteStatus,"#{0} {1}
+{2} · {3}%","#{0} {1}
+{2} · {3}%"
+FC_Source,Material source,자재 공급 거점
+FC_SourceRequired,No material source. Supply is required.,공급 거점이 없습니다. 자재 공급이 필요합니다.
+FC_Title,ROOFTOP INSTALLATIONS,옥상 시설 설치
+FC_Unavailable,The battlefield must be active.,전장이 열려 있어야 합니다.
+FC_Unmanned,Unmanned,사수 없음
+FC_Unsupported,"Edge, uneven floor, or missing support",가장자리·단차 또는 지지면 부족
+FC_Valid,Placement valid,설치 가능
+FC_Withdraw,Withdraw,철수
+FC_Working,Building,설치 중
+Formation_Circle,CIRCLE,원형
+Formation_Perimeter,PERIMETER,사주경계
+Formation_Rect,BOX,사각
+Formation_Wedge,WEDGE,쐐기
+Minimap_Dir_E,E,동
+Minimap_Dir_N,N,북
+Minimap_Dir_NE,NE,북동
+Minimap_Dir_NW,NW,북서
+Minimap_Dir_S,S,남
+Minimap_Dir_SE,SE,남동
+Minimap_Dir_SW,SW,남서
+Minimap_Dir_W,W,서
+Minimap_East,E,E
+Minimap_Heading_Format,VIEW {0}° {1},시야 {0}° {1}
+Minimap_Key_Air,Air,항공
+Minimap_Key_Enemy,Enemy,적
+Minimap_Key_Infantry,Inf,보병
+Minimap_Key_Objective,Obj,목표
+Minimap_Key_Vehicle,Veh,차량
+Minimap_Mode_Commander,Command,지휘
+Minimap_Mode_Survivor,Survivor,생존
+Minimap_North,N,N
+Minimap_PanHint,Right-click: move selected (Shift: queue) · Right-drag: pan,우클릭: 선택 부대 이동 (Shift: 예약) · 우클릭 드래그: 맵 이동
+Minimap_Recenter,Recenter,원위치
+Minimap_ScaleMeters,{0}m,{0}m
+Minimap_Sortie_Eta_Format,ETA {0}:{1:00},ETA {0}:{1:00}
+Minimap_Sortie_Rtb_Format,RTB {0}:{1:00},RTB {0}:{1:00}
+Minimap_South,S,S
+Minimap_West,W,W
+Minimap_ZoomIn,Zoom in,확대
+Minimap_ZoomOut,Zoom out,축소
+Minimap_ZoomRange,View range,시야 범위
+Obj_AirOperation,AIR OPERATION,항공작전
+Obj_Cargo,CARGO,화물 회수
+Obj_Protect,PROTECT,방어 대상
+Obj_Recon,RECON,정찰 지점
+Obj_Rescue,RESCUE,시민 구출
+Obj_Survive,SURVIVE,생존
+Obj_Targets,TARGETS,목표 파괴
+Order_Advance,ADVANCE,전진
+Order_AttackMove,ATK MOVE,공격전진
+Order_DefendPosition,DEFEND,방어
+Order_EscortCivilians,Civilian escort,시민 호위
+Order_EscortVehicle,ESCORT,호위
+Order_FollowPlayer,FOLLOW,추종
+Order_FormationMove,FORM MOVE,진형이동
+Order_HoldPosition,HOLD,고수
+Order_None,STANDBY,대기
+Order_PerimeterSecurity,PERIM,경계
+Order_Retreat,RETREAT,후퇴
+Order_SpecialAction,SPECIAL,특수
+Order_Waypoint,WAYPOINT,예약 이동
+Phase_Dawn,Dawn,새벽
+Phase_Day,Day,주간
+Phase_Dusk,Dusk,황혼
+Phase_Night,Night,야간
+Place_Curvature,Curvature,곡률
+Place_Flag_No,N,N
+Place_Flag_Yes,Y,Y
+Place_Inspector_Delete,Delete (Del),삭제 (Del)
+Place_Inspector_Hint,Q/E rot · R/F scale · T/G height · Del · Ctrl+Z undo,Q/E 회전 · R/F 크기 · T/G 높이 · Del 삭제 · Ctrl+Z 되돌리기
+Place_Inspector_Id_Format,{0} · #{1},{0} · #{1}
+Place_Inspector_Pos_Empty,Pos —,위치 —
+Place_Inspector_Pos_Format,"Pos  ({0:0.00}, {1:0.00}, {2:0.00})","위치  ({0:0.00}, {1:0.00}, {2:0.00})"
+Place_Inspector_Rot_Empty,RotY —,회전 —
+Place_Inspector_Rot_Format,RotY {0:0.0}°,회전 {0:0.0}°
+Place_Inspector_Scale_Empty,Scale —,크기 —
+Place_Inspector_Scale_Format,"Scale ({0:0.00}, {1:0.00}, {2:0.00})","크기 ({0:0.00}, {1:0.00}, {2:0.00})"
+Place_Inspector_Title,Inspector,속성
+Place_Load,Load,불러오기
+Place_Object_FobFlareLauncher,Flare launcher,조명탄 발사기
+Place_Object_FobFloodlightTower,Floodlight tower,투광등 탑
+Place_Object_FobGroundCiws,Ground CIWS,지상 CIWS
+Place_Object_FobMachineGunNest,MG Nest,기관총 진지
+Place_Object_FobMinigunNest,Minigun nest,미니건 진지
+Place_Object_FobSearchlight,Searchlight,탐조등
+Place_Object_FobSmallFloodlight,Small floodlight,소형 투광등
+Place_Object_MortarPit,81mm Mortar Pit,81mm 박격포 진지
+Place_Object_Tank_Flamethrower,Flame Tank,화염전차
+Place_Object_Tank_Player,Tank (CROWS),탱크 (CROWS 장착)
+Place_Opt_RandomRot,Random rot,랜덤 회전
+Place_Opt_RandomScale,Random scale,랜덤 크기
+Place_Opt_ShowAll,Show All (Debug),전체 표시 (디버그)
+Place_Opt_Variant,Variant,변형
+Place_Palette_Empty,(empty),(비어 있음)
+Place_Palette_NoCatalog,Catalog unassigned,카탈로그 미할당
+Place_Plot_Ok,ok,정상
+Place_Plot_SelfIntersect,self-intersect!,자기교차!
+Place_Plot_TooLarge,too large,면적 초과
+Place_Save,Save,저장
+Place_Search_Placeholder,Search,검색
+Place_Snap_Off,Snap: OFF (X),스냅: 끔 (X)
+Place_Snap_On,Snap: ON (X),스냅: 켬 (X)
+Place_Status_Format,Build mode · {0},빌드 모드 · {0}
+Place_Status_NoCatalog,no catalog,카탈로그 없음
+Place_Status_Off,Build mode: off,빌드 모드 꺼짐
+Place_Tab_Building,Building,건물
+Place_Tab_Defense,Defense,방어
+Place_Tab_Detail,Detail,디테일
+Place_Tab_Natural,Natural,자연물
+Place_Tab_Path,Path,경로
+Place_Tab_Plot,Plot,구역
+Place_Tab_Select,Select,선택
+Place_Tab_Vehicles,Vehicles,차량
+Place_Tip_Object_Hint,LMB place · Q/E rotate · R/F scale · T/G height · Space hold · RMB/ESC cancel,좌클릭 배치 · Q/E 회전 · R/F 크기 · T/G 높이 · Space 연속 · 우클릭/ESC 취소
+Place_Tip_Object_Meta,rot {0:F0}°  scale {1:F2}  height {2:F2},회전 {0:F0}°  크기 {1:F2}  높이 {2:F2}
+Place_Tip_Path_Hint,LMB add point · V toggle handle · Ctrl+T close · Enter confirm · ESC remove last,좌클릭 정점 추가 · V 핸들 전환 · Ctrl+T 닫기 · Enter 확정 · ESC 마지막 취소
+Place_Tip_Path_Meta,points {0}  closed {1},정점 {0}  닫힘 {1}
+Place_Tip_Path_Suffix,  (Path),  (경로)
+Place_Tip_Plot_Hint,LMB add point · Ctrl+T close · Tab populate · Enter confirm · ESC remove last,좌클릭 정점 추가 · Ctrl+T 닫기 · Tab 채우기 · Enter 확정 · ESC 마지막 취소
+Place_Tip_Plot_Meta,points {0}  area {1:F0}m²  {2},정점 {0}  면적 {1:F0}m²  {2}
+Place_Tip_Plot_Suffix,  (Plot),  (구역)
+Place_Title,PLACEMENT,배치
+Place_Tool_Deco,deco,장식
+Place_Tool_Environment,environment,환경
+Place_Tool_Export,export,내보내기
+Place_Tool_MapSettings,map settings,맵 설정
+Place_Tool_MultiSelect,multi-select,다중 선택
+Place_Tool_None,idle,대기
+Place_Tool_Object,object,오브젝트
+Place_Tool_Path,path,경로
+Place_Tool_Plot,plot,구역
+Place_Tool_Selector,selector,선택
+Popup_Member_Format,Soldier {0},{0}번 대원
+Popup_Squad_Grenades,GL,유탄
+Popup_Squad_Magazines,MAG,탄창
+Popup_Squad_Shells,SG,산탄
+Popup_State_AI,AI,AI
+Popup_State_Dead,KIA,전사
+Popup_State_Empty,EMPTY,무인
+Popup_State_Firing,FIRING,사격중
+Popup_State_LowHp,CRIT,위중
+Popup_State_Manned,MANNED,유인
+Popup_State_NoAmmo,NO AMMO,탄약고갈
+Popup_State_Ready,READY,대기
+Popup_State_Reloading,RELOAD,재장전
+Popup_State_RwsAuto,RWS AUTO,RWS 자동
+Popup_Vehicle_Ammo,AMMO,탄약
+Popup_Vehicle_Cargo,CARGO,화물
+Popup_Vehicle_Crew,CREW,탑승
+Popup_Vehicle_Supply,INF SUPPLY,보병 보급
+Role_Civilian,CIV,민간
+Role_Engineer,ENG,공병
+Role_Medic,MED,의무
+Role_Rifleman,RIF,소총
+Role_Shotgunner,SGN,산탄
+Role_Sniper,SNP,저격
+Rooftop_Access_Available,ROOFTOP ACCESS,옥상 진입 가능
+Rooftop_Access_Full,ROOFTOP FULL,옥상 수용 인원 초과
+Sidearm_Auto,Sidearm: Auto,부무장 자동
+Sidearm_Forbidden,Sidearm: Never,부무장 금지
+Sidearm_Forced,Sidearm: Always,부무장 강제
+Squad_Name_Format,SQ-{0},{0}분대
+Stance_AimFire,FIRE ON MOVE,이동사격
+Stance_Bounding,BOUNDING,교차기동
+Stance_Rush,SPRINT,스프린트
+Stance_Standard,STANDARD,표준
+Support_A10SectionStrike,A-10 Flight Strafe,A-10 편대 소사
+Support_A10Strike,A-10 Close Air Support,A-10 근접지원
+Support_AC130Gunship,AC-130J GUNSHIP,AC-130J 건십
+Support_AirStrike,AIR STRIKE,항공 폭격
+Support_Artillery_Auto,AUTOMATIC FIRE PLAN,자동 화력계획
+Support_Artillery_Clear,CLEAR PLANS,계획 초기화
+Support_Artillery_Direct,6-ROCKET SALVO,6발 일제 표적
+Support_Artillery_Hold,HOLD FIRE,사격 대기
+Support_Artillery_MenuState_Format,ROCKETS {0} | PLANS {1}/2,로켓 {0} | 계획 {1}/2
+Support_Artillery_Single,SINGLE ROCKET,단발 직접 표적
+Support_BradleySupport,Bradley Fire Support,브래들리 화력지원
+Support_CarrierStrike,F/A-18F strike,F/A-18F 공습
+Support_CasSectionStrike,F-15 Flight Strike,F-15 편대 강습
+Support_Cooldown_Format,{0}s,{0}s
+Support_F15EStrike,F-15E strike,F-15E 공습
+Support_F35BStrike,F-35B STRIKE,F-35B 공습
+Support_Gunship,GUNSHIP,공격헬기
+Support_Header,SUPPORT,지원
+Support_Howitzer,Howitzer,야포 사격
+Support_Howitzer_MenuState_Format,SHELLS {0} | GUNS {1},포탄 {0} | 포 {1}문
+Support_Howitzer_Mrsi,Time on Target,동시탄착 (MRSI)
+Support_Howitzer_Single,Single Round,단발 사격
+Support_Howitzer_Volley,Fire for Effect (3),효력사 (3발)
+Support_HumveeConvoy,CONVOY (HUMVEE),험비 호송대
+Support_LavSupport,LAV (TROOP CARRIER),LAV 병력수송
+Support_MQ9Reaper,MQ-9 REAPER,MQ-9 리퍼
+Support_Mortar,Mortar,박격포 사격
+Support_Mortar_MenuState_Format,ROUNDS {0} | TUBES {1},포탄 {0} | 박격포 {1}문
+Support_Mortar_Single,Single Round,단발 사격
+Support_Mortar_Volley_Format,Volley ({0} rds),일제 사격 ({0}발)
+Support_NapalmStrike,F-15 Napalm Strike,F-15 네이팜 폭격
+Support_Napalm_Code,NP,NP
+Support_NavalGunfire,Naval Gunfire,함포 지원
+Support_RappelAssault,BlackHawk Rappel Assault,블랙호크 라펠 강습
+Support_Rappel_Code,RP,RP
+Support_Rappel_Key,Ctrl+F4,Ctrl+F4
+Support_Rappel_Normal,Regular · Rappel (2 squads of 4),일반부대 · 일반 라펠 (4명 × 2분대)
+Support_Rappel_Special,Special Forces · Fast Rappel (2 squads of 4),특수부대 · 패스트 라펠 (4명 × 2분대)
+Support_RocketArtillery,ROCKET ARTILLERY,장거리 정밀화력
+Support_State_Automatic,AUTOMATIC FIRE PLAN,자동 화력계획
+Support_State_Destroyed,BATTERY DESTROYED,포대 파괴됨
+Support_State_Firing,FIRING SALVO,일제사격 중
+Support_State_HoldFire,HOLD FIRE,사격 대기
+Support_State_Inbound,INBOUND {0}s,INBOUND {0}s
+Support_State_OutOfAmmo,OUT OF AMMO,잔탄 없음
+Support_State_PickDropZone,Pick drop zone · Left-click confirm · Right-click cancel,투입 지점 지정 · 좌클릭 확정 · 우클릭 취소
+Support_State_PickFirePlan,PICK FIRE PLAN ZONE,화력계획 구역 지정
+Support_State_PickTarget,Pick target · Left-click confirm · Right-click cancel,표적 지정 · 좌클릭 확정 · 우클릭 취소
+Support_State_Ready,READY,READY
+Support_TankSupport,ARMOR (TANK),기갑 지원
+Support_ThermobaricBarrage,Thermobaric Rocket Barrage,열압력 로켓 포격
+Support_ThermobaricBarrage_Code,TR,TR
+Support_ThermobaricStrike,F-15 Thermobaric Strike,F-15 열압력 폭격
+Support_Thermobaric_Code,TB,TB
+Support_Tomahawk,Tomahawk,순항미사일
+Support_Transport,TRANSPORT (MH-6M),수송 (MH-6M)
+Support_TransportSupport,TRANSPORT SUPPORT,수송 지원
+TankFire_Blocked,"Blocked by range, gun angle or obstruction · check red marker",사거리·사격각 또는 장애물로 사격 불가 · 빨간 표식 확인
+TankFire_Conserve,CANNON · CONSERVE,주포 · 절약
+TankFire_Free,CANNON · FREE FIRE,주포 · 자유사격
+TankFire_Manual,CANNON · MANUAL,주포 · 수동
+TankFire_Mixed,CANNON · MIXED,주포 · 혼합 정책
+TankFire_PolicyHint,"Click: Conserve → Manual → Free fire. Conserve fires at clusters or elites; forced AP targets elites only. Point fire uses one selected round (Auto uses HE), then resumes this policy. Fire sectors and ammo selection are separate.","클릭: 절약 → 수동 → 자유사격. 절약은 밀집 무리·특수 좀비에만 발사하며, 철갑탄 고정 시 특수 좀비에만 발사합니다. 지점 사격은 선택 탄종 1발(자동 탄종은 HE), 이후 현재 정책 유지. 사격 구역과 탄종 선택은 별도입니다."
+TankFire_PolicyKey,,
+UIV3_Basic,Orders,기본
+UIV3_Fire,Fire,화력
+UIV3_Flight,Flight,비행
+UIV3_MinimapLegend,N ↑ NORTH UP · □ CAMERA VIEW · ▲ HEADING,N ↑ 북쪽 고정 · □ 카메라 시야 · ▲ 방향
+UIV3_MultiState,MULTIPLE UNITS · see cards for individual orders,다중 선택 · 개별 상태는 카드에서 확인
+UIV3_NoSelection,SELECT A UNIT,부대를 선택하세요
+UIV3_NorthLocked,N ↑  NORTH UP,N ↑  북쪽 고정
+UIV3_OrderHint,Position orders: use the shown key + field click,위치 명령은 표시된 키 + 전장 클릭
+UIV3_SelectHint,Select a card or a unit in the field.,카드 또는 전장의 부대를 클릭해 지휘합니다.
+UIV3_SelectionFormat,{0} SQUADS · {1} VEHICLES,분대 {0} · 장비 {1}
+UIV3_Supply,Supply,보급
+UIV3_VehicleState,SELECTED VEHICLES · orders and status,선택 장비 · 명령과 상태 확인
+V6_Chip_Direct,Direct,직접
+V6_Chip_Down_Crashed,Down,추락
+V6_Chip_Down_Immobilized,Disabled,무력화
+V6_Chip_Down_Wiped,Wiped,전멸
+V6_Chip_Follow_Tip,Follow with camera,카메라 추적
+V6_Chip_PipCount_Format,{0}/{1},{0}/{1}
+V6_Detail_AlliedCommand,Allied · HQ command — no orders,협력 부대 · 본부 지휘 — 명령할 수 없음
+V6_Detail_AlliedTitle_Format,{0} garrison · {1},{0} 수비대 · {1}명
+V6_Detail_Arming_Format,Pick a point · {0} · RMB/Esc to cancel,지점 지정 중 · {0} · 우클릭/Esc 취소
+V6_Detail_BuildMode,Build mode · see the build panel on the right,건설 모드 · 상세 대신 오른쪽 건설 패널
+V6_Detail_ControlsHelp,Controls,조작법
+V6_Detail_InfantrySupply_Format,Infantry ammo supply {0}/{1},보병 탄약 보급 {0}/{1}
+V6_Detail_MixHint,Slot numbers = units that will obey,명령 칸의 숫자 = 적용되는 부대 수
+V6_Detail_NoSelection,No selection · click a card · drag a box · keys 1–0,선택 없음 · 카드 클릭 · 드래그 박스 · 숫자키 1~0
+V6_Detail_TabFallback_Format,No {0} tab → Basic · restores on return,{0} 탭 없음 → 기본 · 돌아오면 복원
+V6_Detail_Units_Format,{0} units,{0}개 부대
+V6_Gate_Detail_Group_Format,{0} gates,문 {0}개
+V6_Gate_Detail_Infantry_Format,Foot gate · {0} slots,보행문 {0}칸
+V6_Gate_Detail_Sub_Format,HP {0}/{1},HP {0}/{1}
+V6_Gate_Detail_Vehicle_Format,Vehicle gate · {0} slots,차량문 {0}칸
+V6_Gate_Notice_Lockdown_Format,Lockdown: closing {0} gates,봉쇄: 문 {0}곳을 닫습니다
+V6_Gate_Notice_Release_Format,Lockdown lifted: {0} gates on Auto,봉쇄 해제: 문 {0}곳 자동
+V6_Gate_State_AutoClosed,Auto · closed,자동 · 닫힘
+V6_Gate_State_AutoOpen,Auto · open,자동 · 열림
+V6_Gate_State_ForcedClosed,Forced closed · locked,강제 닫힘 · 잠김
+V6_Gate_State_ForcedOpen,Forced open,강제 열림
+V6_Gate_State_Mixed_Format,{0} gates · mixed modes,문 {0}개 · 모드 섞임
+V6_Gate_State_Summoning,Closing — nearby friendlies moving inside,닫는 중 — 근처 아군 안으로 이동
+V6_Gate_Tip_LockdownAll,Close and lock every gate on the site · back to Auto if all are locked,부지의 모든 문을 닫고 잠급니다 · 모두 잠겨 있으면 자동으로
+V6_Group_AllClear,All clear,이상 없음
+V6_Group_Caution_Format,▲{0} low,▲{0} 부족
+V6_Group_RiskCaution_Format,■{0} action · ▲{1},■{0} 조치 · ▲{1}
+V6_Group_Risk_Format,■{0} action,■{0} 조치
+V6_Missile_Mixed,Missiles,미사일
+V6_Missile_Shturm,Shturm,쉬투름
+V6_Mode_Direct_Format,DIRECT · {0},직접 조작 · {0}
+V6_Pilot_Cockpit,Cockpit,조종석
+V6_Pilot_CommanderHint,TAB Direct control,TAB 직접 조작
+V6_Pilot_Direct,Direct,직접 조작
+V6_Pilot_Durability,Armor,내구
+V6_Pilot_Exit_Crashed_Format,{0} crashed — back to command,{0} 추락 — 지휘로 복귀했습니다
+V6_Pilot_Exit_Destroyed_Format,{0} destroyed — back to command,{0} 파괴 — 지휘로 복귀했습니다
+V6_Pilot_Exit_Immobilized_Format,{0} disabled — back to command,{0} 무력화 — 지휘로 복귀했습니다
+V6_Pilot_Exit_Killed_Format,{0} killed — back to command,{0} 전사 — 지휘로 복귀했습니다
+V6_Pilot_Exit_Lost_Format,{0} lost — back to command,{0} 조작 불가 — 지휘로 복귀했습니다
+V6_Pilot_Fuel,Fuel,연료
+V6_Pilot_Hanging,Load,매달림
+V6_Pilot_Hp,HP,HP
+V6_Pilot_InfantrySub_Format,{0} · {1},{0} · {1}
+V6_Pilot_MainGun,Main gun,주포
+V6_Pilot_NoTargetHint,"Select a unit, then TAB",조작할 부대를 고른 뒤 TAB
+V6_Pilot_Ordnance_Format,{0} {1}/{2},{0} {1}/{2}
+V6_Pilot_ReleaseHint,TAB Back to command,TAB 지휘로 복귀
+V6_Pilot_ReloadKey,R Reload,R 재장전
+V6_Pilot_Reloading,Reloading,재장전 중
+V6_Pilot_Reserve_Format,MAG {0},탄창 {0}
+V6_Pilot_Seat,Player,플레이어
+V6_Pilot_SeatLeader,Leader,분대장
+V6_Pilot_SeatMember,Member,분대원
+V6_Pilot_SquadFollowing,Following,추종
+V6_Pilot_Squad_Format,Squad {0} · {1},분대원 {0} · {1}
+V6_Pilot_Stamina,Stamina,스태미나
+V6_Pilot_TargetHint_Format,TAB Take control of {0},TAB {0} 직접 조작
+V6_Reason_AiOnly,AI-controlled unit,AI 전용 부대
+V6_Reason_AirUnsupported,Not for aircraft,항공 미지원
+V6_Reason_AirUseFlightFormation,Aircraft use Flight › Formation,비행 탭의 편대 사용
+V6_Reason_AirUseOrbit,Aircraft use Orbit instead,항공은 선회 경계 사용
+V6_Reason_AlliedCommand,Allied unit — HQ holds command,협력 부대 — 본부가 지휘한다
+V6_Reason_BuildMode,Build mode active,건설 모드 중
+V6_Reason_DefenseOnly,Defences only,방어시설만 골랐을 때 씀
+V6_Reason_DirectControl,Unavailable in direct control,직접 조작 중 — 월드 지점을 고를 수 없음
+V6_Reason_DirectFireOnly,Machine-gun and CIWS posts only,기관총 · CIWS 진지 전용
+V6_Reason_FormationNeedsTwo,Formations need 2+ aircraft,편대 대형은 항공 2기 이상일 때
+V6_Reason_GateOnly,Gates only,문을 선택했을 때만
+V6_Reason_HeliOnly,Helicopters only,헬기 전용
+V6_Reason_HeliUseWeapons,Helicopters use their weapon buttons,헬기는 무장 버튼 사용
+V6_Reason_IndirectFireOnly,Mortars and howitzers only,박격포 · 야포 전용
+V6_Reason_LightOnly,Searchlights only,탐조등 전용
+V6_Reason_NoGrenade,No grenades,유탄 없음
+V6_Reason_NoRappel,No fast-rope gear,레펠 장비 미장착
+V6_Reason_NoSling,No cargo hook (no sling),화물 훅 미장착(슬링 불가)
+V6_Reason_NoTroopSeats,No passenger seats,탑승 좌석 없음
+V6_Reason_NoWeapon,No weapons,무장 없음
+V6_Reason_NotFitted,Weapon not fitted,해당 무장 미탑재
+V6_Reason_OrbitSupport,"Orbit support aircraft only take orbit point, radius and RTB",선회 지원기는 선회 지점 · 반경 · 귀환만 받습니다
+V6_Reason_OrbitSupportOnly,Orbit support aircraft only,선회 지원기 전용
+V6_Reason_PossessBusy,Busy — boarded or on a task,지금은 조작 불가 — 탑승 · 작업 중
+V6_Reason_PossessLater,Coming in a later phase,다음 단계에서 지원
+V6_Reason_SingleUnitOnly,Select a single unit,한 부대만 선택하면 가능
+V6_Reason_SquadOnly,Squads only,분대 전용
+V6_Reason_StrikeBusy,Order in progress,명령 수행 중
+V6_Reason_StrikeNoFlight,No flight attacking,공격 중인 편대 없음
+V6_Reason_StrikeNoOrdnance,Out of ordnance,잔탄 없음
+V6_Reason_StrikeNoZone,Draw an area strike first to set the zone,구역폭격을 먼저 그어 구역을 정하세요
+V6_Reason_StrikePatternKind,Area bombing · strafe only,구역폭격 · 소사에서만
+V6_Reason_SupplyTruckOnly,Supply trucks only,보급 트럭 전용
+V6_Reason_SupportAircraft,Support aircraft do not take unit orders,지원 항공기는 부대 명령을 받지 않습니다
+V6_Reason_SupportTargeting,Support targeting active,지원 표적 지정 중
+V6_Reason_TankOnly,Tanks only,전차 전용
+V6_Reason_TankUseShell,Tanks use Shell instead,전차는 탄종 사용
+V6_Reason_TruckAiOnly,Trucks are AI-driven only,트럭은 AI 전용
+V6_Reason_Unsupported,Not supported by this selection,선택 대상 미지원
+V6_Reason_VehicleOnly,Ground vehicles only,차량 전용
+V6_Roster_Attention_Format,■ Needs action {0},■ 조치 필요 {0}
+V6_Roster_Attention_Tip,"Selects units with a badge (fuel, ammo, wounded, crew, hanging load, waiting to enter) one by one, most urgent first. Collapsed groups open.",배지(연료 · 잔탄 · 부상 · 승무원 · 매달림 · 진입 대기)가 있는 부대를 위험부터 차례로 선택합니다. 접힌 그룹은 펼칩니다.
+V6_Roster_ClearGroup_Format,Ungroup {0},그룹 {0} 해제
+V6_Roster_ClearNamed_Format,Ungroup {0},{0} 해제
+V6_Roster_Deck_Count_Format,{0} ×{1},{0} ×{1}
+V6_Roster_Deck_Sub_Format,Rdy {0}·Rearm {1},준비 {0}·재무장 {1}
+V6_Roster_Deck_Title,Deck,갑판
+V6_Roster_Expand_Tip,Expand group,그룹 펼치기
+V6_Roster_Fold_Tip,Fold group,그룹 접기
+V6_Roster_GroupName_Format,Group {0},그룹 {0}
+V6_Roster_GroupRename_Tip,Right-click to rename,우클릭 이름 바꾸기
+V6_Roster_SelectGroup_Format,Select group {0},그룹 {0} 전체
+V6_Roster_SelectNamed_Format,Select {0},{0} 전체
+V6_Roster_Selected_Format,Selected {0},선택 {0}
+V6_Roster_TabAdd_Tip,New tab (starts with the selection and opens editing),새 탭(선택한 부대를 넣고 편집을 엽니다)
+V6_Roster_TabAir_Format,Air {0},항공 {0}
+V6_Roster_TabAll_Format,All {0},전체 {0}
+V6_Roster_TabCustom_Format,{0} {1},{0} {1}
+V6_Roster_TabCustom_Tip,Click again to edit · right-click to rename · × to delete,다시 누르면 편집 · 우클릭 이름 바꾸기 · × 탭 지우기
+V6_Roster_TabEdit,Edit,편집
+V6_Roster_TabEditDone,Done,완료
+V6_Roster_TabEditHint_Format,Editing {0} · click cards to add or remove,{0} 편집 · 카드를 눌러 넣고 빼기
+V6_Roster_TabEdit_Tip,Shows every unit. Click a card to add it to or remove it from this tab,"모든 부대를 보이고, 카드를 눌러 이 탭에 넣거나 뺍니다"
+V6_Roster_TabGround_Format,Ground {0},지상 {0}
+V6_Roster_TabGroupToggle_Tip,Click to add or remove the whole group,누르면 이 그룹을 모두 넣거나 뺍니다
+V6_Roster_TabNew_Format,Tab {0},탭 {0}
+V6_Roster_TabPut,Add selected,선택 넣기
+V6_Roster_TabTake,Remove selected,선택 빼기
+V6_Roster_Title_Format,Roster {0},편성 {0}
+V6_Roster_UnitCount_Format,{0} units,{0} 부대
+V6_Slot_Advance,Advance,전진
+V6_Slot_AttackMove,Atk-Move,공격이동
+V6_Slot_AttackOrbit,Atk-Orbit,공격 선회
+V6_Slot_Defend,Defend,방어
+V6_Slot_DefenseAutoSector,Auto,자동 사계
+V6_Slot_DefenseCease,Cease,임무 중지
+V6_Slot_DefenseHoldFire,Hold,사격 중지
+V6_Slot_DefenseLightAim,Aim light,조명 지정
+V6_Slot_DefenseLightAuto,Auto sweep,자동 수색
+V6_Slot_DefenseNarrow,Narrow,사계 좁게
+V6_Slot_DefenseSector,Sector,사계 지정
+V6_Slot_DefenseSingle,Single,단발 지정
+V6_Slot_DefenseVolley,Volley,효력사
+V6_Slot_DefenseWiden,Widen,사계 넓게
+V6_Slot_Dismount,Dismount,하차
+V6_Slot_FirePolicy,Policy,사격 정책
+V6_Slot_FireZone,Zone,사격구역
+V6_Slot_FireZoneClear,Clear,구역 해제
+V6_Slot_Follow,Follow,추종
+V6_Slot_Formation,Formation,편대
+V6_Slot_FormationColumn,Column,종대
+V6_Slot_FormationLine,Line,횡대
+V6_Slot_FormationMove,Form-Move,대형이동
+V6_Slot_FormationSpread,Spacing,편대 간격
+V6_Slot_FormationV,V Form,V형
+V6_Slot_GateAuto,Auto,자동
+V6_Slot_GateClose,Close,닫기
+V6_Slot_GateLockdownAll,Lockdown,전체 봉쇄
+V6_Slot_GateOpen,Open,열기
+V6_Slot_GrenadeVolley,Grenade,유탄 사격
+V6_Slot_Guard,Guard,경계
+V6_Slot_Hellfire,Hellfire,헬파이어
+V6_Slot_Hold,Hold,고수
+V6_Slot_Land,Land,착륙
+V6_Slot_Load,Load,적재
+V6_Slot_MachineGun,MG,기관총
+V6_Slot_MainGunShell,Shell,주포 탄종
+V6_Slot_Orbit,Orbit,선회 경계
+V6_Slot_OrbitDirection,Orbit Dir,선회 방향
+V6_Slot_OrbitPoint,Set Orbit,선회 지정
+V6_Slot_OrbitRadiusDown,Radius −,반경 −
+V6_Slot_OrbitRadiusUp,Radius +,반경 +
+V6_Slot_OrbitReturn,RTB,귀환
+V6_Slot_PointFire,Point,지점 사격
+V6_Slot_Possess,Control,직접 조작
+V6_Slot_PossessRelease,Release,조작 해제
+V6_Slot_QueueMove,Queue,예약이동
+V6_Slot_Rappel,Fast-rope,레펠
+V6_Slot_Refuel,Refuel,주유
+V6_Slot_RefuelCancel,Cancel,주유 취소
+V6_Slot_RefuelTarget,Target %,목표 %
+V6_Slot_Rocket,Rockets,로켓
+V6_Slot_Secondary,Sidearm,부무장
+V6_Slot_Stop,Stop,정지
+V6_Slot_StrikeAuto,Auto,자동
+V6_Slot_StrikeBombing,Bombing,폭격
+V6_Slot_StrikeColumns,Columns,종대
+V6_Slot_StrikeLine,Line,일렬
+V6_Slot_StrikeMissile,Missile,미사일
+V6_Slot_StrikePrecision,Precision,정밀타격
+V6_Slot_StrikeReturn,RTB,복귀
+V6_Slot_StrikeStrafe,Strafe,소사
+V6_Slot_TakeOff,Take Off,이륙
+V6_Slot_Tow,TOW,TOW
+V6_Slot_Unload,Unload,하역
+V6_Strike_AgmFormat,AGM {0},유도탄 {0}
+V6_Strike_Area,Area,구역폭격
+V6_Strike_AutoOff,"Auto zone bombing off · when on, repeats inside the drawn zone only",자동 구역 폭격 꺼짐 · 켜면 그어 둔 구역 안에서만 반복
+V6_Strike_AutoOn,Auto zone bombing on · repeats inside the drawn zone only,자동 구역 폭격 켜짐 · 그어 둔 구역 안에서만 반복
+V6_Strike_FlightStatusFormat,Bombs {0} · Guided {1} · Strafe {2} · Missiles {3} · Fuel {5}% · RTB in {4}s,폭탄 {0} · 유도폭탄 {1} · 소사 {2} · 유도탄·로켓 {3} · 연료 {5}% · RTB까지 {4}초
+V6_Strike_Precision,Precision,정밀타격
+V6_Strike_StationFormat,Flight · attacking {0}s · click a slot to order,편대 공격 중 {0}초 · 칸을 눌러 명령
+V6_Strike_TabHint,Flight order · Tab or click a slot to switch,편대 명령 · Tab 또는 칸을 눌러 전환
+V6_Strike_ToArea,Click for area bombing,누르면 구역폭격
+V6_Strike_ToPrecision,Click for precision,누르면 정밀타격
+V6_Support_Egress,Egress,복귀
+V6_Support_Egress_Rtb_Format,RTB {0}:{1:00},복귀 RTB {0}:{1:00}
+V6_Support_Engaged,Engaged,교전
+V6_Support_Engaged_Format,Engaged {0}s,교전 {0}초
+V6_Support_Firing,Firing,사격 중
+V6_Support_FiringLeft_Format,Firing · {0} left,사격 중 · 잔여 {0}
+V6_Support_Firing_Format,Firing · {0} rds,사격 중 · 탄 {0}
+V6_Support_InFlight,In flight,비행 중
+V6_Support_InFlightLeft_Format,In flight · {0} left,비행 중 · 잔여 {0}
+V6_Support_Inbound,Inbound,진입
+V6_Support_Inbound_Eta_Format,Inbound ETA {0}:{1:00},진입 ETA {0}:{1:00}
+V6_Support_More_Format,+{0},+{0}
+V6_Support_Name_Howitzer,Howitzers,야포
+V6_Support_Name_Mortar,Mortars,박격포
+V6_Support_Name_Naval,Naval gunfire,함포
+V6_Support_Name_Rocket,Rocket artillery,다연장 로켓
+V6_Support_Name_Tomahawk,Tomahawk,순항미사일
+V6_Support_Requested,Requested,요청
+V6_Support_Requested_Format,Requested · {0} rds,요청 · 탄 {0}
+V6_Tab_Basic,Basic,기본
+V6_Tab_Fire,Fire,화력
+V6_Tab_Flight,Flight,비행
+V6_Tab_Supply,Supply,보급
+V6_Tip_Partial_Format,{0}/{1} apply,{0}/{1} 적용
+V6_Tip_Unavailable,Unavailable,사용 불가
+V6_Unit_Aircraft,Aircraft,항공기
+V6_Unit_GroundVehicle,Ground vehicle,지상 차량
+V6_Unit_Helicopter,Helicopter,헬기
+V6_Vehicle_A10C,A-10C Thunderbolt II,A-10C 선더볼트 II
+V6_Vehicle_AH1Z,AH-1Z Viper,AH-1Z 바이퍼
+V6_Vehicle_AH64E,AH-64E Apache,AH-64E 아파치
+V6_Vehicle_AH6M,AH-6M Little Bird,AH-6M 리틀버드
+V6_Vehicle_Bradley,Bradley,브래들리
+V6_Vehicle_CH47F,CH-47F Chinook,CH-47F 치누크
+V6_Vehicle_F15,F-15 Eagle,F-15 이글
+V6_Vehicle_F35B,F-35B Lightning II,F-35B 라이트닝 II
+V6_Vehicle_FA18F,F/A-18F Super Hornet,F/A-18F 슈퍼호넷
+V6_Vehicle_Humvee,Humvee,험비
+V6_Vehicle_Jeep,Jeep,지프
+V6_Vehicle_K9,K9 SPH,K9 자주포
+V6_Vehicle_LAV,LAV,LAV
+V6_Vehicle_MH60S,MH-60S Knighthawk,MH-60S 나이트호크
+V6_Vehicle_MH6M,MH-6M Little Bird,MH-6M 리틀버드
+V6_Vehicle_Mi24P,Mi-24P Hind,Mi-24P 하인드
+V6_Vehicle_Tank,Tank,전차
+V6_Vehicle_Truck,Truck,트럭
+V6_Vehicle_UH1Y,UH-1Y Venom,UH-1Y 베놈
+V6_Vehicle_UH60M,UH-60M Black Hawk,UH-60M 블랙호크
+V6_Vehicle_UH60M_Supply,Supply Black Hawk,보급 블랙호크
+VehicleFire_AimHint,LMB confirm · RMB / ESC cancel,좌클릭 확정 · 우클릭 / ESC 취소
+VehicleFire_Aiming,VEHICLES {0} · SETTING SECTOR,차량 {0}대 · 사격 구역 지정 중
+VehicleFire_Braking,VEHICLES {0} · SECTOR SET / BRAKING,차량 {0}대 · 구역 고정 / 정차 중
+VehicleFire_Clear,Clear sector,구역 해제
+VehicleFire_ClearKey,SHIFT+Y,SHIFT+Y
+VehicleFire_Fixed,VEHICLES {0} · SECTOR SET,차량 {0}대 · 사격 구역 고정
+VehicleFire_Idle,VEHICLES {0} · FREE FIRE,차량 {0}대 · 자유 사격
+VehicleFire_IdleHint,Vehicle fire orders · Set sector to stop / Moving clears sector,차량 사격 명령 · 구역 지정 시 정차 / 이동하면 고정 해제
+VehicleFire_Manual,VEHICLES {0} · DIRECT TARGET ORDERS,차량 {0}대 · 직접 표적 사격
+VehicleFire_Mixed,VEHICLES {0} · {1} SECTORS SET,차량 {0}대 · {1}대 구역 고정
+VehicleFire_Point,Point shot,지점 1발
+VehicleFire_PointAiming,VEHICLES {0} · AIMING AT GROUND,차량 {0}대 · 사격 지점 지정 중
+VehicleFire_PointKey,Q,Q
+VehicleFire_Set,Set fire sector,사격 구역 지정
+VehicleFire_SetKey,Y,Y
+VehicleFire_Tow,TOW · {0} rounds · ready in {1}s,TOW 사격 · {0}발 · 대기 {1}초
+VehicleFire_TowAiming,Choose TOW impact point · {0} rounds,TOW 타격 지점 선택 · {0}발
+VehicleFire_TowKey,Shift+Q,Shift+Q
+VehicleFire_TowPending,TOW braking / aiming · {0} rounds,TOW 정차·조준 중 · {0}발
+Weapon_Flamethrower,Flamethrower,화염방사기
+Weapon_TankFlamethrower,Tank Flamethrower,전차 화염방사기
+Wheel_FormationGroup,FORMATION,편대
+Wheel_StanceGroup,STANCE,태세
+air.aim,Select a point · LMB confirm · RMB/Esc cancel,지점 선택 · LMB 확정 · RMB/Esc 취소
+air.ammo,STORES  {3} {0} · Rockets {1}  |  Salvo up to {2},잔량  {3} {0} · 로켓 {1} |  1회 살보 최대 {2}발
+air.approach,DESIGNATED ATTACK · APPROACHING,지정공격 · 사거리까지 접근 중
+air.attacking,DESIGNATED ATTACK · AIMING / ENGAGING,지정공격 · 조준/교전 중
+air.auto,AUTO · GUNS,자동 · 기관총
+air.clear,Shift+Y  CLEAR SECTOR,Shift+Y  사격존 해제
+air.climbing,Climbing,이륙 중
+air.clockwise,GUARD ORBIT · CLOCKWISE,경계 선회 · 시계 방향
+air.column,FORMATION · COLUMN,편대 · 종대
+air.counterclockwise,GUARD ORBIT · COUNTERCLOCKWISE,경계 선회 · 반시계 방향
+air.descending,Descending,착륙 중
+air.fixed,Automatic fire restricted to the fixed ground sector,자동공격은 지정된 지상 사격존 안으로 제한
+air.free,Auto uses guns · {0}/rockets require designation,자동은 기관총만 · {0}/로켓은 지정공격
+air.guard,ORBIT GUARD,지점 선회 경계
+air.guardHint,Click: orbit at default radius · Drag: length = radius · RMB: cancel · −/=: radius while orbiting,클릭: 기본 반경으로 선회 · 드래그: 끈 길이 = 반경 · 우클릭: 취소 · −/=: 선회 중 반경
+air.gun,Q  GUN TARGET,Q  기관총 표적
+air.hellfire,Shift+Q  HELLFIRE ×1,Shift+Q  헬파이어 1발
+air.hint,"RMB move · drag arrival heading · Shift+RMB queue
+Cyan: flight plan/altitude · Amber: automatic fire sector","RMB 이동 · 드래그 도착 방향 · Shift+RMB 경유지
+청록: 공중 경로/고도 · 황색: 자동사격 구역"
+air.hold,H  HOLD HOVER,H  정지 호버
+air.invalid,No target / weapon unavailable / no command authority,표적 없음 / 무장 대기 / 명령 불가
+air.land,Land,착륙
+air.landed,Landed,지상 대기
+air.landingBlocked,Landing aborted: obstructed,착륙 중단: 공간 부족
+air.landingHint,Click: land · Drag: heading · RMB: cancel,클릭: 착륙 · 드래그: 기수 방향 · 우클릭: 취소
+air.line,FORMATION · LINE,편대 · 횡대
+air.manual,DESIGNATED ONLY,지정공격만
+air.mixed,MIXED FIRE POLICY,사격 정책 혼합
+air.noPilot,Pilot required / direct control active,조종사 탑승 필요 / 직접 조종 중
+air.orbitAttack,Target orbit,표적 선회
+air.orbitTravel,Travel orbit,이동 선회
+air.radius,Orbit radius {0} m,선회 반경 {0} m
+air.radiusNeedsOrbit,Only while orbiting — use Orbit first,선회 중일 때만 — 선회 경계로 먼저 선회
+air.rockets,ROCKET SALVO,로켓 지점 살보
+air.sector,Y  FIRE SECTOR,Y  사격존 지정
+air.spacing.close,Close,밀집
+air.spacing.normal,Normal,보통
+air.spacing.open,Open,산개
+air.spacing.wide,Wide,넓게
+air.spread,SPACING · {0} (right-click = tighter),편대 간격 · {0} (우클릭 = 좁게)
+air.takeoff,Take off,이륙
+air.title,AIR {0}  |  {1} m/s  ·  AGL {2} m  ·  QUEUE {3},항공 {0}대  |  {1} m/s  ·  AGL {2} m  ·  예약 {3}
+air.v,FORMATION · V,편대 · V형
+carrier.air.chip.attack,Strike,폭격
+carrier.air.chip.egress,RTB,귀환
+carrier.air.chip.ingress,Inbound,진입
+carrier.air.chip.launching,Launch,발진
+carrier.air.chip.missing,Lost,손실
+carrier.air.chip.ready,Ready,대기
+carrier.air.chip.rearming,Rearm,재무장
+carrier.air.chip.recovering,Landing,착륙
+carrier.air.detail.flight_format,Flight {0},편대 {0}
+carrier.air.detail.loadout_format,Loadout {0},무장 {0}
+carrier.air.detail.missing,Not in the operation records,작전 기록에 없는 기체
+carrier.air.detail.note,Support aircraft · sorties from the strike card or carrier view,지원 항공기 · 출격은 공습 카드와 항모 화면에서
+carrier.air.detail.ready,Ready · can launch now,출격 대기 · 즉시 출격 가능
+carrier.air.detail.rearming_format,Rearming {0}:{1:00},재무장 {0}:{1:00}
+carrier.air.detail.title_format,FA-{0} · F/A-18F,FA-{0} · F/A-18F
+carrier.air.out,Out,출격
+carrier.air.ready,Ready,대기
+carrier.air.rearming,Rearming,재무장
+carrier.air.title,Air wing F/A-18F,함재기 F/A-18F
+carrier.air.total,Total,보유
+carrier.alert.btn_cancel,Stand down,긴급 출격 해제
+carrier.alert.btn_set,Set Alert 5,Alert 5 걸기
+carrier.alert.none_format,No scramble standby · launch {0}s,긴급 출격 대기 없음 · 발진 {0}초
+carrier.alert.preparing_format,Scramble preparing · {0}s,긴급 출격 준비 중 · {0}초
+carrier.alert.ready_format,Scramble ready · launch {0}s,긴급 출격 대기 완료 · 발진 {0}초
+carrier.btn.close,Close,닫기
+carrier.btn.open,Carrier,항모
+carrier.loadout.title_format,Loadout (swap {0}s),무장 (교체 {0}초)
+carrier.lock.available,Closes this view; the main view follows the carrier,이 화면을 닫고 주 화면이 항모를 따라갑니다
+carrier.lock.btn_release,Unlock,고정 해제
+carrier.lock.btn_set,Lock view,시야 고정
+carrier.lock.on,Main view is following the carrier,주 화면이 항모를 따라가는 중
+carrier.lock.unavailable,Carrier is outside the battlefield · cannot lock,항모가 전장 지형 밖 · 고정 불가
+carrier.marker.kilometres_format,{0:0.0} km,{0:0.0} km
+carrier.marker.metres_format,{0} m,{0} m
+carrier.rearm.name_format,Rearming ×{0},재무장 ×{0}
+carrier.rearm.time_format,Ready in {0}:{1:00},{0}:{1:00} 뒤 대기
+carrier.sortie.attack,Over target,폭격 중
+carrier.sortie.egress_format,Returning {0}:{1:00},귀환 {0}:{1:00}
+carrier.sortie.ingress_format,Inbound {0}:{1:00},진입 {0}:{1:00}
+carrier.sortie.launching_format,Launching {0}:{1:00},발진 {0}:{1:00}
+carrier.sortie.name_format,Flight {0} ×{1},편대 {0} ×{1}
+carrier.sortie.none,No flights out,출격 중인 편대 없음
+carrier.sortie.recovering_format,Landing {0}:{1:00},항모 착륙 {0}:{1:00}
+carrier.sortie.title,Flights,편대
+carrier.state.heading_format,{0} · Hdg {1:000},{0} · 침로 {1:000}
+carrier.state.moored,Moored,정박
+carrier.state.stopped,Holding at sea,해상 정지
+carrier.state.underway,Underway,항해 중
+carrier.theater.civilians_format,Civilians under protection {0},보호 중 시민 {0}
+carrier.theater.personnel_format,Combat personnel {0},전체 전투 인원 {0}
+carrier.theater.title,Supplies (not embarked),물자 (항모 탑승 아님)
+carrier.view.catapults,Catapults,캐터펄트
+carrier.view.full,Full,전체
+carrier.view.hint,WASD · drag = move · wheel = zoom · middle-drag = rotate,WASD · 끌기 = 이동 · 휠 = 확대 · 가운데 버튼 끌기 = 회전
+carrier.view.landing,Landing area,항모 착륙 구역
+cutscene.skip.hold,Hold Esc to skip,Esc 길게 눌러 건너뛰기
+fleet.air.onstation_format,Attacking {0}s · {1} ready,공격 중 {0}초 · 준비 {1}기
+fleet.air.onstation_time_format,Attacking {0}:{1:00} · {2} ready,공격 중 {0}:{1:00} · 준비 {2}기
+fleet.air.relocating_format,Rebasing {0}:{1:00},기지 이동 {0}:{1:00}
+fleet.btn.fire,Fire,사격
+fleet.btn.launch,Launch,발사
+fleet.btn.sortie,Sortie,출격
+fleet.carrier.alert_preparing_format,Alert prep {0}s · {1}/{2},긴급 준비 {0}초 · {1}/{2}기
+fleet.carrier.alert_ready_format,Alert 5 · {0}/{1},긴급 대기 · {0}/{1}기
+fleet.carrier.inbound_format,Inbound {0}:{1:00} · {2} ready,진입 {0}:{1:00} · 준비 {2}기
+fleet.carrier.overtarget_format,Attacking · {0} ready,공격 중 · 준비 {0}기
+fleet.carrier.ready_format,Ready {0}/{1},준비 {0}/{1}기
+fleet.carrier.rearming,Rearming,재무장
+fleet.carrier.returning_format,RTB {0}:{1:00} · {2} ready,귀환 {0}:{1:00} · 준비 {2}기
+fleet.gun.ready_format,{0} rounds,포탄 {0}발
+fleet.name.a10,A-10 CAS,A-10 근접지원
+fleet.name.ac130,AC-130J Gunship,AC-130J 건십
+fleet.name.carrier,F/A-18F strike,F/A-18F 공습
+fleet.name.f15e,F-15E Strike,F-15E 공습
+fleet.name.f35b,F-35B Strike,F-35B 공습
+fleet.name.gun,5-inch gun,함포 5인치
+fleet.name.mq9,MQ-9 Reaper,MQ-9 리퍼
+fleet.name.tlam,Tomahawk,토마호크
+fleet.state.depleted,Out of ammo,탄약 없음
+fleet.state.firing,Firing,사격 중
+fleet.state.inflight_format,Inbound {0}s,비행 중 {0}초
+fleet.state.no_aircraft,No aircraft,기체 없음
+fleet.state.reload_format,Reload {0}s,재장전 {0}초
+fleet.tip.a10,"An A-10C from LAX flies in, circles the target strafing the horde with its 30 mm cannon and rockets, then returns",LAX의 A-10C가 날아와 표적 상공을 돌며 30 mm 기총 소사와 로켓으로 무리를 쓸고 돌아간다
+fleet.tip.ac130,"An AC-130J circles the target to the left, firing its port 30 mm and 105 mm guns. Select it in the roster and right-click to move the orbit",AC-130J가 표적 상공을 왼쪽으로 돌며 좌현 30 mm · 105 mm로 쏜다. 편성 줄에서 고른 뒤 우클릭하면 선회 지점을 옮긴다
+fleet.tip.carrier,"An F/A-18F flight launches from CVN-68 and flies to the target — launch and flight take time. Press the button, then left-click the target; right-click or Esc cancels","CVN-68에서 F/A-18F 편대가 떠 표적까지 날아가 폭격한다 — 발진 · 비행 시간이 걸린다. 버튼을 누르고 표적을 좌클릭, 우클릭 · Esc로 취소"
+fleet.tip.f15e,"Two F-15Es take off from LAX and hold over the target — each carries 8 Mk 82s (area bombing: drag a strip), 2 GBU-31s (precision: pick points) and the gun. They return to LAX to rearm when out of bombs or fuel",LAX의 F-15E 2기가 활주로에서 떠 표적 상공에 머문다 — 기당 Mk 82 8발(구역폭격: 끌어서 띠) · GBU-31 2발(정밀타격: 지점) · 기관포. 폭탄이나 연료가 떨어지면 LAX로 돌아가 재무장한다
+fleet.tip.f35b,"Two F-35Bs from SMO fly in and hold over the target — each carries 2 GBU-32s in the bays (precision), 2 Mk 82s on the wings (area bombing) and a gun pod",SMO의 F-35B 2기가 날아와 표적 상공에 머문다 — 기당 무장창 GBU-32 2발(정밀타격) · 날개 Mk 82 2발(구역폭격) · 기관포 포드
+fleet.tip.gun_format,"Arleigh Burke 5-inch gun — within {0} km of the nearest destroyer. Press the button, then left-click the impact point; right-click or Esc cancels","알레이버크 구축함 5인치 함포 — 가장 가까운 구축함에서 {0} km 안. 버튼을 누르고 탄착 지점을 좌클릭, 우클릭 · Esc로 취소"
+fleet.tip.mq9,"An MQ-9 loiters over the target, marks the hordes and puts one Hellfire into each of up to four. Select it in the roster and right-click to move the orbit","MQ-9가 표적 상공을 오래 돌며 무리를 짚고, 서로 다른 무리에 헬파이어를 한 발씩 쏜다. 편성 줄에서 고른 뒤 우클릭하면 선회 지점을 옮긴다"
+fleet.tip.tlam,"Tomahawk cruise missile — no range limit; flight time after launch. Press the button, then left-click the impact point; right-click or Esc cancels","토마호크 순항미사일 — 사거리 제한 없음, 발사 뒤 비행 시간이 걸린다. 버튼을 누르고 탄착 지점을 좌클릭, 우클릭 · Esc로 취소"
+fleet.tlam.ready_format,{0} left,{0}발
+fob.blueprint.artillery.desc,One-level HESCO ring with two mortar pits and an ammo depot at the back,HESCO 1층 둘레 · 박격포 진지 2 · 뒤쪽 탄약 보급소
+fob.blueprint.artillery.name,Artillery pit,포병 진지
+fob.blueprint.checkpoint.desc,Two-level HESCO wall across the road with a middle gate and two MG nests behind it,길을 가로지르는 HESCO 2층 벽 · 가운데 차량문 · 벽 뒤 기관총 진지 2
+fob.blueprint.checkpoint.name,Checkpoint,검문소
+fob.blueprint.fort.desc,"Two-level HESCO perimeter with a front vehicle gate, corner MG nests and side searchlights",HESCO 2층 둘레 · 앞 변 차량문 · 네 모서리 기관총 진지 · 양 옆 탐조등
+fob.blueprint.fort.name,Square fort,사각 요새
+fob.blueprint.lighting.desc,No walls: floodlight towers on the corners and two searchlights along the front,벽 없이 네 모서리 투광등 탑 · 앞 변 탐조등 2
+fob.blueprint.lighting.name,Lighting set,조명 세트
+fob.brush.area,Box · {0} slots × {1} levels,사각 · {0}칸 × {1}층
+fob.brush.area_armed,Click the opposite corner to build · RMB · Esc = cancel,반대 모서리 클릭 = 네 변 짓기 · 우클릭 · Esc = 취소
+fob.brush.blueprint,{0} × {1} m · {2} wall cells · {3} facilities · cost {4},{0} × {1} m · 벽 {2}칸 · 시설 {3} · 비용 {4}
+fob.brush.blueprint_blocked,Blocked: {0} wall cells · {1} facilities,막힘: 벽 {0}칸 · 시설 {1}
+fob.brush.convert_idle,Click a wall or drag along it,벽을 누르거나 벽을 따라 끄세요
+fob.brush.convert_none,No convertible blocks,개조할 수 있는 칸이 없습니다
+fob.brush.cost,Cost {0} {1} (display only),비용 {0} {1} (표시만)
+fob.brush.demolish,Demolish {0} blocks,철거 {0}블록
+fob.brush.demolish_facility,Demolish facility,시설 철거
+fob.brush.demolish_no_refund,No refund · can't be undone,회수 없음 · 되돌릴 수 없음
+fob.brush.embrasure,{0} embrasures · level {1},총안 {0}개 · {1}층
+fob.brush.embrasure_range,{0} embrasures · levels {1}–{2},총안 {0}개 · {1}~{2}층
+fob.brush.embrasure_revert,Seal {0} embrasures,총안 막기 {0}개
+fob.brush.erase,{0} plans to erase,지울 계획 {0}개
+fob.brush.erase_demolish,Erase {0} plans · demolish {1} blocks,계획 {0}개 지우기 · 철거 {1}블록
+fob.brush.erase_none,Nothing to erase or demolish,지울 계획 · 철거할 것이 없습니다
+fob.brush.facility_aiming,Facing {0}° · aiming by drag (release to plan),정면 {0}° · 끌어 겨누는 중(떼면 계획)
+fob.brush.facility_aiming_plan,Facing {0}° · re-aiming the plan (release to apply),정면 {0}° · 계획 방향 바꾸는 중(떼면 적용)
+fob.brush.facility_facing_free,Facing {0}°,정면 {0}°
+fob.brush.facility_facing_out,Facing {0}° · from the base outward,정면 {0}° · 기지 바깥쪽 기준
+fob.brush.facility_hover_built,Built facility — demolish it with Erase · Demolish,완공 시설 — 지우기 · 철거 도구로 철거
+fob.brush.facility_hover_built_arc,"Built emplacement — change facing: select it, then Y (fire sector)",완공 진지 — 방향 바꾸기 = 선택 후 Y(사계 지정)
+fob.brush.facility_hover_plan,RMB = remove this facility plan,우클릭 = 이 시설 계획 지우기
+fob.brush.facility_hover_plan_rotate,Planned facility: Q/E or drag = change facing · RMB = remove,계획 시설: Q/E · 끌기 = 방향 바꾸기 · 우클릭 = 지우기
+fob.brush.facility_hover_plan_tower,Wall turret plan: Q/E = turn 90° (pillar stays) · RMB = remove,벽 포탑 계획: Q/E = 90° 돌리기(기둥은 그대로) · 우클릭 = 지우기
+fob.brush.facility_idle,Point inside the site,부지 안을 가리키세요
+fob.brush.facility_join,{0} · {1},{0} · {1}
+fob.brush.facility_repeat,{0} × {1},{0} × {1}
+fob.brush.facility_repeat_blocked,{0} blocked,{0}곳 막힘
+fob.brush.facility_resupply_in,In ammo depot range,탄약 보급소 범위 안
+fob.brush.facility_resupply_out,Outside ammo depot range — no resupply,탄약 보급소 범위 밖 — 재보급 안 됨
+fob.brush.facility_ring,Ring {0}/{1} slots,보호벽 {0}/{1}칸
+fob.brush.facility_tower,Wall turret · {0} levels,벽 포탑 · {0}층
+fob.brush.gate_infantry,Foot gate · {0} slots · vehicle gate from {1},보행문 {0}칸 · 차량문은 {1}칸부터
+fob.brush.gate_lintel,Foot gate · {0} slots · blocks above stop vehicles,보행문 {0}칸 · 문 위 블록 때문에 차량 통과 불가
+fob.brush.gate_revert,Seal gate · {0} slots,문 막기 {0}칸
+fob.brush.gate_vehicle,Vehicle gate · {0} slots,차량문 {0}칸
+fob.brush.idle,Point at a wall or click open ground in the site,벽을 가리키거나 부지 안 빈 땅을 누르세요
+fob.brush.invalid,{0} blocked · {1},불가 {0}칸 · {1}
+fob.brush.line,Line · {0} slots × {1} levels,선 · {0}칸 × {1}층
+fob.brush.line_armed,Click the end point to build · keeps chaining · RMB · Esc = stop,끝점 클릭 = 짓기 · 끝점에서 이어 긋기 · 우클릭 · Esc = 끝
+fob.brush.new_slot,↑ New slot · {0} × {1} levels,↑ 새 칸 · {0}칸 × {1}층
+fob.brush.none,No valid cells,놓을 수 있는 칸이 없습니다
+fob.brush.placement,Rotation {0}° · {1},회전 {0}° · {1}
+fob.brush.raise,↑ Raise · {0} slots · {1} → {2} levels,↑ 높이기 · {0}칸 · {1}층 → {2}층
+fob.brush.raise_structure,↑ All connected walls · {0} slots · +{1} level,↑ 이어진 벽 전체 · {0}칸 · +{1}층
+fob.brush.refund,+{0} {1} recovered · can't be undone,+{0} {1} 회수 · 되돌릴 수 없음
+fob.brush.rotation,Rotation {0}°,회전 {0}°
+fob.brush.valid,{0} cells OK · level {1},가능 {0}칸 · {1}층
+fob.brush.valid_range,{0} cells OK · levels {1}–{2},가능 {0}칸 · {1}~{2}층
+fob.brush.widen,→ Widen · {0} slots × {1} levels,→ 넓히기 · {0}칸 × {1}층
+fob.btn.close,Close,닫기
+fob.btn.commit,Build,착공
+fob.btn.erase_all,Clear All Plans,계획 모두 지우기
+fob.btn.load,Load,불러오기
+fob.btn.save,Save,저장
+fob.commit.blocks,Blocks {0},블록 {0}
+fob.commit.clear_confirm,Press again to clear all plans,한 번 더 누르면 계획을 모두 지웁니다
+fob.commit.cost,Parts,부품
+fob.commit.cost_of_stock,{0} / {1},{0} / {1}
+fob.commit.facilities,Facilities {0},시설 {0}
+fob.commit.title,Plans,계획
+fob.defense.ammo_format,Ammo {0} / {1},탄약 {0} / {1}
+fob.defense.ammo_infinite,Unlimited ammo,탄약 무제한
+fob.defense.artillery.chip,Artillery,포병 사격
+fob.defense.artillery.howitzer,Howitzer,야포
+fob.defense.artillery.mortar,Mortar,박격포
+fob.defense.btn.auto,Auto sector (Shift+Y),자동 사계 (Shift+Y)
+fob.defense.btn.cease,Cease fire,사격 중지
+fob.defense.btn.hold,Hold fire,사격 중지
+fob.defense.btn.narrow,Narrow,좁게
+fob.defense.btn.resume,Resume fire,사격 재개
+fob.defense.btn.sector,Set sector (Y),사계 지정 (Y)
+fob.defense.btn.single,Single round,단발 지정
+fob.defense.btn.volley_format,Fire for effect ({0}),효력사 {0}발
+fob.defense.btn.widen,Widen,넓게
+fob.defense.crew.absent,No gunner,포수 없음
+fob.defense.crew.present,Gunner on post,포수 있음
+fob.defense.hint.fire,Click the impact point — right-click or Esc to cancel,탄착 지점을 클릭 — 우클릭 · Esc 취소
+fob.defense.hint.light,Click where to shine — right-click or Esc to cancel,비출 곳을 클릭 — 우클릭 · Esc 취소
+fob.defense.hint.sector,Click the sector centre — right-click or Esc to cancel,사계 중심을 클릭 — 우클릭 · Esc 취소
+fob.defense.hp_crew_format,HP {0}/{1} · {2},HP {0}/{1} · {2}
+fob.defense.hp_format,HP {0}/{1},HP {0}/{1}
+fob.defense.light.auto_format,Light: auto sweep · {0}° wide,조명: 자동 수색 · 폭 {0}°
+fob.defense.light.fixed_format,Light: fixed point · {0} m,조명: 지정 지점 · {0} m
+fob.defense.light.range_format,Range {0} m · {1}° traverse · night only,사거리 {0} m · 좌우 {1}° · 밤에만 켜짐
+fob.defense.notice.fired_format,Fire mission — {0} rounds,사격 임무 — {0}발
+fob.defense.notice.rejected_format,Cannot fire — {0},사격 불가 — {0}
+fob.defense.range_format,Range {0}–{1} m,사거리 {0}–{1} m
+fob.defense.range_min_format,Min range {0} m · no maximum,최소 사거리 {0} m · 최대 제한 없음
+fob.defense.reason.busy,Busy firing — try again after the mission,사격 중 — 끝난 뒤 지정
+fob.defense.reason.destroyed,Destroyed,파괴됨
+fob.defense.reason.friendlies,Friendlies in the blast area,아군이 탄착 원 안에 있음
+fob.defense.reason.no_ammo,Out of ammo,탄 없음
+fob.defense.reason.no_battery,No battery available,쏠 수 있는 포대 없음
+fob.defense.reason.no_solution,No firing solution,사각 한계 — 탄도해 없음
+fob.defense.reason.out_of_range,Out of range,사거리 밖
+fob.defense.reason.too_close,Too close (inside minimum range),너무 가까움(최소 사거리 안)
+fob.defense.resupply_format,{0} · awaiting resupply,{0} · 재보급 대기
+fob.defense.sector.auto_format,Sector: auto · {0}° wide,사계: 자동 · 폭 {0}°
+fob.defense.sector.fixed_format,Sector: set · centre {0}° · {1}° wide,사계: 지정 · 중심 {0}° · 폭 {1}°
+fob.defense.shells_format,Shells {0} / {1},포탄 {0} / {1}
+fob.defense.slot.resume,Resume,사격 재개
+fob.defense.slot.volley_state_format,{0} rounds,{0}발
+fob.defense.spread_suffix_format,{0} · spread {1} m,{0} · 산포 {1} m
+fob.defense.state.destroyed,Destroyed,파괴됨
+fob.defense.state.empty,Out of ammo,탄 없음
+fob.defense.state.engaging,Engaging,교전 중
+fob.defense.state.hold,Hold fire,사격 중지
+fob.defense.state.idle,Standing by,대기
+fob.defense.state.light_fixed,Holding on point,지정 지점 비춤
+fob.defense.state.light_off,Daytime · off,주간 대기(꺼짐)
+fob.defense.state.light_sweep,Sweeping,수색 중
+fob.defense.state.light_tracking,Tracking,좀비 추적 중
+fob.defense.state.mission,Fire mission,사격 임무 중
+fob.defense.state.no_crew,No gunner — not firing,포수 없음 — 쏘지 않음
+fob.defense.state.reloading,Changing belt,탄띠 교체 중
+fob.defense.tag.light_clamped_format,Light {0} m — held to light limit,조명 {0} m — 조명 한계에 맞춤
+fob.defense.tag.light_format,Light {0} m,조명 {0} m
+fob.defense.tag.mode_hint,Tab: mode,Tab 방식 바꾸기
+fob.defense.tag.mrsi_format,MRSI ({0}) · {1} m,동시탄착 {0}발 · {1} m
+fob.defense.tag.reject_format,{0} · {1} m,{0} · {1} m
+fob.defense.tag.sector_clamped_format,Sector {0}° · {1}° wide — held to traverse limit,사계 {0}° · 폭 {1}° — 선회 한계에 맞춤
+fob.defense.tag.sector_format,Sector {0}° · {1}° wide,사계 {0}° · 폭 {1}°
+fob.defense.tag.single_format,Single round · {0} m,단발 · {0} m
+fob.defense.tag.volley_format,Fire for effect ({0}) · {1} m,효력사 {0}발 · {1} m
+fob.defense.title.battery,Battery,포대
+fob.defense.title.turret,Emplacement,진지
+fob.defense.title_more_format,{0} +{1} more,{0} 외 {1}
+fob.dock.blueprint.cost,Cost {0} · available {1},비용 {0} · 쓸 수 있는 재고 {1}
+fob.dock.blueprint.cost_only,Cost {0},비용 {0}
+fob.dock.blueprint.fit,Fit to stock,재고에 맞추기
+fob.dock.blueprint.info,Click = place · drag = size · Q/E = gate side,클릭 = 놓기 · 끌어 크기 · Q/E = 문 쪽 변
+fob.dock.blueprint.size,{0} × {1} m,{0} × {1} m
+fob.dock.cat.blueprints,Blueprints,청사진
+fob.dock.cat.defense,Defense,방어
+fob.dock.cat.fire,Fire support,화력
+fob.dock.cat.lighting,Lighting,조명
+fob.dock.cat.modify,Modify,개조
+fob.dock.cat.supply,Supply,보급
+fob.dock.cat.walls,Walls,벽
+fob.dock.desc.embrasure,Cuts a firing slit into a wall cell. Standing soldiers shoot through it.,벽 한 칸에 사격 틈을 냅니다. 서 있는 병사가 틈으로 쏩니다.
+fob.dock.desc.erase,Removes plans and planned conversions for free. Demolishes built blocks and facilities for a partial refund (can't be undone).,계획과 개조 계획은 무료로 지웁니다. 완공 칸 · 시설은 철거해 비용 일부를 돌려받습니다(되돌릴 수 없음).
+fob.dock.desc.gate,Turns built wall cells into an automatic gate. It opens for friendlies and stays a wall to zombies.,완공 벽 칸을 자동문으로 바꿉니다. 아군이 다가가면 열리고 좀비에게는 늘 벽입니다.
+fob.dock.embrasure.info,Firing slit at the level you point at on a wall side · drag to continue on that level,벽 옆면에서 가리킨 층에 사격 틈 · 끌면 같은 층으로 이어서
+fob.dock.embrasure.note,Standing soldiers fire through level 2 (1.15–1.60 m),서 있는 병사가 쏘는 높이는 2층(1.15–1.60 m)입니다
+fob.dock.erase.info,Erases plans for free; demolishes built blocks and facilities for a partial refund,"계획은 무료로 지우고, 완공 칸 · 시설은 철거해 비용 일부를 돌려받습니다"
+fob.dock.erase.note,Demolition can't be undone,철거는 되돌릴 수 없습니다
+fob.dock.facility.info,Click = place · drag to aim · Shift+drag = several · Q/E rotate (Shift = 1°),클릭 = 놓기 · 끌어 방향 · Shift+끌기 = 여러 개 · Q/E 회전(Shift = 1°)
+fob.dock.gate.info,Click = default gate ({0} cells) · drag along a wall for a custom width · Shift+click = one cell,클릭 = 기본 폭 문({0}칸) · 벽을 따라 끌면 끈 폭 · Shift+클릭 = 한 칸
+fob.dock.gate.note,"Opens for friendlies, always a wall to zombies",아군이 다가가면 열리고 좀비에게는 늘 벽입니다
+fob.dock.grid,Grid,격자
+fob.dock.opt.shape,Shape,모양
+fob.dock.resupply_note,Keep inside an ammo depot's radius to resupply,탄약 보급소 반경 안에 두면 탄약을 채웁니다
+fob.dock.ring,Protective ring,보호벽 청사진
+fob.dock.select,Select,선택
+fob.dock.select.info,Click = cell · double-click = straight run · triple = connected wall · drag = box,클릭 = 칸 · 더블클릭 = 곧은 줄 · 세 번 = 이어진 벽 · 끌기 = 상자
+fob.dock.select.note,Shift = add · {0} cells selected,Shift = 더하기 · 선택 {0}칸
+fob.dock.shape.line,Line,선
+fob.dock.shape.or,or Shift+drag,또는 Shift+끌기
+fob.dock.shape.rect,Box,사각
+fob.dock.stat.cells,{0} cells,{0}칸
+fob.dock.stat.free,Free,무료
+fob.dock.stat.per_cell,{0} / cell,{0} / 칸
+fob.dock.stat.range,{0} m,{0} m
+fob.dock.tabkey,Category,분류
+fob.dock.tower_note,Becomes a wall turret against a wall,벽에 붙이면 벽 포탑이 됩니다
+fob.enclosure.make,Make entrance,입구 만들기
+fob.enclosure.vehicle,{0} areas without a vehicle entrance — vehicle gates need {1} slots in a line,차량 입구 없음 {0}곳 — 차량문은 일직선 {1}칸부터
+fob.enclosure.warning,{0} walled areas without an entrance — troops and vehicles get trapped,입구 없는 울타리 {0}곳 — 병사 · 차량이 갇힙니다
+fob.entry,FOB Build · J,FOB 건설 · J
+fob.entry.pad,FOB Build · D-pad ↓,FOB 건설 · 십자 ↓
+fob.facility.ammo_depot.desc,Resupplies artillery and turrets within 18 m,18 m 안 곡사 · 포탑 탄약 재보급
+fob.facility.ammo_depot.name,Ammo depot,탄약 보급소
+fob.facility.caption,FACILITIES,시설
+fob.facility.cost,{0} {1},{0} {1}
+fob.facility.flare_launcher.desc,Night only · a parachute flare over zombies 40–150 m out every 25 s,밤에 25초마다 40–150 m 좀비 무리 위로 조명탄
+fob.facility.flare_launcher.name,Flare launcher,조명탄 발사기
+fob.facility.floodlight.desc,Lights two pools either side at night · about 10 m each,밤에 양옆 두 곳을 밝힌다 · 각 반경 약 10 m
+fob.facility.floodlight.name,Floodlight tower,투광등 탑
+fob.facility.floodlight_small.desc,Lights one wide arc ahead at night · about 15 m · small and cheap,밤에 배치 방향 한쪽을 넓게 비춘다 · 약 15 m 앞 · 작고 싸다
+fob.facility.floodlight_small.name,Small floodlight,소형 투광등
+fob.facility.fuel_point.desc,Refuels vehicles and fuel pallets,차량 · 유류 파레트 급유
+fob.facility.fuel_point.name,Fuel point,유류 거점
+fob.facility.ground_ciws.desc,Unmanned · 360° · 70 m · ground targets incl. climbers,무인 · 360° · 70 m · 지상 표적(오르는 좀비 포함)
+fob.facility.ground_ciws.name,Ground CIWS,지상 CIWS
+fob.facility.guard_tower.desc,Squads climb up for a wide field of fire,분대가 올라가 넓게 쏜다
+fob.facility.guard_tower.name,Guard tower,감시탑
+fob.facility.landing_pad.desc,F-35B vertical landing and forward basing,F-35B 수직 이착륙 · 전진 배치
+fob.facility.landing_pad.name,Landing pad,착륙 패드
+fob.facility.m777_battery.desc,155 mm howitzer · min 25 m · support-menu fire,155 mm 곡사포 · 최소 25 m · 지원 메뉴 사격
+fob.facility.m777_battery.name,M777 battery,M777 포대
+fob.facility.mg_nest.desc,1 gunner · ±70° arc · 100 m auto fire,사수 1 · 정면 ±70° · 100 m 자동 사격
+fob.facility.mg_nest.name,MG nest,기관총 진지
+fob.facility.minigun_nest.desc,"1 gunner · ±70° arc · 90 m · 2,400 rpm stream fire · heavy ammo use","사수 1 · 정면 ±70° · 90 m · 분당 2,400발 연속 사격 · 탄 소모 큼"
+fob.facility.minigun_nest.name,Minigun nest,미니건 진지
+fob.facility.mortar_pit.desc,81 mm · 2 crew · 40–350 m fire missions,81 mm · 포수 2 · 40–350 m 사격 임무
+fob.facility.mortar_pit.name,Mortar pit,박격포 진지
+fob.facility.reason.completed_locked,Demolish built facilities with Erase · Demolish,완공 시설은 지우기 · 철거 도구로 철거합니다
+fob.facility.reason.external_obstacle,Something is in the way,다른 물체가 있습니다
+fob.facility.reason.not_a_plan,No facility plan to remove,지울 시설 계획이 없습니다
+fob.facility.reason.not_built,Only built facilities can be demolished,완공된 시설만 철거할 수 있습니다
+fob.facility.reason.outside_site,The whole facility must fit inside the site,시설 전체가 부지 안에 들어가야 합니다
+fob.facility.reason.overlaps_blocks,Overlaps blocks,블록과 겹칩니다
+fob.facility.reason.overlaps_facility,Overlaps another facility,다른 시설과 겹칩니다
+fob.facility.reason.unavailable,Facilities are unavailable here,이 전장에서는 시설을 지을 수 없습니다
+fob.facility.reason.unbuildable,No ground or too steep,지면이 없거나 너무 기울었습니다
+fob.facility.reason.units_present,Units are standing there,유닛이 서 있습니다
+fob.facility.reason.unknown,Unknown facility,알 수 없는 시설
+fob.facility.ring,Plan a protective ring,보호벽 청사진 함께 계획
+fob.facility.rocket_battery.desc,Multiple rockets · 35–220 m salvo,다연장 로켓 · 35–220 m 일제 사격
+fob.facility.rocket_battery.name,Rocket battery,로켓 포대
+fob.facility.searchlight.desc,Xenon searchlight · sweeps ±60° outward with a narrow beam at night · follows zombies within 60 m,제논 탐조등 · 밤에 바깥 ±60°를 좁은 빔으로 훑고 60 m 안 좀비를 따라 비춘다
+fob.facility.searchlight.name,Searchlight,탐조등
+fob.firesup.btn.cease,Cease,중지
+fob.firesup.btn.mrsi_format,MRSI {0},동시탄착 {0}
+fob.firesup.btn.single,Single,단발
+fob.firesup.btn.volley_format,FFE {0},효력사 {0}
+fob.firesup.state.aiming,Click impact point,탄착 지점 클릭
+fob.firesup.state.down,No gun in action,가동 포대 없음
+fob.firesup.state.empty,No rounds · awaiting resupply,탄 없음 · 재보급 대기
+fob.firesup.state.firing,Firing,사격 중
+fob.firesup.state.firing_format,Firing · {0} rds,사격 중 · {0}발
+fob.firesup.state.ready_format,{0} ready · {1} rds,{0}문 · {1}발
+fob.firesup.state.requested,Requested,사격 요청
+fob.firesup.tip.range_format,"Range {0}–{1} m · pick a mode, then click the impact point (right-click or Esc cancels)",사거리 {0}–{1} m · 버튼을 누르고 탄착 지점을 클릭(우클릭 · Esc 취소)
+fob.firesup.tip.range_min_format,"Min range {0} m · pick a mode, then click the impact point (right-click or Esc cancels)",최소 사거리 {0} m · 버튼을 누르고 탄착 지점을 클릭(우클릭 · Esc 취소)
+fob.grid.snap,Grid snap · X,격자 스냅 · X
+fob.height.caption,HEIGHT,높이
+fob.height.down,−,−
+fob.height.up,+,+
+fob.height.value,{0} levels,{0}층
+fob.hint.aim,Aim,방향
+fob.hint.all_keys,All keys,전체 키
+fob.hint.back,Back,뒤로
+fob.hint.cancel_convert,Cancel conversion,개조 취소
+fob.hint.cards,Card,카드
+fob.hint.category,Category,분류
+fob.hint.click,Click,클릭
+fob.hint.commit,Build (hold),착공(길게)
+fob.hint.corner,Opposite corner,반대 모서리
+fob.hint.double_click,Double-click,더블클릭
+fob.hint.drag,Drag,끌기
+fob.hint.draw_wall,Draw wall,벽 긋기
+fob.hint.embrasure_level,Pointed level,가리킨 층
+fob.hint.end_point,End point,끝점
+fob.hint.erase,Erase · demolish,지우기 · 철거
+fob.hint.erase_facility,Erase plan,계획 지우기
+fob.hint.eyedropper,Eyedropper,스포이트
+fob.hint.finish,Finish,끝
+fob.hint.gate_default,Default gate,기본 폭 문
+fob.hint.gate_side,Gate side,문 쪽
+fob.hint.gate_width,Custom width,원하는 폭
+fob.hint.height,Height,높이
+fob.hint.many,Many cells,여러 칸
+fob.hint.one_cell,One cell,한 칸
+fob.hint.place,Place,놓기
+fob.hint.raise_one,+1 level,+1층
+fob.hint.rect,Box,사각
+fob.hint.repeat,Several,여러 개
+fob.hint.rmb,Right-click,우클릭
+fob.hint.rotate,Rotate,회전
+fob.hint.same_level,Same level,같은 층
+fob.hint.sel_box,Box select,상자 선택
+fob.hint.sel_cell,Cell,칸
+fob.hint.sel_clear,Clear selection,선택 해제
+fob.hint.sel_levels,Levels ±,층 ±
+fob.hint.sel_run,Run,곧은 줄
+fob.hint.sel_structure,Connected wall,이어진 벽
+fob.hint.select_mode,Select ↔ brush,선택 ↔ 붓
+fob.hint.size,Size,크기
+fob.hint.top_click,Click top,윗면 클릭
+fob.hint.triple_click,Triple-click,세 번 클릭
+fob.keys,Enter build · Esc close · 1 · 2 toggle Raise · Widen · C raise scope · X grid · Ctrl whole run · Ctrl+Shift connected walls · T/G height · Q/E · R/F rotate (Shift = fine) · Shift free place · Ctrl+Z undo · 1–8 tools · O debug damage,Enter 착공 · Esc 닫기 · 1 · 2 높이기 · 넓히기 켜고 끔 · C 높이기 범위 · X 격자 · Ctrl 줄 전체 · Ctrl+Shift 이어진 벽 전체 · T/G 높이 · Q/E · R/F 회전(Shift = 미세) · Shift 자유 · Ctrl+Z 되돌리기 · 1–8 도구 · O 디버그
+fob.keys.pad,A place (hold and drag = facing · size) · Hold Y build · B cancel · close · LB/RB category · D-pad ←→ card · D-pad ↑↓ height (levels ± while selecting) · LT/RT rotate · X select ↔ brush · L3 eyedropper · R3 undo · View this panel · Right stick cursor,A 놓기(누른 채 끌기 = 방향 · 크기) · Y 길게 착공 · B 취소 · 닫기 · LB/RB 분류 · 십자 ←→ 카드 · 십자 ↑↓ 높이(선택 중 = 층 ±) · LT/RT 회전 · X 선택 ↔ 붓 · L3 스포이트 · R3 되돌리기 · View 이 창 · 오른쪽 스틱 커서
+fob.keys.row.back,Step back (cancel drawing → close),한 단계 뒤로(그리기 취소 → 모드 닫기)
+fob.keys.row.blueprint,Blueprint: drag to size · Q/E picks the gate side,청사진: 끌어 크기 · Q/E로 문 쪽 변
+fob.keys.row.cards,Pick a dock card,도크 칸 고르기
+fob.keys.row.category,Next category (Shift = back),분류 넘기기(Shift = 뒤로)
+fob.keys.row.commit,Build,착공
+fob.keys.row.delete,Erase plans in the selection,선택한 칸의 계획 지우기
+fob.keys.row.draw,Draw a wall (two clicks = chain),벽 긋기(두 번 클릭 = 이어 긋기)
+fob.keys.row.eyedropper,Eyedropper (same as pointed),스포이트(가리킨 것과 같은 것)
+fob.keys.row.grid,Grid snap,격자 스냅
+fob.keys.row.height,Target height,목표 높이
+fob.keys.row.lockdown,Lock gates,문 봉쇄
+fob.keys.row.mode,Build mode on / off,건설 모드 켜기 · 끄기
+fob.keys.row.raise,Raise that cell one level,그 칸 한 층 올리기
+fob.keys.row.rect,Box enclosure,사각 울타리
+fob.keys.row.repeat,"Several facilities along the drag, evenly spaced",시설 여러 개(끈 선을 따라 간격대로)
+fob.keys.row.rmb,Erase plan · cancel,계획 지우기 · 취소
+fob.keys.row.rotate,Rotate (Shift = 1°),회전(Shift = 1°)
+fob.keys.row.select,Select cursor (double = run · triple = connected wall),선택 커서(더블클릭 = 줄 · 세 번 = 이어진 벽)
+fob.keys.row.snap_off,Snapping off while held,누르는 동안 스냅 끔
+fob.keys.row.undo,Undo,되돌리기
+fob.keys.title,All keys,전체 키
+fob.material.concrete,Concrete,콘크리트
+fob.material.concrete.desc,"Sturdy barrier. Its shape follows its neighbours (block, low wall, T-wall).",튼튼한 방벽. 이웃 칸 배열에 따라 블록 · 저벽 · T-월 모양이 저절로 바뀝니다.
+fob.material.hesco,HESCO,HESCO
+fob.material.hesco.desc,"Basic barrier. Cheap and quick, stacks up to 4 levels.",기본 방벽. 싸고 빠르며 위로 4층까지 쌓습니다.
+fob.material.sandbag,Sandbags,모래주머니
+fob.material.sandbag.desc,"Low cover. One level only, nothing stacks on top.",낮은 엄폐. 1층만 쌓고 위에 다른 블록을 받지 않습니다.
+fob.material.scaffold,Scaffold,비계
+fob.material.scaffold.desc,Firing platform soldiers climb onto. Ladders attach on their own and it does not block shots.,병사가 올라서는 사격 발판. 사다리가 저절로 붙고 사격을 막지 않습니다.
+fob.materials,MATERIAL,재료
+fob.more.keys,All keys · H,전체 키 · H
+fob.msg.area_planned,Box planned: {0} blocks · raise the whole box with Raise → scope All (C),사각 계획: 블록 {0}개 · 상자 전체 높이기 = 높이기 → 범위 전체(C)
+fob.msg.blueprint_fitted,Fitted to stock — {0} × {1} cells,재고에 맞췄습니다 — {0} × {1}칸
+fob.msg.blueprint_over_budget,Even the smallest size exceeds stock — cost {0} / available {1},가장 작게 줄여도 재고를 넘습니다 — 비용 {0} / 재고 {1}
+fob.msg.blueprint_planned,Blueprint planned — {0} wall blocks · {1} facilities,청사진 계획 — 벽 {0}블록 · 시설 {1}
+fob.msg.busy,Saving or loading…,저장·불러오기 중입니다
+fob.msg.commit_unavailable,Instant build is disabled,즉시 착공이 꺼져 있습니다
+fob.msg.committed,{0} blocks built,{0}개 블록을 완공했습니다
+fob.msg.committed_facilities,Started {0} facilities,시설 {0}곳 착공
+fob.msg.committed_with_facilities,Built {0} blocks · started {1} facilities,블록 {0}개 · 시설 {1}곳 착공
+fob.msg.convert_unavailable,Gate and embrasure settings (FobAccessSettings) are not assigned,문 · 총안 설정(FobAccessSettings)이 연결되지 않았습니다
+fob.msg.debug_damaged,Debug damage {0},디버그 피해 {0}
+fob.msg.demolished,Demolished {0} blocks · +{1} recovered,{0}블록 철거 · +{1} 회수
+fob.msg.facilities_repeated,Planned {0} facilities,시설 {0}개 계획
+fob.msg.facilities_repeated_skipped,Planned {0} facilities · skipped {1} blocked spots,시설 {0}개 계획 · {1}곳은 막혀 뺐습니다
+fob.msg.facilities_unavailable,Facilities unavailable (no placement service),배치 서비스가 없어 시설 탭을 쓸 수 없습니다
+fob.msg.facility_commit_blocked,"{0} facilities blocked, kept as plans · {1} started",시설 {0}곳은 자리가 막혀 계획으로 남았습니다 · {1}곳 착공
+fob.msg.facility_demolished,Facility demolished · +{0} recovered,시설 철거 · +{0} 회수
+fob.msg.facility_erased,Facility plan removed,시설 계획을 지웠습니다
+fob.msg.facility_planned,Facility planned,시설을 계획했습니다
+fob.msg.facility_planned_ring,Facility planned · ring {0} slots,시설 계획 · 보호벽 {0}칸
+fob.msg.facility_rotate_locked,Wall turrets follow the wall and can't be turned,벽 포탑은 벽 방향을 따라 돌릴 수 없습니다
+fob.msg.facility_rotated,Facility plan turned,시설 계획 방향을 바꿨습니다
+fob.msg.free_unavailable,Free placement is unavailable right now,지금은 자유 배치를 쓸 수 없습니다
+fob.msg.gate_planned,Entrance planned ({0}-slot gate) — build to apply,입구(문 {0}칸)를 계획했습니다 — 착공하면 생깁니다
+fob.msg.gate_suggestion_missing,No slot found for an entrance — place one with the Gate tool,입구를 낼 칸을 찾지 못했습니다 — 문 도구로 직접 지정하세요
+fob.msg.input_missing,FOB input asset is not assigned,FOB 입력 에셋이 연결되지 않았습니다
+fob.msg.load_failed,Couldn't read the save file,저장 파일을 읽지 못했습니다
+fob.msg.load_grid_mismatch,The save's site settings don't match this site,저장본의 부지 설정이 이 부지와 다릅니다
+fob.msg.load_missing,No saved site,저장된 부지가 없습니다
+fob.msg.load_rejected,Couldn't apply the save,저장본을 적용하지 못했습니다
+fob.msg.load_unknown_material,The save uses an unknown material,저장본에 없는 재료가 있습니다
+fob.msg.loaded,Site loaded,부지를 불러왔습니다
+fob.msg.nothing_to_commit,No plans to build,착공할 계획이 없습니다
+fob.msg.nothing_to_erase,No plans to clear,지울 계획이 없습니다
+fob.msg.nothing_to_undo,Nothing to undo,되돌릴 계획이 없습니다
+fob.msg.plans_erased,{0} plans cleared,계획 {0}개를 지웠습니다
+fob.msg.save_failed,Save failed,저장하지 못했습니다
+fob.msg.saved,Site saved,부지를 저장했습니다
+fob.msg.stock_short,"Not enough stock — need {0}, have {1} components",재고가 모자랍니다 — 필요 {0} · 재고 {1}(부품)
+fob.msg.structure_lowered,Lowered the plans on {0} connected slots by one level,이어진 벽 계획 {0}칸을 한 층 낮췄습니다
+fob.msg.undone,Undo: {0} plans removed,되돌리기: 계획 {0}개를 지웠습니다
+fob.pending,{0} planned,계획 {0}개
+fob.pending_stock,{0} planned · stock {1} components,계획 {0}개 · 재고 부품 {1}
+fob.pop.always_wall,Always a wall,늘 벽
+fob.pop.ammo,Ammo,탄약
+fob.pop.ammo_depot,From ammo depot,보급소에서 채움
+fob.pop.arc,Arc,사계
+fob.pop.arc_all,360°,360°
+fob.pop.arc_value,±{0}°,±{0}°
+fob.pop.cost,Cost,비용
+fob.pop.facilities,Facilities,시설
+fob.pop.facility_count,{0} × {1},{0} × {1}
+fob.pop.gate,Gate,문
+fob.pop.gate_value,"{0} cells, front middle",앞 변 가운데 {0}칸
+fob.pop.health,Health,체력
+fob.pop.levels_value,{0} levels,{0}층
+fob.pop.list_join,{0} · {1},{0} · {1}
+fob.pop.max_levels,Max,최대
+fob.pop.range,Range,사거리
+fob.pop.range_span,{0}–{1} m,{0}–{1} m
+fob.pop.resupply,Resupply radius,재보급 반경
+fob.pop.ring,Ring,보호벽
+fob.pop.ring_value,{0}-level ring,{0}층 고리
+fob.pop.shots,Shots,사격
+fob.pop.shots_block,Blocked,막음
+fob.pop.shots_pass,Pass through,통과
+fob.pop.size,Size,크기
+fob.pop.size_value,{0} × {1} m (min {2} × {3}),{0} × {1} m (최소 {2} × {3})
+fob.pop.top,Top,윗면
+fob.pop.top_walk,Walkable,병사가 올라감
+fob.pop.tower,Wall turret,벽 포탑
+fob.pop.tower_value,{0} × {0} pillar,{0} × {0} 기둥
+fob.pop.walls,Walls,벽
+fob.pop.walls_value,"{0}, {1} levels",{0} {1}층
+fob.pop.width,Default width,기본 폭
+fob.pop.zombie_proof,Can't break it · they pile up and climb over,부수지 못함 · 쌓아 넘어온다
+fob.pop.zombies,Zombies,좀비
+fob.reason.at_target_height,"Already at the target height — press T to raise the target, or use Raise (1) to stack one level",이미 목표 높이입니다 — T로 목표 높이를 올리거나 높이기(1)로 한 층씩 쌓으세요
+fob.reason.completed_locked,Demolish built blocks with Erase · Demolish,완공 칸은 지우기 · 철거 도구로 철거합니다
+fob.reason.demolish_blocked_facility,Demolish the facility first,시설을 먼저 철거하세요
+fob.reason.external_obstacle,Another structure blocks this cell,다른 구조물이 칸을 막고 있습니다
+fob.reason.form_conflict,"Conflicts with a gate or embrasure (one embrasure per slot, nothing on top of a 1-level gate)","다른 문 · 총안과 겹칩니다 (칸당 총안 하나, 1층 문 위에는 쌓을 수 없음)"
+fob.reason.form_level,Not allowed at this level — embrasures can't go in the bottom level,이 층에는 만들 수 없습니다 — 총안은 맨 아래층에 낼 수 없습니다
+fob.reason.max_height,Maximum height is {0} levels,최대 {0}층까지 쌓을 수 있습니다
+fob.reason.no_support,Nothing can be stacked on the material below (single-level materials such as sandbags),아래 재료 위에는 블록을 쌓을 수 없습니다(모래주머니처럼 1층 전용 재료)
+fob.reason.not_a_plan,No plan to erase,지울 계획이 없습니다
+fob.reason.not_convertible,No wall to convert here,개조할 벽이 없습니다
+fob.reason.not_top,Only the top of the stack can change,맨 위 칸만 바꿀 수 있습니다
+fob.reason.nothing_to_demolish,Nothing to demolish,철거할 것이 없습니다
+fob.reason.occupied,Already occupied,이미 블록이 있습니다
+fob.reason.outside_site,Outside the site,부지 밖입니다
+fob.reason.overlaps,Overlaps another wall too much,다른 벽과 너무 많이 겹칩니다
+fob.reason.same_form,Already that shape,이미 그 형태입니다
+fob.reason.slot_limit,Site block limit reached,부지 칸 수 한도에 닿았습니다
+fob.reason.unbuildable,Can't build here — outside the site radius or too steep,지을 수 없는 칸입니다 — 부지 반경 밖이거나 경사가 큽니다
+fob.reason.units_present,Units or vehicles are standing here,칸 위에 병력이나 차량이 있습니다
+fob.reason.unknown_material,Choose a material,재료를 고르세요
+fob.reason.walkway_below,Walls can't stand on scaffolding — only scaffold goes on top,비계 · 발판 위에는 벽을 올릴 수 없습니다 — 위에는 비계만 올라갑니다
+fob.resource.components,components,부품
+fob.scope.caption,SCOPE,범위
+fob.scope.cell,Slot,칸
+fob.scope.run,Run,줄
+fob.scope.structure,All,전체
+fob.sel.embrasure,Embrasure,총안
+fob.sel.erase,Erase plans,계획 지우기
+fob.sel.eyedropper,Eyedropper,스포이트
+fob.sel.gate,Gate,문
+fob.sel.handle_hint,Drag up or down to set the height,위아래로 끌어 층 조절
+fob.sel.handle_levels,{0} → {1} levels,{0}층 → {1}층
+fob.sel.lower,Lower,층 내리기
+fob.sel.raise,Raise,층 올리기
+fob.sel.scope.cell,Cell,칸
+fob.sel.scope.run,Run,곧은 줄
+fob.sel.scope.structure,Connected wall,이어진 벽
+fob.sel.sub,Height {0},높이 {0}층
+fob.sel.thicken,Thicken,두껍게
+fob.sel.title,{0} · {1} cells,{0} · {1}칸
+fob.snap.edge,Snap: to wall edge,스냅: 변에 붙임
+fob.snap.free,Snap: free,스냅: 자유
+fob.snap.grid,Snap: grid,스냅: 격자
+fob.snap.off,Snap off (Shift),스냅 끔 (Shift)
+fob.tab.blocks,Blocks,블록
+fob.tab.facilities,Facilities,시설
+fob.tab.free,Free Placement,자유 배치
+fob.tab.select,Select,선택
+fob.title,FOB Construction,FOB 건설
+fob.tool.area,Box,사각
+fob.tool.area.hint,Click a corner → the opposite corner = four walls · T/G: height · R/F: rotate · RMB · Esc: cancel,모서리 클릭 → 반대 모서리 클릭 = 네 변 벽 · T/G: 높이 · R/F: 회전 · 우클릭 · Esc: 취소
+fob.tool.blueprint,Blueprint,청사진
+fob.tool.build_both.hint,Raise + Widen: click a top = raise one level · click a side or the ground = same-height slot beside it · 1 · 2 toggle each · RMB: remove top plan,높이기 + 넓히기: 윗면 클릭 = 한 층 올리기 · 옆면 · 땅 클릭 = 옆에 같은 높이 칸 · 1 · 2로 하나씩 켜고 끄기 · 우클릭: 맨 위 계획 지우기
+fob.tool.embrasure,Embrasure,총안
+fob.tool.embrasure.hint,Click a wall face: embrasure at that level (not the bottom level) · top face: top level · drag: same level along the wall · click a slot with an embrasure: seal it · RMB: cancel conversions,벽 옆면 클릭: 가리킨 층에 총안(맨 아래층 제외) · 윗면: 맨 위 층 · 끌기: 같은 층으로 벽을 따라 · 총안 있는 칸 클릭: 막기 · 우클릭: 개조 계획 취소
+fob.tool.erase,Erase · Demolish,지우기 · 철거
+fob.tool.erase.hint,"Click or drag: erase plans for free, demolish built blocks for a partial refund · click a built facility to demolish it",클릭 · 끌기: 계획은 무료로 지우고 완공 칸은 철거(비용 일부 회수) · 완공 시설 클릭 = 시설 철거
+fob.tool.facility,Facility,시설
+fob.tool.facility.hint,Click: plan facility with ring · drag: set facing · hold Q/E or R/F: rotate (Shift: fine) · release rotation key: apply planned facing · RMB: cancel/remove plan · Esc: block tools,클릭: 시설 계획(보호벽 청사진 함께) · 누른 채 끌기: 끈 쪽을 정면으로 · Q/E · R/F 길게: 연속 회전(Shift: 미세) · 계획 시설 회전은 키를 떼면 적용 · 우클릭: 취소/계획 지우기 · Esc: 블록 도구로
+fob.tool.gate,Gate,문
+fob.tool.gate.hint,Click a wall slot: a vehicle-wide gate (default width along the wall) · Shift + click: 1-slot foot gate · drag along the wall: any width (4+ in a line with nothing above = vehicle gate) · click a gate: seal it · RMB: cancel conversions,벽 칸 클릭: 차량이 지나는 큰 문(벽을 따라 기본 폭) · Shift + 클릭: 보행문 1칸 · 벽을 따라 끌기: 원하는 폭(일직선 4칸 이상 + 문 위 블록 없음 = 차량문) · 문 칸 클릭: 그 문 막기 · 우클릭: 개조 계획 취소
+fob.tool.line,Line,선
+fob.tool.line.hint,Click start → click end = wall (keeps chaining) · drag also works · T/G: height · RMB · Esc: stop,시작점 클릭 → 끝점 클릭 = 벽(끝점에서 이어 긋기) · 끌어 떼기도 됨 · T/G: 높이 · 우클릭 · Esc: 끝
+fob.tool.stack,Raise,높이기
+fob.tool.stack.hint,"Click: raise the wall one level (ground beside it counts) · scope (C) Slot · Run · All — All = every connected wall (a box) one level, RMB in All = lower the plans one level · Ctrl · Ctrl+Shift = Run · All while held · open ground: new slot · RMB: remove top plan","클릭: 벽 한 층 올리기(벽 옆 땅도 그 벽) · 범위(C) 칸 · 줄 · 전체 — 전체 = 이어진 벽(사각 상자) 모두 한 층씩, 전체 범위 우클릭 = 계획 한 층 낮추기 · Ctrl · Ctrl+Shift는 누르는 동안 줄 · 전체 · 떨어진 땅: 새 칸 · 우클릭: 맨 위 계획 지우기"
+fob.tool.stair,Stairs,계단
+fob.tool.upgrade,Upgrade,개조
+fob.tool.wall,Wall,벽
+fob.tool.widen,Widen,넓히기
+fob.tool.widen.hint,Click a wall face: add a same-height slot beside it (scaffold goes one level lower as a firing step) · Ctrl+click: thicken the whole run · RMB: remove top plan,벽 옆면 클릭: 같은 높이 칸을 옆에 붙이기(비계는 벽보다 1층 낮은 사격 발판) · Ctrl+클릭: 줄 전체를 한 겹 두껍게 · 우클릭: 맨 위 계획 지우기
+fuel.air,Fuel {0}% · {1:F1}/{2:F0} L · base {3:F1} min,연료 {0}% · {1:F1}/{2:F0} L · 기본 {3:F1}분
+fuel.cancel,Cancel refuel,주유 취소
+fuel.connecting,Crew approaching / connecting hoses,급유 작업자 이동 / 호스 연결 중
+fuel.critical,Fuel below 10% · refuel nearby.,연료 10% 이하 · 가까운 곳에서 보급하세요
+fuel.empty,Tank empty · bring a fuel pallet to recover this vehicle.,연료 고갈 · 추진 불가 · 파레트를 가져와 보급하세요
+fuel.ground,Fuel {0}% · {1:F1}/{2:F0} L · ~{3:F1} km,연료 {0}% · {1:F1}/{2:F0} L · 약 {3:F1} km
+fuel.low,Reserve below 20% · return for fuel.,예비 연료 20% 이하 · 보급 지점으로 복귀하세요
+fuel.paid,Strategic air operation · fuel included in sortie cost.,전략 항공작전 · 출격비에 연료 포함
+fuel.pathBlocked,Work route blocked · holding / checking detour,작업 경로 막힘 · 대기 / 우회 경로 확인 중
+fuel.pumping,Refuelling · source {0:F1} L,급유 중 · 공급원 {0:F1} L
+fuel.ready,Stop / land within 6m of an unloaded fuel pallet.,유류 파레트 6m 안에서 정차·착륙 후 주유
+fuel.refuel,Refuel,주유
+fuel.stationIdle,Idle,대기
+fuel.stationRefilling,Refilling from pallet,파레트에서 충전 중
+fuel.stowing,Stowing hoses / crew returning,호스 회수 / 작업자 복귀 중
+fuel.target,Target {0}%,목표 {0}%
+fuel.unavailable,Unable to refuel · stop / land and check nearby fuel and available crew.,"급유 불가 · 정차·착륙, 근처 연료 및 작업자를 확인하세요"
+fuel.wait,Waiting for pump · source {0:F1} L,펌프 대기 · 공급원 {0:F1} L
+logistics.controls,Right-click pallet: load · Ctrl+right-click ground: unload,팔레트 우클릭: 적재 · 지면 Ctrl+우클릭: 하역
+logistics.fob.fuel,FOB fuel station,FOB 급유소
+logistics.fob.landing_pad,FOB landing pad,FOB 착륙 패드
+logistics.load,MOVE / LOAD PALLET,이동 / 팔레트 적재
+logistics.pallet.ammunition,Ammunition pallet,탄약 팔레트
+logistics.pallet.construction,Construction pallet,건설 자재 팔레트
+logistics.pallet.fuel,Fuel pallet,연료 팔레트
+logistics.unload,UNLOAD PALLETS,팔레트 하역
+orbit.ammo.105mm,105 mm,105 mm
+orbit.ammo.30mm,30 mm,30 mm
+orbit.ammo.format,{0} {1}/{2},{0} {1}/{2}
+orbit.ammo.hellfire,Hellfire,헬파이어
+orbit.hint.retarget,RMB point · RMB drag radius · −/= radius,우클릭 지점 · 우클릭 끌기 반경 · −/= 반경
+orbit.motion.format,{0} m/s · heading {1:000}° {2},{0} m/s · 기수 {1:000}° {2}
+orbit.notCommandable,Returning — no orders,귀환 중 — 명령 불가
+orbit.orbitline.gunship,Orbit {0} m · fire zone {1} m,선회 반경 {0} m · 사격 구역 {1} m
+orbit.orbitline.recon,Orbit {0} m · watch zone {1} m,선회 반경 {0} m · 감시 구역 {1} m
+orbit.point,Move the orbit to a clicked point (radius kept),찍은 지점으로 선회 지점 이동(반경 그대로)
+orbit.position.format,Orbit centre {0:F1} km · {1},선회 중심 {0:F1} km · {1}
+orbit.position.meters.format,Orbit centre {0} m · {1},선회 중심 {0} m · {1}
+orbit.radius,Orbit radius {0} m,선회 반경 {0} m
+orbit.state.inbound,Inbound,진입 중
+orbit.state.reposition,Moving to the new orbit,선회 지점 이동 중
+orbit.state.rtb,Returning to base,귀환 중
+orbit.state.station.format,Attacking {0}:{1:00},공격 중 {0}:{1:00}
+pg.ammoAdjusted,Vehicle ammunition adjusted.,차량 탄약을 조절했습니다.
+pg.ammoPercent,Ammo (%),탄약 (%)
+pg.appearance,Unit appearance,부대 외형
+pg.appearance.army,US Army · OCP,미 육군 · OCP
+pg.appearance.default,Original appearance,기존 외형
+pg.appearance.delta,Delta Force · Civilian mix,델타포스 · 민간복 혼합
+pg.appearance.devgru,DEVGRU · Arid assault,데브그루 · 사막 돌입
+pg.appearance.fbi,FBI · Tactical team,FBI · 전술팀
+pg.appearance.forcerecon,Force Recon · Reconnaissance,포스리컨 · 정찰
+pg.appearance.gign,GIGN · Counter-terrorism,GIGN · 대테러
+pg.appearance.greenberet,Green Berets · Field,그린베레 · 야전
+pg.appearance.lapd,LAPD · Patrol,LAPD · 순찰경찰
+pg.appearance.marines,US Marines · Woodland,미 해병대 · Woodland
+pg.appearance.raider,Marine Raiders · Woodland,해병 레이더 · 삼림 작전
+pg.appearance.ranger,75th Rangers · OCP,75레인저연대 · OCP
+pg.appearance.review,Military appearance squads,군별 복장·장구 분대
+pg.appearance.reviewHint,Focus a deployed squad with these buttons. Select its soldiers to issue movement and combat orders.,각 버튼으로 배치된 분대 위치를 확인하세요. 병사를 선택하면 이동·전투 명령을 내릴 수 있습니다.
+pg.appearance.seal,Navy SEALs · Desert,네이비 씰 · 사막 작전
+pg.appearance.sheriff,LA Sheriff · Patrol,LA 보안관 · 순찰
+pg.appearance.swat,SWAT · Black tactical,SWAT · 검정 전술복
+pg.applyAmmo,Apply ammo,탄약 적용
+pg.applyFuel,Apply fuel,연료 적용
+pg.blockExists,A civilian group is already active. Restart to create another.,현재 시민 그룹으로 시험 중입니다. 전체 초기화 후 새 그룹을 만드세요.
+pg.blocked,Spawn area is obstructed.,생성 공간이 부족합니다.
+pg.board,Board truck,트럭 승차
+pg.boarding,Boarding.,승차 중입니다.
+pg.cargo.blocked,Passage blocked — waiting,통로 막힘 — 대기
+pg.cargo.busy,Transfer in progress,작업 중
+pg.cargo.hint,The Chinook now shares the Black Hawk scale standard. The current armed Humvee exceeds cabin clearance and cannot be loaded internally.,치누크 크기를 블랙호크와 같은 기준으로 조정했습니다. 현재 무장 험비는 화물실 규격을 초과해 내부 탑재할 수 없습니다.
+pg.cargo.idle,Ready,대기
+pg.cargo.load,Load Humvees,험비 순차 탑재
+pg.cargo.loading,Loading through the rear ramp,후방 램프로 순차 탑재 중
+pg.cargo.needChinook,Place a Chinook first.,치누크를 먼저 배치하세요.
+pg.cargo.prepare,Prepare / compare two Humvees,험비 2대 준비 / 비교
+pg.cargo.prepared,Two Humvees staged. They load into the Chinook through the rear ramp.,적재용 험비 2대 준비. 후방 램프로 치누크에 탑재할 수 있습니다.
+pg.cargo.status,Loaded {0}/2 · Reserved {1}/2 · {2},탑재 {0}/2 · 예약 포함 {1}/2 · {2}
+pg.cargo.title,CH-47F vehicle fit check,CH-47F 차량 적합성 확인
+pg.cargo.unavailable,"Check landing, drivers, space and transfer status.",착륙·조종수·공간 및 작업 상태를 확인하세요.
+pg.cargo.unload,Unload Humvees,험비 순차 하역
+pg.cargo.unloading,Unloading through the rear ramp,후방 램프로 순차 하역 중
+pg.civilians,Civilian transport,시민 승하차장
+pg.clearTargets,Clear targets,사격 대상 초기화
+pg.colossus.battery,"Brood Battery — 6 legs, 5 pores",군체포대 — 6족 · 등 발사구 5
+pg.colossus.batterySummoned,The Brood Battery walks the Cradle's building course — it volleys orbs from its five dorsal pores at the target area in range,군체포대가 요람 건물 코스를 걷는다 — 표적지가 사거리 안이면 등 발사구 5에서 구체를 연사한다
+pg.colossus.cannotFire,"Cannot fire — range, line of fire, reload or a missile in flight",쏠 수 없음 — 사거리 · 사선 · 장전 또는 비행 중인 미사일
+pg.colossus.chain,Chain 16 — five-module colony,사슬 16 — 다섯 마디 군체
+pg.colossus.chainSummoned,The Chain crawls the building course,사슬이 건물 코스를 기어간다
+pg.colossus.clear,Clear colossus and course,거대체 · 코스 치우기
+pg.colossus.cradle,Cradle 25B — six long legs over buildings,"요람 25B — 긴 6족, 건물 넘기"
+pg.colossus.cradleSummoned,The Cradle walks the building course,요람이 건물 코스를 걷는다
+pg.colossus.driftingHive,Drifting Hive — sky leviathan,군체모함 — 하늘 괴수 · 발사구 5
+pg.colossus.driftingHiveSummoned,The Drifting Hive swims over the Chain's course — it throws orbs from its five belly ports at the target area in range,군체모함이 사슬 코스 위를 헤엄치듯 떠간다 — 표적지가 사거리 안이면 배 밑 발사구 5에서 구체를 내던진다
+pg.colossus.follow,Follow colossus,거대체 따라가기
+pg.colossus.heli,Launch a helicopter over the Chain,사슬 위 헬기 띄우기
+pg.colossus.heliLaunched,A helicopter circles over the Chain's path,헬기가 사슬 경로 위를 돈다
+pg.colossus.hint,Builds a building course on the south lot (z −255 / −300) and walks it back and forth. The Ossuary lobs orbs east along z −215 at the target site. The fused people are the horde's own VAT zombie bodies.,남쪽 빈 땅(z −255 · −300)에 건물 코스를 세우고 왕복으로 걷는다. 납골탑은 z −215 줄에서 동쪽 표적지로 구체를 던진다. 표면의 사람들은 호드와 같은 좀비 VAT 몸이다.
+pg.colossus.hive,Corpse hive · zombies born {0}/{1} · fire endurance {2:P0} · {3},시체 요람 · 낳은 좀비 {0}/{1} · 불에 견딤 {2:P0} · {3}
+pg.colossus.hiveBreeding,"writhing, breeding",꿈틀거리며 낳는 중
+pg.colossus.hiveBurnedOut,burned out,다 타서 꺼진다
+pg.colossus.hiveBurning,burning — breeds slower,타는 중 — 덜 낳는다
+pg.colossus.hiveSpent,spent,몸을 다 써서 꺼진다
+pg.colossus.idle,No colossus,거대체 없음
+pg.colossus.immortal,This colossus cannot die (placeholder body),이 거대체는 죽지 않는다(임시 몸)
+pg.colossus.kill,Kill the colossus (option B test),거대체 죽이기 (B안 시험)
+pg.colossus.killed,Body health 0 — the Cradle falls and stays as a corpse hive; the Chain melts and only some bodies get up,"몸통 체력 0 — 요람은 쓰러져 시체 요람으로 남고, 사슬은 녹으며 일부만 일어난다"
+pg.colossus.napalm,Napalm the Cradle's corpse,요람 시체에 네이팜
+pg.colossus.napalmCalled,A napalm flight runs in on the corpse,네이팜 편대가 시체로 들어간다
+pg.colossus.napalmUnavailable,"Napalm unavailable — cooldown, a strike in flight or no corpse",네이팜 불가 — 재사용 대기 · 공습 중 또는 시체 없음
+pg.colossus.needCradle,Summon the Cradle first,요람을 먼저 부르세요
+pg.colossus.none,No colossus,거대체 없음
+pg.colossus.ossuary,Ossuary 17 — orb artillery and infiltration,납골탑 17 — 구체 포격 · 침투
+pg.colossus.ossuarySummoned,The Ossuary closes in and lobs orbs at the target site,납골탑이 표적지로 다가와 구체를 던진다
+pg.colossus.phaseIdle,Waiting,대기
+pg.colossus.phaseLoad,Growing an orb,구체를 뭉치는 중
+pg.colossus.phaseNoTarget,No target in range,사거리 안 표적 없음
+pg.colossus.phaseRecover,Recovering,제자리로
+pg.colossus.phaseReload,Reloading,다음 연사 준비
+pg.colossus.phaseVolley,Firing a volley,연사 중
+pg.colossus.phaseWalk,Walking toward the target,표적지로 걷는 중
+pg.colossus.phaseWhip,Throwing,던짐
+pg.colossus.phaseWindup,Winding up,뒤로 젖히는 중
+pg.colossus.siege,Orbs fired {0} · intercepted {1} · landed {2} · in flight {3} · zombies released {4} · CIWS hits {5} · {6},구체 발사 {0} · 요격 {1} · 착탄 {2} · 비행 중 {3} · 풀린 좀비 {4} · CIWS 명중 {5} · {6}
+pg.colossus.siegeCiws,Target site — squad + ground CIWS,표적지 — 분대 + 지상 CIWS
+pg.colossus.siegeCiwsPlaced,Squad and CIWS placed — the CIWS shoots the orbs down,표적지에 분대와 CIWS를 세웠다 — CIWS가 구체를 요격한다
+pg.colossus.siegeFocus,View the target site,표적지 보기
+pg.colossus.siegeFocused,Viewing the target site,표적지를 본다
+pg.colossus.siegeOpen,Target site — squad only (no CIWS),표적지 — 분대만 (CIWS 없음)
+pg.colossus.siegeOpenPlaced,Squad placed at the target site — a landing orb releases zombies,표적지에 분대를 세웠다 — 구체가 떨어지면 좀비가 풀린다
+pg.colossus.stateCollapsed,Collapsed — too many legs lost,쓰러짐 — 다리를 너무 많이 잃음
+pg.colossus.stateCorpse,Corpse hive — births zombies (only napalm or flamethrowers end it),시체 요람 — 좀비를 낳는다(네이팜 · 화염방사로만 끝난다)
+pg.colossus.stateCrawling,"Down and crawling — drags itself, stabs anything close","쓰러져 기어감 — 남은 다리로 끌고, 다가오면 내리찍는다"
+pg.colossus.stateDown,"Slammed down, stunned",처박혀 기절
+pg.colossus.stateDying,Dying — collapsing,죽는 중 — 무너져 내린다
+pg.colossus.stateRising,Getting up,일어나는 중
+pg.colossus.stateToppling,Toppling — two legs lost on one side,넘어지는 중 — 한쪽 다리를 둘 잃음
+pg.colossus.stateWalking,Walking,걷는 중
+pg.colossus.status,Bodies {0} · visible {1} (low-poly {2}) · draws {3} · verts {4}k · build {5:F0} ms · {6:F1} m/s · crushed {7} · helicopters caught {8},몸 {0} · 보임 {1} (저폴리 {2}) · 드로우 {3} · 정점 {4}k · 생성 {5:F0} ms · {6:F1} m/s · 짓밟기 {7} · 헬기 포획 {8}
+pg.colossus.tank,Shoot a Cradle leg — tank AP,요람 다리 사격 — 전차 철갑탄
+pg.colossus.tankFired,The tank aims at the nearest leg,전차가 가장 가까운 다리를 겨눈다
+pg.colossus.targets,"Place stomp and belly-drop targets (tanks, APCs, squads)",짓밟기 · 배 밑 표적 배치 (전차 · 장갑차 · 분대)
+pg.colossus.targetsPlaced,Targets placed on the Cradle's path,요람 발길에 표적을 세웠다
+pg.colossus.title,Nexus colossi (prototype),넥서스 군체 거대체 (시험)
+pg.colossus.tomahawk,Tomahawk onto the Cradle's body,요람 몸통에 토마호크
+pg.colossus.tomahawkFired,A Tomahawk dives onto the body,토마호크가 몸통으로 강하한다
+pg.colossus.tow,Shoot a Cradle leg — Bradley TOW,요람 다리 사격 — 브래들리 TOW
+pg.colossus.towFired,The Bradley fires a TOW at the nearest leg,브래들리가 가장 가까운 다리에 TOW를 쏜다
+pg.colossus.unavailable,Colossus unavailable — no zombie bodies loaded,거대체를 만들 수 없음 — 좀비 몸이 로드되지 않았다
+pg.colossus.vitals,Body {0:P0} · zombies risen on death {1}/{2} · belly drops {3} → {4} zombies,몸통 {0:P0} · 죽으며 일어난 좀비 {1}/{2} · 배 밑 떨구기 {3}회 → {4}구
+pg.colossus.wounds,Legs lost {0}/{1} · weakest leg {2:P0} · {3},잃은 다리 {0}/{1} · 가장 약한 다리 {2:P0} · {3}
+pg.count,Squad size,분대 인원
+pg.courseComplete,Trial completed.,시험을 완료했습니다.
+pg.courseRunning,Trial running. Following equipment.,시험 중입니다. 장비를 따라갑니다.
+pg.courseTimeout,Trial timed out. Check the route and equipment.,시간 내 완료하지 못했습니다. 경로와 장비 상태를 확인하세요.
+pg.courses,Driving & flight trials,주행 · 비행 시험
+pg.drive,Driving course,차량 주행장
+pg.emergency,Police & SWAT vehicles,경찰·SWAT 차량
+pg.engineer,Engineer,공병
+pg.equipment,Equipment & supplies,장비 · 보급품
+pg.equipmentResources,"Target: {0}
+Fuel {1:0.0}/{2:0.0} L · Ammo {3}/{4}","대상: {0}
+연료 {1:0.0}/{2:0.0} L · 탄약 {3}/{4}"
+pg.explosion.all,"All, in order",전체 순서대로
+pg.explosion.heliCrash,Helicopter crash,헬기 추락
+pg.explosion.hellfire,Hellfire,헬파이어
+pg.explosion.hint,"Plays each weapon's own explosion assets. Zombies stand in a grid at every spot; their health is display-only (75% of a nominal hit), so the inner ring dies and flies while the outer ring is knocked down and gets back up. After the effects finish, zombies are reset and the blasts repeat.","무기마다 실제 폭발 자산 그대로 재생합니다. 폭발 자리마다 좀비를 격자로 세우며, 체력은 전시용(명목 피해의 75%)이라 폭심 쪽은 죽어 날아가고 바깥쪽은 넘어졌다 일어납니다. 이펙트가 끝나면 좀비를 다시 세워 반복합니다."
+pg.explosion.hydra,Hydra rocket,하이드라 로켓
+pg.explosion.idle,Idle,대기 중
+pg.explosion.lane,Explosion,폭발
+pg.explosion.m777,155mm M777,155mm M777
+pg.explosion.mk84,Mk84 2000lb bomb,Mk84 2000lb 폭탄
+pg.explosion.mlrs,MLRS rocket,MLRS 로켓
+pg.explosion.mortar81,81mm mortar,81mm 박격포
+pg.explosion.naval127,Naval gun 127mm,함포 127mm
+pg.explosion.naval155,Naval gun 155mm,함포 155mm
+pg.explosion.naval203,Naval gun 203mm,함포 203mm
+pg.explosion.naval406,Naval gun 406mm,함포 406mm
+pg.explosion.running,Explosion lineup looping,폭발 전시 반복 중
+pg.explosion.start,Start loop,반복 시작
+pg.explosion.status,{0} · cycle {1},{0} · {1}회차
+pg.explosion.stop,Stop,정지
+pg.explosion.tankHe,Tank 120mm HE,전차 120mm 고폭탄
+pg.explosion.title,Explosion lineup,폭발 전시장
+pg.explosion.tlam,Tomahawk cruise missile,토마호크 순항미사일
+pg.explosion.tow,TOW missile,TOW 대전차 미사일
+pg.explosion.vehicleWreck,Vehicle destroyed,차량 격파
+pg.fire.drop,Drop napalm,네이팜 투하
+pg.fire.hint,"Stationary, high-health observation targets replace existing targets and suspend friendly automatic fire. Clear targets to restore firing. Uses real aircraft and napalm cooldown.",관찰용 고체력·정지 상태입니다. 배치 시 기존 표적을 교체하고 아군 자동 사격을 멈춥니다. 표적 제거 시 사격을 복구합니다. 네이팜은 실제 항공 지원으로 투하되며 재사용 대기시간이 있습니다.
+pg.fire.inbound,Napalm flight inbound,네이팜 편대 접근 중
+pg.fire.ready,"1,000 zombies ready — drop napalm","1,000마리 배치 완료 — 네이팜을 투하하세요"
+pg.fire.setup,"Set up / reset 1,000 zombies","좀비 1,000마리 배치 / 초기화"
+pg.fire.status,Alive {0} | Burning {1} | Visible flames {2},생존 {0} · 연소 {1} · 화면 화염 {2}
+pg.fire.title,Zombie fire range,좀비 화염 관찰장
+pg.fire.unavailable,"Set up zombies first, or wait for napalm availability",좀비를 먼저 배치하거나 네이팜 재사용을 기다리세요
+pg.fleet.A10_Aerial,A-10,A-10
+pg.fleet.A10_Detailed,A-10 Detailed (New),A-10 정밀 모델 (신규)
+pg.fleet.CH47_Chinook,CH-47F Chinook,CH-47F Chinook
+pg.fleet.Helicopter_AH6M,AH-6M Little Bird,AH-6M 리틀버드
+pg.fleet.Helicopter_Aerial,MH-6M Little Bird,MH-6M 리틀버드
+pg.fleet.Helicopter_Apache,Apache,아파치
+pg.fleet.Helicopter_BlackHawk,Black Hawk,블랙호크
+pg.fleet.Helicopter_Cobra,Viper,바이퍼
+pg.fleet.Helicopter_Cobra_CAS,Viper CAS,바이퍼 CAS
+pg.fleet.Helicopter_MH60S,Knighthawk,나이트호크
+pg.fleet.Helicopter_Mi24P,Mi-24P Hind,Mi-24P 하인드
+pg.fleet.Helicopter_SupplyBlackHawk,Supply Black Hawk,보급 블랙호크
+pg.fleet.Helicopter_UH1Y,Venom,베놈
+pg.fleet.Jet_Aerial,Jet,전투기
+pg.fleet.Jet_Aerial_CAS,Jet CAS,전투기 CAS
+pg.fleet.Jet_Aerial_F35B,F-35B Lightning II,F-35B 라이트닝 II
+pg.fleet.Jet_Aerial_FA18E,F/A-18F Super Hornet,F/A-18F 슈퍼호넷
+pg.fleet.Vehicle_Bradley,Bradley,브래들리
+pg.fleet.Vehicle_Bradley_Player,Bradley (direct control),브래들리 (직접 조종)
+pg.fleet.Vehicle_Bradley_Player_V2,Bradley (direct control) V2,브래들리 (직접 조종) V2
+pg.fleet.Vehicle_Bradley_V2,Bradley V2,브래들리 V2
+pg.fleet.Vehicle_Humvee,Humvee,험비
+pg.fleet.Vehicle_Humvee_Manned,Humvee (manned),험비 (승무원형)
+pg.fleet.Vehicle_Humvee_Manned_V2,Humvee (manned) V2,험비 (승무원형) V2
+pg.fleet.Vehicle_Humvee_V2,Humvee V2,험비 V2
+pg.fleet.Vehicle_Jeep,Jeep,지프
+pg.fleet.Vehicle_K9,K9,K9
+pg.fleet.Vehicle_LAV,LAV,LAV
+pg.fleet.Vehicle_Police_SUV_LAPD,LAPD patrol SUV,LAPD 순찰 SUV
+pg.fleet.Vehicle_Police_Sedan_LAPD,LAPD patrol car,LAPD 순찰차
+pg.fleet.Vehicle_Police_Sedan_WA,WA police car,WA 경찰차
+pg.fleet.Vehicle_SWAT_BearCat,LAPD BearCat Rescue 4,LAPD 베어캣 Rescue 4
+pg.fleet.Vehicle_SWAT_Peacekeeper,LAPD BEAR rescue truck,LAPD 구조 장갑차 BEAR
+pg.fleet.Vehicle_SWAT_StepVan,LAPD SWAT equipment truck,LAPD SWAT 장비 트럭
+pg.fleet.Vehicle_SupplyTruck,Supply truck,보급 트럭
+pg.fleet.Vehicle_SupplyTruck_Trailer,Supply truck + trailer,보급 트럭 + 트레일러
+pg.fleet.Vehicle_Tank,Tank,전차
+pg.fleet.Vehicle_Tank_Flamethrower,Flamethrower tank,화염방사 전차
+pg.fleet.Vehicle_Tank_German_Player,German tank,독일 전차
+pg.fleet.Vehicle_Tank_Player,Tank (direct control),전차 (직접 조종)
+pg.fleet.Vehicle_Tank_Player_V2,Tank (direct control) V2,전차 (직접 조종) V2
+pg.fleet.Vehicle_Tank_Russian_Manned,Russian tank (manned),러시아 전차 (승무원형)
+pg.fleet.Vehicle_Tank_Russian_Player,Russian tank,러시아 전차
+pg.fleet.Vehicle_Tank_V2,Tank V2,전차 V2
+pg.fleet.Vehicle_TroopTruck,Troop truck,병력 수송 트럭
+pg.fleet.Vehicle_Truck,Truck,트럭
+pg.flight,Helicopter course,헬기 비행장
+pg.focus,Go to zone,구역으로 이동
+pg.force.army,US Army,미 육군
+pg.force.delta,Delta Force,델타포스
+pg.force.devgru,DEVGRU,데브그루
+pg.force.fbi,FBI,FBI
+pg.force.forcerecon,Force Recon,포스리컨
+pg.force.gign,GIGN,GIGN
+pg.force.greenberet,Green Berets,그린베레
+pg.force.lapd,LAPD,LAPD
+pg.force.marines,US Marines,미 해병대
+pg.force.raider,Marine Raiders,해병 레이더
+pg.force.ranger,75th Rangers,75레인저연대
+pg.force.seal,Navy SEALs,네이비 씰
+pg.force.sheriff,LA Sheriff,LA 보안관
+pg.force.swat,SWAT,SWAT
+pg.fuelAdjusted,Vehicle fuel adjusted.,차량 연료를 조절했습니다.
+pg.fuelPercent,Fuel (%),연료 (%)
+pg.help,Controls,조작 안내
+pg.infantry,Barracks,병영
+pg.instructions,"Select carrier, right-click pallet: load
+Right-click ground: move · Ctrl+right-click: unload
+Tab: Commander / direct control
+Trial buttons use the last spawned equipment.
+Targets are live enemies. Clear them after testing.","차량 선택 → 팔레트 우클릭: 적재
+지면 우클릭: 이동 · Ctrl+우클릭: 하역
+Tab: 지휘/직접 조작 전환
+시험 버튼은 마지막에 생성한 장비에 적용됩니다.
+사격 대상은 실제 적입니다. 시험 후 초기화하세요."
+pg.limit,Spawn limit reached.,생성 한도에 도달했습니다.
+pg.logistics,Logistics,물류장
+pg.medic,Medic,의무병
+pg.model,Spawn selection,생성 대상
+pg.model0,Construction pallet,건설 자재 팔레트
+pg.model1,Ammunition pallet,탄약 팔레트
+pg.model10,Black Hawk,블랙호크 헬기
+pg.model11,Viper,바이퍼 헬기
+pg.model12,Jet,전투기
+pg.model13,A-10,A-10
+pg.model2,Fuel pallet,연료 팔레트
+pg.model3,Supply truck,보급 트럭
+pg.model4,Sling transport Black Hawk,슬링 수송 블랙호크
+pg.model5,Civilian transport truck,시민 수송 트럭
+pg.model6,Humvee,험비
+pg.model7,Tank,전차
+pg.model8,Bradley,브래들리
+pg.model9,MD500,MD500 헬기
+pg.moveCivilians,Drive to arrival bay,도착장으로 이동
+pg.moveSquadToRange,Move last squad to firing line,마지막 분대를 사격선으로 이동
+pg.moving,Moving to arrival bay.,도착장으로 이동합니다.
+pg.needTruck,Create a civilian transport truck and group first.,시민 수송 트럭과 시민 그룹을 먼저 생성하세요.
+pg.nexus.assault,Elite assault test,정예 습격 시험
+pg.nexus.assaultFocus,View the assault test,습격 시험장 보기
+pg.nexus.assaultIdle,Assault test not started,습격 시험 전
+pg.nexus.assaultRunning,Elite assault under way: the Breacher is smashing the wall,정예 습격 중 — 파성추가 방벽을 부순다
+pg.nexus.assaultStatus,Wall {0}/{1} · screams {2} · spits {3},방벽 {0}/{1} · 비명 {2} · 침 {3}
+pg.nexus.assaultUnavailable,No FOB site to build the wall on,FOB 부지가 없어 방벽을 세울 수 없음
+pg.nexus.boss,Summon the Behemoth,거상 소환
+pg.nexus.bossMissing,Could not load the Behemoth prefab,거상 프리팹을 불러오지 못함
+pg.nexus.bossSummoned,Behemoth approaching,거상 접근 중
+pg.nexus.crows,Infected crow flock,감염 까마귀 떼
+pg.nexus.crowsReleased,Infected crows released,감염 까마귀 떼 출현
+pg.nexus.hint,"Line-up replaces every zombie on the map and holds friendly fire. The Behemoth walks out from behind the right end, then punches and roars. Release them at the range to watch squads shoot them: hits, falls and crawling. The elite assault test builds a two-high HESCO wall and a squad inside the FOB site, then releases the four castes and a horde: the Breacher smashes HESCO, the Screamer speeds up the horde around it, the Spitter lobs acid over the wall from range, and the Leaper jumps onto the wall. Clear removes the wall.","줄 세우기는 지금 있는 좀비를 모두 바꾸고 아군 사격을 멈춘다. 거상은 줄 오른쪽 뒤에서 걸어 나와 주먹질 · 포효한다. 사격장에 풀면 분대가 쏘아 피격 · 쓰러짐 · 기어가기를 볼 수 있다. 정예 습격 시험은 FOB 부지 안에 HESCO 2층 방벽과 분대를 세우고 정예 4종과 무리를 푼다 — 파성추는 HESCO를 부수고, 비명꾼은 주변 무리를 빠르게 하고, 산성꾼은 사거리에서 벽 너머로 던지고, 도약꾼은 벽을 뛰어오른다. 초기화하면 방벽을 철거한다."
+pg.nexus.legend,Left to right: {0},화면 왼쪽부터: {0}
+pg.nexus.lined,Nexus variants on display,넥서스 변이체 전시 중
+pg.nexus.lineup,Line up for review,줄 세워 보기
+pg.nexus.range,Release at the range,사격장에 풀기
+pg.nexus.released,Nexus variants released at the range,사격장에 넥서스 변이체 투입
+pg.nexus.separator, · , · 
+pg.nexus.title,Nexus variants,넥서스 변이체
+pg.nexus.type.Breacher,Breacher,파성추
+pg.nexus.type.DogBlack,Infected dog (black),감염견(블랙)
+pg.nexus.type.DogPitGrey,Infected dog (grey pit),감염견(회색 핏불)
+pg.nexus.type.DogShepherd,Infected dog (shepherd),감염견(셰퍼드)
+pg.nexus.type.Leaper,Leaper,도약꾼
+pg.nexus.type.Screamer,Screamer,비명꾼
+pg.nexus.type.Spitter,Spitter,산성꾼
+pg.noAmmoStore,No weapon with adjustable ammunition.,잔탄을 조절할 무장이 없습니다.
+pg.noEquipment,No equipment,장비 없음
+pg.noFuelTank,No vehicle with an adjustable fuel tank.,연료를 조절할 차량이 없습니다.
+pg.notReady,Not available in the current state.,현재 상태에서는 실행할 수 없습니다.
+pg.panel,Panel,접기/열기
+pg.range,Firing range,사격장
+pg.ready,Ready,준비 완료
+pg.refuelCancel,Cancel and stow hoses,주유 취소 · 호스 회수
+pg.refuelFobRefill,FOB refill test · drop pallet,FOB 충전 시험 · 파레트 배치
+pg.refuelHint,"Left: fuel pallet / right: FOB
+Reset: vehicle 10% / refill sources
+Target: 90% (2,400L per source)
+Jets can continue at the FOB after exhausting their pallet.","왼쪽: 유류 파레트 / 오른쪽: FOB
+초기화: 차량 10% / 공급원 충전
+주유 목표: 90% (공급원당 2,400L)
+전투기는 파레트 소진 후 FOB에서도 이어서 주유할 수 있습니다."
+pg.refuelModel,Test vehicle,시험 장비
+pg.refuelOverview,Refuelling area overview,주유장 넓게 보기
+pg.refuelRange,Refuelling range · all models,주유 시험장 · 전 기종
+pg.refuelRefillStarted,FOB emptied and a fuel pallet dropped by its fill coupling. The attendant pumps it in.,FOB를 비우고 충전구 옆에 연료 파레트를 놓았습니다. 보급병이 옮겨 채웁니다.
+pg.refuelReset,Reset fuel,연료 초기화
+pg.refuelResetBusy,Wait for hose stowage and crew return before resetting,호스 회수와 승무원 복귀가 끝난 뒤 초기화하세요
+pg.refuelResetDone,Vehicle fuel 10% / both sources replenished,차량 연료 10% / 두 공급원 충전 완료
+pg.refuelSource,Fuel source,공급원
+pg.refuelStart,Refuel selected vehicle,선택 장비 주유 시작
+pg.refuelStationStatus,FOB fuel point {0:0} / {1:0} L · {2},FOB 유류 거점 {0:0} / {1:0} L · {2}
+pg.refuelStatus,"{0} models · vehicle {1:F1} L
+{2}
+{3}","배치 {0}종 · 차량 {1:F1} L
+{2}
+{3}"
+pg.reset,Restart entire playground,훈련장 전체 다시 시작
+pg.resourceHint,Applies to the last spawned equipment. Sets each weapon to its capacity percentage. Normal consumption and automatic reload continue afterwards.,마지막 생성 장비에 적용합니다. 탄약은 무장별 정원 비율로 설정됩니다. 적용 후 일반 소비·자동 재장전은 계속됩니다.
+pg.rifleman,Rifleman,소총수
+pg.role,Role,병종
+pg.runway,Jet runway,전투기 활주로
+pg.shotgunner,Shotgunner,산탄총수
+pg.sniper,Sniper,저격수
+pg.spawn,Spawn,생성
+pg.spawnCivilians,Spawn civilians,시민 생성
+pg.spawnSquad,Spawn armed squad,무장 분대 생성
+pg.spawnTargets,Spawn 10 live targets,사격 대상 좀비 10명
+pg.spawned,Spawned.,생성했습니다.
+pg.startDrive,Start last vehicle course,마지막 차량 주행 시작
+pg.startFlight,Start last helicopter course,마지막 헬기 비행 시작
+pg.startJet,Launch last jet,마지막 전투기 이륙 시작
+pg.status,"Construction {0} · Fuel {1}
+Civilians {2} · Hostiles {3}
+Speed {4:0.0} m/s · Altitude {5:0.0} m","건설 {0} · 연료 {1}
+시민 {2} · 적 {3}
+속도 {4:0.0} m/s · 고도 {5:0.0} m"
+pg.stopCourse,End automatic trial,자동 시험 종료
+pg.targetsLive,Live hostile targets spawned. They can approach and attack.,실제 적 좀비를 생성했습니다. 접근과 공격에 주의하세요.
+pg.title,COMBINED ARMS RANGE,통합 훈련장
+pg.unload,Unload here,현재 위치에서 하차
+pg.unloading,Unloading.,하차 중입니다.
+pg.weapon,Weapon,무기
+pg.wrongVehicle,Spawn the matching equipment first.,해당 시험용 장비를 먼저 생성하세요.
+pg.zone,Zone,구역
+supgrid.name.a10,A-10,A-10
+supgrid.name.ac130,AC-130J,AC-130J
+supgrid.name.carrier,F/A-18F,F/A-18F
+supgrid.name.f15e,F-15E,F-15E
+supgrid.name.f35b,F-35B,F-35B
+supgrid.name.gun,5-in gun,함포 5인치
+supgrid.name.mq9,MQ-9,MQ-9
+supgrid.name.tlam,Tomahawk,토마호크
+supgrid.panel.wheel,Support wheel,지원 휠
+supgrid.tip.call,Left-click to designate,좌클릭 표적 지정
+supgrid.tip.carrier,Right-click for carrier ops,우클릭 항모 창
+supgrid.value.guns_format,{0} guns,{0}문
+supgrid.value.missions_format,{0},{0}회
+supgrid.value.rounds_format,{0} rds,{0}발
+supgrid.word.aiming,Aiming,지정 중
+supgrid.word.alert,Alert,긴급 대기
+supgrid.word.alertprep,Prep,긴급 준비
+supgrid.word.attack,Attacking,공격 중
+supgrid.word.depleted,Out of ammo,탄약 없음
+supgrid.word.down,Down,가동 불가
+supgrid.word.empty,Out of ammo,탄약 없음
+supgrid.word.firing,Firing,사격
+supgrid.word.inbound,Inbound,진입
+supgrid.word.inflight,Flight,비행
+supgrid.word.noaircraft,No aircraft,기체 없음
+supgrid.word.onstation,Orbit,공격 중
+supgrid.word.ready,Ready,준비
+supgrid.word.rearm,Rearming,재무장
+supgrid.word.rebase,Rebasing,기지 이동
+supgrid.word.reload,Reload,장전
+supgrid.word.requested,Queued,요청
+supgrid.word.rtb,RTB,귀환
+supgrid.zone.orbit,Orbit support,선회 지원
+supgrid.zone.strike,Air strike,항공 타격
+supwheel.cat.air,Air,항공
+supwheel.cat.fleet,Fleet,함대
+supwheel.cat.fob,FOB guns,FOB 포대
+supwheel.close,Close,닫기
+supwheel.hint_format,Click: pick · Right-click: back · {0}: close,클릭 고르기 · 우클릭 뒤로 · {0} 닫기
+supwheel.sub_format,{0} · {1} ready,{0} · 준비 {1}
+supwheel.title,Support,지원
+vehicle.supply.blackhawk,Sling transport Black Hawk,슬링 수송 블랙호크
+vehicle.supply.truck,Supply truck,보급 트럭
+vehicle.supply.truck.trailer,Supply truck + trailer,보급 트럭 + 트레일러

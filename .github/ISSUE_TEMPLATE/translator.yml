@@ -1,0 +1,42 @@
+name: Join as a translator
+description: Apply to translate Ebbtide into your language.
+title: "[Translator] "
+labels: ["translation"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Language and region, e.g. German, Brazilian Portuguese, Romanian.
+    validations:
+      required: true
+  - type: dropdown
+    id: native
+    attributes:
+      label: Is this your native language?
+      options:
+        - "Yes"
+        - "No, but I am fluent"
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Translation experience
+      description: Games, mods or other projects you have translated, if any. No experience is fine too.
+  - type: input
+    id: discord
+    attributes:
+      label: Discord name
+      description: So we can reach you on the Ebbtide Discord server.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: I will not use AI or machine translation for my submissions.
+          required: true
+        - label: I have read and agree to CONTRIBUTOR_TERMS.md.
+          required: true
+        - label: I am 18 or older, or a parent or guardian agrees with me.
+          required: true

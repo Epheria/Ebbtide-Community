@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.csv text eol=lf
+*.flac binary
+*.wav binary
+*.ogg binary
+*.mp3 binary

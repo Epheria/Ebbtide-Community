@@ -1,0 +1,2618 @@
+key,en,ko
+LAOps_ActiveOperation,ACTIVE OPERATION,활성 작전
+LAOps_Agency_CHP_Marker,HP,HP
+LAOps_Agency_CHP_Name,California Highway Patrol,캘리포니아 고속도로순찰대
+LAOps_Agency_CHP_Short,CHP,CHP
+LAOps_Agency_LAPD_Marker,PD,PD
+LAOps_Agency_LAPD_Name,Los Angeles Police,LA 경찰국
+LAOps_Agency_LAPD_Short,LAPD,LAPD
+LAOps_Agency_LASD_Marker,SD,SD
+LAOps_Agency_LASD_Name,LA County Sheriff,LA 카운티 보안관
+LAOps_Agency_LASD_Short,LASD,LASD
+LAOps_Agency_NG_Name,National Guard,주방위군
+LAOps_Agency_NG_Short,NG,NG
+LAOps_Agency_PortPolice_Marker,PP,PP
+LAOps_Agency_PortPolice_Name,Port of Los Angeles Police,LA 항만경찰
+LAOps_Agency_PortPolice_Short,PORT PD,항만경찰
+LAOps_Agency_USMC_Marker,MC,MC
+LAOps_Agency_USMC_Name,Marine Corps,해병대
+LAOps_Agency_USMC_Short,USMC,USMC
+LAOps_AirBase_March,March ARB (off map),March ARB(지도 밖)
+LAOps_AirBasing_Summary_Format,{0} — {1},{0} — {1}
+LAOps_AirBasing_Summary_Hint,Click an airport to move a home base,공항을 눌러 모기지를 옮긴다
+LAOps_AirSquadron_A10_Class,A-10C Thunderbolt II · LAX,A-10C 선더볼트 II · LAX
+LAOps_AirSquadron_A10_Marker,TB,TB
+LAOps_AirSquadron_A10_Title,A-10C close air support ×{0},A-10C 근접지원 ×{0}
+LAOps_AirSquadron_AC130J_Class,AC-130J Ghostrider,AC-130J 고스트라이더
+LAOps_AirSquadron_AC130J_Marker,AC,AC
+LAOps_AirSquadron_AC130J_Title,AC-130J gunship ×{0},AC-130J 건십 ×{0}
+LAOps_AirSquadron_F15E_Class,F-15E Strike Eagle · based at LAX,F-15E 스트라이크 이글 · LAX 배치
+LAOps_AirSquadron_F15E_Marker,SE,SE
+LAOps_AirSquadron_F15E_Title,F-15E flight ×{0},F-15E 편대 ×{0}
+LAOps_AirSquadron_F35B_Class,F-35B Lightning II · MCAS Miramar,F-35B 라이트닝 II · MCAS 미라마
+LAOps_AirSquadron_F35B_Marker,LB,LB
+LAOps_AirSquadron_F35B_Title,F-35B flight ×{0},F-35B 편대 ×{0}
+LAOps_AirSquadron_MQ9_Class,MQ-9A Reaper · 163d ATKW,MQ-9A 리퍼 · 163 공격비행단
+LAOps_AirSquadron_MQ9_Marker,MQ,MQ
+LAOps_AirSquadron_MQ9_Title,MQ-9 Reaper ×{0},MQ-9 리퍼 ×{0}
+LAOps_Airport_Block_Lost,Fallen territory,함락 지역
+LAOps_Airport_Block_Relocating,Already relocating,이미 이전 중
+LAOps_Airport_Block_Runway_Format,Needs a runway of {0:N0} m or longer,활주로 {0:N0} m 이상 필요
+LAOps_Airport_Block_Sortie,On sortie — relocate after it returns,출격 중 — 돌아온 뒤에 옮길 수 있다
+LAOps_Airport_Btn_BaseHere_Format,{0} — base here,{0} — 이곳을 모기지로
+LAOps_Airport_Btn_ReturnMain_Format,Return to {0},본 기지로 복귀 — {0}
+LAOps_Airport_Hint,"An on-map home base skips the off-map transit, so sorties arrive sooner. Rearming takes longer, and the squadron cannot sortie while moving.","모기지가 지도 안에 있으면 지도 밖 비행이 없어 도착이 빠르다. 대신 재장전이 길고, 옮기는 동안에는 출격할 수 없다."
+LAOps_Airport_Lost,Fallen territory — aircraft cannot be based here,함락 지역 — 항공기를 둘 수 없다
+LAOps_Airport_Runway_Format,Longest runway {0:N0} m · {1} runway(s),최장 활주로 {0:N0} m · 활주로 {1}개
+LAOps_Airport_Section_Basing,AIR BASING,항공 기지
+LAOps_Airport_State_Based_Format,Based {0}/{1},주둔 {0}/{1}
+LAOps_Airport_State_InFlight,On sortie,출격 중
+LAOps_Airport_State_Rearming_Format,Rearming {0}:{1:00},재장전 {0}:{1:00}
+LAOps_Airport_State_Rebasing_Format,Relocating {0}:{1:00},이전 중 {0}:{1:00}
+LAOps_AlertCat_Front,FRONT,전선
+LAOps_AlertCat_Good,GOOD NEWS,좋은 소식
+LAOps_AlertCat_Raid,RAID,습격
+LAOps_AlertCat_Rescue,RESCUE,구조
+LAOps_AlertCat_Supply,SUPPLY,보급
+LAOps_Alert_ContactWithdraw,Contact · {0} withdrawing,접촉 · {0} 후퇴
+LAOps_Alert_ConvoyLost,Supply route cut · convoy from {0} recalled (refunded),수송로 단절 · {0} 출발 수송대를 거둠(환불)
+LAOps_Alert_ConvoyStalled,Route cut · engineer convoy {0},수송로 단절 · 공병 수송대 {0}
+LAOps_Alert_ConvoyThreat,Horde close to a convoy,수송대 가까이에 좀비 무리
+LAOps_Alert_ConvoyThreatUnseen,? Contact imminent · near a convoy,? 접촉 임박 · 수송대 근처
+LAOps_Alert_CutOffCritical,{0} · running out · {1}h {2:00}m left,{0} · 생존 시간 임박 · {1}시간 {2:00}분
+LAOps_Alert_CutOffIsolated,{0} · {1}h {2:00}m left,{0} · 생존 {1}시간 {2:00}분
+LAOps_Alert_CutOffLost,{0} cut-off unit lost,{0} 고립 부대 연락 끊김
+LAOps_Alert_GroundRouteClosed,I-405 cut · air support only,I-405 막힘 · 헬기로만 지원
+LAOps_Alert_InfluxOpened,Horde influx · {0:N0},좀비 무리 유입 · {0:N0}
+LAOps_Alert_LaxRunwaySecured,LAX runway secured · fighters can sortie,LAX 활주로 확보 · 전투기 출격 가능
+LAOps_Alert_More,{0} +{1},{0} +{1}
+LAOps_Alert_ReinforcementArrived,{0} relief arrived · {1},{0} 증원 도착 · {1}
+LAOps_Alert_ReinforcementNoRoute,PENDLETON relief: no route · {0},PENDLETON 증원 경로 없음 · {0}
+LAOps_Alert_RescueCompleted,{0} rescued,{0} 구출
+LAOps_Alert_ResupplyLost,Resupply convoy lost · {0},재보급 수송대 경로 잃음 · {0}
+LAOps_Alert_RouteLost,Route lost · {0},경로 잃음 · {0}
+LAOps_Alert_SectorCrisis,Sector {0:00} in crisis,섹터 {0:00} 위기
+LAOps_Alert_SectorLost,Sector {0:00} has fallen,섹터 {0:00} 함락
+LAOps_Alert_UnitDestroyed,{0} wiped out on the battlefield,{0} 전멸 — 전장에서 부대를 잃었다
+LAOps_Alert_WithdrawNoRoute,No withdraw route · {0},후퇴로 없음 · {0}
+LAOps_Area_BeverlyHills,BEVERLY HILLS,베벌리힐스
+LAOps_Area_Burbank,BURBANK,버뱅크
+LAOps_Area_Carson,CARSON,카슨
+LAOps_Area_Compton,COMPTON,콤프턴
+LAOps_Area_CulverCity,CULVER CITY,컬버시티
+LAOps_Area_ElSegundo,EL SEGUNDO,엘세군도
+LAOps_Area_Encino,ENCINO,엔시노
+LAOps_Area_Glendale,GLENDALE,글렌데일
+LAOps_Area_Inglewood,INGLEWOOD,잉글우드
+LAOps_Area_Koreatown,KOREATOWN,코리아타운
+LAOps_Area_LongBeach,LONG BEACH,롱비치
+LAOps_Area_ManhattanBeach,MANHATTAN BEACH,맨해튼 비치
+LAOps_Area_PacificPalisades,PACIFIC PALISADES,퍼시픽 팰리세이즈
+LAOps_Area_PalosVerdes,PALOS VERDES,팔로스버디스
+LAOps_Area_SantaMonica,SANTA MONICA,산타모니카
+LAOps_Area_SouthLA,SOUTH LA,사우스 LA
+LAOps_Area_Torrance,TORRANCE,토런스
+LAOps_Area_VanNuys,VAN NUYS,밴나이스
+LAOps_Area_WestHollywood,WEST HOLLYWOOD,웨스트 할리우드
+LAOps_Area_Westwood,WESTWOOD,웨스트우드
+LAOps_Asset_AttackHeli,Attack heli,공격 헬기
+LAOps_Asset_Fighter,Fighter,전투기
+LAOps_Asset_Himars,HIMARS section,HIMARS 분대
+LAOps_Asset_M777,M777 battery,M777 포대
+LAOps_Asset_Mortar,Mortar team,박격포 팀
+LAOps_Asset_ScoutHeli,Scout heli,정찰 헬기
+LAOps_Asset_TransportHeli,Transport heli,수송 헬기
+LAOps_BaseSortie_Ammo_Format,{0} {1}/{2},{0} {1}/{2}
+LAOps_BaseSortie_Btn_Rtb,Return to base,조기 귀환
+LAOps_BaseSortie_Forward,"Launched from a FOB landing pad — short flight, fast rearm",FOB 착륙 패드에서 출격 — 짧은 비행 · 빠른 재장전
+LAOps_BaseSortie_Hint,"Land-based sortie — orbits and fires over the target on its own, then returns. Cannot be ordered.",지상 기지 출격 — 표적 상공에서 스스로 선회 · 사격하고 돌아간다. 명령할 수 없다.
+LAOps_BaseSortie_Hint_Retarget,Right-click to retarget — attack time and ammunition carry over. A distant target means flying there and re-entering. Shift+right-click = queue · Right-drag = route (orbits at each point).,우클릭으로 목표를 바꾼다 — 남은 공격 시간 · 탄약은 그대로다. 먼 곳이면 날아가서 다시 진입한다. Shift+우클릭 = 예약 · 우클릭 드래그 = 경로(지점마다 선회).
+LAOps_BaseSortie_Home_Format,Home base — {0},모기지 — {0}
+LAOps_BaseSortie_Phase_Egress,Returning to base,기지로 귀환
+LAOps_BaseSortie_Phase_Ingress,Inbound to target,표적으로 비행
+LAOps_BaseSortie_Phase_Launching,Taking off · en route,기지 이륙 · 이동
+LAOps_BaseSortie_Phase_OnStation,Attacking over target,표적 상공 공격 중
+LAOps_BaseSortie_Phase_Recovering,Landing at base,기지 착륙
+LAOps_BaseSortie_Rtb_Format,Time to landing {0}:{1:00},기지 착륙까지 {0}:{1:00}
+LAOps_BaseSortie_Station_Format,Attack time left {0}:{1:00},남은 공격 시간 {0}:{1:00}
+LAOps_Btn_Carrier_Alert,SCRAMBLE STANDBY,긴급 출격 대기
+LAOps_Btn_Carrier_AlertCancel,STAND DOWN,긴급 출격 대기 해제
+LAOps_Btn_Fleet_Disembark,Disembark squads,승선 분대 하선
+LAOps_Btn_Unit_Embark,Board {0},{0} 승선
+LAOps_Carrier_Loadout_Gbu12,Precision — GBU-12 ×4 · Mk 82 ×2,정밀 — GBU-12 ×4 · Mk 82 ×2
+LAOps_Carrier_Loadout_Mk77,Mk 77 fire bomb ×2,Mk 77 소이탄 ×2
+LAOps_Carrier_Loadout_Mk82,General — Mk 82 ×4 · GBU-12 ×2,범용 — Mk 82 ×4 · GBU-12 ×2
+LAOps_Clock_Day_Format,DAY {0},DAY {0}
+LAOps_Clock_Paused,PAUSED,정지
+LAOps_Clock_Phase_Dawn,Dawn,새벽
+LAOps_Clock_Phase_Day,Day,주간
+LAOps_Clock_Phase_Dusk,Dusk,황혼
+LAOps_Clock_Phase_Night,Night,야간
+LAOps_Clock_Speed_Format,{0}×,{0}배
+LAOps_Clock_Until_Format,{0} in {1},{0} {1}
+LAOps_Consequence_Label,IF LOST,놓치면
+LAOps_ContextConsequence,Its state changes as the infection spreads.,감염이 퍼지면 이 구역의 상태도 바뀝니다.
+LAOps_ContextOnly,"This location stays on the map and later routes, but you can't deploy here now.",지금은 출격할 수 없지만 지도와 다음 작전 경로에는 남아 있습니다.
+LAOps_ContinueGlobal,Withdraw to world map,철수하고 세계 지도로
+LAOps_Convoy_AirNoThreat,Airborne — road hordes do not apply,공중 — 도로 위 좀비 무리와 무관
+LAOps_Convoy_AirRoute_Format,Flight {0:F1} km total · Fuel {1} / {2} held,직선 비행 {0:F1} km · 연료 {1} / 보유 {2}
+LAOps_Convoy_Air_Purpose_Format,{0} (helo),헬기 {0}
+LAOps_Convoy_Block_ConcurrentCap,Too many convoys on the move,동시에 움직일 수 있는 수송대 수를 넘는다
+LAOps_Convoy_Block_InsufficientComponents,Not enough parts,부품이 모자란다
+LAOps_Convoy_Block_InsufficientFuel,Not enough fuel,연료가 모자란다
+LAOps_Convoy_Block_InsufficientSeats,Not enough seats (own units are not split),좌석이 모자란다(우리 부대는 나눠 태우지 않는다)
+LAOps_Convoy_Block_NeedsTruck,Needs a cargo truck,화물 트럭이 필요하다
+LAOps_Convoy_Block_NoCargoSpace,Not enough cargo space (one crate per helicopter),실을 칸이 모자란다(헬기 한 대에 보급 상자 1개)
+LAOps_Convoy_Block_NoHelicopters,Not enough transport helicopters,쓸 수 있는 수송 헬기가 모자란다
+LAOps_Convoy_Block_NoHelipad,No helipad at the base,출발 기지에 헬기장이 없다
+LAOps_Convoy_Block_NoLedger,Operation data not ready,작전 정보가 준비되지 않았다
+LAOps_Convoy_Block_NoRoute,No road route,도로 경로가 없다
+LAOps_Convoy_Block_NoTarget,No valid target,대상이 없다
+LAOps_Convoy_Block_NoVehicles,No vehicles,차량이 없다
+LAOps_Convoy_Block_None,,
+LAOps_Convoy_Block_NothingToCarry,Nothing to carry,실을 것이 없다
+LAOps_Convoy_Block_PoolShort,Not enough vehicles at the base,기지에 차량이 모자란다
+LAOps_Convoy_Block_TargetBusy,A convoy is already on its way,이미 수송대가 가는 중이다
+LAOps_Convoy_Block_TooManyVehicles,Over the per-convoy vehicle limit,한 편의 차량 상한을 넘는다
+LAOps_Convoy_Btn_Cancel,CANCEL,취소
+LAOps_Convoy_Btn_Civilians,FORM CIVILIAN CONVOY,시민 수송대 편성
+LAOps_Convoy_Btn_Depart,DEPART,출발
+LAOps_Convoy_Btn_Focus,FOLLOW,추적
+LAOps_Convoy_Btn_HeliLess,HELO −,헬기 −
+LAOps_Convoy_Btn_HeliMore,HELO +,헬기 +
+LAOps_Convoy_Btn_Recall,RECALL,복귀
+LAOps_Convoy_Btn_Rescue,FORM RESCUE CONVOY,구조 수송대 편성
+LAOps_Convoy_Btn_Supply,FORM SUPPLY CONVOY,보급 수송대 편성
+LAOps_Convoy_Btn_ToHelicopter,SEND BY HELICOPTER,헬기로 보내기
+LAOps_Convoy_Btn_ToTruck,SEND BY TRUCK,트럭으로 보내기
+LAOps_Convoy_Btn_Troops,FORM TROOP CONVOY,병력 수송대 편성
+LAOps_Convoy_Btn_TruckLess,TRUCK −,트럭 −
+LAOps_Convoy_Btn_TruckMore,TRUCK +,트럭 +
+LAOps_Convoy_Caption_Format,Convoy · {0},수송대 편성 · {0}
+LAOps_Convoy_Card_Helicopters_Format,Transport helicopters {0},수송 헬기 {0}대
+LAOps_Convoy_Card_Title_Format,{0} convoy,{0} 수송대
+LAOps_Convoy_Cargo_Format,Vehicles {0} · Troops {1} · Civilians {2} · Crates {3},차량 {0} · 병력 {1} · 시민 {2} · 보급 상자 {3}
+LAOps_Convoy_DropChange_Format,DROP AT {0} · CHANGE,내릴 곳 {0} · 바꾸기
+LAOps_Convoy_Drop_Format,Drop at {0},내릴 곳 {0}
+LAOps_Convoy_Eta_Format,First arrival {0}:{1:00} · ops clock +{2}h {3:00}m,첫 도착 {0}:{1:00} · 작전 시각 +{2}h {3:00}m
+LAOps_Convoy_Helicopters_Format,Transport helicopters {0} · {1} ready,수송 헬기 {0} · 출동 가능 {1}
+LAOps_Convoy_HordeNone,No horde near the route,경로 근처에 좀비 무리 없음
+LAOps_Convoy_HordeWarn_Format,WARNING · horde within {0:F1} km of the route,경고 · 경로 {0:F1} km 안에 좀비 무리
+LAOps_Convoy_Horde_Format,Nearest horde to the route {0:F1} km,경로에서 가장 가까운 좀비 무리 {0:F1} km
+LAOps_Convoy_List_Caption,CONVOYS,수송대
+LAOps_Convoy_Load_Civilians_Format,Civilian space {0} / {1} sheltering,시민 칸 {0} / 머무는 시민 {1}
+LAOps_Convoy_Load_Supply_Format,Crates {0} · Parts {1} / {2} held,보급 상자 {0} · 부품 {1} / 보유 {2}
+LAOps_Convoy_Load_TroopsShort_Format,Seats {0} / {1} personnel · {2} stay behind,좌석 {0} / 인원 {1} · {2}명은 남는다
+LAOps_Convoy_Load_Troops_Format,Seats {0} / {1} personnel,좌석 {0} / 인원 {1}
+LAOps_Convoy_Origin_Format,From {0},출발 기지 {0}
+LAOps_Convoy_Phase_Carry,carrying,수송 중
+LAOps_Convoy_Phase_Deliver,delivering,배달 가는 중
+LAOps_Convoy_Phase_Returning,returning,복귀 중
+LAOps_Convoy_Phase_ToPickup,to pickup,태우러 가는 중
+LAOps_Convoy_Pool_Caption,MOTOR POOL,차고
+LAOps_Convoy_Pool_Format,Cargo trucks {0}/{1} · Humvees {2}/{3},화물 트럭 {0}/{1} · 험비 {2}/{3}
+LAOps_Convoy_Pool_Lav_Format,LAV {0}/{1},LAV {0}/{1}
+LAOps_Convoy_Purpose_Civilians,Civilian lift,시민 수송
+LAOps_Convoy_Purpose_Supply,Supply,보급
+LAOps_Convoy_Purpose_Troops,Troop lift,병력 수송
+LAOps_Convoy_Road_Format,Road {0:F1} km total · Fuel {1} / {2} held,도로 전 구간 {0:F1} km · 연료 {1} / 보유 {2}
+LAOps_Convoy_Row_Eta_Format,{0} · {1}:{2:00},{0} · {1}:{2:00}
+LAOps_Convoy_Row_Head_Format,{0} → {1} · {2},{0} → {1} · {2}
+LAOps_Convoy_Shelter_Format,Sheltering civilians {0},머무는 시민 {0}
+LAOps_Convoy_TooLate,WARNING · cannot arrive within the survival time,경고 · 남은 생존 시간 안에 닿지 못한다
+LAOps_Convoy_Tray,Convoys,콘보이
+LAOps_Convoy_Tray_Heli_Format,{0} · helos {1}/{2},{0} · 헬기 {1}/{2}
+LAOps_Convoy_Tray_State_Format,{0}/{1} out · trucks {2}/{3},이동 {0}/{1} · 트럭 {2}/{3}
+LAOps_Convoy_Vehicles_Format,Trucks {0} · Humvees {1} · LAV {2},트럭 {0} · 험비 {1} · LAV {2}
+LAOps_Corridor_MsrLabel,{0} MSR,{0} 주 보급로
+LAOps_Corridor_PL105,PL 105,PL 105 방어선
+LAOps_CutOff_Chip,{0}h {1:00}m,{0}시간 {1:00}분
+LAOps_Defense_Collapse,Collapsed,붕괴
+LAOps_Defense_Crisis,Crisis,위기
+LAOps_Defense_Hold,Holding,유지
+LAOps_Deploy,DEPLOY TO BATTLEFIELD,전장 투입
+LAOps_DeployBlocked,Select an actionable operation and a ready task force.,행동 가능한 작전과 대기 중인 임무부대를 선택하십시오.
+LAOps_DeployFailed,Tactical deployment failed. The task force was restored.,전술 투입에 실패하여 임무부대를 대기 상태로 복구했습니다.
+LAOps_Drawer_FobTitle,FOBs,전진기지
+LAOps_Drawer_InProgress,In progress,진행 중
+LAOps_Drawer_Label,Situation,상황
+LAOps_Drawer_Stat_Moving,Moving,이동 중
+LAOps_Drawer_Stat_Orders,Open orders,진행 중 명령
+LAOps_Drawer_Stat_Units,Units,부대
+LAOps_Drawer_Sub,Upcoming,다가오는 일
+LAOps_Drawer_Tab_Bases,Bases,기지
+LAOps_Drawer_Tab_Support,Support,지원
+LAOps_Equipment_Apache,AH-64E Apache,AH-64E 아파치
+LAOps_Equipment_BlackHawk,UH-60 Black Hawk,UH-60 블랙호크
+LAOps_Equipment_Bradley,M2 Bradley,M2 브래들리
+LAOps_Equipment_Chinook,CH-47 Chinook,CH-47 치누크
+LAOps_Equipment_Code_Apache,AP,AP
+LAOps_Equipment_Code_BlackHawk,UH,UH
+LAOps_Equipment_Code_Bradley,BR,BR
+LAOps_Equipment_Code_Chinook,CH,CH
+LAOps_Equipment_Code_Humvee,HV,HV
+LAOps_Equipment_Code_Knighthawk,KH,KH
+LAOps_Equipment_Code_Lav,LV,LV
+LAOps_Equipment_Code_Tank,TK,TK
+LAOps_Equipment_Code_Truck,TR,TR
+LAOps_Equipment_Code_Venom,VN,VN
+LAOps_Equipment_Code_Viper,VP,VP
+LAOps_Equipment_Humvee,Humvee,험비
+LAOps_Equipment_Knighthawk,MH-60S Knighthawk,MH-60S 나이트호크
+LAOps_Equipment_Lav,LAV-25,LAV-25
+LAOps_Equipment_Tank,M1 Abrams,M1 에이브럼스
+LAOps_Equipment_Title_Format,{0} {1},{0} {1}
+LAOps_Equipment_Truck,Cargo truck,수송 트럭
+LAOps_Equipment_Venom,UH-1Y Venom,UH-1Y 베놈
+LAOps_Equipment_Viper,AH-1Z Viper,AH-1Z 바이퍼
+LAOps_Facility_Airport,Airport,공항
+LAOps_Facility_Artillery,Artillery position,포병 진지
+LAOps_Facility_Comms,Comms · recon,통신 · 정찰
+LAOps_Facility_Fob,FOB,FOB
+LAOps_Facility_Medical,Medical · evac,의무 · 후송
+LAOps_Facility_MotorPool,Motor pool,차량 정비소
+LAOps_Facility_SupplyHub,Supply base,보급 기지
+LAOps_Fleet_Class_Cvn,Nimitz-class carrier,니미츠급 항공모함
+LAOps_Fleet_Class_Ddg,Arleigh Burke-class destroyer,알레이버크급 구축함
+LAOps_Fleet_Marker_Cvn,CV,CV
+LAOps_Fleet_Marker_Ddg,DD,DD
+LAOps_Fleet_Ship_Cvn68,CVN-68 Nimitz,CVN-68 니미츠
+LAOps_Fleet_Ship_Ddg1,DDG-1 · Santa Monica Bay,DDG-1 · 산타모니카만
+LAOps_Fleet_Ship_Ddg2,DDG-2 · San Pedro Bay,DDG-2 · 샌피드로만
+LAOps_Fleet_SourceName,LA fleet · Arleigh Burke,LA 함대 · 알레이버크급
+LAOps_Fob_Block_Concurrent,Active FOB cap reached,동시 FOB 상한에 닿았다
+LAOps_Fob_Block_Designated,Already has a facility or project,이미 시설 · 사업이 있다
+LAOps_Fob_Block_FreeDisabled,Free placement is disabled,자유 지정이 꺼져 있습니다
+LAOps_Fob_Block_NoLedger,No campaign data,캠페인 정보 없음
+LAOps_Fob_Block_NoRoute,No road from the origin,출발지에서 가는 도로가 없다
+LAOps_Fob_Block_NotCandidate,Not a candidate base,후보 기지가 아니다
+LAOps_Fob_Block_NotLand,Cannot build on water or off the map,물 위나 지도 밖에는 지을 수 없습니다
+LAOps_Fob_Block_OutOfBattlefield,No battlefield data at this spot,전장 데이터가 없는 곳입니다
+LAOps_Fob_Block_Resources,Not enough components or fuel,부품 또는 연료가 모자란다
+LAOps_Fob_Block_RunCap,Can't build any more this run,이번 판에는 더 지을 수 없다
+LAOps_Fob_Block_TerritoryLost,Cannot build inside Nexus territory,넥서스 영역 안에는 지을 수 없습니다
+LAOps_Fob_Block_TooClose,Too close to another FOB,다른 FOB와 너무 가깝습니다
+LAOps_Fob_Btn_Cancel,CANCEL FOB · REFUND,FOB 지정 취소 · 환불
+LAOps_Fob_Btn_Resupply,RESUPPLY · {0} CRATES · COMPONENTS {1} · FUEL {2},자재 재보급 · 보급 상자 {0} · 부품 {1} · 연료 {2}
+LAOps_Fob_Build_Format,Build {0:00}:{1:00} → then helipad and support radius,건설 {0:00}:{1:00} → 완공 뒤 헬기장 · 지원 반경
+LAOps_Fob_Caps_Format,Active {0}/{1} · Run {2}/{3},동시 {0}/{1} · 회차 {2}/{3}
+LAOps_Fob_Chip_Building_Format,FOB BUILD {0:00}:{1:00},FOB 건설 {0:00}:{1:00}
+LAOps_Fob_Chip_Planned,FOB CONVOY,FOB 수송 중
+LAOps_Fob_Cost_Caption,COST · TRANSPORT,필요 자원 · 수송
+LAOps_Fob_Cost_Format,Components {0} (have {1}) · Fuel {2} (have {3}) · Engineer convoy 1,부품 {0} (보유 {1}) · 연료 {2} (보유 {3}) · 공병 수송대 1
+LAOps_Fob_Cta,DESIGNATE FOB,FOB 지정
+LAOps_Fob_Designate_Here,DESIGNATE FACILITY (F),시설 지정 (F)
+LAOps_Fob_Exit,EXIT,나가기
+LAOps_Fob_ExitHint,Esc / right-click to exit,Esc · 우클릭 = 나가기
+LAOps_Fob_FreePickHint,Water and spots near another FOB are blocked — the cursor ghost shows it first,물 위나 다른 FOB 가까이는 지정할 수 없습니다 — 커서 고스트 색으로 먼저 보입니다
+LAOps_Fob_FreePoint,Open ground,자유 지점
+LAOps_Fob_FreeSite_Format,FOB {0},FOB {0}
+LAOps_Fob_HordeUnknown,No horde data,좀비 무리 정보 없음
+LAOps_Fob_Horde_Format,Nearest horde {0:F1} km,가장 가까운 좀비 무리 {0:F1} km
+LAOps_Fob_Hover_Blocked_Format,Cursor — {0},커서 지점 — {0}
+LAOps_Fob_Hover_Ready,Cursor — click to designate here,커서 지점 — 누르면 바로 지정합니다
+LAOps_Fob_LandingPads_Format,Landing pads {0} · F-35B forward basing,착륙 패드 {0} · F-35B 전진 배치
+LAOps_Fob_Locked_OpeningDefense,FOB designation · opens after the withdrawal order,FOB 지정 · 철수 명령 뒤에 열립니다
+LAOps_Fob_NoRoad,No road route from the origin,출발지에서 가는 도로 경로 없음
+LAOps_Fob_PickHint,Click a candidate base (hollow square) or open ground to designate it,후보 기지(속 빈 사각)나 빈 땅을 누르면 바로 지정합니다
+LAOps_Fob_Radius_Format,Support radius {0:F1} km · New sectors {1},지원 반경 {0:F1} km · 새로 덮는 구역 {1}
+LAOps_Fob_Redispatch,RE-DISPATCH CONVOY,수송대 재파견
+LAOps_Fob_Resupply_Delivered,Resupplied · {0} crates,재보급 누적 · 보급 상자 {0}
+LAOps_Fob_Resupply_EnRoute,Resupply convoy en route · arrives {0:00}:{1:00},재보급 수송대 이동 중 · 도착 {0:00}:{1:00}
+LAOps_Fob_Road_Format,Road {0:F1} km · convoy arrives {1:00}:{2:00},도로 {0:F1} km · 수송 도착 {1:00}:{2:00}
+LAOps_Fob_Stage_Building_Format,FOB under construction · {0:00}:{1:00} left,FOB 건설 중 · 남은 {0:00}:{1:00}
+LAOps_Fob_Stage_Operational_Format,FOB operational · Support radius {0:F1} km,FOB 운용 · 지원 반경 {0:F1} km
+LAOps_Fob_Stage_Planned_Format,FOB planned · convoy en route · arrives {0:00}:{1:00},FOB 계획 · 수송대 이동 중 · 도착 {0:00}:{1:00}
+LAOps_Fob_Stage_Stalled,FOB planned · Convoy stopped or missing,FOB 계획 · 수송대가 멈췄거나 없다
+LAOps_Fob_Summary_Format,Battlefield FOB · Walls {0} cells · Gate cells {1} · Firing ports {2} · Facilities {3},전장 FOB · 벽 {0}칸 · 문 {1}칸 · 사격구 {2}칸 · 시설 {3}
+LAOps_Fob_Tactical_Chip,Build FOB · J,FOB 건설 · J
+LAOps_Fob_Tactical_DebugInstalled_Format,[Debug] {0} installed instantly,[디버그] {0} 즉시 설치
+LAOps_Fob_Tactical_DebugReady,[Debug] Instant install · no cost — click,[디버그] 즉시 설치 · 비용 없음 — 클릭
+LAOps_Fob_Tactical_Designated_Format,{0} designated — convoy arrives in {1}m {2}s,{0} 지정 — 수송대 도착까지 {1}분 {2}초
+LAOps_Fob_Tactical_Hint,Left-click to set the site · Right-click / Esc to cancel,좌클릭 부지 지정 · 우클릭 / Esc 취소
+LAOps_Fob_Tactical_NoGround,Point the cursor at the ground,커서를 지면 위에 두십시오
+LAOps_Fob_Tactical_Ready_Format,Ready · components {0} · fuel {1} — building starts when the convoy arrives,지정 가능 · 부품 {0} · 연료 {1} — 수송대가 도착하면 건설을 시작합니다
+LAOps_Fob_Title,DESIGNATE FOB,FOB 지정
+LAOps_Fob_Visit,VISIT FOB,FOB 방문
+LAOps_Fob_Visit_Busy,Another battle is in progress,다른 전투가 진행 중이다
+LAOps_Fob_Visit_OutOfPack,Outside the tactical area — map-only FOB,전술 지역 밖 — 지도 전용 FOB
+LAOps_Follow_Btn_Start_Format,FOLLOW [{0}],추적 [{0}]
+LAOps_Follow_Btn_Stop_Format,STOP FOLLOWING [{0}],추적 해제 [{0}]
+LAOps_Formation_Air,HELICOPTER FORMATION,헬기 편대
+LAOps_Formation_Column,Column,종대
+LAOps_Formation_Ground,GROUND FORMATION,지상 대형
+LAOps_Formation_Line,Line,횡대
+LAOps_Formation_Spread_Format,Spacing ×{0:0.#},간격 ×{0:0.#}
+LAOps_Formation_Wedge,V Form,V형
+LAOps_Gauge_Committing_Battle,ENTERING BATTLEFIELD,전장으로 전환
+LAOps_Gauge_Committing_Map,RETURNING TO MAP,작전지도로 전환
+LAOps_Gauge_Decaying,IDLE · DRAINING,입력 없음 · 내려가는 중
+LAOps_Gauge_HintDown_Format,WHEEL ▼ ×{0},휠 ▼ {0}번
+LAOps_Gauge_HintUp_Format,WHEEL ▲ ×{0},휠 ▲ {0}번
+LAOps_Gauge_More_Format,{0} MORE,{0}번 더
+LAOps_Gauge_OneMore,ONE MORE,한 번 더
+LAOps_Gauge_Preparing,PREPARING BATTLEFIELD,전장 준비 중
+LAOps_Gauge_ToBattle,TO BATTLEFIELD,전장으로
+LAOps_Gauge_ToMap,TO MAP,지도로
+LAOps_Gauge_Unavailable,NO BATTLEFIELD HERE,이 구역은 전장이 없음
+LAOps_Hint_Fob,DESIGNATE FOB,FOB 지정
+LAOps_Hint_GroupAssign,ASSIGN GROUP · SHIFT ADD,선택을 그룹으로 · Shift 보태기
+LAOps_Hint_GroupSelect,SELECT GROUP · SHIFT ADD · TWICE GO,그룹 고르기 · Shift 보태기 · 두 번 이동
+LAOps_Hint_HubTour,HUB TOUR,허브 투어
+LAOps_Hint_Layers,LAYERS,레이어
+LAOps_Hint_Pan,MOVE · ROUTE · PAN,이동 · 경로 · 팬
+LAOps_Hint_Reset,RESET,리셋
+LAOps_Hint_Zoom,ZOOM,줌
+LAOps_Horde_Cluster_Format,HORDE {0},군집 {0}
+LAOps_Ins_AgencyUnit_Title,{0} UNIT,{0} 부대
+LAOps_Ins_Allied_Strength,{0} · {1} personnel,{0} · {1}명
+LAOps_Ins_Assign_NoTaskForce,NO TASK FORCE TO REINFORCE,보충할 임무부대 없음
+LAOps_Ins_Auth_Attached,ALLIED,협력 부대
+LAOps_Ins_Auth_Direct,DIRECT,직접 지휘
+LAOps_Ins_Auth_Independent,AUTONOMOUS,자율 부대
+LAOps_Ins_Auth_SupportRequest,SUPPORT,지원 요청
+LAOps_Ins_Btn_AssignForm,NEW TASK FORCE,새 임무부대
+LAOps_Ins_Btn_AssignHold,HOLD HERE,이곳 버티기
+LAOps_Ins_Btn_AssignReinforce,REINFORCE {0} +{1},보충 · {0} +{1}명
+LAOps_Ins_Btn_Cancel,CANCEL ORDER,명령 취소
+LAOps_Ins_Btn_CancelAll,CANCEL ALL,전체 취소
+LAOps_Ins_Btn_CancelReinforcement,CANCEL RELIEF,증원 요청 취소
+LAOps_Ins_Btn_LinkUp,LINK UP,합류
+LAOps_Ins_Btn_Recall,RECALL TO COMBAT,회수 · 전투 부대로
+LAOps_Ins_Btn_RequestAirlift,REQUEST AIRLIFT · FUEL {0} · {1} TROOPS,헬기 공수 요청 · 연료 {0} · {1}명
+LAOps_Ins_Btn_RequestReinforcement,REQUEST RELIEF · FUEL {0},이곳으로 증원 요청 · 연료 {0}
+LAOps_Ins_Btn_Withdraw,WITHDRAW,후퇴
+LAOps_Ins_Carrier_Alert_None,No scramble standby · launch {0}s,긴급 출격 대기 없음 · 발진 {0}초
+LAOps_Ins_Carrier_Alert_Preparing,Scramble standby manning up · {0}s,긴급 출격 준비 중 · 조종사 탑승 · 시동 {0}초
+LAOps_Ins_Carrier_Alert_Ready,Scramble standby · launch {0}s,긴급 출격 대기 · 발진 {0}초
+LAOps_Ins_Carrier_Hint,Changing the loadout rearms ready aircraft for {0}s. Scramble standby = a two-jet flight manned and started on the catapults,무장을 바꾸면 출격 대기 기체가 {0}초 동안 재장전한다. 긴급 출격 대기 = 편대 2기가 캐터펄트에서 조종사 탑승 · 시동 대기
+LAOps_Ins_Carrier_Loadout_Format,Loadout · {0},무장 · {0}
+LAOps_Ins_Carrier_Rearm_Format,Rearming {0} · ready in {1}:{2:00},재장전 중 {0}기 · {1}:{2:00} 뒤 대기
+LAOps_Ins_Contact_Pending,Contact watch starting,접촉 감시 대기
+LAOps_Ins_Contact_Unavailable,No contact watch · outside the zombie simulation,접촉 감시 불가 · 좀비 계산 범위 밖
+LAOps_Ins_Contact_Watching,Contact watch · {0} zombies in range,접촉 감시 · 반경 안 좀비 {0}
+LAOps_Ins_CutOff_Caption,CUT OFF · RESCUE CANDIDATE,고립 · 구출 후보
+LAOps_Ins_CutOff_Isolated_Caption,Sector fallen — lost when the time runs out,구역 함락 — 시간이 다하면 잃습니다
+LAOps_Ins_CutOff_Survival,Estimated survival {0}h {1:00}m,생존 예상 {0}시간 {1:00}분
+LAOps_Ins_CutOff_Title,{0} CUT OFF {1},{0} 고립 · {1}
+LAOps_Ins_Delay_Remaining,{0}s left,남은 {0}초
+LAOps_Ins_Domain_Air,AIR,공중
+LAOps_Ins_Domain_Ground,GROUND,지상
+LAOps_Ins_Domain_Naval,NAVAL,해상
+LAOps_Ins_Eta_Format,ETA {0}:{1:00},도착 {0}:{1:00}
+LAOps_Ins_Fleet_AirWing,F/A-18F ready {0} · airborne {1} · rearming {2} / {3} total,F/A-18F 출격 대기 {0} · 출격 {1} · 재장전 중 {2} / 보유 {3}
+LAOps_Ins_Fleet_Aircraft,Helicopters aboard {0}/{1},탑재 헬기 {0}/{1}
+LAOps_Ins_Fleet_Civilians,Rescued civilians {0}/{1},구조 시민 {0}/{1}명
+LAOps_Ins_Fleet_DisembarkNoLand,No shore nearby — move the ship closer to land,근처에 내릴 해안이 없습니다 — 함정을 해안 가까이 옮기세요
+LAOps_Ins_Fleet_Embarked,Embarked squads {0}/{1},승선 분대 {0}/{1}
+LAOps_Ins_Fleet_Gun,5-inch ammunition {0}/{1} rounds · range {2} km,5인치 함포 {0}/{1}발 · 사거리 {2} km
+LAOps_Ins_Fleet_Helipad,Stern helipad · cargo / refuel / rearm / civilian reception,함미 헬기장 · 물자 운반 / 급유 / 재장전 / 시민 수용
+LAOps_Ins_Fleet_HintMoored,Moored in port — does not move,항구 정박 — 이동하지 않는다
+LAOps_Ins_Fleet_HintMovable,Right-click a point at sea to reposition (routes across land are refused),우클릭 — 바다 위 지점으로 옮긴다(육지를 가로지르는 항로는 거부)
+LAOps_Ins_Fleet_HintSupport,Request fire and strikes with the fleet buttons on the mission map,사격 · 공습은 임무 지도의 함대 지원 버튼으로 요청한다
+LAOps_Ins_Fleet_MoveRejected,That route crosses land — pick a point further out at sea,항로가 육지를 가로지른다 — 더 먼 바다 쪽 지점을 고른다
+LAOps_Ins_Fleet_Tomahawk,Tomahawk {0}/{1},토마호크 {0}/{1}발
+LAOps_Ins_Garrison_Fallback,Fallback base · {0},후퇴 기지 · {0}
+LAOps_Ins_Garrison_Title,{0} GARRISON {1},{0} 수비대 · {1}
+LAOps_Ins_Garrison_TitleNoSite,{0} GARRISON,{0} 수비대
+LAOps_Ins_Group_Auth_Format,Direct {0} · Allied {1} · Support {2},직접 {0} · 협력 {1} · 지원 {2}
+LAOps_Ins_Group_Domains_Format,Ground {0} · Air {1} · Naval {2},지상 {0} · 공중 {1} · 해상 {2}
+LAOps_Ins_Group_Moving_Format,Moving {0} · Orders in progress {1},이동 중 {0} · 진행 중 명령 {1}
+LAOps_Ins_Hint_Deploying,Deployment transit · orders locked,출격 수송 중 · 명령 잠김
+LAOps_Ins_Hint_Garrison,Allied garrison · moves only by order buttons,협력 수비대 · 단추 명령으로만 움직임
+LAOps_Ins_Hint_Hydrated,Tactical view has command · map orders locked,전술 창이 지휘 중 · 지도 명령 잠김
+LAOps_Ins_Hint_NotCommandable,Can't be ordered,명령할 수 없는 부대
+LAOps_Ins_Hint_Relocate,Right-click = relocate order,우클릭 = 이동 명령
+LAOps_Ins_Hint_RouteAir,Right-click = move · Shift+right-click = queue · Right-drag = route,우클릭 = 이동 · Shift+우클릭 = 예약 · 우클릭 드래그 = 경로
+LAOps_Ins_LinkUp_NeedsUnit,A directly commanded combat unit must be within {0} m,직접 지휘 전투 부대가 {0}m 안에 있어야 합니다
+LAOps_Ins_OrderStatus_Cancelled,Cancelled,취소
+LAOps_Ins_OrderStatus_Completed,Completed,완료
+LAOps_Ins_OrderStatus_Executing,Executing,실행 중
+LAOps_Ins_OrderStatus_Failed,Failed,실패
+LAOps_Ins_OrderStatus_Issued,Issued,명령함
+LAOps_Ins_Order_Delay,Delay,시간 끌기
+LAOps_Ins_Order_Escort,Escort,호송
+LAOps_Ins_Order_Hold,Hold,버티기
+LAOps_Ins_Order_None,No order,명령 없음
+LAOps_Ins_Order_Reinforce,Reinforce,증원
+LAOps_Ins_Order_Relocate,Relocate,이동
+LAOps_Ins_Order_Rescue,Rescue,구조
+LAOps_Ins_Order_Withdraw,Withdraw,후퇴
+LAOps_Ins_Pendleton_Caption,PENDLETON RELIEF · RESERVE {0}/{1},PENDLETON 증원 · 예비 {0}/{1}
+LAOps_Ins_Pendleton_Elsewhere,Relief in progress · {0},증원 진행 중 · {0}
+LAOps_Ins_Pendleton_EnRoute,En route · arrives in {0}:{1:00},이동 중 · 도착 {0}:{1:00}
+LAOps_Ins_Pendleton_GroundClosed,I-405 is cut — support by helicopter only,I-405가 막혔습니다 — 헬기로만 지원할 수 있습니다
+LAOps_Ins_Pendleton_NoFuel,Not enough fuel · need {0} · have {1},연료 부족 · 필요 {0} · 보유 {1}
+LAOps_Ins_Pendleton_NoReserve,No relief packets left,남은 증원 패킷 없음
+LAOps_Ins_Pendleton_NoRoute,No road from the entry point,진입 지점에서 도로가 닿지 않음
+LAOps_Ins_Pendleton_Preparing,Forming · enters in {0}:{1:00},편성 중 · {0}:{1:00} 뒤 진입
+LAOps_Ins_Reinforcement_Title,{0} RELIEF P{1},{0} 증원 · P{1}
+LAOps_Ins_Section_AirSupport,AIR SUPPORT,항공 지원
+LAOps_Ins_Section_Assignment,ASSIGNMENT,쓸 곳 선택
+LAOps_Ins_Section_ChapterOperation,CHAPTER OPERATION,챕터 작전
+LAOps_Ins_Section_FieldOrder,FIELD ORDER,현장 명령
+LAOps_Ins_Section_Fleet,FLEET,함대
+LAOps_Ins_Sector_Allied,Allied forces · units {0} · {1} personnel,협력 전력 · 부대 {0} · {1}명
+LAOps_Ins_Site_AirCaption_Format,NEARBY AIR · {0:0.#} km,주변 항공 시설 · {0:0.#} km
+LAOps_Ins_Site_Airfields_Format,Airfields {0} · runways {1},비행장 {0}곳 · 활주로 {1}개
+LAOps_Ins_Site_Anchored_Format,Units stationed {0},주둔 부대 {0}
+LAOps_Ins_Site_Helipads_Format,Helipads {0},헬기장 {0}곳
+LAOps_Ins_Site_Roster,BASE STATUS,기지 현황
+LAOps_Ins_Sortie_Class,F/A-18F Super Hornet,F/A-18F 슈퍼호넷
+LAOps_Ins_Sortie_Eta_Format,Time to target {0}:{1:00},표적 도착까지 {0}:{1:00}
+LAOps_Ins_Sortie_Hint,"Carrier air wing flight — flies, bombs and returns on its own",항모 함재기 편대 — 스스로 비행 · 폭격 · 귀환한다
+LAOps_Ins_Sortie_Rtb_Format,Time to landing {0}:{1:00},항모 착륙까지 {0}:{1:00}
+LAOps_Ins_Sortie_Title,F/A-18F flight ×{0},F/A-18F 편대 ×{0}
+LAOps_Ins_Status_Idle,IDLE,대기
+LAOps_Ins_Status_Moving,MOVING,이동 중
+LAOps_Ins_Target_HoldPosition,Holding current position,제자리 버티기
+LAOps_Ins_Target_Point,Target: map point,목표: 지도 지점
+LAOps_Ins_Target_Site_Format,Target: {0},목표: {0}
+LAOps_Ins_TaskForceCap,Up to {0} task forces at once,동시 임무부대는 {0}개까지입니다
+LAOps_Ins_UnitGroupTitle_Format,Units ×{0},부대 {0}개
+LAOps_Ins_UnitTitle_Format,UNIT {0},부대 {0}
+LAOps_Ins_Unit_EmbarkFull,The ship is full,함정 정원이 찼습니다
+LAOps_Ins_Withdraw_NoRoute,No road route to the fallback,후퇴 경로 없음
+LAOps_Iv_LiveTag,LIVE,교전 중
+LAOps_Kicker,OPERATIONS · LOS ANGELES,OPERATIONS · LOS ANGELES
+LAOps_Ledger_Civilians,PROTECTED CIVILIANS,보호 민간인
+LAOps_Ledger_Components,PARTS,부품
+LAOps_Ledger_Food,FOOD,식량
+LAOps_Ledger_Fuel,FUEL,연료
+LAOps_Ledger_Medical,MEDICAL,의료
+LAOps_Ledger_Ordnance,AMMO,탄약
+LAOps_Ledger_Personnel,COMBAT PERSONNEL,전투 인력
+LAOps_Legend_Active,GOLD · ACTIONABLE OPERATION,금색 · 행동 가능 작전
+LAOps_Legend_Context,DARK · REFERENCE / LATER ACT,어두운 색 · 참고 지점 / 다음 막
+LAOps_Location_Near_Format,{0} · near {1},{0} · {1} 부근
+LAOps_Location_RoadOnly_Format,Near {0},{0} 부근
+LAOps_MapCaption,LOS ANGELES · AREA OF OPERATIONS,로스앤젤레스 작전 지역
+LAOps_MapStrike_Armed,Picking target — click map · Esc/right-click cancels,표적 지정 중 — 지도 클릭 · Esc/우클릭 취소
+LAOps_MapStrike_Pick_Format,{0} · pick on map,{0} · 지도에서 지정
+LAOps_Mode_Liberation,LIBERATION,탈환전
+LAOps_Mode_Retreat,RETREAT,후퇴전
+LAOps_Nexus_AgeHours,{0}h ago,{0}시간 전
+LAOps_Nexus_AgeMinutes,{0}m ago,{0}분 전
+LAOps_Nexus_Btn_Bypass,Bypass,우회
+LAOps_Nexus_Btn_Proceed,Proceed,그대로 진행
+LAOps_Nexus_Btn_Retreat,Retreat,후퇴
+LAOps_Nexus_Btn_Support,Request support,지원 요청
+LAOps_Nexus_BypassFailed,No bypass route,우회로 없음
+LAOps_Nexus_ConvoyTarget_Format,Convoy → {0},수송대 → {0}
+LAOps_Nexus_FadedFormat,? {0},? {0}
+LAOps_Nexus_FobLiveSub,Defending on the battlefield — map losses paused,전장에서 방어 중 — 지도 손실 멈춤
+LAOps_Nexus_FobRaidContact_Format,FOB under siege · {0},FOB 포위 · {0}
+LAOps_Nexus_FobRaidWarned_Format,FOB raid warning · {0},FOB 습격 예고 · {0}
+LAOps_Nexus_FobSub_Format,{0} · garrison {1},{0} · 수비대 {1}
+LAOps_Nexus_InterdictSub,Road held — our routes avoid it,도로 점거 — 우리 경로가 피해 간다
+LAOps_Nexus_InterdictWarned_Format,Route-cut warning · {0},퇴로 차단 예고 · {0}
+LAOps_Nexus_IsoRaidContact_Format,Cut-off unit under attack · {0},고립 부대 습격 · {0}
+LAOps_Nexus_IsoRaidWarned_Format,Raid warning on cut-off unit · {0},고립 부대 습격 예고 · {0}
+LAOps_Nexus_IsoSub_Format,Survival {0}h {1:00}m,생존 {0}시간 {1:00}분
+LAOps_Nexus_LastKnownFormat,{0} · {1},{0} · {1}
+LAOps_Nexus_RaidContact_Format,Raid contact · {0},습격 교전 · {0}
+LAOps_Nexus_RaidSub_Format,{0} vehicles · {1} lost,차량 {0} · 손실 {1}
+LAOps_Nexus_RaidWarned_Format,Raid warning · {0},습격 예고 · {0}
+LAOps_Nexus_RetreatFailed,No way back,돌아갈 길 없음
+LAOps_Nexus_RouteCut_Format,Route cut · {0},퇴로 차단 · {0}
+LAOps_Nexus_SizeLarge,L,대
+LAOps_Nexus_SizeMedium,M,중
+LAOps_Nexus_SizeSmall,S,소
+LAOps_NoSelection,SELECT AN OPERATION,작전을 선택하십시오
+LAOps_NotActionable,CAN'T DEPLOY NOW,지금은 출격할 수 없음
+LAOps_Objective_Label,OBJECTIVE,작전 목표
+LAOps_Operation_Bridge_Consequence,"The crossing stays blocked, narrowing your routes in later acts.",교량 횡단로가 막혀 다음 막의 이동 선택지가 줄어듭니다.
+LAOps_Operation_Bridge_Name,VINCENT THOMAS BRIDGE,빈센트 토머스 브리지
+LAOps_Operation_Bridge_Objective,Secure the bridge span and reopen the harbor crossing.,교량 구간을 확보해 항만 횡단로를 다시 엽니다.
+LAOps_Operation_Downtown_Consequence,Citywide command links collapse and later routes lose coordination.,도시 지휘망이 붕괴해 후속 철수로의 통제가 약화됩니다.
+LAOps_Operation_Downtown_Name,DOWNTOWN COMMAND LINE,다운타운 지휘선
+LAOps_Operation_Downtown_Objective,Retake the command relay and extract the isolated headquarters element.,지휘 중계소를 재확보하고 고립된 본부 인원을 구출합니다.
+LAOps_Operation_Hills_Consequence,High-ground observation and the northern escape corridor are lost.,고지 관측 능력과 북부 탈출로를 잃습니다.
+LAOps_Operation_Hills_Name,HOLLYWOOD HILLS RESCUE,할리우드 힐스 구조
+LAOps_Operation_Hills_Objective,Reach the hillside pocket and recover the trapped reconnaissance team.,구릉지 고립 지점에 도달해 정찰팀을 회수합니다.
+LAOps_Operation_Light_Consequence,Night withdrawal guidance remains unavailable.,야간 철수 유도 신호를 사용할 수 없게 됩니다.
+LAOps_Operation_Light_Name,LOS ANGELES HARBOR LIGHT,로스앤젤레스 하버 라이트
+LAOps_Operation_Light_Objective,Restore the harbor signal and clear the breakwater perimeter.,항만 신호를 복구하고 방파제 외곽을 정리합니다.
+LAOps_Operation_Port_Consequence,The final withdrawal begins under heavier pressure and reduced access.,최종 철수가 더 거센 압박과 좁아진 진입로에서 시작됩니다.
+LAOps_Operation_Port_Name,PORT APPROACH DEFENSE,항만 진입로 방어
+LAOps_Operation_Port_Objective,Hold the industrial approach long enough to prepare the withdrawal corridor.,철수로가 준비될 때까지 산업지대 항만 진입로를 방어합니다.
+LAOps_Operation_Retreat_Consequence,Failure abandons the remaining forces and survivors,철수 실패 시 잔존 병력과 생존자를 잃는다
+LAOps_Operation_Retreat_Name,Forced Retreat: Downtown,강제 철수: 다운타운
+LAOps_Operation_Retreat_Objective,Withdraw remaining forces and survivors from the collapsed line to the extraction point,붕괴한 방어선에서 잔존 병력과 생존자를 추출 지점까지 철수시킨다
+LAOps_Ordnance_105mm,105 mm,105 mm
+LAOps_Ordnance_30mm,30 mm,30 mm
+LAOps_Ordnance_Hellfire,Hellfire,헬파이어
+LAOps_Panel_Kicker_Airport,AIRPORT,공항
+LAOps_Panel_Kicker_Format,{0},{0}
+LAOps_Panel_Kicker_Site,BASE,기지
+LAOps_Panel_Kicker_Unit,UNIT,유닛
+LAOps_PeekActiveHint,Operation in progress — the battle keeps running. Zoom fully into the same point and push the wheel once more to return to the battlefield.,작전 진행 중 — 전장 전투는 계속됩니다. 같은 지점을 끝까지 확대한 뒤 휠을 한 번 더 밀면 전장으로 돌아갑니다.
+LAOps_Phase_Format,ACT {0},작전 {0}막
+LAOps_PhasesLeft_Format,HOLD FOR {0} MORE ACT(S),앞으로 {0}막 버티기
+LAOps_PoliceForce_Join,{0} · {1},{0} · {1}
+LAOps_PoliceForce_Line,{0} · {1},{0} · {1}
+LAOps_PoliceForce_NoVehicles,no line vehicles,방어선 차량 없음
+LAOps_PoliceForce_VehicleItem,{0} ×{1},{0} {1}
+LAOps_PoliceUnit_CHP_Patrol,CHP patrol,CHP 순찰대
+LAOps_PoliceUnit_LAPD_MetroSWAT,LAPD Metro SWAT,LAPD SWAT (메트로)
+LAOps_PoliceUnit_LAPD_Patrol,LAPD patrol,LAPD 순찰대
+LAOps_PoliceUnit_LAPD_ValleySWAT,LAPD Valley SWAT,LAPD SWAT (밸리)
+LAOps_PoliceUnit_LASD_Patrol,LASD patrol,LASD 순찰대
+LAOps_PoliceUnit_Port_Patrol,Port Police patrol,항만경찰 순찰대
+LAOps_PoliceVehicle_BearCat,BearCat,베어캣
+LAOps_PoliceVehicle_Peacekeeper,BEAR rescue truck,구조 장갑차 BEAR
+LAOps_PoliceVehicle_SUV,patrol SUV,순찰 SUV
+LAOps_PoliceVehicle_Sedan,patrol car,순찰차
+LAOps_PoliceVehicle_StepVan,SWAT equipment truck,SWAT 장비 트럭
+LAOps_Pressure_Format,INFECTION SPREAD {0},감염 확산 {0}
+LAOps_Rail_PendletonEnRoute,PENDLETON · EN ROUTE {1}:{2:00} → {0},PENDLETON · 이동 {1}:{2:00} → {0}
+LAOps_Rail_PendletonPointer,PENDLETON {0}:{1:00},PENDLETON {0}:{1:00}
+LAOps_Rail_PendletonPreparing,PENDLETON · {1}:{2:00} → {0},PENDLETON · {1}:{2:00} → {0}
+LAOps_Res_Use_Civilians,Civilians evacuated to safety so far,대피시켜 보호한 민간인 누계
+LAOps_Res_Use_Fuel,"Spent on convoys, reinforcement requests, FOB setup and FOB resupply",수송대 · 증원 요청 · FOB 지정 · FOB 재보급에 쓴다
+LAOps_Res_Use_Parts,"Spent on convoy supply cargo, FOB setup and FOB resupply",수송대 보급 화물 · FOB 지정 · FOB 재보급에 쓴다
+LAOps_Res_Use_Troops,"Grows with reinforcements and link-ups, falls with combat and cut-off losses",증원 · 합류로 늘고 전투 손실 · 고립 상실로 준다
+LAOps_Res_WarnReason,below one FOB resupply,FOB 재보급 1회분 아래
+LAOps_Rescue_Aircrew,AIRCREW,항공 승무원
+LAOps_Rescue_Aircrew_Marker,AC,AC
+LAOps_Rescue_Researchers,RESEARCHERS,연구진
+LAOps_Rescue_Researchers_Marker,RS,RS
+LAOps_Resolved,Current LA operations are resolved. Begin the port withdrawal handoff.,현재 LA 작전이 정리되었습니다. 항만 철수와 글로벌 캠페인 인계를 시작할 수 있습니다.
+LAOps_ResumeTactical,RETURN TO BATTLEFIELD,전장으로 복귀
+LAOps_Roster_Deck_Format,Ready {0}/{1},출격 대기 {0}/{1}
+LAOps_Roster_Empty,No active units on the map,지도에서 움직이는 유닛이 없습니다
+LAOps_Roster_Fleet_Format,5-in {0} · TLAM {1},5인치 {0} · TLAM {1}
+LAOps_Roster_GroupCount_Format,{0} units,{0} 부대
+LAOps_Roster_Group_Format,Group {0},그룹 {0}
+LAOps_Roster_Kicker,,
+LAOps_Roster_PadHint,D-pad L/R card · U/D tab · Y go/follow · B back,십자 좌우 카드 · 상하 탭 · Y 이동/추적 · B 뒤로
+LAOps_Roster_TabAir,Air,항공
+LAOps_Roster_TabAll,All,전체
+LAOps_Roster_TabGround,Ground,지상
+LAOps_Roster_TabNaval,Naval,해상
+LAOps_Roster_Time_Arrive,ETA,도착
+LAOps_Roster_Time_Land,RTB,착륙
+LAOps_Roster_Time_Station,Attacking,공격 중
+LAOps_Roster_Time_Survival,Left,생존
+LAOps_Route_End_Patrol,Route end: patrol,경로 끝: 순찰
+LAOps_Route_End_Stop,Route end: stop,경로 끝: 정지
+LAOps_Route_Hint_Battlefield,The battlefield flight has control — task it from the battlefield Fire tab.,전장 편대가 지휘 중 — 전장 화력 탭에서 지시한다.
+LAOps_Route_Hint_Fighter,Right-click = move the target · Shift+right-click = queue · Right-drag = route. On a route the flight stays up until it is down to return fuel.,우클릭 = 표적 옮기기 · Shift+우클릭 = 예약 · 우클릭 드래그 = 경로. 경로를 나는 동안은 연료가 귀환분만 남을 때까지 머문다.
+LAOps_Route_Info_Format,{1} waypoints · {0},경로 지점 {1}개 · {0}
+LAOps_Route_Mode_Loop,loop,한 바퀴씩 반복
+LAOps_Route_Mode_PingPong,back and forth,왕복
+LAOps_Route_Mode_Stop,stop at the end,끝에서 정지
+LAOps_Section_Support,Assets on call,지원
+LAOps_Section_SupportKicker,SUPPORT,SUPPORT
+LAOps_Section_Theater,Supplies,물자
+LAOps_Sit_AlertMore_Format,+{0} more,외 {0}건
+LAOps_Sit_AlertTitle,Urgent,급한 일
+LAOps_Sit_Convoys_Format,{0}/{1} underway,진행 {0}/{1}
+LAOps_Sit_CutOffSub_Format,{0}h {1:00}m left on the ops clock,작전 시각 {0}시간 {1:00}분 남음
+LAOps_Sit_Firing,Firing,사격 중
+LAOps_Sit_GroupAir,AIR,항공
+LAOps_Sit_GroupFire,FIRES,화력
+LAOps_Sit_GroupLift,LIFT,수송
+LAOps_Sit_InFlight,In flight,비행 중
+LAOps_Sit_Inbound,Inbound,진입
+LAOps_Sit_Name_A10,A-10C,A-10C
+LAOps_Sit_Name_AC130,AC-130J,AC-130J
+LAOps_Sit_Name_Convoys,Convoys,수송대
+LAOps_Sit_Name_F15E,F-15E,F-15E
+LAOps_Sit_Name_F35B,F-35B,F-35B
+LAOps_Sit_Name_FA18,F/A-18F,F/A-18F
+LAOps_Sit_Name_Gun,5-inch gun,함포 5인치
+LAOps_Sit_Name_MQ9,MQ-9 Reaper,MQ-9 리퍼
+LAOps_Sit_Name_Tlam,Tomahawk,토마호크
+LAOps_Sit_NextArrive_Format,{0} on target,{0} 표적 도착
+LAOps_Sit_NextConvoy_Format,{0} arrives,{0} 도착
+LAOps_Sit_NextCutOff_Format,{0} rescue deadline,{0} 구조 마감
+LAOps_Sit_NextLand_Format,{0} lands,{0} 착륙
+LAOps_Sit_NextNone,Nothing scheduled,예정된 일 없음
+LAOps_Sit_NextStationEnd_Format,{0} leaves station,{0} 공격 종료
+LAOps_Sit_NextTitle,Up next,다가오는 일
+LAOps_Sit_NextUnitArrive_Format,{0} arrives,{0} 도착
+LAOps_Sit_NoRescue,No rescue underway,구조 수단 없음
+LAOps_Sit_OnStation,Attacking,공격 중
+LAOps_Sit_OverTarget,Attacking,공격 중
+LAOps_Sit_Reloading,Reloading,재장전
+LAOps_Sit_Rescue_Format,Rescue in {0}:{1:00},구조 {0}:{1:00} 뒤 도착
+LAOps_Sit_Reserved_Format,{0} · {1} reserved,{0} · 예약 {1}
+LAOps_Sit_Returning,Returning,귀환
+LAOps_Sit_Rounds_Format,{0:N0} left,잔탄 {0:N0}
+LAOps_SiteCat_Command,Command,지휘
+LAOps_SiteCat_Fuel,Fuel,연료
+LAOps_SiteCat_Hazard,Hazard,위험 시설
+LAOps_SiteCat_LandingZone,Landing zone,착륙 지점
+LAOps_SiteCat_Landmark,Landmark,랜드마크
+LAOps_SiteCat_Logistics,Logistics,물류
+LAOps_SiteCat_Military,Military,군 시설
+LAOps_SiteCat_Police,Police,경찰
+LAOps_SiteCat_Power,Power,발전
+LAOps_SiteCat_Salvage,Salvage,회수
+LAOps_SiteCat_SectorHub,Sector base,구역 기지
+LAOps_SiteName_chevron_el_segundo,CHEVRON EL SEGUNDO,셰브론 엘세군도 정유소
+LAOps_SiteName_harbor_generating,HARBOR POWER,하버 발전소
+LAOps_SiteName_jftb_los_alamitos,JFTB LOS ALAMITOS,JFTB 로스알라미토스
+LAOps_SiteName_la_cd_01_hub,HIGHLAND PARK HUB,하일랜드 파크 거점
+LAOps_SiteName_la_cd_02_hub,NORTH HOLLYWOOD HUB,노스 할리우드 거점
+LAOps_SiteName_la_cd_03_hub,WINNETKA HUB,위넷카 거점
+LAOps_SiteName_la_cd_04_hub,HOLLYWOOD HUB,할리우드 거점
+LAOps_SiteName_la_cd_05_hub,FAIRFAX HUB,페어팩스 거점
+LAOps_SiteName_la_cd_06_hub,PANORAMA CITY HUB,파노라마 시티 거점
+LAOps_SiteName_la_cd_07_hub,SUNLAND HUB,선랜드 거점
+LAOps_SiteName_la_cd_08_hub,VERMONT KNOLLS HUB,버몬트 놀스 거점
+LAOps_SiteName_la_cd_09_hub,CENTRAL-ALAMEDA HUB,센트럴-알라메다 거점
+LAOps_SiteName_la_cd_10_hub,JEFFERSON PARK HUB,제퍼슨 파크 거점
+LAOps_SiteName_la_cd_11_hub,VENICE HUB,베니스 거점
+LAOps_SiteName_la_cd_12_hub,GRANADA HILLS HUB,그라나다 힐스 거점
+LAOps_SiteName_la_cd_13_hub,ECHO PARK HUB,에코 파크 거점
+LAOps_SiteName_la_cd_14_hub,BOYLE HEIGHTS HUB,보일 하이츠 거점
+LAOps_SiteName_la_cd_15_hub,SAN PEDRO HUB,샌피드로 거점
+LAOps_SiteName_la_chp_central_la,CHP CENTRAL LA,CHP 센트럴 LA 분소
+LAOps_SiteName_la_chp_south_la,CHP SOUTH LA,CHP 사우스 LA 분소
+LAOps_SiteName_la_chp_west_la,CHP WEST LA,CHP 웨스트 LA 분소
+LAOps_SiteName_la_chp_west_valley,CHP WEST VALLEY,CHP 웨스트 밸리 분소
+LAOps_SiteName_la_lax_police,LAX AIRPORT POLICE,LAX 공항 경찰서
+LAOps_SiteName_la_pd_77th,LAPD 77TH STREET,LAPD 77번가 경찰서
+LAOps_SiteName_la_pd_air_support,LAPD AIR SUPPORT,LAPD 항공 지원대
+LAOps_SiteName_la_pd_central,LAPD CENTRAL,LAPD 센트럴 경찰서
+LAOps_SiteName_la_pd_devonshire,LAPD DEVONSHIRE,LAPD 데번셔 경찰서
+LAOps_SiteName_la_pd_foothill,LAPD FOOTHILL,LAPD 풋힐 경찰서
+LAOps_SiteName_la_pd_harbor,LAPD HARBOR,LAPD 하버 경찰서
+LAOps_SiteName_la_pd_harbor_patrol,LAPD HARBOR PATROL,LAPD 항만 순찰대
+LAOps_SiteName_la_pd_hollenbeck,LAPD HOLLENBECK,LAPD 홀렌벡 경찰서
+LAOps_SiteName_la_pd_hollywood,LAPD HOLLYWOOD,LAPD 할리우드 경찰서
+LAOps_SiteName_la_pd_hq,LAPD HEADQUARTERS,LAPD 본부
+LAOps_SiteName_la_pd_mission,LAPD MISSION,LAPD 미션 경찰서
+LAOps_SiteName_la_pd_newton,LAPD NEWTON,LAPD 뉴턴 경찰서
+LAOps_SiteName_la_pd_northeast,LAPD NORTHEAST,LAPD 노스이스트 경찰서
+LAOps_SiteName_la_pd_olympic,LAPD OLYMPIC,LAPD 올림픽 경찰서
+LAOps_SiteName_la_pd_pacific,LAPD PACIFIC,LAPD 퍼시픽 경찰서
+LAOps_SiteName_la_pd_rampart,LAPD RAMPART,LAPD 램파트 경찰서
+LAOps_SiteName_la_pd_southeast,LAPD SOUTHEAST,LAPD 사우스이스트 경찰서
+LAOps_SiteName_la_pd_southwest,LAPD SOUTHWEST,LAPD 사우스웨스트 경찰서
+LAOps_SiteName_la_pd_topanga,LAPD TOPANGA,LAPD 토팡가 경찰서
+LAOps_SiteName_la_pd_valley_hq,LAPD VALLEY BUREAU,LAPD 밸리 본부
+LAOps_SiteName_la_pd_van_nuys,LAPD VAN NUYS,LAPD 밴나이스 경찰서
+LAOps_SiteName_la_pd_west_la,LAPD WEST LA,LAPD 웨스트 LA 경찰서
+LAOps_SiteName_la_pd_west_valley,LAPD WEST VALLEY,LAPD 웨스트 밸리 경찰서
+LAOps_SiteName_la_pd_wilshire,LAPD WILSHIRE,LAPD 윌셔 경찰서
+LAOps_SiteName_la_port_police,PORT POLICE,항만 경찰서
+LAOps_SiteName_la_sd_carson,LASD CARSON,LASD 카슨 보안관서
+LAOps_SiteName_la_sd_century,LASD CENTURY,LASD 센추리 보안관서
+LAOps_SiteName_la_sd_east_la,LASD EAST LA,LASD 이스트 LA 보안관서
+LAOps_SiteName_la_sd_hq,LASD HEADQUARTERS,LASD 본부
+LAOps_SiteName_la_sd_lennox,LASD LENNOX,LASD 레녹스 보안관서
+LAOps_SiteName_la_sd_lomita,LASD LOMITA,LASD 로미타 보안관서
+LAOps_SiteName_la_sd_marina_del_rey,LASD MARINA DEL REY,LASD 마리나 델 레이 보안관서
+LAOps_SiteName_la_sd_west_hollywood,LASD WEST HOLLYWOOD,LASD 웨스트 할리우드 보안관서
+LAOps_SiteName_la_site_dodger_stadium,DODGER STADIUM,다저 스타디움
+LAOps_SiteName_la_site_exposition_park,EXPOSITION PARK,엑스포지션 파크
+LAOps_SiteName_la_site_grand_park_lz,GRAND PARK LZ,그랜드 파크 LZ
+LAOps_SiteName_la_site_griffith_observatory,GRIFFITH OBSERVATORY,그리피스 천문대
+LAOps_SiteName_la_site_harbor_gateway,HARBOR GATEWAY I-110,하버 게이트웨이 I-110
+LAOps_SiteName_la_site_lax_fuel_farm,LAX FUEL FARM,LAX 연료 저장소
+LAOps_SiteName_la_site_sepulveda_pass,SEPULVEDA PASS,세풀베다 고개
+LAOps_SiteName_la_site_ucla,UCLA MEDICAL CAMPUS,UCLA 의료 캠퍼스
+LAOps_SiteName_la_site_van_nuys_airport,VAN NUYS AIRPORT,밴나이스 공항
+LAOps_SiteName_los_angeles_afb,LOS ANGELES AFB,LA 공군기지
+LAOps_SiteName_marathon_carson,MARATHON CARSON,마라톤 카슨 정유소
+LAOps_SiteName_marathon_wilmington,MARATHON WILMINGTON,마라톤 윌밍턴 정유소
+LAOps_SiteName_nws_seal_beach,NAVAL WEAPONS STATION,실비치 해군 무기고
+LAOps_SiteName_pbf_torrance,PBF TORRANCE,PBF 토런스 정유소
+LAOps_SiteName_phillips66_wilmington,PHILLIPS 66 IDLED,필립스 66(가동 중지)
+LAOps_SiteName_port_liquid_bulk,PORT LIQUID BULK,항만 액체 화물 터미널
+LAOps_SiteName_san_onofre,SAN ONOFRE EXCLUSION,샌오노프레 출입 금지 구역
+LAOps_SiteName_scattergood,SCATTERGOOD POWER,스캐터굿 발전소
+LAOps_SiteName_uscg_base_la_lb,USCG BASE LA/LB,해안경비대 LA/LB 기지
+LAOps_SiteName_valero_wilmington,VALERO WILMINGTON,발레로 윌밍턴 정유소
+LAOps_SiteShort_chevron_el_segundo,CHEVRON,셰브론
+LAOps_SiteShort_harbor_generating,HARBOR PWR,하버 발전소
+LAOps_SiteShort_jftb_los_alamitos,JFTB,JFTB
+LAOps_SiteShort_la_chp_central_la,CHP CENTRAL,CHP 센트럴
+LAOps_SiteShort_la_chp_south_la,CHP S LA,CHP 사우스 LA
+LAOps_SiteShort_la_chp_west_la,CHP W LA,CHP 웨스트 LA
+LAOps_SiteShort_la_chp_west_valley,CHP W VALLEY,CHP 웨스트 밸리
+LAOps_SiteShort_la_lax_police,LAX PD,공항 경찰서
+LAOps_SiteShort_la_pd_77th,PD 77TH,77번가서
+LAOps_SiteShort_la_pd_air_support,PD AIR,LAPD 항공대
+LAOps_SiteShort_la_pd_central,PD CENTRAL,센트럴서
+LAOps_SiteShort_la_pd_devonshire,PD DEVONSHIRE,데번셔서
+LAOps_SiteShort_la_pd_foothill,PD FOOTHILL,풋힐서
+LAOps_SiteShort_la_pd_harbor,PD HARBOR,하버서
+LAOps_SiteShort_la_pd_harbor_patrol,PD HARBOR PTL,항만 순찰대
+LAOps_SiteShort_la_pd_hollenbeck,PD HOLLENBECK,홀렌벡서
+LAOps_SiteShort_la_pd_hollywood,PD HOLLYWOOD,할리우드서
+LAOps_SiteShort_la_pd_hq,LAPD HQ,LAPD 본부
+LAOps_SiteShort_la_pd_mission,PD MISSION,미션서
+LAOps_SiteShort_la_pd_newton,PD NEWTON,뉴턴서
+LAOps_SiteShort_la_pd_northeast,PD NORTHEAST,노스이스트서
+LAOps_SiteShort_la_pd_olympic,PD OLYMPIC,올림픽서
+LAOps_SiteShort_la_pd_pacific,PD PACIFIC,퍼시픽서
+LAOps_SiteShort_la_pd_rampart,PD RAMPART,램파트서
+LAOps_SiteShort_la_pd_southeast,PD SOUTHEAST,사우스이스트서
+LAOps_SiteShort_la_pd_southwest,PD SOUTHWEST,사우스웨스트서
+LAOps_SiteShort_la_pd_topanga,PD TOPANGA,토팡가서
+LAOps_SiteShort_la_pd_valley_hq,PD VALLEY HQ,밸리 본부
+LAOps_SiteShort_la_pd_van_nuys,PD VAN NUYS,밴나이스서
+LAOps_SiteShort_la_pd_west_la,PD WEST LA,웨스트 LA서
+LAOps_SiteShort_la_pd_west_valley,PD W VALLEY,웨스트 밸리서
+LAOps_SiteShort_la_pd_wilshire,PD WILSHIRE,윌셔서
+LAOps_SiteShort_la_port_police,PORT PD,항만 경찰서
+LAOps_SiteShort_la_sd_carson,SD CARSON,카슨 보안관서
+LAOps_SiteShort_la_sd_century,SD CENTURY,센추리 보안관서
+LAOps_SiteShort_la_sd_east_la,SD EAST LA,이스트 LA 보안관서
+LAOps_SiteShort_la_sd_hq,LASD HQ,LASD 본부
+LAOps_SiteShort_la_sd_lennox,SD LENNOX,레녹스 보안관서
+LAOps_SiteShort_la_sd_lomita,SD LOMITA,로미타 보안관서
+LAOps_SiteShort_la_sd_marina_del_rey,SD MARINA,마리나 보안관서
+LAOps_SiteShort_la_sd_west_hollywood,SD WEHO,웨스트 할리우드 보안관서
+LAOps_SiteShort_la_site_dodger_stadium,DODGERS,다저스
+LAOps_SiteShort_la_site_exposition_park,EXPO PARK,엑스포 파크
+LAOps_SiteShort_la_site_grand_park_lz,LZ GRAND PARK,그랜드 파크 LZ
+LAOps_SiteShort_la_site_griffith_observatory,GRIFFITH,그리피스
+LAOps_SiteShort_la_site_harbor_gateway,I-110 GATE,I-110 관문
+LAOps_SiteShort_la_site_lax_fuel_farm,LAX,LAX 연료
+LAOps_SiteShort_la_site_sepulveda_pass,SEPULVEDA,세풀베다
+LAOps_SiteShort_la_site_ucla,UCLA,UCLA
+LAOps_SiteShort_la_site_van_nuys_airport,VNY,VNY
+LAOps_SiteShort_los_angeles_afb,LA AFB,LA 공군기지
+LAOps_SiteShort_marathon_carson,MPC CARSON,마라톤 카슨
+LAOps_SiteShort_marathon_wilmington,MPC WILM,마라톤 윌밍턴
+LAOps_SiteShort_nws_seal_beach,NWS,해군 무기고
+LAOps_SiteShort_pbf_torrance,PBF,PBF
+LAOps_SiteShort_phillips66_wilmington,P66 IDLED,P66 중지
+LAOps_SiteShort_port_liquid_bulk,LIQUID BULK,액체 화물
+LAOps_SiteShort_san_onofre,SAN ONOFRE,샌오노프레
+LAOps_SiteShort_scattergood,SCATTERGOOD,스캐터굿
+LAOps_SiteShort_uscg_base_la_lb,USCG,해안경비대
+LAOps_SiteShort_valero_wilmington,VALERO,발레로
+LAOps_SiteStatus_Decommissioning,Decommissioning,해체 중
+LAOps_SiteStatus_Idled,Idled,가동 중지
+LAOps_SiteStatus_NonFlying,Non-flying,비행 불가
+LAOps_SiteStatus_Operational,Operational,가동 중
+LAOps_SiteStatus_Provisional,Provisional,임시
+LAOps_Site_Stage_Format,Stage {0},{0}단계
+LAOps_Sortie_Marker,FA,FA
+LAOps_Sortie_NoHelipad,No helipad,헬기장 없음
+LAOps_Sortie_Phase_Attack,Bombing,폭격 중
+LAOps_Sortie_Phase_Egress,Returning to carrier,모함으로 귀환
+LAOps_Sortie_Phase_Ingress,Inbound to target,표적으로 비행
+LAOps_Sortie_Phase_Launching,Launching,갑판 발진
+LAOps_Sortie_Phase_Recovering,Landing on carrier,항모 착륙
+LAOps_Sortie_RunwayNotSecured,Runway not secured,활주로 미확보
+LAOps_Status_Active,ACTIONABLE,행동 가능
+LAOps_Status_Completed,COMPLETED,완료
+LAOps_Status_Context,REFERENCE,참고 지점
+LAOps_Status_Failed,FAILED,실패
+LAOps_Status_Lost,FALLEN,함락
+LAOps_SupState_AlertPrep,Alert prep,긴급 준비
+LAOps_SupState_AlertReady,Alert 5,긴급 대기
+LAOps_SupState_Attack,Attacking,공격 중
+LAOps_SupState_Inbound,Inbound,진입
+LAOps_SupState_NoAircraft,No aircraft,기체 없음
+LAOps_SupState_NoAmmo,Out of ammo,탄약 없음
+LAOps_SupState_Ready,Ready,준비
+LAOps_SupState_Rearm,Rearming,재무장
+LAOps_SupState_Refit,Refit,재정비
+LAOps_SupState_Relocate,Rebasing,기지 이동
+LAOps_SupState_Returning,RTB,귀환
+LAOps_Supply_AmmoLow,Low ammo,탄약 부족
+LAOps_Supply_AmmoOut,No ammo,탄약 없음
+LAOps_Supply_AmmoResupply,Resupplying,탄약 보급 중
+LAOps_Supply_FuelLow,Low fuel,연료 부족
+LAOps_Supply_FuelOut,No fuel,연료 없음
+LAOps_Supply_FuelResupply,Refuelling,연료 보급 중
+LAOps_TFReady_Format,{0}/{1} READY,{0}/{1} 대기
+LAOps_TF_Depleted,SPENT,전력 없음
+LAOps_TF_Deployed,DEPLOYED,투입
+LAOps_TF_Ready,READY,대기
+LAOps_TF_Regrouping,REFITTING,정비 중
+LAOps_TaskForce_Alpha,ALPHA · 5TH MARINES LEAD,ALPHA · 5연대 선발대
+LAOps_TaskForce_Bravo,BRAVO · 5TH MARINES AIR / RECON,BRAVO · 5연대 항공 / 수색
+LAOps_TaskForce_Charlie,CHARLIE · 5TH MARINES ENGINEER / CONVOY,CHARLIE · 5연대 공병 / 호송
+LAOps_TaskForce_Format,{0} · {1},{0} · {1}
+LAOps_TaskForce_Label,TASK FORCE,임무부대
+LAOps_Tier_Block,BLOCK,블록
+LAOps_Tier_City,CITY,도시
+LAOps_Tier_District,DISTRICT,구역
+LAOps_Title,OPERATIONS MAP,작전 지도
+LAOps_TrackEntry_Btn_Format,VIEW IN BATTLEFIELD [{0}],전장에서 보기 [{0}]
+LAOps_TrackEntry_Locked,Outside the tactical area — available over land,전술 지역 밖 — 육지에 들면 볼 수 있다
+LAOps_Tray_AssetAvailable_Format,{0}/{1} ready,{0}/{1} 가용
+LAOps_Tray_CarrierAir,Carrier air,함재기
+LAOps_Tray_CarrierAir_Format,F/A-18F {0}/{1} ready,F/A-18F {0}/{1} 대기
+LAOps_Tray_Fleet_Format,DDG {0} · 5in {1} · TLAM {2},구축함 {0} · 5인치 {1} · TLAM {2}
+LAOps_W4U_Card_Continues,The battle keeps running while you watch the map,지도를 보는 동안에도 전투는 계속됩니다
+LAOps_W4U_Card_NoIntervention,No battle in progress · one more wheel at full zoom,진행 중인 전투 없음 · 끝까지 확대한 뒤 휠 한 번 더
+LAOps_W4U_FireState_Cancelled,CANCELLED,취소
+LAOps_W4U_FireState_Completed,COMPLETE,완료
+LAOps_W4U_FireState_Firing,FIRING,사격 중
+LAOps_W4U_FireState_Ready,READY,대기
+LAOps_W4U_FireState_Requested,REQUESTED,요청
+LAOps_W4U_Footer_Format,UNITS {0} · HORDES {1} · ALERTS {2},부대 {0} · 좀비 무리 {1} · 경보 {2}
+LAOps_W4U_Impact_Format,IMPACT IN {0:00}:{1:00},명중까지 {0:00}:{1:00}
+LAOps_W4U_Mode_Blend,BLEND,블렌드
+LAOps_W4U_Mode_Detail,BATTLEFIELD,전장
+LAOps_W4U_Mode_Map,MAP,지도
+LAOps_W4U_Rail_AmmoLow_Format,AMMO {0}%,탄약 {0}%
+LAOps_W4U_Rail_Failed_Background,BATTLEFIELD FAILED TO LOAD,전장 불러오기 실패
+LAOps_W4U_Rail_Failed_Hydration,BATTLEFIELD FAILED TO LOAD,전장 불러오기 실패
+LAOps_W4U_Rail_Failed_World,WORLD INIT FAILED,월드 초기화 실패
+LAOps_W4U_Rail_Horde_Format,LARGEST HORDE {0},가장 큰 좀비 무리 {0}
+LAOps_W4U_Rail_Intervention_Format,IN COMBAT,교전 중
+LAOps_W4U_Rail_Preparing_Format,PREPARING BATTLEFIELD,전장 준비 중
+LAOps_W4U_Rail_Retargeting_Format,MOVING BATTLEFIELD,전장 옮기는 중
+LAOps_W4U_Rail_Support_Format,{0} · {1} · RND {2},{0} · {1} · 탄 {2}
+LAOps_W4U_Stat_Ammo,AMMO,탄약
+LAOps_W4U_Stat_Defense,DEF,방어선
+LAOps_W4U_Stat_Health,HP,병력
+LAOps_W4U_Stat_Horde,HORDE,좀비
+LAOps_W4U_Stat_Objective,OBJ,목표
+LAOps_W4U_Stat_Units,UNITS,투입 부대
+LAOps_W4U_Support_Busy_Format,{0} · RND {1},{0} · 탄 {1}
+LAOps_W4U_Support_Howitzer,HOWITZER,야포
+LAOps_W4U_Support_Rocket,ROCKET,로켓포
+LAOps_W4U_Tray_Naval,NAVAL NGS,함포 NGS
+LAOps_W4U_Tray_NavalShips_Format,SHIPS {0} · RANGE {1}km,함선 {0} · 반경 {1}km
+LAOps_W4U_Tray_Transport,TRANSPORT,수송
+LAOps_W4U_Unit_Hydrated,IN BATTLE,전장에 있음
+LAOps_W4U_Unit_Idle,IDLE,대기
+LAOps_W4U_Unit_Moving_Format,Moving · arrives in {0:0}s,이동 중 · 도착 {0:0}초
+LAOps_W4U_Unit_None,NO UNIT SELECTED,선택 유닛 없음
+LAOps_W4U_Value_NotProjected,—,—
+LAOps_W4_CarrierStrike_Airborne,F/A-18 flight airborne · {0} ready,F/A-18 편대 비행 중 · 출격 대기 {0}
+LAOps_W4_CarrierStrike_Depleted,F/A-18 · none ready,F/A-18 · 출격 대기 없음
+LAOps_W4_CarrierStrike_Format,F/A-18 strike · {0} ready,F/A-18 공습 · 출격 대기 {0}
+LAOps_W4_Howitzer,HOWITZER,야포 지원
+LAOps_W4_HowitzerBusy,HOWITZER BUSY,야포 사격 중
+LAOps_W4_Intervention_Failed_Background,Couldn't load the battlefield · wheel to retry,전장을 불러오지 못했습니다 · 휠로 다시 시도
+LAOps_W4_Intervention_Failed_Hydration,Couldn't load the battlefield · wheel to retry,전장을 불러오지 못했습니다 · 휠로 다시 시도
+LAOps_W4_Intervention_Failed_World,World initialization failed · map retained · wheel to retry,월드 초기화 실패 · 지도 유지 · 휠로 재시도
+LAOps_W4_Intervention_Ledger_Format,Units in battle {0} · City-wide Z {1:N0} · Defense states {2},전장 투입 부대 {0} · 도시 전체 좀비 {1:N0} · 방어 상태 {2}
+LAOps_W4_Intervention_Live_Format,In combat · HP {3}% · AMMO {4}/{5} · Z {6:N0} · DEF {7},교전 중 · HP {3}% · 탄약 {4}/{5} · 좀비 {6:N0} · 방어선 {7}
+LAOps_W4_Intervention_Pending_Format,City-wide Z {2:N0},도시 전체 좀비 {2:N0}
+LAOps_W4_Intervention_Preparing,Preparing the battlefield · the map stays usable,전장 준비 중 · 지도는 계속 조작할 수 있음
+LAOps_W4_Intervention_Ready,Battle ongoing · wheel in to resume the same battlefield,전투 진행 중 · 휠 확대해 같은 전장 복귀
+LAOps_W4_Intervention_Retargeting,Moving the battlefield · the previous fight continues in the city-wide simulation,전장 옮기는 중 · 원래 전투는 도시 전체 계산으로 계속
+LAOps_W4_NavalGun_Depleted,Gun · no rounds,함포 · 탄약 없음
+LAOps_W4_NavalGun_Firing,Gun firing,함포 사격 중
+LAOps_W4_NavalGun_Format,5-inch gun · {0} rounds,함포 5인치 · {0}발
+LAOps_W4_NavalGun_OutOfRange,Gun · out of range,함포 · 사거리 밖
+LAOps_W4_NavalGun_Reload,Gun ready in {0}s,함포 대기 {0}초
+LAOps_W4_RocketArtillery,ROCKET ARTILLERY,로켓포 지원
+LAOps_W4_RocketBusy,ROCKETS BUSY,로켓포 사격 중
+LAOps_W4_Status_Format,{0} · OBJ {1}% · HP {2}% · Z {3:N0} · DEF {4},{0} · 목표 {1}% · HP {2}% · 좀비 {3:N0} · 방어선 {4}
+LAOps_W4_Tomahawk_Depleted,Tomahawk · expended,토마호크 · 다 씀
+LAOps_W4_Tomahawk_Format,Tomahawk · {0},토마호크 · {0}발
+LAOps_W4_Tomahawk_Inbound,Tomahawk inbound {0}s,토마호크 비행 중 {0}초
+LAOps_W4_Tomahawk_Reload,Tomahawk ready in {0}s,토마호크 대기 {0}초
+LAOps_W4_Transit_Approaching,Approaching,접근 중
+LAOps_W4_Transit_Arrived,Arrived · Preparing battlefield,도착 · 전장 준비 중
+LAOps_W4_Transit_Format,{0} · arrives in {1:0}s,{0} · 도착 {1:0}초
+LAOps_W4_Transit_Outbound,Outbound,출발
+LAOps_W4_Withdraw,WITHDRAW,철수
+Loading_Tip_01,Press TAB to switch between Survivor and Commander mode.,TAB 키로 서바이버 모드와 커맨더 모드를 전환할 수 있습니다.
+Loading_Tip_02,Barricades can redirect the flow of a zombie horde.,바리케이드를 세우면 좀비 무리의 동선을 원하는 방향으로 꺾을 수 있습니다.
+Loading_Tip_03,Outposts cut off from supply lines will drain their stockpiles. Guard your convoys.,보급선이 끊긴 거점은 비축 물자가 마르기 시작합니다. 수송로를 지키세요.
+Loading_Tip_04,Hordes encircle a city before closing in. Move before the siege ring is complete.,호드는 도시를 포위한 뒤 서서히 조여옵니다. 포위가 완성되기 전에 움직이세요.
+Loading_Tip_05,Rescued civilians become outpost workforce. Population is production.,구출한 시민은 거점의 노동력이 됩니다. 인구가 곧 생산력입니다.
+Loading_Tip_06,Fleets straying beyond operational range may not make it back. Watch your endurance.,함대가 작전 반경을 벗어나면 복귀가 어려워집니다. 항속 거리를 확인하세요.
+Loading_Title,LOADING,로딩 중
+MainMenu_Caption,MAIN MENU,MAIN MENU
+MainMenu_ConfirmOverwrite_Body,Existing campaign progress will be erased. This cannot be undone.,기존 작전 기록이 삭제됩니다. 이 결정은 되돌릴 수 없습니다.
+MainMenu_ConfirmOverwrite_Title,Start a new game?,새 게임을 시작할까요?
+MainMenu_Confirm_No,CANCEL,취소
+MainMenu_Confirm_Yes,START,시작
+MainMenu_Continue,CONTINUE,이어하기
+MainMenu_ExitConfirm_Body,Are you sure you want to exit the game?,게임을 종료하시겠습니까?
+MainMenu_ExitConfirm_Title,EXIT GAME,게임 종료
+MainMenu_Eyebrow_Continue,CONTINUE,CONTINUE
+MainMenu_Eyebrow_NewGame,NEW GAME,NEW GAME
+MainMenu_Eyebrow_Quit,QUIT,QUIT
+MainMenu_Hint_Back,BACK,뒤로
+MainMenu_Hint_Move,MOVE,이동
+MainMenu_Hint_Select,SELECT,선택
+MainMenu_Location_Back,BACK,뒤로
+MainMenu_Location_Body,Chapter 1 begins inside the collapsing Los Angeles defense network.,챕터 1은 붕괴 중인 로스앤젤레스 방어망에서 시작합니다.
+MainMenu_Location_Enter,ENTER OPERATIONS MAP,작전지도 진입
+MainMenu_Location_LA_Name,LOS ANGELES,LOS ANGELES
+MainMenu_Location_LA_Status,CHAPTER 1 · ACTIVE WITHDRAWAL,CHAPTER 1 · 후퇴 작전
+MainMenu_Location_Title,SELECT OPERATION THEATER,작전 전역 선택
+MainMenu_NewGame,NEW GAME,새 게임
+MainMenu_Quit,QUIT,게임 종료
+MainMenu_Settings,SETTINGS,설정
+MainMenu_Social_Steam,STEAM,STEAM
+MainMenu_Social_X,X,X
+MainMenu_Social_YouTube,YOUTUBE,YOUTUBE
+MainMenu_Title,EBBTIDE,EBBTIDE
+Music_NoTrack,No music playing,재생 중인 음악 없음
+Music_Playlist_All,All Tracks,전체
+Music_Playlist_Auto,Auto,자동
+Music_Playlist_Combat,Combat,전투
+Music_Playlist_MainTheme,Main Theme,메인 테마
+Music_RepeatOne_Off,Repeat off,반복 꺼짐
+Music_RepeatOne_On,Repeat one,한 곡 반복
+Music_Track_ALightToFollow,A Light to Follow,A Light to Follow
+Music_Track_ASignalThroughTheAsh,A Signal Through the Ash,A Signal Through the Ash
+Music_Track_BlockBreach,Block Breach,Block Breach
+Music_Track_BreachPoint,Breach Point,Breach Point
+Music_Track_DarkResolve,Dark Resolve,Dark Resolve
+Music_Track_ElectricDrive,Electric Drive,Electric Drive
+Music_Track_ModernTactical,Hold the Line,Hold the Line
+Music_Track_StrategicMap,Strategic Map,전략 지도
+Music_Track_TheLastCommand,The Last Command,The Last Command
+Settings_BackButton,// Go Back,// 돌아가기
+Settings_Bind_Reset,RESET,초기화
+Settings_Bind_Waiting,Press a key...,입력 대기...
+Settings_Desc_AnisotropicFiltering,Makes textures viewed at steep angles look sharper.,비스듬히 보이는 먼 텍스처를 더 선명하게 표시합니다.
+Settings_Desc_BindAttack,"Rebind the attack input. Left = keyboard/mouse, right = gamepad.","발사(공격) 입력을 변경합니다. 왼쪽=키보드/마우스, 오른쪽=게임패드."
+Settings_Desc_BindAttackMove,"Selected squads advance to a point, engaging on contact.",선택한 분대가 교전하면서 지정 지점으로 이동합니다.
+Settings_Desc_BindBuildMode,Toggle the defense construction mode.,방어 시설 배치 모드를 켜고 끕니다.
+Settings_Desc_BindDodge,Rebind the dodge input.,회피 입력을 변경합니다.
+Settings_Desc_BindFollowPlayer,Order selected squads to follow the player.,선택한 분대가 플레이어를 따라다니게 합니다.
+Settings_Desc_BindFormationCycle,Cycle the formation of selected squads.,선택한 분대의 대형을 차례로 바꿉니다.
+Settings_Desc_BindHoldPosition,Order selected squads to hold their current position.,선택한 분대가 현재 위치를 지키게 합니다.
+Settings_Desc_BindInteract,Rebind the interact input.,상호작용 입력을 변경합니다.
+Settings_Desc_BindMelee,Rebind the melee input.,근접 공격 입력을 변경합니다.
+Settings_Desc_BindMove,Rebind the primary movement key (WASD slot). Arrow-key fallback and gamepad left stick stay fixed.,이동 주 키(WASD 슬롯)를 변경합니다. 화살표 키 보조와 패드 왼쪽 스틱은 고정입니다.
+Settings_Desc_BindPerimeterGuard,Order selected squads to guard the perimeter.,선택한 분대가 주변을 경계 방어하게 합니다.
+Settings_Desc_BindReload,Rebind the reload input.,재장전 입력을 변경합니다.
+Settings_Desc_BindSidearmCycle,Cycle the sidearm of selected squad members.,선택한 분대원의 보조무기를 차례로 바꿉니다.
+Settings_Desc_BindSprint,Rebind the sprint input.,질주 입력을 변경합니다.
+Settings_Desc_BindSquadDefend,Order selected squads to defend.,선택한 분대에 방어 명령을 내립니다.
+Settings_Desc_BindStanceCycle,Cycle the engagement stance of selected squads.,선택한 분대의 교전 태세를 차례로 바꿉니다.
+Settings_Desc_BindTacticalWheel,"Open the tactical wheel for orders, stance and formation.",명령·태세·대형을 한 번에 고르는 전술 휠을 엽니다.
+Settings_Desc_BindTankAim,Toggle point-strike aiming for selected tanks.,선택한 전차의 지점 포격 조준을 켜고 끕니다.
+Settings_Desc_BindTankAmmo,Cycle main gun ammo on selected tanks (Auto/AP/HE).,선택한 전차의 주포 탄종을 차례로 바꿉니다(자동·철갑·고폭).
+Settings_Desc_BindToggleMode,Switch between Survivor and Commander mode.,생존자 모드와 지휘 모드를 전환합니다.
+Settings_Desc_BindVehicleBrake,Rebind the vehicle handbrake key.,차량 조종 중 핸드브레이크 키를 변경합니다.
+Settings_Desc_BindVehicleDrift,Rebind the vehicle drift key.,차량 조종 중 드리프트 키를 변경합니다.
+Settings_Desc_CameraSensitivity,"Adjust camera sensitivity.
+
+*Not functional yet.","카메라 감도를 조절합니다.
+
+※ 아직 동작하지 않는 항목입니다."
+Settings_Desc_Default,Hover over an option to see its description. Use the tabs above to switch categories.,항목 위에 마우스를 올리면 상세 설명이 표시됩니다. 상단 탭으로 카테고리를 전환할 수 있습니다.
+Settings_Desc_EnableHints,"Shows gameplay hints and tutorial tips while playing.
+
+*Not functional yet.","게임 플레이 중 조작 힌트와 튜토리얼 안내를 표시합니다.
+
+※ 아직 동작하지 않는 항목입니다."
+Settings_Desc_EnableSubtitles,"Shows subtitles for dialogue and voice.
+
+*Not functional yet.","대사와 음성에 자막을 표시합니다.
+
+※ 아직 동작하지 않는 항목입니다."
+Settings_Desc_FrameRate,Limit the frame rate. Matching your monitor's refresh rate is recommended. No effect while VSync is enabled.,"최대 프레임을 제한합니다. 모니터 주사율에 맞추는 것을 권장하며, 수직 동기화가 켜져 있으면 적용되지 않습니다."
+Settings_Desc_Language,Select the language you prefer.,게임에서 사용할 언어를 선택합니다.
+Settings_Desc_MasterVolume,Adjusts the overall volume of the game.,게임 전체 음량을 조절합니다.
+Settings_Desc_MusicVolume,Adjusts the music volume.,음악 음량을 조절합니다.
+Settings_Desc_ReduceMotion,Minimize UI transition and animation effects.,UI 전환과 애니메이션 효과를 최소화합니다.
+Settings_Desc_ResetBindings,Restore all key bindings to their defaults.,모든 키 바인딩을 기본값으로 되돌립니다.
+Settings_Desc_Resolution,Choose the screen resolution. Higher resolutions produce a sharper image.,화면 해상도를 선택합니다. 해상도가 높을수록 더 선명한 화면을 볼 수 있습니다.
+Settings_Desc_ReverseLook,Invert the jet's right-stick climb/descend direction.,전투기 우스틱 상승·하강 방향을 반전합니다.
+Settings_Desc_Rumble,Enable or disable gamepad vibration.,게임패드 진동 효과를 켜거나 끕니다.
+Settings_Desc_RumbleStrength,Adjust the overall intensity of gamepad vibration.,게임패드 진동의 전체 강도를 조절합니다.
+Settings_Desc_SfxVolume,Adjusts the sound effect volume.,효과음 음량을 조절합니다.
+Settings_Desc_SprintMode,"Choose sprint behavior. Toggle = press to switch, Hold = sprint while held.","질주 방식을 선택합니다. 토글=재누름으로 전환, 홀드=누르는 동안 질주."
+Settings_Desc_SubtitleScale,"Adjust the subtitle text size.
+
+*Not functional yet.","자막 글자 크기를 조절합니다.
+
+※ 아직 동작하지 않는 항목입니다."
+Settings_Desc_TextureQuality,Adjusts texture quality. Higher settings look sharper but use more VRAM.,텍스처 품질을 조절합니다. 높을수록 선명하지만 VRAM을 더 사용합니다.
+Settings_Desc_UiScale,"Adjust the overall UI size.
+
+*Not functional yet.","UI 전체 크기를 조절합니다.
+
+※ 아직 동작하지 않는 항목입니다."
+Settings_Desc_UiVolume,Adjusts the UI sound volume.,UI 효과음 음량을 조절합니다.
+Settings_Desc_VSync,Synchronizes the frame rate with your monitor's refresh rate to prevent screen tearing.,게임 프레임을 모니터 주사율에 동기화해 화면 찢어짐을 방지합니다.
+Settings_Desc_VoiceVolume,Adjusts the unit radio voice volume.,유닛 무전 음성의 음량을 조절합니다.
+Settings_Desc_WindowMode,Select the preferred window mode. Try Fullscreen if you experience input lag.,창 표시 방식을 선택합니다. 입력 지연이 느껴진다면 전체 화면을 권장합니다.
+Settings_Header_Accessibility,Accessibility,접근성
+Settings_Header_Advanced,Advanced,고급
+Settings_Header_CameraPlayer,Camera & Player,카메라 & 플레이어
+Settings_Header_Display,Display,디스플레이
+Settings_Header_General,General,일반
+Settings_Header_KeyBindings,Key Bindings,키 바인딩
+Settings_Header_UiHud,UI & HUD,UI & HUD
+Settings_Header_Volume,Volume,볼륨
+Settings_Hotkey_GoBack,Go Back,돌아가기
+Settings_Hotkey_Navigate,Navigate,이동
+Settings_Hotkey_NextCategory,Next Category,다음 탭
+Settings_Hotkey_PrevCategory,Previous Category,이전 탭
+Settings_Hotkey_Scroll,Scroll,스크롤
+Settings_Hotkey_Select,Select,선택
+Settings_Item_AnisotropicFiltering,Anisotropic Filtering,이방성 필터링
+Settings_Item_BindAttack,Attack,발사
+Settings_Item_BindAttackMove,Attack Move,공격 이동
+Settings_Item_BindBuildMode,Build Mode,건설 모드
+Settings_Item_BindDodge,Dodge,회피
+Settings_Item_BindFollowPlayer,Follow Player,플레이어 추종
+Settings_Item_BindFormationCycle,Formation Cycle,대형 전환
+Settings_Item_BindHoldPosition,Hold Position,위치 사수
+Settings_Item_BindInteract,Interact,상호작용
+Settings_Item_BindMelee,Melee,근접 공격
+Settings_Item_BindMoveDown,Move Down,이동: 아래
+Settings_Item_BindMoveLeft,Move Left,이동: 왼쪽
+Settings_Item_BindMoveRight,Move Right,이동: 오른쪽
+Settings_Item_BindMoveUp,Move Up,이동: 위
+Settings_Item_BindPerimeterGuard,Perimeter Guard,경계 배치
+Settings_Item_BindReload,Reload,재장전
+Settings_Item_BindSidearmCycle,Sidearm Cycle,보조무기 전환
+Settings_Item_BindSprint,Sprint,질주
+Settings_Item_BindSquadDefend,Squad Defend,분대 방어 명령
+Settings_Item_BindStanceCycle,Stance Cycle,교전 태세 전환
+Settings_Item_BindTacticalWheel,Tactical Wheel,전술 휠
+Settings_Item_BindTankAim,Tank Aim,전차 조준
+Settings_Item_BindTankAmmo,Tank Ammo,전차 탄종 전환
+Settings_Item_BindToggleMode,Toggle Mode,모드 전환
+Settings_Item_BindVehicleBrake,Vehicle Brake,차량 브레이크
+Settings_Item_BindVehicleDrift,Vehicle Drift,차량 드리프트
+Settings_Item_CameraSensitivity,Camera Sensitivity,카메라 감도
+Settings_Item_EnableHints,Enable Hints,힌트 표시
+Settings_Item_EnableSubtitles,Enable Subtitles,자막 표시
+Settings_Item_FrameRate,Frame Rate,최대 프레임
+Settings_Item_Language,Language,언어
+Settings_Item_MasterVolume,Master Volume,전체 볼륨
+Settings_Item_MusicVolume,Music Volume,음악 볼륨
+Settings_Item_ReduceMotion,Reduce Motion,모션 감소
+Settings_Item_ResetBindings,Reset Key Bindings,키 바인딩 초기화
+Settings_Item_Resolution,Resolution,해상도
+Settings_Item_ReverseLook,Invert Vertical (Aircraft),상하 반전 (항공기)
+Settings_Item_Rumble,Controller Rumble,컨트롤러 진동
+Settings_Item_RumbleStrength,Rumble Strength,진동 강도
+Settings_Item_SfxVolume,SFX Volume,효과음 볼륨
+Settings_Item_SprintMode,Sprint Mode,질주 방식
+Settings_Item_SubtitleScale,Subtitle Scale,자막 크기
+Settings_Item_TextureQuality,Texture Quality,텍스처 품질
+Settings_Item_UiScale,UI Scale,UI 크기
+Settings_Item_UiVolume,UI Volume,UI 볼륨
+Settings_Item_VSync,VSync,수직 동기화
+Settings_Item_VoiceVolume,Voice Volume,음성 볼륨
+Settings_Item_WindowMode,Window Mode,화면 모드
+Settings_Opt_Borderless,Borderless,테두리 없는 창
+Settings_Opt_Fullscreen,Fullscreen,전체 화면
+Settings_Opt_High,High,높음
+Settings_Opt_Hold,Hold,홀드
+Settings_Opt_Low,Low,낮음
+Settings_Opt_Medium,Medium,중간
+Settings_Opt_Toggle,Toggle,토글
+Settings_Opt_Ultra,Ultra,최고
+Settings_Opt_Unlimited,Unlimited,무제한
+Settings_Opt_Windowed,Windowed,창 모드
+Settings_Switch_Off,,끔
+Settings_Switch_On,True,켬
+Settings_Tab_Audio,Audio,사운드
+Settings_Tab_Controls,Controls,조작
+Settings_Tab_General,General,일반
+Settings_Tab_Visuals,Visuals,그래픽
+Settings_Title,Settings,설정
+action.defend,DEFEND,방 어 · DEFEND
+action.deploy,DEPLOY,진 입 · DEPLOY
+action.recon,Recon,\uC815\uCC30
+action.secure,SECURE,확 보 · SECURE
+action.sub.defend,Defend,방어
+action.sub.develop,Develop,개발
+action.sub.intel,Intel,정보
+alert.banner.view,View,보기
+armory.back_all,‹ All,‹ 전체
+armory.badge.no_tracer,NO TRACER,예광 없음
+armory.badge.stealth,◈ STEALTH,◈ 은밀
+armory.baseline,Baseline: current draft,기준: 현재 편집본
+armory.canted_hint,The canted sight unlocks once a main sight is mounted,보조 사이트는 메인 사이트 장착 시 개방됩니다
+armory.canted_locked,◭ Canted sight — unlocks with a main sight,◭ 보조 사이트 — 메인 사이트 장착 시 개방
+armory.click_equip,Click to equip,클릭 = 장착
+armory.click_plan,Click = fit (crafted on save),클릭 = 장착(저장 때 제작)
+armory.click_unequip,Click to unequip,클릭 = 해제
+armory.close,Close,닫기
+armory.country.all,All,전체
+armory.country.austria,Austria,오스트리아
+armory.country.belgium,Belgium,벨기에
+armory.country.czechia,Czechia,체코
+armory.country.europe,Europe,유럽
+armory.country.france,France,프랑스
+armory.country.germany,Germany,독일
+armory.country.italy,Italy,이탈리아
+armory.country.japan,Japan,일본
+armory.country.korea,Korea,한국
+armory.country.none,No weapons from this country yet,이 국가의 무기가 아직 없습니다
+armory.country.russia,Russia,러시아
+armory.country.survivor,Survivor,생존자
+armory.country.switzerland,Switzerland,스위스
+armory.country.uk,UK,영국
+armory.country.usa,USA,미국
+armory.craft_btn,⬡{0} Craft,⬡{0} 제작
+armory.craft_cost,Craft cost ⬡{0},제작 비용 ⬡{0}
+armory.craft_short,⬡{0} Not enough parts,⬡{0} 부품 부족
+armory.current,Current {0},현재 {0}
+armory.desc.wpn_ar,AR platform · 5.56×45 · Modular,AR 플랫폼 · 5.56×45 · 모듈러
+armory.desc.wpn_at_aug,Austria · 5.56×45 · Bullpup rifle,오스트리아 · 5.56×45 · 불펍 소총
+armory.desc.wpn_at_glock17,Austria · 9×19 · Polymer pistol,오스트리아 · 9×19 · 폴리머 권총
+armory.desc.wpn_be_fiveseven,Belgium · 5.7×28 · High-velocity pistol,벨기에 · 5.7×28 · 고속탄 권총
+armory.desc.wpn_be_mag,Belgium · 7.62×51 · GPMG,벨기에 · 7.62×51 · 기관총
+armory.desc.wpn_be_minimi,Belgium · 5.56×45 · Light MG,벨기에 · 5.56×45 · 경기관총
+armory.desc.wpn_be_p90,Belgium · 5.7×28 · PDW,벨기에 · 5.7×28 · 개인방어화기
+armory.desc.wpn_be_scarh,Belgium · 7.62×51 · Battle rifle,벨기에 · 7.62×51 · 전투소총
+armory.desc.wpn_be_scarl,Belgium · 5.56×45 · Modular,벨기에 · 5.56×45 · 모듈러
+armory.desc.wpn_br_ar_01,Belgium · 5.56×45 · CQC carbine · Non-standard,벨기에 · 5.56×45 · 단총신 카빈 · 비제식
+armory.desc.wpn_br_ar_02,France · 5.56×45 · Bullpup rifle · Non-standard,프랑스 · 5.56×45 · 불펍 소총 · 비제식
+armory.desc.wpn_br_ar_03,Russia · 5.45×39 · Modernized AK · Non-standard,러시아 · 5.45×39 · 현대화 AK · 비제식
+armory.desc.wpn_br_ar_04,Germany · 5.56×45 · Export rifle · Non-standard,독일 · 5.56×45 · 수출형 소총 · 비제식
+armory.desc.wpn_br_ar_05,Germany · 5.56×45 · Short rifle · Non-standard,독일 · 5.56×45 · 단총신 소총 · 비제식
+armory.desc.wpn_br_mg_01,USA · 5.56×45 · Light SAW · Non-standard,미국 · 5.56×45 · 경량 분대지원화기 · 비제식
+armory.desc.wpn_br_ps_flare,Non-standard · Signal and lure utility · Fixed spec,비제식 · 신호/유인 유틸 · 고정 사양
+armory.desc.wpn_br_ps_heavy,USA · .50 AE · Magnum pistol · Non-standard,미국 · .50 AE · 대구경 권총 · 비제식
+armory.desc.wpn_br_ps_rev,USA · .357 Magnum · Revolver · Non-standard,미국 · .357 매그넘 · 리볼버 · 비제식
+armory.desc.wpn_br_ps_snub,USA · .357 Magnum · Snub revolver · Non-standard,미국 · .357 매그넘 · 단총신 리볼버 · 비제식
+armory.desc.wpn_br_sg_01,USA · 12 ga · Pump shotgun · Non-standard,미국 · 12게이지 · 펌프 산탄총 · 비제식
+armory.desc.wpn_br_smg_01,Belgium · 5.7×28 · Civilian carbine · Non-standard,벨기에 · 5.7×28 · 민수 카빈 · 비제식
+armory.desc.wpn_br_smg_lite,Germany · 4.6×30 · PDW · Non-standard,독일 · 4.6×30 · 개인방어화기 · 비제식
+armory.desc.wpn_br_sr_01,USA · 7.62×51 · Marksman · Non-standard,미국 · 7.62×51 · 지정사수 · 비제식
+armory.desc.wpn_br_sr_heavy,USA · 12.7×99 · Anti-materiel · Non-standard,미국 · 12.7×99 · 대물 저격 · 비제식
+armory.desc.wpn_br_sr_lite,Russia · 7.62×54R · Civilian marksman · Non-standard,러시아 · 7.62×54R · 민수 저격총 · 비제식
+armory.desc.wpn_br_sr_mil,USA · 7.62×51 · Bolt-action sniper · Non-standard,미국 · 7.62×51 · 볼트액션 저격 · 비제식
+armory.desc.wpn_ch_p226,Switzerland · 9×19 · Precision pistol,스위스 · 9×19 · 정밀 권총
+armory.desc.wpn_ch_sg550,Switzerland · 5.56×45 · Rifle,스위스 · 5.56×45 · 소총
+armory.desc.wpn_cz_bren2,Czechia · 5.56×45 · Modular,체코 · 5.56×45 · 모듈러
+armory.desc.wpn_cz_cz75,Czechia · 9×19 · Service pistol,체코 · 9×19 · 제식 권총
+armory.desc.wpn_cz_evo3,Czechia · 9×19 · SMG,체코 · 9×19 · 기관단총
+armory.desc.wpn_de_g36,Germany · 5.56×45 · Rifle,독일 · 5.56×45 · 소총
+armory.desc.wpn_de_korth,Germany · .44 Magnum · Precision revolver,독일 · .44 매그넘 · 정밀 리볼버
+armory.desc.wpn_de_mg4,Germany · 5.56×45 · Light MG,독일 · 5.56×45 · 경기관총
+armory.desc.wpn_de_mp7,Germany · 4.6×30 · PDW,독일 · 4.6×30 · 개인방어화기
+armory.desc.wpn_de_usp,Germany · 9×19 · Service pistol,독일 · 9×19 · 제식 권총
+armory.desc.wpn_eu_hk416,Germany · 5.56×45 · Modular,독일 · 5.56×45 · 모듈러
+armory.desc.wpn_eu_mg3,Germany · 7.62×51 · GPMG,독일 · 7.62×51 · 기관총
+armory.desc.wpn_eu_mp5,Germany · 9×19 · SMG,독일 · 9×19 · 기관단총
+armory.desc.wpn_fr_famas,France · 5.56×45 · Bullpup rifle,프랑스 · 5.56×45 · 불펍 소총
+armory.desc.wpn_fr_mr73,France · .357 Magnum · Precision revolver,프랑스 · .357 매그넘 · 정밀 리볼버
+armory.desc.wpn_fr_pamas,France · 9×19 · Service pistol,프랑스 · 9×19 · 제식 권총
+armory.desc.wpn_it_92fs,Italy · 9×19 · Service pistol,이탈리아 · 9×19 · 제식 권총
+armory.desc.wpn_it_arx160,Italy · 5.56×45 · Modular,이탈리아 · 5.56×45 · 모듈러
+armory.desc.wpn_it_m4,Italy · 12 ga · Semi-auto shotgun,이탈리아 · 12게이지 · 반자동 산탄총
+armory.desc.wpn_it_rhino,Italy · .357 Magnum · Low-bore revolver,이탈리아 · .357 매그넘 · 하단 총열 리볼버
+armory.desc.wpn_jp_nambu60,Japan · .38 Special · Police revolver,일본 · .38 스페셜 · 경찰 리볼버
+armory.desc.wpn_jp_p220,Japan · 9×19 · Service pistol,일본 · 9×19 · 제식 권총
+armory.desc.wpn_jp_type20,Japan · 5.56×45 · New service rifle,일본 · 5.56×45 · 신형 소총
+armory.desc.wpn_jp_type62,Japan · 7.62×51 · GPMG,일본 · 7.62×51 · 기관총
+armory.desc.wpn_jp_type64,Japan · 7.62×51 · Semi-auto marksman,일본 · 7.62×51 · 반자동 저격
+armory.desc.wpn_jp_type89,Japan · 5.56×45 · Modular,일본 · 5.56×45 · 모듈러
+armory.desc.wpn_kr_k14,Korea · 7.62×51 · Bolt-action sniper,한국 · 7.62×51 · 볼트액션 저격
+armory.desc.wpn_kr_k1a,Korea · 5.56×45 · Carbine,한국 · 5.56×45 · 기관단총
+armory.desc.wpn_kr_k2c1,Korea · 5.56×45 · Modular,한국 · 5.56×45 · 모듈러
+armory.desc.wpn_kr_k3,Korea · 5.56×45 · Light MG,한국 · 5.56×45 · 경기관총
+armory.desc.wpn_kr_k5,Korea · 9×19 · Service pistol,한국 · 9×19 · 제식 권총
+armory.desc.wpn_mg,LMG platform · 7.62×51 · Suppressive fire,LMG 플랫폼 · 7.62×51 · 제압사격
+armory.desc.wpn_mil_a_hv,A platform · Heavy firepower · Fixed spec,A 플랫폼 · 중화력 · 고정 사양
+armory.desc.wpn_mil_a_r2,A platform · 5.56 · Modular,A 플랫폼 · 5.56 · 모듈러
+armory.desc.wpn_mil_a_r3,A platform · 5.56 light · Fixed spec,A 플랫폼 · 5.56 경량 · 고정 사양
+armory.desc.wpn_mil_b_hv,B platform · Heavy firepower · Fixed spec,B 플랫폼 · 중화력 · 고정 사양
+armory.desc.wpn_mil_b_r1,B platform · Eastern bloc (AK) · Modular,B 플랫폼 · 동구권(AK) · 모듈러
+armory.desc.wpn_mil_b_r2,B platform · Eastern bloc (AK) · Modular,B 플랫폼 · 동구권(AK) · 모듈러
+armory.desc.wpn_mil_b_r3,B platform · Eastern bloc (AK) · Fixed spec,B 플랫폼 · 동구권(AK) · 고정 사양
+armory.desc.wpn_mil_b_smg,B platform · Eastern bloc (AK) SMG · Modular,B 플랫폼 · 동구권(AK) SMG · 모듈러
+armory.desc.wpn_mil_b_sr,B platform · Eastern bloc (AK) sniper · Modular,B 플랫폼 · 동구권(AK) 저격 · 모듈러
+armory.desc.wpn_rifle_old,Old bolt-action · Militia standard · Fixed spec,구식 볼트액션 · 민병 표준 · 고정 사양
+armory.desc.wpn_ru_mp443,Russia · 9×19 · Service pistol,러시아 · 9×19 · 제식 권총
+armory.desc.wpn_ru_nagant,Russia · 7.62×38R · Gas-seal revolver,러시아 · 7.62×38R · 가스실 리볼버
+armory.desc.wpn_ru_pm,Russia · 9×18 · Compact pistol,러시아 · 9×18 · 소형 권총
+armory.desc.wpn_ru_rsh12,Russia · 12.7×55 · Heavy revolver,러시아 · 12.7×55 · 대구경 리볼버
+armory.desc.wpn_smg,SMG platform · 9×19 · Close-range high DPS · Suppressed,SMG 플랫폼 · 9×19 · 근접 고DPS · 소음
+armory.desc.wpn_sniper,"SR platform · 7.62×51 · Precision, penetrating · Suppressed",SR 플랫폼 · 7.62×51 · 정밀 관통 · 소음
+armory.desc.wpn_uk_l115a3,UK · .338 Lapua · Bolt-action sniper,영국 · .338 라푸아 · 볼트액션 저격
+armory.desc.wpn_uk_l85a2,UK · 5.56×45 · Bullpup rifle,영국 · 5.56×45 · 불펍 소총
+armory.desc.wpn_uk_webley,UK · .455 · Top-break revolver,영국 · .455 · 중절식 리볼버
+armory.desc.wpn_us_m107,USA · 12.7×99 · Anti-materiel,미국 · 12.7×99 · 대물 저격
+armory.desc.wpn_us_m17,USA · 9×19 · Modular pistol,미국 · 9×19 · 모듈러 권총
+armory.desc.wpn_us_m1911,USA · .45 ACP · Classic pistol,미국 · .45 ACP · 고전 권총
+armory.desc.wpn_us_m2010,USA · .300 Win Mag · Bolt-action sniper,미국 · .300 윈매그 · 볼트액션 저격
+armory.desc.wpn_us_m249,USA · 5.56×45 · SAW,미국 · 5.56×45 · 분대지원화기
+armory.desc.wpn_us_m29,USA · .44 Magnum · Magnum revolver,미국 · .44 매그넘 · 대구경 리볼버
+armory.desc.wpn_us_m590,USA · 12 ga · Pump shotgun,미국 · 12게이지 · 펌프 산탄총
+armory.desc.wpn_us_m7,USA · 6.8×51 · Next-gen rifle,미국 · 6.8×51 · 차세대 소총
+armory.desc.wpn_us_mk14,USA · 7.62×51 · Marksman,미국 · 7.62×51 · 지정사수
+armory.desc.wpn_us_vector,USA · .45 ACP · SMG,미국 · .45 ACP · 기관단총
+armory.eff.aggro,Aggro,어그로
+armory.eff.mag,Mag,탄창
+armory.eff.move,Move,이동
+armory.eff.range,Range,사거리
+armory.eff.reload,Reload,재장전
+armory.eff.rof,RoF,연사
+armory.eff.spread,Spread,확산
+armory.eff.stopping,Stopping,저지력
+armory.eff.weight,Weight,무게
+armory.eff_fn_grenade,◈ GL {0} rds · {1} m blast,◈ 유탄 {0}발 · 반경 {1} m
+armory.eff_fn_laser,◈ Night laser,◈ 야간 레이저
+armory.eff_fn_light,◈ Night light,◈ 야간 조명
+armory.eff_fn_shotgun,◈ Shotgun {0} rds (mag {1}) · {2} m,◈ 산탄 {0}발(탄창 {1}) · 근접 {2} m
+armory.eff_none,No effect,효과 없음
+armory.eff_stealth,◈ Stealth,◈ 스텔스
+armory.empty,Empty,비어 있음
+armory.empty_tap,Empty — tap to browse parts,비어 있음 — 탭하여 부품 보기
+armory.entry_module,Entry module · No prerequisites,진입 모듈 · 요구 없음
+armory.equipped,Equipped,장착 중
+armory.filter.all,All,전체
+armory.filter.ar,AR,AR
+armory.filter.mod,Modular,모듈러
+armory.filter.pistol,Pistol,권총
+armory.filter.pre,Precision,정밀
+armory.filter.smg,SMG,SMG
+armory.filter.sup,Support,지원
+armory.fit.family,Wrong platform family,계열 불일치 — 이 총에 맞지 않음
+armory.fit.needs,This weapon uses {0} — incompatible,이 총은 {0} — 규격 불일치
+armory.fixed,Fixed,고정
+armory.fixed_note,Fixed spec — this weapon does not support modular customization,고정 사양 — 이 무기는 모듈 개조를 지원하지 않습니다
+armory.fixed_spec,"Fixed spec — this weapon does not support modular customization.
+Salvaged and non-standard weapons are view-only.","고정 사양 — 이 무기는 모듈 개조를 지원하지 않습니다.
+노획·비제식 무기는 스탯 확인만 가능합니다."
+armory.footnote_default,Click a slot pin to see only that slot's parts · crafting spends parts · Save updates the weapon-type preset,슬롯 핀 클릭 → 해당 위치 부품만 표시 · 제작 시 부품 차감 · 저장 = 무기 종류 프리셋 갱신
+armory.footnote_slots,{0}/{1} slots filled · click a pin for that slot's parts · Save updates the weapon-type preset,슬롯 {0}/{1} 장착 · 슬롯 핀 클릭 = 해당 위치 부품 · 저장 = 무기 종류 프리셋 갱신
+armory.gauge.mag.Ak545,AK 5.45 magazine,AK 5.45 탄창
+armory.gauge.mag.Ak762,AK 7.62 magazine,AK 7.62 탄창
+armory.gauge.mag.Nato762,7.62 NATO magazine,7.62 NATO 탄창
+armory.gauge.mag.Para9,9mm magazine,9mm 탄창
+armory.gauge.mag.Stanag556,STANAG 5.56 magazine,STANAG 5.56 탄창
+armory.gauge.muzzle.Ak,AK thread,AK 나사
+armory.gauge.muzzle.Pistol9,9mm thread,9mm 나사
+armory.gauge.muzzle.Rifle556,5.56 thread,5.56 나사
+armory.gauge.muzzle.Rifle762,7.62 thread,7.62 나사
+armory.gauge.rail.Dovetail,Dovetail rail,도브테일 레일
+armory.gauge.rail.Integral,Integral rail,일체형 레일
+armory.gauge.rail.Picatinny,Picatinny rail,피카티니 레일
+armory.gear.title,Gear kits · load,장구 키트 · 하중
+armory.grip_bipod_hint,Foregrip and bipod can't be used with an underbarrel part — remove it first,포어그립 · 양각대는 총 밑 부품과 함께 달 수 없습니다 — 총 밑을 먼저 해제하세요
+armory.group_brake,Brake · Flash hider,제퇴기 · 소염기
+armory.group_misfit,Incompatible,규격 불일치
+armory.group_reddot,Red Dot,레드닷
+armory.group_scope,Magnified,배율
+armory.group_suppressor,Suppressor,소음기
+armory.idle_fixed,Fixed-spec weapon — stats are view-only,고정 사양 무기 — 스탯 확인만 가능합니다
+armory.idle_no_map,No weapon data mapping — check ArmoryCatalog,무기 데이터 매핑 없음 — ArmoryCatalog 확인
+armory.idle_slots,{0}/{1} slots filled — drag to rotate · hover a part for details and projected stats,슬롯 {0}/{1} 장착 — 드래그 회전 · 부품에 마우스를 올리면 상세와 장착 예상치가 표시됩니다
+armory.integral_default,Default · {0},기본 · {0}
+armory.kicker,ARSENAL,병기창 · ARSENAL
+armory.kicker.info,INFO · {0},INFO · {0}
+armory.kicker.loadout,LOADOUT,LOADOUT
+armory.kicker.overview,SLOT OVERVIEW,SLOT OVERVIEW
+armory.kicker.slot,SLOT,SLOT
+armory.loadout_title,Loadout,로드아웃
+armory.lock.by_part,{0} fitted — remove it to use this slot,{0} 장착 중 — 빼면 달 수 있음
+armory.lock.by_underbarrel,Remove underbarrel,총 밑 해제 필요
+armory.lock.needs_free_under,Remove foregrip/bipod,포어그립 · 양각대 해제 필요
+armory.lock.tag,Locked,잠김
+armory.lock.under_warn,Blocks the foregrip and bipod while fitted,장착하면 포어그립 · 양각대를 쓸 수 없음
+armory.main_sight_required,Main sight required,메인 사이트 필요
+armory.modular,Modular,모듈러
+armory.no_att_map,No attachment mapping for this weapon — check ArmoryCatalog,이 무기의 부착물 매핑 없음 — ArmoryCatalog 확인
+armory.no_slot_options,No parts available for this slot,이 슬롯의 부품 옵션 없음
+armory.no_weapon_data,No weapon data mapping,무기 데이터 매핑 없음
+armory.no_weapons,No weapons in stock,무기 재고 없음
+armory.occupancy_line,{0} — {1},{0} — {1}정
+armory.on_equip,With {0} equipped,{0} 장착 시
+armory.option_count,{0} options,{0}개 옵션
+armory.paint.sub.aircraft,Aircraft,항공
+armory.paint.sub.infantry,Infantry,보병
+armory.paint.sub.vehicle,Vehicles,차량
+armory.paint.title,Appearance · Paint,외형 · 도색
+armory.part.Att_Bipod_Mod_01,Bipod B1,양각대 B1
+armory.part.Att_Bipod_Mod_02,Long Bipod B2,장형 양각대 B2
+armory.part.Att_Bipod_Mod_03,Short Bipod B3,단형 양각대 B3
+armory.part.Att_Grip_Foregrip_01,Foregrip G1,포어그립 G1
+armory.part.Att_Grip_Foregrip_02,Foregrip G2,포어그립 G2
+armory.part.Att_Grip_Foregrip_03,Foregrip G3,포어그립 G3
+armory.part.Att_Grip_Foregrip_04,Foregrip G4,포어그립 G4
+armory.part.Att_Grip_Foregrip_05,Foregrip G5,포어그립 G5
+armory.part.Att_Mag_Drum,Double Drum Magazine,대용량 더블 탄창
+armory.part.Att_Mag_Extended,Extended Magazine,대용량 탄창
+armory.part.Att_Mag_Quickdraw,Quickdraw Magazine,퀵드로우 탄창
+armory.part.Att_Mag_Standard,Standard Magazine,일반 탄창
+armory.part.Att_Muzzle_Brake_01,Flash Hider F1,소염기 F1
+armory.part.Att_Muzzle_Brake_02,AK Muzzle Brake,AK 제퇴기
+armory.part.Att_Muzzle_Brake_03,Heavy Muzzle Brake,대형 제퇴기
+armory.part.Att_Muzzle_Brake_04,9mm Compensator,9mm 보정기
+armory.part.Att_Muzzle_Integral_Suppressor,Integral Suppressor,일체형 소음기
+armory.part.Att_Muzzle_Suppressor_01,Compact Suppressor,소형 소음기
+armory.part.Att_Muzzle_Suppressor_02,7.62 Suppressor,7.62 소음기
+armory.part.Att_Muzzle_Suppressor_03,Heavy Suppressor,대형 소음기
+armory.part.Att_Side_Laser_01,Laser Box,레이저 박스
+armory.part.Att_Side_Laser_02,Laser Pointer,레이저 지시기
+armory.part.Att_Side_Light_01,Tactical Light L1,전술 라이트 L1
+armory.part.Att_Side_Light_02,Compact Light L2,소형 라이트 L2
+armory.part.Att_Sight_Reddot_01,Red Dot R1,레드닷 R1
+armory.part.Att_Sight_Reddot_02,Red Dot R2,레드닷 R2
+armory.part.Att_Sight_Reddot_03,Red Dot R3,레드닷 R3
+armory.part.Att_Sight_Reddot_04,Red Dot R4,레드닷 R4
+armory.part.Att_Sight_Reddot_05,Red Dot R5,레드닷 R5
+armory.part.Att_Sight_ScopeFlip_01,Flip-up Sight,플립업 사이트
+armory.part.Att_Sight_Scope_01,Scope S1,스코프 S1
+armory.part.Att_Sight_Scope_02,Scope S2,스코프 S2
+armory.part.Att_Sight_Scope_03,Scope S3,스코프 S3
+armory.part.Att_Sight_Scope_04,Scope S4,스코프 S4
+armory.part.Att_Sight_Scope_05,Scope S5 · Long range,스코프 S5 · 장거리
+armory.part.Att_Sight_Scope_06,Scope S6,스코프 S6
+armory.part.Att_Sight_Scope_07,Scope S7,스코프 S7
+armory.part.Att_Sight_Scope_08,Scope S8,스코프 S8
+armory.part.Att_Sight_Scope_09,Scope S9 · Long range,스코프 S9 · 장거리
+armory.part.Att_Sight_Scope_10,Scope S10,스코프 S10
+armory.part.Att_Sight_Scope_11,Scope S11 · Long range,스코프 S11 · 장거리
+armory.part.Att_Sight_Scope_12,Scope S12,스코프 S12
+armory.part.Att_Sight_Scope_13,Scope S13,스코프 S13
+armory.part.Att_Sight_Scope_14,Scope S14 · Long range,스코프 S14 · 장거리
+armory.part.Att_Sight_Scope_15,Scope S15 · Long range,스코프 S15 · 장거리
+armory.part.Att_Under_GL_01,Grenade Launcher,유탄발사기
+armory.part.Att_Under_Shotgun_01,Underbarrel Shotgun,언더배럴 샷건
+armory.part_detail,{0} · Part details,{0} · 부품 상세
+armory.pick_weapon,Pick a weapon on the left,좌측에서 무기를 선택하세요
+armory.pin_hint,"Clicking a slot pin in the preview opens the same list.
+Hover a part to preview its projected stats below.","프리뷰의 슬롯 핀을 클릭해도 같은 목록이 열립니다.
+부품에 마우스를 올리면 하단 스탯에 장착 시 예상치가 표시됩니다."
+armory.planned,To craft,제작 예정
+armory.planned_cost,To craft · ⬡{0},제작 예정 · ⬡{0}
+armory.planned_value,{0} · to craft,{0} · 제작 예정
+armory.preset_saved,Preset saved,프리셋 저장됨
+armory.preset_saved_note,Preset saved — shared across named squads using this weapon type,프리셋 저장됨 — 네임드 분대가 이 무기 종류에 공용 적용
+armory.requires,Requires: {0},요구: {0}
+armory.res_ammo,Ammo {0},탄약 {0}
+armory.res_label,Crafting stock,제작 자원
+armory.res_parts,Parts {0},부품 {0}
+armory.revert,Revert,되돌리기
+armory.reverted,Reverted to saved,저장본으로 되돌림
+armory.save,Save,저장
+armory.save_failed,Save failed — check crafting stock for the equipped attachments,저장 실패 — 장착 부착물의 제작 재고를 확인
+armory.save_with_craft,Save · craft ⬡{0},저장 · ⬡{0} 제작
+armory.scope_all,All outposts,전 거점 합산
+armory.scope_outpost,Outpost · {0},거점 · {0}
+armory.sec_none_class,No small arms in this class,해당 분류의 개인 화기 없음
+armory.sec_out_of_stock,Out of stock · Needs supply or salvage,재고 없음 · 보급/노획 필요
+armory.sec_owned,In stock · Loadout editable,보유 · 로드아웃 편집 가능
+armory.sight_tab_dot,Red dot {0},레드닷 {0}
+armory.sight_tab_empty,No sights in this tab fit this weapon,이 탭에는 이 총에 맞는 사이트가 없습니다
+armory.sight_tab_scope,Magnified {0},배율 {0}
+armory.slot.bipod,Bipod,양각대
+armory.slot.canted,Canted Sight,보조 사이트
+armory.slot.foregrip,Foregrip,포어그립
+armory.slot.magazine,Magazine,탄창
+armory.slot.muzzle,Muzzle,총구
+armory.slot.siderail,Side Rail,측면 레일
+armory.slot.sight,Sight,사이트
+armory.slot.underbarrel,Underbarrel,총 밑
+armory.slot_count,{0} slots,{0}슬롯
+armory.slot_overview,Slot overview,슬롯 요약
+armory.stage_hint,WEAPON PREVIEW · drag to rotate · click a slot pin for its parts,WEAPON PREVIEW · 드래그 회전 · 슬롯 핀 클릭 = 부품 목록
+armory.stat.aggro,Horde Aggro,호드 어그로
+armory.stat.mag,Magazine,탄창 수
+armory.stat.move,Move Speed,이동속도
+armory.stat.range,Range,사거리
+armory.stat.reload,Reload,재장전
+armory.stat.rof,Rate of Fire,연사
+armory.stat.spread,Spread,확산각
+armory.stat.stopping,Stopping Power,대인 저지력
+armory.stat.weight,Weight,무게
+armory.stat_cap,EFFECTIVE,유효 결과 · EFFECTIVE
+armory.stock_free,Stock {0},보유 {0}
+armory.stock_issued,· Issued {0},· 편제 {0}
+armory.stock_n,Stock {0},재고 {0}
+armory.stock_summary,Stock {0} · Issued {1},보유 {0} · 편제 {1}
+armory.stock_zero,Stock 0,재고 0
+armory.tab.gear,Gear,장구
+armory.tab.paint,Paint,도색
+armory.tab.soon,Coming in a later update,다음 업데이트에서 열립니다
+armory.tab.weapons,Weapons,화기
+armory.tier_long,TIER {0},TIER {0}
+armory.toast.crafted_saved,Crafted {0} parts · preset saved (⬡{1}),부품 {0}개 제작 · 프리셋 저장 (⬡{1})
+armory.toast.planned,Crafted for ⬡{0} components when you save,저장할 때 부품 ⬡{0}으로 제작합니다
+armory.toast.short,"Not enough components — need ⬡{0}, have ⬡{1}",부품 자원 부족 — 필요 ⬡{0} · 보유 ⬡{1}
+armory.underbarrel_hint,The underbarrel slot can't be used with a foregrip or bipod — remove them first,총 밑(유탄발사기 · 샷건)은 포어그립 · 양각대와 함께 달 수 없습니다 — 먼저 해제하세요
+armory.unlock_with_main,Unlocks with a main sight,메인 사이트 장착 시 개방
+armory.upgrade_chain,Upgrade chain: {0} → this module,업그레이드 체인: {0} → 이 모듈
+armory.weapons.title,Owned weapons · Loadout,보유 무기 · 로드아웃
+build.avail,AVAILABLE,건설 가능 · AVAILABLE
+build.btn,Build,건설
+build.comp,Comp {0},부품 {0}
+build.cost,{0},{0}
+build.lock.comp,Low comp,부품 부족
+build.lock.dev,DEV {0} req,DEV {0} 필요
+build.lock.slot,No slot,슬롯 없음
+build.meta,{0}d total · {1}%,총 {0}일 · {1}%
+build.none,Nothing available,건설 가능 항목 없음
+build.now,IN PROGRESS,건설 중 · IN PROGRESS
+build.queue,Queue {0} · 1 slot,건설 큐 {0} · 동시 1슬롯
+build.remain,{0}d left,{0}일 남음
+build.remain.dh,{0}d {1}h left,{0}일 {1}시간 남음
+build.remain.h,{0}h left,{0}시간 남음
+build.sub,Select facility,건설할 시설 선택
+build.title,DEV · {0},개발 · {0}
+calendar.date,Y{0} · M{1} · D{2},{0}년 {1}월 {2}일
+calendar.elapsed,D+{0},D+{0}
+camo.era.army_ocp,US Army line infantry,미 육군 일반 보병
+camo.era.devgru_arid,Naval Special Warfare Development Group,해군 특수전 개발단
+camo.era.forcerecon_marpat,Force Reconnaissance,해병 수색대
+camo.era.greenberet_ocp,US Army Special Forces,미 육군 특전단
+camo.era.marines_woodland,USMC line infantry,미 해병 일반 보병
+camo.era.raider_woodland,Marine Raiders (MARSOC),해병 특수작전사령부
+camo.era.ranger_ocp,75th Ranger Regiment,제75 레인저 연대
+camo.era.seal_desert,Naval Special Warfare,미 해군 특수전
+camo.preset.army_ocp,Army · OCP,육군 · OCP
+camo.preset.devgru_arid,DEVGRU · Arid,데브그루 · 사막 돌입
+camo.preset.forcerecon_marpat,Force Recon · MARPAT,포스리컨 · MARPAT
+camo.preset.greenberet_ocp,Green Berets · OCP,그린베레 · OCP
+camo.preset.marines_woodland,Marines · Woodland,해병 · 우드랜드
+camo.preset.raider_woodland,Raiders · Woodland,레이더 · 우드랜드
+camo.preset.ranger_ocp,Rangers · OCP,레인저 · OCP
+camo.preset.seal_desert,Navy SEALs · Desert,네이비 씰 · 사막
+camo.tag.accurate,Accurate,고증
+camo.tag.adapted,Adapted,각색
+camo.tag.unverified,Unverified,확인 필요
+camoedit.back,Back,돌아가기
+camoedit.count_format,Custom camo {0} / {1}.,내 위장 {0} / {1}.
+camoedit.cover.high,Heavy cover,많이 덮기
+camoedit.cover.low,Light cover,적게 덮기
+camoedit.cover.mid,Medium cover,보통 덮기
+camoedit.default_name,Custom camo {0},내 위장 {0}
+camoedit.delete,Delete,지우기
+camoedit.detail.high,High,많이
+camoedit.detail.low,Low,적게
+camoedit.detail.mid,Medium,보통
+camoedit.digital,Digital,디지털
+camoedit.full,You can keep up to {0} custom camos. Delete one first.,내 위장은 {0}개까지 만들 수 있습니다. 하나를 지운 뒤 만드세요.
+camoedit.layer.off,,꺼짐
+camoedit.layer.on,True,켜짐
+camoedit.note,Only the preview changes until you save. Saved camos appear by name in the camo row.,저장하기 전까지는 미리보기만 바뀝니다. 저장한 위장은 무늬 줄에 이름으로 나옵니다.
+camoedit.row.actions,Save,저장
+camoedit.row.base,Base color,바탕색
+camoedit.row.detail,Detail,잔무늬
+camoedit.row.layer1,Layer 1,층 1
+camoedit.row.layer1_shape,Layer 1 shape,층 1 모양
+camoedit.row.layer2,Layer 2,층 2
+camoedit.row.layer2_shape,Layer 2 shape,층 2 모양
+camoedit.row.layer3,Layer 3,층 3
+camoedit.row.layer3_shape,Layer 3 shape,층 3 모양
+camoedit.row.name,Name,이름
+camoedit.row.start,Start from,시작점
+camoedit.save,Save only,저장만
+camoedit.save_apply,Save and wear,저장하고 입히기
+camoedit.shape.blob,Blobs,둥근 얼룩
+camoedit.shape.long,Elongated,길쭉한 얼룩
+camoedit.shape.stripe,Stripes,줄무늬
+camoedit.shuffle,Shuffle,다시 섞기
+camoedit.size.large,Large,큰 무늬
+camoedit.size.medium,Medium,보통 크기
+camoedit.size.small,Small,작은 무늬
+camoedit.start.blank,Blank,빈 바탕
+chapter.tutorial.action.open_map,ENTER LA OPERATIONS MAP,LA 작전지도 진입
+chapter.tutorial.action.return_map,RETURN TO LA OPERATIONS MAP,LA 작전지도 복귀
+chapter.tutorial.force.format,DEFENSE Lv.{0} · MILITIA {1} · EQUIPMENT {2},방어 Lv.{0} · 민병 {1} · 장비 {2}
+chapter.tutorial.force.label,LOCAL DEFENSE FORCE,현지 방어 전력
+chapter.tutorial.hint,"On the operations map, scroll up to enter the battlefield.",작전지도에서 휠을 올려 전장에 들어갑니다.
+chapter.tutorial.kicker,CHAPTER 1 · THE LAST HOLD,제1장 · 최후의 거점
+chapter.tutorial.location.fallback,LOS ANGELES,로스앤젤레스
+chapter.tutorial.location.format,UNITED STATES · {0},미국 · {0}
+chapter.tutorial.marker.select,▼ SELECT LOS ANGELES,▼ LA를 선택하세요
+chapter.tutorial.operation,OPERATION EBBTIDE · JOINT COMMAND APPROVED,썰물 작전 · 합동사령부 승인
+chapter.tutorial.ring.outside_ne_burbank_glendale_east_la,Burbank · Glendale · East LA,버뱅크 · 글렌데일 · 이스트 LA
+chapter.tutorial.ring.outside_se_long_beach_carson,Long Beach · Carson,롱비치 · 카슨
+chapter.tutorial.row.allies,ALLIES,아군
+chapter.tutorial.row.allies.format,5th Marines · Guard ×{0} · Police ×{1},해병 5연대 · 방위군 {0} · 경찰 {1}곳
+chapter.tutorial.row.goal,GOAL,목표
+chapter.tutorial.row.goal.value,① Hold downtown  ② Withdraw to the port,① 다운타운 사수  ② 항구로 철수
+chapter.tutorial.row.lost,LOST,상실
+chapter.tutorial.row.lost.sector,District {0},{0}구역
+chapter.tutorial.row.lost.separator, · , · 
+chapter.tutorial.row.threat,THREAT,위협
+chapter.tutorial.row.threat.format,Est. {0:N0} · {2} inbound routes,추정 {1}만 · 유입 {2}경로
+chapter.tutorial.silhouette,NO CONTACT,교신 두절
+chapter.tutorial.situation.retry,The opening defense is still under way. Return to the LA operations map and command Task Force Alpha.,개막 방어가 아직 진행 중입니다. LA 작전지도로 돌아가 알파 임무부대를 지휘하십시오.
+chapter.tutorial.situation.start,The eastern freeway barrier has fallen. Infected hordes are pouring into the city along the freeways.,동부 고속도로 차단선이 무너졌습니다. 감염자 무리가 고속도로를 따라 도시로 들어오고 있습니다.
+chapter.tutorial.title,LA DEFENSE LINE COLLAPSING,LA 방어선 붕괴 임박
+convoy.blocked.enroute,Convoy already en route,이미 호송 진행 중인 구간
+convoy.blocked.fromhostile,Origin not secured,출발 거점 미확보
+convoy.blocked.invalid,Invalid order,잘못된 발주
+convoy.blocked.nounits,Select units to transport,수송할 부대를 선택하세요
+convoy.blocked.routeopen,Route already open,이미 개통된 보급선
+convoy.blocked.tohostile,Target not secured — pioneer requires a secured outpost,목표 거점 미확보 — 확보 거점만 개척 가능
+convoy.blocked.transport,"No transport facility — airfield, motor pool, helipad or port required",수송 시설 없음 — 활주로·차량고·헬기장·항구 필요
+convoy.blocked.unitbusy,Includes unit already deployed or in transit,파견/수송 중인 부대 포함
+convoy.blocked.unitunavailable,Includes unavailable unit — check garrison/strength,수송 불가 부대 포함 — 주둔·전력 확인
+convoy.confirm,Dispatch,발주
+convoy.force.value,Pioneer convoy — opens supply route on arrival,개척 호송 — 도착 시 보급선 개통
+convoy.mission.pioneer,PIONEER,개척 · PIONEER
+convoy.mission.transport,TROOP TRANSPORT,병력 수송 · TRANSPORT
+convoy.mode.air,Air lift · AIR,공중 수송 · AIR
+convoy.mode.land,Truck convoy · LAND,육로 트럭 · LAND
+convoy.mode.sea,Sea lift · SEA,해상 수송 · SEA
+convoy.summary,Mission,임무
+convoy.target,TARGET,목표 · TARGET
+convoy.title,CONVOY,호송 편성 · CONVOY
+convoy.transport,Transport,수송
+convoy.transport.value,{0} unit(s) · {1} troops — rebased on arrival,{0}개 부대 · {1}명 — 도착 시 재배치
+convoy.units,TRANSPORT UNITS,수송 부대 · UNITS
+convoy.units.auto,Truck convoy auto-formed — no units attached,트럭 호송대 자동 편성 — 부대 동반 없음
+dev.summary,{0} / {1} slots · {2} building,{0} / {1} 슬롯 · {2} 건설중
+equip.wpn_ar,M4A1,M4A1
+equip.wpn_at_aug,AUG,AUG
+equip.wpn_at_glock17,Glock 17,Glock 17
+equip.wpn_be_fiveseven,Five-seveN,Five-seveN
+equip.wpn_be_mag,FN MAG,FN MAG
+equip.wpn_be_minimi,Minimi,Minimi
+equip.wpn_be_p90,P90,P90
+equip.wpn_be_scarh,SCAR-H,SCAR-H
+equip.wpn_be_scarl,SCAR-L,SCAR-L
+equip.wpn_br_ar_01,SCAR-L CQC,SCAR-L CQC
+equip.wpn_br_ar_02,FAMAS G2,FAMAS G2
+equip.wpn_br_ar_03,AK-12,AK-12
+equip.wpn_br_ar_04,G36E,G36E
+equip.wpn_br_ar_05,G36K,G36K
+equip.wpn_br_mg_01,Mk 46,Mk 46
+equip.wpn_br_ps_flare,Flare Pistol,비제식 신호탄총
+equip.wpn_br_ps_heavy,Desert Eagle,Desert Eagle
+equip.wpn_br_ps_rev,Colt Python,Colt Python
+equip.wpn_br_ps_snub,S&W 686,S&W 686
+equip.wpn_br_sg_01,Remington 870,Remington 870
+equip.wpn_br_smg_01,PS90,PS90
+equip.wpn_br_smg_lite,MP7A1,MP7A1
+equip.wpn_br_sr_01,M39 EMR,M39 EMR
+equip.wpn_br_sr_heavy,M82A1,M82A1
+equip.wpn_br_sr_lite,Tigr,Tigr
+equip.wpn_br_sr_mil,M24 SWS,M24 SWS
+equip.wpn_ch_p226,P226,P226
+equip.wpn_ch_sg550,SG 550,SG 550
+equip.wpn_cz_bren2,CZ BREN 2,CZ BREN 2
+equip.wpn_cz_cz75,CZ 75,CZ 75
+equip.wpn_cz_evo3,Scorpion EVO 3,Scorpion EVO 3
+equip.wpn_de_g36,G36,G36
+equip.wpn_de_korth,Korth NXR,Korth NXR
+equip.wpn_de_mg4,MG4,MG4
+equip.wpn_de_mp7,MP7,MP7
+equip.wpn_de_usp,USP,USP
+equip.wpn_eu_hk416,HK416,HK416
+equip.wpn_eu_mg3,MG3,MG3
+equip.wpn_eu_mp5,MP5,MP5
+equip.wpn_fr_famas,FAMAS,FAMAS
+equip.wpn_fr_mr73,Manurhin MR73,Manurhin MR73
+equip.wpn_fr_pamas,PAMAS G1,PAMAS G1
+equip.wpn_it_92fs,Beretta 92FS,Beretta 92FS
+equip.wpn_it_arx160,ARX160,ARX160
+equip.wpn_it_m4,Benelli M4,Benelli M4
+equip.wpn_it_rhino,Chiappa Rhino,Chiappa Rhino
+equip.wpn_jp_nambu60,New Nambu M60,뉴 남부 M60
+equip.wpn_jp_p220,9mm Pistol (P220),9mm 권총(P220)
+equip.wpn_jp_type20,Type 20,20식 소총
+equip.wpn_jp_type62,Type 62,62식 기관총
+equip.wpn_jp_type64,Type 64 Sniper,64식 저격형
+equip.wpn_jp_type89,Type 89,89식 소총
+equip.wpn_kr_k14,K14,K14
+equip.wpn_kr_k1a,K1A,K1A
+equip.wpn_kr_k2c1,K2C1,K2C1
+equip.wpn_kr_k3,K3,K3
+equip.wpn_kr_k5,K5,K5
+equip.wpn_mg,M240B,M240B
+equip.wpn_mil_a_hv,M27 IAR,M27 IAR
+equip.wpn_mil_a_r2,M4A1 + M203,M4A1 + M203
+equip.wpn_mil_a_r3,M16A2,M16A2
+equip.wpn_mil_b_hv,RPK,RPK
+equip.wpn_mil_b_r1,AKM,AKM
+equip.wpn_mil_b_r2,OTs-14 Groza,OTs-14 그로자
+equip.wpn_mil_b_r3,AKS-74,AKS-74
+equip.wpn_mil_b_smg,AKS-74U,AKS-74U
+equip.wpn_mil_b_sr,SVD,SVD
+equip.wpn_rifle_old,L96A1,L96A1
+equip.wpn_ru_mp443,MP-443,MP-443
+equip.wpn_ru_nagant,Nagant M1895,나강 M1895
+equip.wpn_ru_pm,Makarov PM,마카로프 PM
+equip.wpn_ru_rsh12,RSh-12,RSh-12
+equip.wpn_smg,Colt 9mm SMG,Colt 9mm SMG
+equip.wpn_sniper,M110,M110
+equip.wpn_uk_l115a3,L115A3,L115A3
+equip.wpn_uk_l85a2,L85A2,L85A2
+equip.wpn_uk_webley,Webley Mk VI,Webley Mk VI
+equip.wpn_us_m107,M107,M107
+equip.wpn_us_m17,M17,M17
+equip.wpn_us_m1911,M1911A1,M1911A1
+equip.wpn_us_m2010,M2010 ESR,M2010 ESR
+equip.wpn_us_m249,M249 SAW,M249 SAW
+equip.wpn_us_m29,S&W Model 29,S&W Model 29
+equip.wpn_us_m590,M590A1,M590A1
+equip.wpn_us_m7,M7,M7
+equip.wpn_us_mk14,Mk 14 EBR,Mk 14 EBR
+equip.wpn_us_vector,KRISS Vector,KRISS Vector
+event.cat.environment,ENVIRONMENT,환경
+event.cat.human,HUMAN,민간
+event.cat.supply,SUPPLY,보급
+event.cat.system,SYSTEM,시스템
+event.cat.zombie,ZOMBIE,좀비
+event.deadline,Deadline: {0}d,기한 {0}일
+event.defer,Hold Off,두고보기
+event.dir.e,E,동
+event.dir.n,N,북
+event.dir.ne,NE,북동
+event.dir.nw,NW,북서
+event.dir.s,S,남
+event.dir.se,SE,남동
+event.dir.sw,SW,남서
+event.dir.w,W,서
+event.distance,{0}km,{0}km
+event.effect.res,{0} {1},{0} {1}
+event.effect.stat,{0} (pending),{0} (예정)
+event.image.placeholder,EVENT IMAGE,이벤트 이미지
+event.internal_outbreak.body,"The first turning has begun inside the quarantine zone. Seal the district to stop the spread and abandon those trapped within, or move in to suppress it now and brace for casualties and spent ammunition.",검역 구역에서 첫 전환이 시작됐다. 구역을 봉쇄하면 확산을 막지만 안에 갇힌 이들을 버리게 된다. 즉시 진압에 나서면 사상자와 탄약을 각오해야 한다.
+event.internal_outbreak.choice.seal_district,Seal the district,구역을 봉쇄한다
+event.internal_outbreak.choice.suppress,Suppress it now,즉시 진압한다
+event.internal_outbreak.title,Outbreak Within,내부 발병
+event.locate,View Location,위치보기
+event.mission_success.body,"The squad stands on the rubble, objectives complete. The radio is quiet. The city still burns — but we bought another day.","분대가 목표를 완수하고 잔해 위에 섰다. 무전은 조용하다. 도시는 아직 불타고 있지만, 우리는 하루를 더 벌었다."
+event.mission_success.choice.ack,Acknowledge,확인
+event.mission_success.title,Mission Accomplished,작전 성공
+event.ok,Confirm,확인
+event.quarantine_screening.body,"Warning signs of infection appear among the new arrivals. A thorough screening can root out the infected and cut the latent threat, at the cost of medical supplies and time. Or you could simply wave them through.",도착자 명단에서 감염 의심 신호가 잡혔다. 정밀 검역으로 감염자를 색출하면 잠복 위험을 크게 줄이지만 의료 자원과 시간을 소모한다. 그냥 통과시킬 수도 있다.
+event.quarantine_screening.choice.screen,Run a full screening,정밀 검역을 실시한다
+event.quarantine_screening.choice.wave_through,Wave them through,통상 통과시킨다
+event.quarantine_screening.title,Quarantine Screening,검역소 선별
+event.refugee_influx.body,"A neighboring region has fallen, and a column of refugees has reached the harbor checkpoint. Take them in for desperately needed manpower, but latent infection may slip through with them. Turn them away, and morale and honor will suffer.","인근 권역이 무너지며 피난 행렬이 항구 검문소에 도착했다. 수용하면 절실한 인력을 얻지만, 잠복 감염이 섞여들 위험이 있다. 문을 닫으면 사기와 명예가 흔들린다."
+event.refugee_influx.choice.accept,Take everyone in,전원 수용한다
+event.refugee_influx.choice.refuse,Seal the gate,문을 닫는다
+event.refugee_influx.choice.screen,"Screen, then admit",검역 후 선별 수용
+event.refugee_influx.title,Wave of Refugees,피난민 물결
+event.sev.autopause,ATTENTION,주의
+event.sev.blocking,DECISION,결정 필요
+event.sev.toast,INFO,정보
+event.shipwreck_drift.body,"A broken cargo ship has run aground on the dawn shore. There may be survivors, but drifting wreckage is also a vector for infection. Search it, or seal it off?","새벽 해안에 부서진 화물선이 좌초했다. 생존자가 있을지 모르나, 표류물은 감염을 실어 나르는 통로이기도 하다. 수색할 것인가, 봉쇄할 것인가."
+event.shipwreck_drift.choice.rescue,Search and rescue,수색·구조한다
+event.shipwreck_drift.choice.seal,Cordon it off,접근을 봉쇄한다
+event.shipwreck_drift.title,Wreck on the Shore,해안의 난파선
+event.test.autopause.body,Zombie density near Busan has crossed the threshold.,부산 거점 인근에서 좀비 무리가 임계치를 넘었습니다. 경계가 필요합니다.
+event.test.autopause.title,Perimeter Alert,거점 경계 경보
+event.test.barking.body,Hayes here. Spotted horde movement north of the outpost. Holding the line.,여기는 헤이즈. 북쪽 초소에서 호드 움직임 포착했다. 경계 태세 유지한다.
+event.test.barking.title,Radio Report,무전 보고
+event.test.body,"A starving band of survivors has reached the outpost perimeter. Share food to take them in, but your stockpile will shrink. What is your decision?","굶주린 생존자 무리가 거점 외곽에 도착했다. 식량을 나눠주면 그들을 받아들일 수 있지만, 비축 식량이 줄어든다. 어떻게 하겠는가?"
+event.test.choice.a,Share food and take them in,식량을 나눠주고 받아들인다
+event.test.choice.b,"Take their supplies, send them off",물자만 받고 돌려보낸다
+event.test.title,Strangers at the Gate,낯선 생존자 무리
+event.test.toast.body,A routine supply run has arrived.,정기 보급선이 입항했습니다.
+event.test.toast.title,Supply Docked,보급 입항 완료
+evt.arc.signal.ack,Begin Analysis,분석 개시
+evt.arc.signal.body,"The signal analysis line is up. Repeating patterns detected in horde backbone traffic - this is not spread, it is communication. Ganglion node location clues will begin accumulating on the map.",신호 분석 라인이 가동되었다. 호드 백본 트래픽에서 반복 패턴이 검출된다 — 이것은 확산이 아니라 통신이다. 신경절 노드의 위치 단서가 지도에 축적되기 시작한다.
+evt.arc.signal.sub,Infection Research · Crisis Arc,감염 연구 · 위기 아크
+evt.arc.signal.title,Nexus Signal Analysis Online,넥서스 신호 분석 개시
+evt.convoy.arrived.sub,{0} → {1} supply route active,{0} → {1} 보급선 가동 개시
+evt.convoy.arrived.title,Supply route opened at {0},{0} 보급선 개통
+evt.convoy.departed.sub,Bound for {0},목적지 {0}
+evt.convoy.departed.title,Convoy departed from {0},{0} 호송대 출발
+evt.doctrine.gain.sub,Total {0},누적 {0}
+evt.doctrine.gain.title,Doctrine +{0},전훈 +{0}
+evt.fleet.adrift.sub,Nuclear fuel depleted — dead in the water,핵연료 고갈 — 무동력 표류 중
+evt.fleet.adrift.title,Fleet Adrift,함대 표류
+evt.fleet.fuellow.sub,Adrift in ~{0} days — dock at a friendly port,표류까지 ~{0}일 — 항구 입항 필요
+evt.fleet.fuellow.title,Nuclear Fuel Low,핵연료 부족
+evt.navalrefit.mod.title,Gun module built — {0},함포 모듈 제작 완료 — {0}
+evt.navalrefit.plat.title,Gun refit complete — {0},함포 개장 완료 — {0}
+evt.nexus.node.sub,"({0}, {1}) — a swarm supply node was caught by the sensor net","({0}, {1}) — 군체 공급 노드가 관측망에 노출됐다"
+evt.nexus.node.title,Ganglion Activity Detected,신경절 활동 포착
+evt.nexus.outbreak.sub,{0} — latent infection breached threshold; a horde has emerged,{0} — 잠복 감염이 임계를 넘어 무리가 출현했다
+evt.nexus.outbreak.title,Outbreak Inside Outpost,거점 내부 발병
+evt.nexus.strike.sub,{0} — a horde slipped past the sensor net and struck the perimeter,{0} — 정찰망 밖에서 접근한 무리가 방어선 앞에 나타났다
+evt.nexus.strike.title,Infiltrator Ambush,침투 무리 기습
+evt.nexus.vector.refugee,Refugee Wave Arrives,피난민 물결 도착
+evt.nexus.vector.shipwreck,Shipwreck Drifts Ashore,난파선 표류 접안
+evt.nexus.vector.smuggler,Smuggler Vessel Docked,밀수선 입항 보고
+evt.nexus.vector.sub,"{0} — processing arrivals, auto-quarantine underway",{0} — 수용 처리·자동 검역 진행 중
+evt.project.done.title,Project complete: {0},복원 완료: {0}
+evt.quarantine.body,Refugees and drifters are massing at the checkpoint. A hands-on screening will purge far more latent infection. Automated quarantine keeps running either way.,피난민과 표류자가 검문소 앞에 몰려 있다. 검역관이 직접 심사하면 잠복 감염을 크게 줄일 수 있다. 자동 검역은 계속 돌아간다 — 직접 개입은 선택이다.
+evt.quarantine.choice.auto,Leave it to protocol,자동 검역에 맡긴다
+evt.quarantine.choice.manual,Run the checkpoint,직접 검역 실시
+evt.quarantine.sub,{0} unhandled arrivals,미처리 도착 {0}건
+evt.quarantine.title,Quarantine Request · {0},{0} 검역 요청
+evt.siege.choice.abandon,Abandon Outpost (Withdraw),거점 포기 (질서 철수)
+evt.siege.choice.auto,Auto-resolve Defense,자동 방어 판정
+evt.siege.choice.defend,Lead the Defense (Tactical),직접 방어 (전술 지휘)
+evt.siege.defended.title,{0} Held — Horde Repelled,{0} 방어 성공 — 허드 격퇴
+evt.siege.due.body,"The besieging horde is pressing against the walls. Decide now - lead the defense in person, trust the garrison to auto-resolve, or abandon the outpost in an orderly withdrawal.","포위 중인 허드가 방벽을 향해 밀려들기 시작했다. 지금 결정해야 한다 — 직접 지휘해 전술 방어전을 치르거나, 주둔군의 자동 방어에 맡기거나, 거점을 포기하고 질서 철수한다."
+evt.siege.due.sub,Est. strength {0},추정 규모 {0}
+evt.siege.due.title,{0} — Assault Underway,{0} — 공세 개시
+evt.siege.fallen.title,{0} Has Fallen — Now Contested,{0} 함락 — 교전 지역 전환
+evt.siege.lifted.title,Siege of {0} Lifted — Horde Dispersed,{0} 포위 해소 — 허드 분산
+evt.siege.resolved.sub,Manpower losses: {0},병력 손실 {0}명
+evt.siege.started.sub,Est. strength {0} — assault in {1} day(s),추정 규모 {0} — 공세까지 {1}일
+evt.siege.started.title,{0} Under Siege — Assault Imminent,{0} 포위 — 공세 임박
+evt.sortie.arrived.body,The sortie has reached its target. Engage or return to base.,파견대가 목표에 도착했습니다. 작전을 개시하거나 귀환합니다.
+evt.sortie.arrived.sub,Choose engage or return,작전 개시 또는 귀환을 선택하세요
+evt.sortie.arrived.title,Arrived — {0},목표 도착 — {0}
+evt.sortie.choice.engage,Engage,작전 개시
+evt.sortie.choice.return,Return,귀환
+evt.sortie.departed.sub,Expedition to {0},{0}(으)로 원정
+evt.sortie.departed.title,Sortie Departed — {0},파견 출발 — {0}
+evt.sortie.returned.sub,The sortie has returned to base,파견대가 기지로 복귀했습니다
+evt.sortie.returned.title,Returned — {0},복귀 완료 — {0}
+evt.supply.restored.sub,{1} connected route(s) back online,접속 보급선 {1}개 가동 재개
+evt.supply.restored.title,Supply routes restored at {0},{0} 보급선 복구
+evt.supply.severed.sub,{1} connected route(s) cut — restored when the threat clears,접속 보급선 {1}개 두절 — 거점 위협 해소 시 복구
+evt.supply.severed.title,Supply routes severed at {0},{0} 보급선 차단
+evt.transport.arrived.sub,{0} unit(s) rebased — from {1},부대 {0} 재배치 — {1} 출발
+evt.transport.arrived.title,Troops arrived at {0},{0} 병력 수송 완료
+evt.transport.departed.sub,Bound for {0} · {1} unit(s),목적지 {0} · 부대 {1}
+evt.transport.departed.title,Troop transport departed from {0},{0} 수송대 출발
+evt.typhoon.move,Moving {0},이동 {0}
+evt.typhoon.sub.open,{0} · open {1},{0} · {1} 해상
+evt.typhoon.sub.outpost,{0} · nearest {1} {2}km,{0} · 최근접 {1} {2}km
+evt.typhoon.title,Cat {0} {1} · {2},{0}급 {1} · {2}
+facility.airfield,Airfield,활주로
+facility.airfield.short,Airfield ,활주로 
+facility.helipad,Helipad,헬기장
+facility.helipad.short,Helipad ,헬기장 
+facility.lab,Lab,연구소
+facility.motorpool,Motor Pool,차량고
+facility.motorpool.short,Motor pool ,차량고 
+facility.port,Port,항구
+facility.port.short,Port ,항구 
+fleet.action.compose,MANAGE FLEET,편성 관리
+fleet.action.dock,DOCK,입항
+fleet.action.resupply,RESUPPLY,보급
+fleet.action.rtb,RTB,보급항 복귀
+fleet.action.sortie,SORTIE,출격
+fleet.action.squads,MANAGE SQUADS,분대 관리
+fleet.callsign,TF-1 ARK,TF-1 ARK
+fleet.cap.air,Air,항공
+fleet.cap.amp,Amphib,상륙
+fleet.cap.gun,Gun,함포
+fleet.cap.msl,Missile,미사일
+fleet.comp.formation,FORMATION,편대 · FORMATION
+fleet.comp.meta,{0} · {1} ships,{0} · 편제 {1}척
+fleet.comp.note,CV flagship + 9 escorts (DD ×3 · CG ×2 · SS ×2 · aux ×1 · frigate damaged),CV 기함 · 항모 + 호위 9척 (구축 ×3 · 순양 ×2 · 잠수 ×2 · 보조 ×1 · 프리깃 손상)
+fleet.comp.roster,ROSTER · AVAILABLE SHIPS,로스터 · 편입 가능 함선
+fleet.comp.title,FLEET COMPOSITION,함대 편성 · TASK FORCE
+fleet.crew.note,Skeleton crew — readiness capped (38% complement),스켈레톤 크루 — 가동률 제한 (정원 38%)
+fleet.fire.ngfs,NGFS,함포 · NGFS
+fleet.fire.none,N/A,불가
+fleet.fire.note,In coastal range — inland reached by air only,해안 권역 사거리 내 — 내륙은 항공만 도달
+fleet.fire.sortie,SORTIE,항공 출격 · SORTIE
+fleet.fire.tlam,TLAM,순항미사일 · TLAM
+fleet.footnote,Move — right-click map · dock/resupply at port zones,이동 — 지도 우클릭 · 입항·보급은 항구 권역에서
+fleet.ngfs.coastal,COASTAL ZONES,해안권역 가능
+fleet.nuclear.consume,Cruise −{0}%/day,순항 소모 −{0}%/일
+fleet.nuclear.drift,Adrift in ~{0}d,표류까지 ~{0}일
+fleet.nuclear.driftsafe,No drift risk,표류 위험 없음
+fleet.nuclear.label,NUCLEAR FUEL,핵연료 · NUCLEAR FUEL
+fleet.port.rtbok,RTB POSSIBLE ON CURRENT FUEL,현 연료로 복귀 가능
+fleet.range.caution,Caution,주의
+fleet.range.normal,NOMINAL,정상
+fleet.readiness.air,AIR,항공 출격 · AIR
+fleet.readiness.repair,REPAIR,수리 도크 · REPAIR
+fleet.roster.cost,Crew −{0},운용 −{0}
+fleet.roster.locked,Locked,구출 필요
+fleet.roster.lockmsg,Joins on {0} alliance (§6.4),{0} 동맹 접촉 시 편입 (§6.4)
+fleet.roster.title,SQUAD ROSTER,분대 관리 · SQUAD ROSTER
+fleet.section.fire,FIRE SUPPORT,화력 지원 · FIRE SUPPORT
+fleet.section.readiness,READINESS,가동률 · READINESS
+fleet.section.specialists,SPECIALISTS,특수 인력 · SPECIALISTS
+fleet.section.supply,SUPPLY,보급 · SUPPLY
+fleet.section.taskforce,TASK FORCE,편성 · TASK FORCE
+fleet.slot.escort,Escort,호위
+fleet.slot.flagship,Flagship,기함
+fleet.sortie.asset,AIR ASSET,항공 자산 · AIR ASSET
+fleet.sortie.from,LAUNCH BASE · FROM,출격 기지 · FROM
+fleet.sortie.gates,CONSTRAINTS,제약 · CONSTRAINTS
+fleet.sortie.ok,READY,가능
+fleet.sortie.sub,SORTIE · AIR WING DISPATCH,SORTIE · 항공단 디스패치
+fleet.sortie.team,STRIKE TEAM,탑승 분대 · STRIKE TEAM
+fleet.sortie.title,SORTIE,출격 구성
+fleet.sortie.to,TARGET · TO,타겟 · TO
+fleet.squad.formation,FORMATION,대형
+fleet.squad.roster,ROSTER,가용 인원 · ROSTER
+fleet.stat.heading,HEADING,침로 · HEADING
+fleet.stat.range,RANGE,작전반경 · RANGE
+fleet.stat.speed,SPEED,속도 · SPEED
+fleet.status.atsea,◆ AT SEA,◆ AT SEA
+fleet.status.docked,⚓ DOCKED,⚓ 입항
+fleet.stores.ok,ADEQUATE,적정
+fleet.supply.ammo,AMMO,탄약 · AMMO
+fleet.supply.fuel,FUEL,일반연료 · FUEL
+fleet.supply.portcap,NEAREST FRIENDLY PORT,최근접 아군 보급항
+fleet.supply.stores,STORES,물자 · STORES
+fleet.tab.force,Force,편성
+fleet.tab.nav,Navigation,항행
+fleet.taskforce.count,{0} ships · ,{0}척 · 
+fleet.taskforce.dmg,{0} damaged,{0} 손상
+fleet.tlam.locked,Fire control locked,관제 미해금
+fleet.tlam.ready,Ready,가능
+fleet.tlam.standby,STANDBY,대기
+fleet.warn.atsea,OPEN SEA — NO RESUPPLY (port required),외해 — 보급 불가 (항구 입항 필요)
+forder.caption,FIRST ORDERS,첫 작전 오더 · FIRST ORDERS
+forder.s1.desc,Select a secured outpost to review its defenses and garrison.,확보 거점을 선택해 방어 태세와 주둔 부대를 확인하십시오.
+forder.s1.title,Situation Report,현황 파악
+forder.s2.desc,"Select an unsecured outpost, run [Recon], and make it back alive.",미확보 거점을 선택해 [정찰]을 실시하고 생환하십시오.
+forder.s2.title,Threat Recon,위협 정찰
+forder.s3.desc,Dispatch a task force from a secured outpost (garrison required).,확보 거점에서 [파견]을 발주하십시오 (주둔 부대 필요).
+forder.s3.title,Task Force,부대 파견
+forder.s3.wait,Task force deployed — use time speed (2x/4x) until it returns.,파견 부대 작전 중 — 복귀까지 배속(2×/4×)을 활용하십시오.
+forder.s4.desc,Shore up your defenses until Day 5. The hordes will move soon.,5일차까지 방어를 정비하십시오. 곧 호드가 움직입니다.
+forder.s4.title,Stand Guard,경계 태세
+forder.toast.done,First Orders Complete,첫 작전 오더 완료
+forder.toast.done.sub,The hordes are on the move. Defend your outposts.,이제 호드가 움직이기 시작합니다. 거점을 방어하십시오.
+forder.toast.next,New orders received.,다음 오더가 하달되었습니다.
+forder.toast.s1,Order Complete — Situation Report,오더 완료 — 현황 파악
+forder.toast.s2,Order Complete — Threat Recon,오더 완료 — 위협 정찰
+forder.toast.s3,Order Complete — Task Force,오더 완료 — 부대 파견
+gear.baked_note,"Line-unit soldiers have a baked outfit: helmet and pack looks stay, only the numbers change",일반 부대 병사는 복장이 한 덩어리라 헬멧 · 배낭 외형은 그대로이고 수치만 바뀝니다
+gear.band.heavy,Heavy,중장
+gear.band.light,Light,경량
+gear.band.no_sprint,Overloaded · no sprint,과적 · 질주 불가
+gear.band.overload,Overloaded,과적
+gear.band.standard,Standard,표준
+gear.delete,Delete kit,키트 삭제
+gear.deleted,Deleted. Anyone using it goes back to standard issue,삭제했습니다 — 이 키트를 쓰던 대원은 기본 장구로 돌아갑니다
+gear.drag_hint,Drag to rotate · click a slot for its items,끌어서 돌리기 · 칸 클릭 = 품목 목록
+gear.eff.conceal,Zombie detection {0} m,좀비 감지 {0} m
+gear.eff.damage,Damage taken −{0}%,받는 피해 −{0}%
+gear.eff.mags,Magazines +{0},탄창 +{0}
+gear.empty,None,없음
+gear.empty.helmet,Character default,캐릭터 기본
+gear.equipped,Equipped,장착
+gear.foot,Assign kits in the squad builder (members) and Paint › Line units (unit types) · gear needs no stock · saving applies to everyone using this kit,키트는 분대 편성(대원) · 도색 › 일반 부대(병종)에서 고릅니다 · 장구는 재고 없이 자유 선택 · 저장하면 이 키트를 쓰는 모두에게 적용
+gear.ghillie_note,Change ghillie colors in the Paint tab,길리 색은 도색 탭에서 바꿉니다
+gear.item.belt_battle,Battle belt,배틀 벨트
+gear.item.belt_mg,MG ammo belt,기관총 탄띠
+gear.item.pack_assault,Assault pack,돌격 배낭
+gear.item.pack_large,Large rucksack,대형 배낭
+gear.item.pack_radio,Radio pack,무전기 배낭
+gear.item.pouch_ext,Extended pouches,확장 파우치
+gear.item.pouch_min,Minimal pouches,최소 파우치
+gear.item.pouch_std,Standard pouches,표준 파우치
+gear.kg,{0} kg,{0} kg
+gear.kit.assault_heavy,Heavy assault,돌격 중장
+gear.kit.assault_heavy.desc,"Modern helmet, heavy armor and extended pouches. Much less damage taken; no pack.",현대식 헬멧 · 중방탄복 · 확장 파우치. 받는 피해가 크게 줄고 배낭은 없습니다.
+gear.kit.custom,Custom,내 키트
+gear.kit.custom_desc,Your own kit. Click the name to rename it,직접 만든 키트 — 이름을 눌러 바꿀 수 있습니다
+gear.kit.mg,Machine gunner,기관총 사수
+gear.kit.mg.desc,Light armor and an MG ammo belt. Lands in the heavy band with a machine gun.,경량 방탄복과 기관총 탄띠. 기관총을 들면 중장 띠에 들어갑니다.
+gear.kit.modified,Edited,수정됨
+gear.kit.new,+ New kit,+ 새 키트
+gear.kit.new_name,My kit {0},내 키트 {0}
+gear.kit.none,No kit,키트 없음
+gear.kit.recon,Light recon,경량 정찰
+gear.kit.recon.desc,"Patrol cap, minimal pouches and assault pack. Fast, with no armor.",순찰모 · 최소 파우치 · 돌격 배낭. 방탄복 없이 빠르게 움직입니다.
+gear.kit.rifleman,Rifleman,소총수 표준
+gear.kit.rifleman.desc,"Combat helmet, light armor, standard pouches and assault pack.",전투 헬멧 · 경량 방탄복 · 표준 파우치 · 돌격 배낭.
+gear.kit.sniper_ghillie,Sniper · ghillie,저격 · 길리
+gear.kit.sniper_ghillie.desc,Ghillie outer layer: zombies only notice you up close. Firing or sprinting reveals you.,길리슈트 외피 — 좀비가 가까이 와야 알아챕니다. 쏘거나 달리면 드러납니다.
+gear.kit.standard,Standard issue,기본 장구
+gear.kit.standard.desc,"No armor; standard pouches, battle belt and assault pack. Worn by anyone without an assigned kit.",방탄복 없이 표준 파우치 · 배틀 벨트 · 돌격 배낭. 배정이 없는 대원 · 병종이 입습니다.
+gear.kits,Gear kits,장구 키트
+gear.ref,Reference weapon: {0} + pistol,기준 화기 {0} + 권총
+gear.ref.rifle,rifle,소총
+gear.reset,Defaults,기본값
+gear.reset_done,Restored the defaults,기본값으로 되돌렸습니다
+gear.revert,Revert,되돌리기
+gear.reverted,Reverted,되돌렸습니다
+gear.save,Save,저장
+gear.saved,Saved,저장했습니다
+gear.slot.armor,Armor,방호
+gear.slot.belt,Belt,탄띠 · 벨트
+gear.slot.head,Slot · {0},칸 · {0}
+gear.slot.helmet,Helmet,헬멧
+gear.slot.outer,Outer layer,외피
+gear.slot.pack,Pack,배낭
+gear.slot.pick,Pick a slot to see its items,칸을 고르면 품목이 나옵니다
+gear.slot.pouch,Pouches,파우치
+gear.stat.cap,Load,하중 · LOAD
+gear.stat.conceal,Concealment,은신
+gear.stat.damage,Damage taken,받는 피해
+gear.stat.load,Total load,총 하중
+gear.stat.mags,Magazines,휴대 탄창
+gear.stat.meters,{0} m,{0} m
+gear.stat.move,Move,이동
+gear.stat.move_value,×{0} · {1} m/s,×{0} · {1} m/s
+gear.stat.mul,×{0},×{0}
+gear.stat.none,—,—
+gear.stat.percent,{0}%,{0}%
+gear.unsaved,Unsaved changes. Picking another kit discards them,저장하지 않은 변경이 있습니다 — 다른 키트를 고르면 사라집니다
+help.controls,CONTROLS,조작 · CONTROLS
+help.ctrl.close,CLOSE,닫기 · CLOSE
+help.ctrl.pause,PAUSE,일시정지 · PAUSE
+help.ctrl.speed,SPEED,배속 · SPEED
+help.ctrl.zoom,ZOOM,줌 · ZOOM
+help.tooltip,HELP,도움말 · HELP
+honor.grade.elite,Elite,베테랑
+honor.grade.legend,Legend,전설
+honor.grade.recruit,Recruit,신병
+honor.grade.veteran,Veteran,정예
+honor.squad.line,Honor {0} · Kills {1},명예 {0} · 킬 {1}
+horde.action.armedrecon,ARMED RECON,무장정찰
+horde.action.auto,AUTO STRIKE,자동 폭격
+horde.action.auto.heli,AUTO GUNSHIP STRIKE,자동 건십 타격
+horde.action.direct,DIRECT SORTIE,직접 출격
+horde.action.direct.heli,DIRECT GUNSHIP SORTIE,건십 직접 출격
+horde.aircraft.fighter,FIGHTER,전투기
+horde.aircraft.helicopter,ATTACK HELICOPTER,공격헬기
+horde.block.ammo,INSUFFICIENT AMMO,탄약 부족
+horde.block.assets,NO AIR ASSETS AVAILABLE,가용 항공자산 없음
+horde.block.busy,SORTIE SLOT OCCUPIED,출격 슬롯 사용 중
+horde.block.fuel,INSUFFICIENT FUEL,연료 부족
+horde.block.intel,INSUFFICIENT INTEL — ARMED RECON REQUIRED,정보 부족 — 무장정찰 필요
+horde.block.range,NO SORTIE SOURCE IN RANGE,작전반경 내 출격지 없음
+horde.block.small,BELOW AUTO-STRIKE MINIMUM STRENGTH,자동 폭격 최소 전력 미만
+horde.block.target,TARGET TRACK LOST,표적 정보 소실
+horde.block.weather,TYPHOON HAZARD — FLIGHT PROHIBITED,태풍 영향권 — 비행 불가
+horde.brief.block.active,AN AIR OPERATION IS ALREADY ACTIVE AGAINST THIS TARGET.,이미 이 표적을 향한 항공작전이 진행 중입니다.
+horde.brief.cost.fleet,FLEET FUEL {0}→{1}% · AMMO {2}→{3}%,함대 연료 {0}→{1}% · 탄약 {2}→{3}%
+horde.brief.cost.land,FUEL {0}→{1} · AMMO {2}→{3},연료 {0}→{1} · 탄약 {2}→{3}
+horde.brief.eyebrow,STRATEGIC AIR COMMAND,전략항공사령부 · STRATEGIC AIR COMMAND
+horde.brief.intel,INTEL {0} · {1},정보 {0} · {1}
+horde.brief.section.asset,AIR ASSET,항공 자산 · AIR ASSET
+horde.brief.section.mission,MISSION,임무 · MISSION
+horde.brief.section.situation,SITUATION,상황 · SITUATION
+horde.brief.section.source,SORTIE SOURCE,출격 · SOURCE
+horde.brief.source,{0} · {1}km / RANGE {2}km,출격지 {0} · {1}km / 작전반경 {2}km
+horde.brief.source.none,NO SORTIE SOURCE AVAILABLE,가용 출격지 없음
+horde.brief.status,OPERATION {0} · {1},작전 {0} · {1}
+horde.brief.strength,STRENGTH {0},전력 {0}
+horde.brief.title,HORDE AIR TASKING,호드 항공작전 · AIR TASKING
+horde.hover.air.blocked,AIRSTRIKE BLOCKED · CLICK FOR DETAILS,폭격 제한 · 클릭하여 사유 확인
+horde.hover.air.ready,AIRSTRIKE READY · {0}km,폭격 가능 · {0}km
+horde.hover.strength,EST. {0} · INTEL {1},추정 {0} · 정보 {1}
+horde.hover.title,ZOMBIE HORDE,좀비 무리 · HORDE
+horde.mission.armedrecon,"Search the predicted area, identify the target, then engage, track, or withdraw.",예상 구역을 수색해 표적을 식별하고 현장에서 공격·추적·철수를 결정합니다.
+horde.mission.attrition,Reduce horde strength to weaken later ground mission waves.,호드 전력을 삭감해 후속 지상 미션의 웨이브 강도를 낮춥니다.
+horde.mission.precision,Avoid friendlies and outpost structures while striking the vanguard and dense core.,아군·거점 시설을 피하며 선두와 핵심 밀집군을 정밀 타격합니다.
+horde.phase.attack,ATTACKING,공격 중
+horde.phase.launch,LAUNCHING,발진
+horde.phase.outbound,OUTBOUND,접근 중
+horde.phase.recovery,RECOVERY,착함·회수
+horde.phase.return,RETURNING,복귀 중
+horde.phase.tactical,DIRECT CONTROL,직접 지휘 중
+horde.recommend.armedrecon,RECOMMENDED: ARMED RECON · IDENTIFY BEFORE ENGAGING,권장: 무장정찰 · 표적 식별 후 교전 판단
+horde.recommend.auto,RECOMMENDED: AUTO STRIKE · ROUTINE ATTRITION,권장: 자동 폭격 · 일상 전력 삭감
+horde.recommend.direct,RECOMMENDED: DIRECT SORTIE · DANGER-CLOSE PRECISION,권장: 직접 출격 · 위험근접 정밀 타격
+horde.situation.dangerclose,Danger close to a friendly outpost. A precise direct strike is advised.,거점 인접 위험근접 상황. 정밀한 직접 타격을 권장합니다.
+horde.situation.idle,Concentrated and stationary. Well suited to routine airstrikes.,집결 상태. 자동 폭격에 적합한 밀집 표적입니다.
+horde.situation.moving,A large moving mass. The interception window is limited.,이동 중인 대형 집단. 진군 경로 차단 가능 시간이 제한됩니다.
+horde.situation.searching,The target is dispersing to search. Positional uncertainty is rising.,표적이 분산 수색 중입니다. 위치 오차가 증가하고 있습니다.
+horde.situation.unknown,SITUATION UNDER ASSESSMENT.,상황 평가 중입니다.
+infection.label,Remaining infection,남은 감염
+infection.latent.label,Latent in our outposts,우리 거점 잠복
+infection.latent.tooltip,"Infection hidden inside outposts we hold — grows with sea vectors and outbreaks, falls with quarantine",확보한 거점 안에 숨은 감염 합계 — 해상 벡터 · 발병으로 늘고 검역으로 준다
+infection.purged,Purged {0:N0},박멸 {0:N0}
+infection.purged.label,Purged,박멸
+infection.tooltip,"Wild {0:N0} · Hordes {1:N0} · Latent {2:N0}
+Purged {3:N0} — Quarantine {4:N0} · Combat {5:N0}","야생 {0:N0} · 호드 {1:N0} · 잠복 {2:N0}
+박멸 {3:N0} — 검역 {4:N0} · 전투 {5:N0}"
+infection.value,{1:0.000}B,{0:0.00}억
+labor.agriculture,Agri,농업
+labor.construction,Const,건설
+labor.industry,Industry,공업
+labor.maintenance,Maint,정비
+labor.medical,Medical,의무
+labor.research,Research,연구
+labor.security,Security,보안
+legend.title,OWNERSHIP,소속 · OWNERSHIP
+legion.close,Close,닫기
+legion.dossier.bio_tbd,Stats/skills/bio/merit detail: TBD (CharacterRecord §6.6 · §12.5). Identity is live from CharacterState.,능력치·스킬·배경·전공·명예 상세는 후속 데이터(CharacterRecord §6.6 · §12.5) 연동 예정. 신원은 CharacterState 실시간.
+legion.dossier.merit,Merit —,명예 —
+legion.dossier.merit_prefix,Merit · ,명예 · 
+legion.dossier.nation,Nation TBD,국적 미상
+legion.dossier.record_tbd,Service record: TBD (CharacterRecord §6.6).,전공 기록은 후속(CharacterRecord §6.6).
+legion.dossier.skills_tbd,Skills: TBD (§6.6/§15.5).,스킬은 후속 데이터(§6.6/§15.5).
+legion.loc.at,At ,위치 
+legion.loc.reserve,Reserve,대기
+legion.node.aboard,Aboard ,수용 
+legion.node.csg,Carrier Strike Group · Mobile HQ,CARRIER STRIKE GROUP · 이동 본부
+legion.node.dev,Dev Lv.,개발 Lv.
+legion.node.flagship,Flagship,기함
+legion.node.readiness,Readiness,가동률
+legion.node.ships,Ships ,함선 
+legion.pop.idle,Idle,유휴
+legion.pop.labor,Labor,노동
+legion.pop.mil,Militia,민병
+legion.pop.total,Pop {0},인구 {0}
+legion.pop.wound,Wounded,부상
+legion.prof.branch,Branch,병과
+legion.prof.unit,Unit,소속
+legion.rec.days,d,일
+legion.rec.kills,Kills,누적 킬
+legion.rec.run,Sorties,출격
+legion.rec.score,Honor Score,명예 점수
+legion.rec.streak,Longest Streak,생존 최장
+legion.rec.won,Wins,완수
+legion.s.prof,Proficiency,숙련
+legion.s.vit,Vitality,체력
+legion.sec.deploy,Deployment · OUTPOST/FLEET,거점·함대 역할 배치 · DEPLOYMENT
+legion.sec.named,Operator Roster · OPERATORS,요원 명부 · OPERATORS
+legion.sec.pop,Rescued Population · POPULATION,구출 시민 인구 · POPULATION
+legion.spec.commander,Cmd · COMMANDER,지휘 · COMMANDER
+legion.spec.engineer,Eng · ENGINEER,공병 · ENGINEER
+legion.spec.heli,Heli · PILOT,조종 · HELI PILOT
+legion.spec.infantry,Inf · INFANTRY,보병 · INFANTRY
+legion.spec.medic,Med · MEDIC,의무 · MEDIC
+legion.spec.pilot,Pilot · PILOT,조종 · PILOT
+legion.spec.tank,Tank · TANK,전차병 · TANK
+legion.stat.kia,KIA,전사
+legion.stat.named,Operatives,요원
+legion.stat.pop,Population,세력 인구
+legion.stat.spec,Specialists,특수인력
+legion.stat.squads,Squads,분대
+legion.status.alive,Alive,생존
+legion.status.kia,KIA,KIA
+legion.tab.deploy,Deploy,배치
+legion.tab.honors,Honors,명예
+legion.tab.roster,Roster,인사
+legion.tab.squads,Squads,편성
+legion.title,LEGION,군단 · LEGION
+lineapp.camo.ae_desert,UAE Desert Digital,UAE 사막 디지털
+lineapp.camo.au_amcu,AU AMCU,호주 AMCU
+lineapp.camo.black,Black,흑색
+lineapp.camo.cl_digital,Chile Digital,칠레 디지털
+lineapp.camo.create,+ New custom camo,+ 내 위장 만들기
+lineapp.camo.desert,Desert tricolor,사막 3색
+lineapp.camo.devgru_arid,DEVGRU Arid,데브그루 사막
+lineapp.camo.edit,Edit this camo,이 위장 고치기
+lineapp.camo.ie_dpm,Irish DPM,아일랜드 DPM
+lineapp.camo.jp_jgsdf,JGSDF,자위대 위장
+lineapp.camo.kr_granite,ROK Granite,한국 화강암
+lineapp.camo.marines_woodland,Marines Woodland,해병 우드랜드
+lineapp.camo.marpat,MARPAT,MARPAT
+lineapp.camo.no_m98,Norway M98,노르웨이 M98
+lineapp.camo.nz_mcu,NZ MCU,뉴질랜드 MCU
+lineapp.camo.ocp,OCP,OCP
+lineapp.camo.outfit,Outfit's own,세트 자체
+lineapp.camo.raider_woodland,Raider Woodland,레이더 우드랜드
+lineapp.camo.seal_desert,SEAL Desert,씰 사막
+lineapp.camo.sg_pixel,Singapore No.4,싱가포르 No.4
+lineapp.camo.tw_digital,ROC Digital,대만 디지털
+lineapp.camo.ua_mm14,Ukraine MM-14,우크라이나 MM-14
+lineapp.camo.uk_mtp,UK MTP,영국 MTP
+lineapp.camo.woodland,Woodland,우드랜드
+lineapp.camo.za_soldier2000,SA Soldier 2000,남아공 Soldier 2000
+lineapp.fabric_preview,Fabric,원단
+lineapp.field_preview,Battlefield size,전장 크기
+lineapp.host_fleet,Fleet,함대
+lineapp.nation_default,Nation default,국가 기본
+lineapp.note,Reference: {0} — unset fields use that nation's default. Applies to every unit of this type.,기준 거점: {0} — 지정하지 않은 항목은 그 국가 기본 외형을 씁니다. 이 병종 부대 전체에 적용됩니다.
+lineapp.note_ghillie,"The ghillie suit covers the whole body, so part paint is hidden.",길리가 몸 전체를 덮어 부위 칠이 보이지 않습니다.
+lineapp.note_nopalette,This outfit's camo can't be recolored,이 복장은 위장 팔레트를 바꿀 수 없습니다
+lineapp.note_parts,'Camo' uses the uniform's pattern. Solid swatches are not yet checked against references.,'위장'은 복장과 같은 무늬입니다. 단색 견본은 자료 대조 전입니다.
+lineapp.outfit.army_ocp,Army · OCP,육군 · OCP
+lineapp.outfit.devgru_arid,DEVGRU · Arid,데브그루 · 사막 돌입
+lineapp.outfit.forcerecon_marpat,Force Recon · MARPAT,포스리컨 · MARPAT
+lineapp.outfit.greenberet_ocp,Green Berets · OCP,그린베레 · OCP
+lineapp.outfit.marines_woodland,Marines · Woodland,해병 · 우드랜드
+lineapp.outfit.raider_woodland,Raiders · Woodland,레이더 · 우드랜드
+lineapp.outfit.ranger_ocp,Rangers · OCP,레인저 · OCP
+lineapp.outfit.seal_desert,Navy SEALs · Desert,네이비 씰 · 사막
+lineapp.outfit.swat_black,SWAT · Black,SWAT · 흑색
+lineapp.part.belt,Belt,탄띠
+lineapp.part.boots,Boots,부츠
+lineapp.part.carrier,Carrier,조끼
+lineapp.part.gloves,Gloves,장갑
+lineapp.part.helmet,Helmet,헬멧
+lineapp.part.pack,Pack,배낭
+lineapp.part.pads,Pads,보호대
+lineapp.part.pouches,Pouches,파우치
+lineapp.part_mode.camo,Camo,위장
+lineapp.part_mode.inherit,Default,기본
+lineapp.part_mode.solid_other,Other color,그 밖의 단색
+lineapp.preset.custom,Custom,사용자 지정
+lineapp.preset.default,Default,기본
+lineapp.row.camo,CAMO,위장
+lineapp.row.kit,Gear kit,장구 키트
+lineapp.row.outfit,OUTFIT,복장
+lineapp.row.preset,Preset,프리셋
+marker.recon.badge,SCOUTED,\uC815\uCC30\uB428
+marker.siege.dday,D-{0},D-{0}
+merit.label,Doctrine,전훈
+ngr.close,CLOSE,닫기
+ngr.dock.at_sea,At sea — dock at a shipyard to begin · yards: {0},외해 — 조선소 입항 후 착수 가능 · 조선소: {0}
+ngr.dock.no_yard,No shipyard at this port — yards: {0},이 항구엔 조선소가 없다 — 조선소: {0}
+ngr.dock.none_secured,No secured shipyard,확보된 조선소 없음
+ngr.dock.ready,{0} SHIPYARD — ready · naval stores {1},{0} 조선소 — 착수 가능 · 정비 물자 {1}
+ngr.eff.ammocost,Ammo,탄약
+ngr.eff.base,Baseline — no modifiers,기본 장비 — 배수 없음
+ngr.eff.dispersion,Dispersion,분산
+ngr.eff.interval,Interval,간격
+ngr.eff.radius,Blast,살상
+ngr.eff.range,Range,사거리
+ngr.entry.tip,Naval gun refit — caliber and slot modules,함포 개량 — 구경 개장 · 슬롯 모듈
+ngr.foot,Naval stores are produced at shipyard outposts · Corvettes and frigates are fixed at 127mm; larger calibers are destroyer-only,"정비 물자는 조선소 계열 거점에서 산출된다 · 콜벳·호위함은 127mm 고정, 상위 구경은 구축함 전용"
+ngr.job.active,{0} IN PROGRESS · D-{1} · {2},{0} 진행 중 · D-{1} · {2}
+ngr.job.paused,{0} HALTED — return to {1} ({2}d left),{0} 진행 정지 — {1} 재입항 필요 (잔여 {2}일)
+ngr.job.tag,D-{0},진행 D-{0}
+ngr.meta,{0} · {1} · Current {2},{0} · {1} · 현재 {2}
+ngr.mod.busy,Dock occupied,도크 사용 중
+ngr.mod.click_equip,Click to equip,클릭 = 장착
+ngr.mod.click_unequip,Click to remove,클릭 = 해제
+ngr.mod.craft,CRAFT {0},제작 {0}
+ngr.mod.craft_days,BUILD {0} · {1}d,제작 {0} · {1}일
+ngr.mod.craft_short,NEEDS {0},물자 {0} 부족
+ngr.mod.equipped,EQUIPPED,장착
+ngr.mod.need_dock,Shipyard required,조선소 필요
+ngr.mod.need_prev,Requires {0},선행 {0}
+ngr.mod.stock,Stock {0},보유 {0}
+ngr.mod.stock_zero,Not crafted,미제작
+ngr.plat.busy,Dock occupied — {0},도크 사용 중 — {0}
+ngr.plat.cost,REFIT {0},개장 {0}
+ngr.plat.cost_days,REFIT {0} · {1}d,개장 {0} · {1}일
+ngr.plat.equipped,EQUIPPED,장착 중
+ngr.plat.need_dock,Shipyard docking required,조선소 입항 필요 — 착수 불가
+ngr.plat.need_prev,Requires {0} installed,선행 필요 — {0} 장착 상태
+ngr.plat.no_role,Hull class restricted — cannot refit this ship,함종 제한 — 이 함선에는 개장 불가
+ngr.plat.no_stores,Not enough naval stores — {0} required,정비 물자 부족 — {0} 필요
+ngr.plat.now,{0:0.0}s salvo · {1} rounds per mission,발리 {0:0.0}초 · 임무당 {1}발
+ngr.plat.revert,REVERT,되돌리기
+ngr.plat.revert_days,REVERT · {0}d,되돌리기 · {0}일
+ngr.plat.working,In dock at {0} — {1}d left,{0} 도크 작업 중 — 잔여 {1}일
+ngr.platform.cap,Click to refit · Hover to preview,클릭 = 개장 · 호버 = 미리보기
+ngr.platform.label,MAIN GUN · CALIBER,주포 · CALIBER
+ngr.profile.cap,Before → After,개량 전 → 후
+ngr.profile.label,PROFILE,제원 · PROFILE
+ngr.role.amphibious,Amphibious,상륙함
+ngr.role.carrier,Carrier,항모
+ngr.role.corvette,Corvette,콜벳
+ngr.role.destroyer,Destroyer,구축함
+ngr.role.frigate,Frigate,호위함
+ngr.role.lightcarrier,Light Carrier,경항모
+ngr.slot.ammo,AMMUNITION,탄약 · AMMUNITION
+ngr.slot.barrel,BARREL,포신 · BARREL
+ngr.slot.empty,Empty,비어 있음
+ngr.slot.fcs,FIRE CONTROL,사격통제 · FIRE CONTROL
+ngr.slots.cap,Craft to unlock · Click to equip,제작 = 해금 · 클릭 = 장착
+ngr.slots.label,MODULES,모듈 슬롯 · MODULES
+ngr.stat.ammocost,Ammo cost,탄약 소모
+ngr.stat.caliber,Caliber,구경
+ngr.stat.dispersion,Dispersion,탄착 분산
+ngr.stat.interval,Salvo interval,발리 간격
+ngr.stat.radius,Blast radius,살상 반경
+ngr.stat.range,Support range,지원 사거리
+ngr.stat.shells,Rounds per mission,임무당 발수
+ngr.stores.label,NAVAL STORES,정비 물자 · NAV
+ngr.title,NAVAL GUN REFIT,함포 개량 · NAVAL GUN REFIT
+ops.quarantine.value,{0}%/day,{0}%/일
+ops.supply.both,{0} open · {1} cut,{0} 개통 · {1} 차단
+ops.supply.open,{0} open,{0} 개통
+ops.util.none,OPS —,가동률 —
+ops.util.summary,OPS {0}% · {1}/{2},가동률 {0}% · {1}/{2}
+order.air,Air,항공
+order.convoy,Convoy,호송
+order.defend,Defense,방어전
+order.deploy,Deploy,전개
+order.gate.air,Click a horde marker for the air operation briefing,호드 마커를 클릭해 항공작전 브리핑
+order.gate.nosiege,Only while under siege,포위 공세 중일 때만
+order.gate.notsecured,Only from a secured outpost,확보 거점에서만 발주
+order.gate.nounits,No units available,투입 가능한 부대 없음
+order.gate.reconsecured,Secured outpost — no recon needed,확보 거점 — 정찰 불필요
+order.gate.rescue,Needs a rescue signal — unlocked by an event,구조 신호 필요 — 이벤트로 활성화
+order.gate.secured,Already secured,이미 확보된 거점
+order.gate.unknown,No intel — unscouted outpost,정보 없음 — 미확인 거점
+order.recon,Recon,정찰
+order.rescue,Rescue,구출
+order.secure,Secure,확보
+order.secure.defend,Defend,방어
+order.taskforce,Dispatch,파견
+outliner.collapse,Collapse ▴,접기 ▴
+outliner.expand,Expand ▾,펼치기 ▾
+outliner.favorites,Pinned outposts,즐겨찾기 거점
+outliner.favorites.empty,Outposts pinned with ★ on the outpost card appear here,거점 카드의 ★로 고정한 거점이 여기에
+outliner.fleet,Fleet,함대
+outliner.fleet.fuel,Reactor {0}% · Fuel {1}%,핵연료 {0}% · 연료 {1}%
+outliner.title,Outliner,목록
+outliner.upcoming,Upcoming,다가오는 일
+outliner.upcoming.empty,Nothing scheduled,다가오는 일 없음
+own.contested,CONTESTED,교전
+own.hostile,HOSTILE,적성
+own.secured,SECURED,확보
+paint.color.black,Black,검정
+paint.color.brown,Brown,갈색
+paint.color.coyote,Coyote,코요테
+paint.color.dark_gray,Dark Gray,짙은 회색
+paint.color.dark_green,Dark Green,짙은 녹색
+paint.color.gray,Gray,회색
+paint.color.khaki,Khaki,카키
+paint.color.navy,Navy,남색
+paint.color.olive,Olive,올리브
+paint.color.ranger_green,Ranger Green,레인저 그린
+paint.color.sand,Sand,모래
+paint.color.snow,Snow,설원 흰색
+paint.swatch.black,Black,블랙
+paint.swatch.coyote_498,Coyote 498,코요테 498
+paint.swatch.od_green,OD Green,OD 그린
+paint.swatch.ranger_green,Ranger Green,레인저 그린
+paint.swatch.tan_499,Tan 499,탄 499
+paint.swatch.wolf_gray,Wolf Gray,울프 그레이
+panel.capture,CAPTURE BONUS,점령 보너스 · CAPTURE
+panel.detail.close,Collapse ▾,접기 ▾
+panel.detail.open,Operations · details ▸,작전 · 운영 자세히 ▸
+panel.forecast.recommend,Recommended,권장 전력
+panel.forecast.squads,Squads,보유 분대
+panel.forecast.success,Success,성공 확률
+panel.forecast.warn,Understrength — below recommended,전력 부족 — 권장 분대 미달
+panel.garrison.militia,Militia {0},민병 {0}
+panel.named.tip,{0} · LV {1},{0} · LV {1}
+panel.ops.facilities,FACILITIES,시설 · FACILITIES
+panel.ops.quarantine,QUARANTINE,검역 · QUARANTINE
+panel.ops.resources,LOCAL STOCK,현지 재고 · LOCAL STOCK
+panel.ops.sortiecap,SORTIE CAP,동시 출격 · SORTIE CAP
+panel.ops.supply,SUPPLY,연결 보급선 · SUPPLY
+panel.section.dev,DEVELOPMENT,개발 · DEVELOPMENT
+panel.section.forecast,FORECAST,작전 기대값 · FORECAST
+panel.section.garrison,GARRISON,주둔 장비 · GARRISON
+panel.section.inventory,INVENTORY,보유 자원 · INVENTORY
+panel.section.ops,OPERATIONS,운영 · OPERATIONS
+panel.section.population,POPULATION,인구 · POPULATION
+panel.section.risk,RISK · REWARD,위험 / 보상 · RISK · REWARD
+panel.siege.count,Under siege — assault in {0} day(s) · est. {1},포위 중 — 공세까지 {0}일 · 추정 규모 {1}
+panel.siege.due,Assault underway — est. {0},공세 개시 — 추정 규모 {0}
+panel.siege.enter,DEFEND NOW,방어전 개시
+panel.sortie.blocked.cap,Sortie cap reached ({0}/{1}),출격 한도 도달 ({0}/{1})
+panel.sortie.blocked.transport,"No transport facility — airfield, motor pool, helipad or port required",수송 시설 없음 — 활주로·차량고·헬기장·항구 필요
+panel.sortie.builder,Build Task Force ▸,편대 구축 ▸
+panel.stat.def,DEF,방어
+panel.stat.defpwr,DEF PWR,방어력
+panel.stat.devlv,DEV LV,DEV LV
+panel.stat.dmg,DMG,DMG
+panel.stat.pop,POP,인구
+panel.stat.threat,THREAT,위협
+panel.stat.type,TYPE,TYPE
+panel.stat.util,OPS,가동률
+panel.tab.city,City,운영
+panel.tab.ops,Operations,작전
+panel.threat.measured,{0} · Threat {1},{0} · 실측 위협 {1}
+panel.unknown.body,No data,정보 없음
+panel.unknown.name,Undefined Outpost,미정의 거점
+panel.yield,YIELD / yr,연간 산출 · YIELD/yr
+policy.lockdown,LOCKDOWN,봉쇄
+policy.open,OPEN,개방
+prg.btn.busy,In Progress — D-{0},진행 중 — D-{0}
+prg.btn.done,Unlocked,해금 완료
+prg.btn.locked,Requirements Not Met,조건 미충족
+prg.btn.order,ORDER,발주
+prg.btn.queued,Queued,대기열 등록됨
+prg.btn.unlock,UNLOCK,해금
+prg.classband,"RESTRICTED — TF-1 ""ARK"" FLEET COMMAND","제한 · RESTRICTED — TF-1 ""ARK"" FLEET COMMAND"
+prg.cost.days,{0}d,{0}일
+prg.cost.doctrine,Doctrine {0},전훈 {0}
+prg.cost.dur,Duration,소요 기간
+prg.cost.research,Research {0},연구 {0}
+prg.detail.empty,SELECT NODE,노드를 선택하십시오 · SELECT NODE
+prg.dprog.elapsed,Day {0} of {1},경과 {0}일 / 총 {1}일
+prg.dprog.remain,{0} days left,잔여 {0}일
+prg.dstate.active,IN PROGRESS,진행 중 · IN PROGRESS
+prg.dstate.avail,AVAILABLE,해금 가능 · AVAILABLE
+prg.dstate.done,UNLOCKED,해금 완료 · UNLOCKED
+prg.dstate.locked,LOCKED,선행 조건 미충족 · LOCKED
+prg.dstate.queued,QUEUED,대기열 · QUEUED
+prg.fail.busy,Already in progress or queued,이미 진행 중이거나 대기열에 있습니다
+prg.fail.count,Not enough unlocked nodes in this branch,같은 축의 해금 수가 부족합니다
+prg.fail.done,Already unlocked,이미 해금된 노드입니다
+prg.fail.facility,No secured outpost with the required facility,필요 시설을 보유한 확보 거점이 없습니다
+prg.fail.outpost,Required outpost not secured,필요 거점을 확보하지 못했습니다
+prg.fail.points,Not enough points,포인트가 부족합니다
+prg.fail.prereq,Prerequisite node required,선행 노드가 필요합니다
+prg.fail.res,Not enough resources (all secured outposts),자원이 부족합니다 (전 확보 거점 합산)
+prg.fail.unknown,Cannot unlock,해금할 수 없습니다
+prg.gate.pill,Unlock {0} in this branch,동일 축 {0}개 해금 시
+prg.meta,RESTORATION · DOCTRINE · INFECTION RESEARCH,복원 · 전훈 · 감염 연구
+prg.ok.order,Ordered: {0},발주 완료: {0}
+prg.ok.unlock,Unlocked: {0},해금: {0}
+prg.points.doctrine,Doctrine {0},전훈 {0}
+prg.points.research,Research {0},연구 {0}
+prg.proj.avail,RESTORATION PROJECTS,복원 프로젝트 · PROJECTS
+prg.proj.meta,total {0}d · queue {1},총 {0}일 · 대기열 {1}
+prg.proj.now,PROJECT IN PROGRESS,진행 중 프로젝트 · IN PROGRESS
+prg.proj.queued,queued {0} · {1},대기 {0} · {1}
+prg.proj.remain,{0}d left,{0}일 남음
+prg.pts.doctrine,DOCTRINE PTS,전훈 포인트
+prg.pts.research,RESEARCH PTS,연구 포인트
+prg.req.count,Requires {0} unlocked in this branch,동일 축 {0}개 해금 필요
+prg.req.facility,Facility required: {0},시설 필요: {0}
+prg.req.node,Requires: {0},선행: {0}
+prg.req.none,No prerequisites,선행 조건 없음
+prg.req.outpost,Outpost required: {0},거점 확보 필요: {0}
+prg.sec.cost,COST,비용 · COST
+prg.sec.effects,EFFECTS,효과 · EFFECTS
+prg.sec.prereq,PREREQUISITES,선행 조건 · PREREQUISITES
+prg.state.active,D-{0},진행 D-{0}
+prg.state.done,✓ DONE,✓ 완료
+prg.state.locked,Locked,잠김
+prg.state.queued,QUEUED,대기열
+prg.tab.doctrine,DOCTRINE,전훈 · DOCTRINE
+prg.tab.infection,RESEARCH,연구 · RESEARCH
+prg.tab.restoration,RESTORE,복원 · RESTORE
+prg.title,TECHNOLOGY,기술 · TECHNOLOGY
+quarantine.channel.drift,Shipwreck drift,난파 · 표류
+quarantine.channel.refugee,Refugee column,피난민 행렬
+quarantine.channel.smuggler,Smuggler boat,밀수선
+quarantine.close,CONFIRM,확인
+quarantine.execute.confirm.approve,Authorize order,명령 승인
+quarantine.execute.confirm.body,"Execution cannot be reversed, and a wrongful order is recorded in the debrief. Recheck the subject's symptoms and origin.",사살 명령은 되돌릴 수 없으며 오판은 결산에 기록됩니다. 대상의 증상과 출신 정보를 다시 확인하십시오.
+quarantine.execute.confirm.cancel,Cancel,취소
+quarantine.execute.confirm.title,Authorize execution order?,사살 명령을 승인합니까?
+quarantine.flee.banner,RUNNER — shoot order available,격리 불복 — 도주 중! 사살 명령 가능
+quarantine.hud.camera,CAM Q-03 · INSPECTION LINE,CAM Q-03 · 검진선
+quarantine.hud.case_id,Q-{0:D3},Q-{0:D3}
+quarantine.hud.command,PACIFIC RELIEF COMMAND,PACIFIC RELIEF COMMAND
+quarantine.hud.disposition,FINAL DISPOSITION,최종 판정
+quarantine.hud.evidence.note,Infection probability is hidden. Compare the source and combination of each clue.,감염 확률은 표시되지 않습니다. 단서의 출처와 조합을 직접 비교하십시오.
+quarantine.hud.identity,ENTRY RECORD,입국 기록
+quarantine.hud.live,LIVE,LIVE
+quarantine.hud.observation,FIELD OBSERVATION,현장 관찰
+quarantine.hud.observation.count,{0} observation clues recorded,관찰 단서 {0}건 기록
+quarantine.hud.observation.none,No observed symptoms,관찰 증상 없음
+quarantine.hud.pause,AUTO PAUSE,자동 일시정지
+quarantine.hud.pause.active,ACTIVE,활성
+quarantine.hud.queue,SCREENING QUEUE,검역 대기열
+quarantine.hud.record.verified,VERIFIED,검증 완료
+quarantine.hud.status.approach,Calling next subject,검진 대상 호출 중
+quarantine.hud.status.complete,SHIFT COMPLETE,교대 완료
+quarantine.hud.status.flee,Tracking escapee,도주자 추적 중
+quarantine.hud.status.loading,Loading quarantine scene,검역 씬 로딩 중
+quarantine.hud.status.ready,READY FOR DISPOSITION,판정 준비
+quarantine.hud.status.resolving,Executing disposition,판정 집행 중
+quarantine.hud.subject.ready,At inspection line · identity verified,검진선 정지 · 신원 확인 완료
+quarantine.hud.subject.waiting,Approaching inspection line,검진선 접근 중
+quarantine.hud.verdict.complete,Review the after-action report,결산 보고서 확인 대기
+quarantine.hud.verdict.flee,Execution only until the escape window closes,도주 종료 전 사살만 가능
+quarantine.hud.verdict.loading,Waiting for the civilian to reach the desk,시민이 검진대에 도착할 때까지 대기
+quarantine.hud.verdict.ready,Review the symptoms and select a final disposition,증상을 검토하고 최종 판정을 선택하십시오
+quarantine.hud.verdict.resolving,Waiting for field resolution,현장 처리 완료 대기
+quarantine.mode.air,By aircraft,항공기
+quarantine.mode.drift,Shipwreck drift,난파 · 표류
+quarantine.mode.land,On foot,육로 도보
+quarantine.mode.ship,By ship,선박
+quarantine.progress,{0} / {1},{0} / {1}
+quarantine.report.age,Age,나이
+quarantine.report.channel,Arrival,유입 경로
+quarantine.report.none,No notable symptoms,특이 증상 없음
+quarantine.report.origin,Origin,출신
+quarantine.report.sex,Sex,성별
+quarantine.report.symptoms,Symptoms,발현 증상
+quarantine.report.title,INSPECTION REPORT,검진 보고서 · REPORT
+quarantine.sex.female,F,여
+quarantine.sex.male,M,남
+quarantine.summary.body,Caught {0} · Missed {1} · Innocents shot {2} · Passed {3},감염자 색출 {0} · 놓침 {1} · 오인 사살 {2} · 통과 {3}
+quarantine.summary.eyebrow,SHIFT COMPLETE · AFTER ACTION REPORT,교대 완료 · 사후 보고
+quarantine.summary.title,QUARANTINE COMPLETE,검역 종료
+quarantine.sym.bite_mark,Bite mark,물린 자국
+quarantine.sym.bloodshot,Bloodshot eyes,충혈된 눈
+quarantine.sym.chills,Chills,오한
+quarantine.sym.cough,Cough,기침
+quarantine.sym.dizziness,Dizziness,현기증
+quarantine.sym.fatigue,Exhaustion,탈진
+quarantine.sym.fever,High fever,고열
+quarantine.sym.frostbite,Frostbite,동상
+quarantine.sym.gray_pallor,Gray pallor,잿빛 피부
+quarantine.sym.headache,Headache,두통
+quarantine.sym.insomnia,Insomnia,불면
+quarantine.sym.limp,Leg injury,다리 부상
+quarantine.sym.malnutrition,Malnutrition,영양실조
+quarantine.sym.muscle_ache,Muscle ache,근육통
+quarantine.sym.nosebleed,Nosebleed,코피
+quarantine.sym.pale_veins,Darkened veins,검게 비치는 정맥
+quarantine.sym.rash,Rash,발진
+quarantine.sym.shortness,Shortness of breath,호흡곤란
+quarantine.sym.tremor,Tremors,손 떨림
+quarantine.sym.vomiting,Vomiting,구토
+quarantine.title,QUARANTINE,검역소 · QUARANTINE
+quarantine.verdict.execute,EXECUTE,사살
+quarantine.verdict.execute.detail,Authorize lethal force,무력 집행 승인
+quarantine.verdict.isolate,ISOLATE,격리
+quarantine.verdict.isolate.detail,Transfer to isolation,격리 구역 이송
+quarantine.verdict.pass,PASS,통과
+quarantine.verdict.pass.detail,Authorize entry,거점 진입 허가
+rail.op.convoy,Convoy,호송
+rail.op.return,Returning,복귀
+rail.op.sortie,Sortie,파견
+res.delta.perday.down,−{0:N0}/day,−{0:N0}/일
+res.delta.perday.up,+{0:N0}/day,+{0:N0}/일
+res.tooltip.inventory,{0} — total across all outpost stores,{0} — 모든 거점 창고 합계
+res.tooltip.population,{0} — total population across all outposts,{0} — 모든 거점 인구 합계
+res.tooltip.research,{0} — research points (global),{0} — 연구 포인트(전역)
+res.tooltip.withnet,"{0}
+Net per day {1}","{0}
+하루 순변화 {1}"
+risk.copy.high,Lethal — concentrate forces,치명적 — 전력 집중 필요
+risk.copy.low,Sporadic — a small team suffices,산발적 — 소규모로 충분
+risk.copy.mid,Caution — bring a squad,경계 요망 — 분대 동행 권장
+season.autumn,Autumn,가을
+season.spring,Spring,봄
+season.summer,Summer,여름
+season.winter,Winter,겨울
+set.access.hudscale,Tactical HUD scale,전술 HUD 배율
+set.access.hudscalehelp,"Applies to the battlefield HUD only (strategic map and main menu are unchanged). Larger sizes leave fewer roster slots, so the largest groups fold first.",전장 HUD에만 적용됩니다(전략맵 · 메인 메뉴는 그대로). 크게 하면 편성 줄 칸이 줄어 부대가 많은 그룹부터 접힙니다.
+set.access.reducemotion,Reduce Motion,모션 감소
+set.audio.master,Master Volume,전체 볼륨
+set.audio.music,Music Volume,음악 볼륨
+set.audio.sfx,SFX Volume,효과음 볼륨
+set.audio.ui,UI Volume,UI 볼륨
+set.audio.voice,Voice Volume,음성 볼륨
+set.ctrl.camerahelp,"WASD / left stick: move while rotating; movement releases target lock
+Alt/Option + left drag / LB/L1 + right stick: orbit
+Default up/down: zoom. Free tilt: LB/L1 + RB/R1 + right stick up/down to zoom","WASD/왼쪽 스틱: 이동하며 회전 · 이동 시 대상 고정 해제
+Alt/Option + 좌클릭 / LB/L1 + 오른쪽 스틱: 회전
+기본 상하: 줌 · 자유 기울기 켬: LB/L1 + RB/R1 + 오른쪽 스틱 상하로 줌"
+set.ctrl.camsens,Camera Sensitivity,카메라 감도
+set.ctrl.freepitch,Free camera tilt,자유 기울기 회전
+set.ctrl.pilotlook,Helicopter look button,헬기 둘러보기 버튼
+set.ctrl.pilotlookhelp,"While piloting: wheel-button drag / Alt(Option) + left drag orbits around the aircraft, X resets the camera
+Helicopter pad: R3 switches look mode, then right stick. Aim holds and weapons lock while looking
+Jet pad: right stick looks around, R3 resets the camera","직접 조종 중: 휠 버튼 드래그 / Alt(Option)+좌드래그로 기체 중심 회전, X로 카메라 복귀
+헬기 패드: R3로 둘러보기 전환 후 오른쪽 스틱. 둘러보는 동안 조준 고정, 무장 잠금
+전투기 패드: 오른쪽 스틱 둘러보기, R3 카메라 복귀"
+set.ctrl.rumble,Controller Rumble,컨트롤러 진동
+set.ctrl.rumblestrength,Rumble Strength,진동 강도
+set.gfx.framecap,Frame Cap,프레임 제한
+set.gfx.shadowdistance,Shadow distance,그림자 거리
+set.gfx.shadows,Shadow quality,그림자 품질
+set.gfx.vsync,VSync,수직 동기화
+set.gfx.zombieshadows,Zombie shadows,좀비 그림자
+set.meta,AUDIO · CONTROLS · ACCESSIBILITY,사운드 · 조작 · 접근성 · SETTINGS
+set.opt.hold,Hold,홀드
+set.opt.off,,끔
+set.opt.on,True,켬
+set.opt.pct100,100%,100%
+set.opt.pct115,115%,115%
+set.opt.pct130,130%,130%
+set.opt.toggle,Toggle,토글
+set.opt.unlimited,Max,무제한
+set.sec.access,ACCESSIBILITY,접근성
+set.sec.audio,AUDIO,사운드
+set.sec.controls,CONTROLS,조작
+set.sec.graphics,GRAPHICS,그래픽
+set.shadow.high,High,높음
+set.shadow.long,Far,멀리
+set.shadow.low,Low,낮음
+set.shadow.medium,Medium,보통
+set.shadow.near,Near,근거리
+set.shadow.short,Short,짧게
+set.shadow.standard,Normal,보통
+set.shadow.wide,Wide,넓게
+set.title,Settings,설정
+slotpop.applied,ACTIVE EFFECTS,적용 중 효과
+slotpop.eff.defense,Defense +{0},방어 +{0}
+slotpop.eff.dev,Dev level +{0},개발 수준 +{0}
+slotpop.eff.facility,{0} online,{0} 가동
+slotpop.eff.labor,Labor cap +{0},노동 정원 +{0}
+slotpop.eff.none,No bonus effects,추가 보너스 없음
+slotpop.eff.sortie,Sortie cap +{0},동시 출격 +{0}
+slotpop.oncomplete,ON COMPLETION,완공 시 적용
+slotpop.progress,{0}d left · {1}d total · {2}%,{0}일 남음 · 총 {1}일 · {2}%
+slotpop.state.building,BUILDING,건설 중
+slotpop.state.built,BUILT,완료
+slotpop.state.queued,QUEUED,대기
+slotpop.totalpct,{0}d total · {1}%,총 {0}일 · {1}%
+sortie.confirm,Dispatch,발주
+sortie.eta,ETA {0:0.#}d · {1:0.#}°,예상 {0:0.#}일 · {1:0.#}°
+sortie.force,Force,편성 전력
+sortie.force.value,{0} units · {1} men (rec. {2}),{0}개 부대 · {1}명 (권장 {2}개)
+sortie.mode.convoy,CONVOY,호송 · CONVOY
+sortie.mode.sortie,SORTIE,원정 · SORTIE
+sortie.target,TARGET,목표 · TARGET
+sortie.target.begin,Set Target,목표 지정
+sortie.target.cancel,Cancel,지정 취소
+sortie.title,TASK FORCE BUILDER,편대 구축 · TASK FORCE
+sortie.transport,Transport,수송
+sortie.transport.none,No transport facility,수송 시설 없음
+sortie.transport.value,{0}· sorties {1}/{2},{0}· 출격 {1}/{2}
+sortie.units,UNITS,편성 부대 · UNITS
+squad.appearance.hint_member,Click a member to change personal camo and headgear,분대원을 누르면 개인 위장 · 머리 장구를 바꿀 수 있습니다
+squad.appearance.lgn_button,Unit Appearance,부대 외형
+squad.appearance.members,{0} troops,{0}명
+squad.appearance.none_line,No unit templates,편제 템플릿이 없습니다
+squad.appearance.none_named,No infantry squads,편성된 보병 분대가 없습니다
+squad.appearance.open,Appearance ▶,외형 ▶
+squad.appearance.tab_line,Line Units,일반 부대
+squad.appearance.tab_named,Named Squads,네임드 분대
+squad.appearance.title,Unit Appearance,부대 외형
+squad.bodygear.armor_heavy,Heavy armor,중방탄복
+squad.bodygear.armor_light,Light armor,경량 방탄복
+squad.bodygear.ghillie,Ghillie suit,길리슈트
+squad.bodygear.none,None,장구 없음
+squad.bodygear.row,Body gear,몸 장구
+squad.bodygear.stat_armor,Damage taken {0}% · Move {1}%,받는 피해 {0}% · 이동 {1}%
+squad.bodygear.stat_conceal,Zombie detection {0} m · Move {1}%,좀비 감지 {0} m · 이동 {1}%
+squad.bodygear.summary,{0}: {1},{0}: {1}
+squad.camo.desert_tiger,Desert Tiger,사막 타이거
+squad.camo.olive,Olive,올리브
+squad.camo.urban_gray,Urban Gray,도시 흑회
+squad.camo.woodland,Woodland,우드랜드
+squad.card.summary,{0} members · {1} named · Honor {2},편성 {0}명 · 네임드 {1} · 명예 {2}
+squad.headgear.bare,Bareheaded,맨머리
+squad.headgear.beanie,Beanie,비니
+squad.headgear.beret,Beret,베레
+squad.headgear.cap,Cap,캡
+squad.headgear.gas_mask,Gas mask,방독면
+squad.headgear.headset,Headset,헤드셋
+squad.headgear.helmet_combat,Combat helmet,전투 헬멧
+squad.headgear.helmet_goggles,Helmet + goggles,고글 헬멧
+squad.headgear.helmet_modern,Modern helmet,신형 헬멧
+squad.headgear.helmet_nvg,Helmet + NVG,야간투시경
+squad.headgear.patrol_hat,Patrol hat,정찰모
+squad.loadout.armory,ARMORY ▶,병기창 ▶
+squad.loadout.camo,CAMO,위장
+squad.loadout.char_default,Character default,캐릭터 기본
+squad.loadout.default_weapon,Standard issue · ,기본 지급 · 
+squad.loadout.headgear,HEAD,머리
+squad.loadout.hint,"Click a squad member to change weapon, camo and headgear",분대원을 누르면 무기 · 위장 · 머리 장구를 바꿀 수 있습니다
+squad.loadout.hint_weapon,Click a squad member to change their weapon,분대원을 누르면 무기를 바꿀 수 있습니다
+squad.loadout.kit,Gear kit,장구 키트
+squad.loadout.kit_edit,Edit kit ▶,키트 편집 ▶
+squad.loadout.kit_legacy,Legacy gear,옛 장구
+squad.loadout.load,Load {0} kg · {1} · move ×{2},하중 {0} kg · {1} · 이동 ×{2}
+squad.loadout.pace,"Squad pace ×{0} · {1} m/s, set by {2}",분대 이동 ×{0} · {1} m/s — 가장 느린 대원 {2} 기준
+squad.loadout.squad_camo,SQUAD CAMO,분대 위장
+squad.loadout.squad_default,Squad default,분대 기본
+squad.loadout.template_weapon,Unit weapon,편제 무기
+squad.loadout.weapon,WEAPON,무기
+squad.role.armor,Armor,기갑
+squad.role.command,Command,지휘
+squad.role.engineer,Engineer,공병
+squad.role.infantry,Infantry,보병
+squad.role.medic,Medic,의무
+squad.role.pilot,Pilot,조종
+squad.roster.meta,Squads {0},편성 분대 {0}
+squad.status.ready,Ready,대기
+strat.critical,STRATEGIC · CRITICAL,전략가치 CRITICAL
+strat.high,STRATEGIC · HIGH,전략가치 HIGH
+strat.med,STRATEGIC · MED,전략가치 MED
+suspicion.alert,ALERT,경계
+suspicion.watch,WATCH,주시
+time.pause.tooltip,PAUSE · SPACE,일시정지 · SPACE
+time.speed.1,1×,1×
+time.speed.2,2×,2×
+time.speed.4,4×,4×
+topbar.campaign,GLOBAL · CAMPAIGN,전역 · CAMPAIGN
+topbar.endturn,END TURN,턴 종료 · END TURN
+topbar.nav.armory,Armory,병기창
+topbar.nav.progress,TECH,기술
+topbar.nav.roster,ROSTER,군단
+topbar.nav.settings,SETTINGS,설정
+topbar.nav.tech,TECH,기술
+topbar.nav.warmap,War Room,전황
+tut.ch1.counter,{0} / {1},{0} / {1}
+tut.ch1.key.city,LMB,좌클릭
+tut.ch1.key.hold,H,H
+tut.ch1.key.move,RMB,우클릭
+tut.ch1.key.support,HOWITZER,야포 지원
+tut.ch1.key.wheel_in,WHEEL ▲,휠 ▲
+tut.ch1.key.wheel_out,WHEEL ▼,휠 ▼
+tut.ch1.kicker,OPENING DEFENSE,개막 방어
+tut.ch1.line.continue,Enter ▶ Continue,Enter ▶ 계속
+tut.ch1.obj.city,Select the Grand Park LZ,그랜드 파크 LZ 선택
+tut.ch1.obj.hold,Order Alpha to hold position,버티기 명령으로 자리를 지키게 하기
+tut.ch1.obj.hold_line,Hold the downtown line,다운타운 방어선 유지
+tut.ch1.obj.move,Move Alpha to the City Hall steps,알파 분대를 시청 앞으로 이동
+tut.ch1.obj.support,Call howitzer fire in front of Alpha,알파 정면에 야포 지원 요청
+tut.ch1.obj.wheel_in,Drop back in to Alpha,휠을 올려 알파에게 복귀
+tut.ch1.obj.wheel_out,Pull out to the map,휠을 내려 지도로 나가기
+tut.ch1.prompt.city,"Click the Grand Park LZ on the map. Alpha's status shows on the card at the bottom right, support in the support grid at the bottom left.","지도에서 그랜드 파크 LZ를 클릭합니다. 알파의 상태는 오른쪽 아래 카드, 지원은 왼쪽 아래 지원 칸에 나옵니다."
+tut.ch1.prompt.enter,"Over the Grand Park LZ, scroll up to join Alpha.",그랜드 파크 LZ 위에서 휠을 올려 알파에게 들어갑니다.
+tut.ch1.prompt.hold,The squad stays put and fires on any zombies in range.,분대가 자리를 지키며 사거리 안의 좀비를 쏩니다.
+tut.ch1.prompt.hold_line,Hold until the withdrawal order comes.,철수 명령이 내려질 때까지 버팁니다.
+tut.ch1.prompt.leave,Scroll all the way down to the map.,휠을 끝까지 내려 지도로 나갑니다.
+tut.ch1.prompt.move,"Right-click toward the City Hall steps to move the squad. To keep moving selected units, press and hold right-click.",시청 앞 계단 쪽을 우클릭해 분대를 이동시킵니다. 선택한 유닛을 계속 움직이려면 우클릭을 길게 누르세요.
+tut.ch1.prompt.support,Open the FIRE tab in the support grid at the bottom left and press HOWITZER.,왼쪽 아래 지원 칸에서 화력 탭을 열고 야포를 누릅니다.
+tut.ch1.prompt.wheel_in,"Over the LZ, scroll all the way up to drop back into the same fight.",LZ 위에서 휠을 끝까지 올리면 같은 전장으로 돌아갑니다.
+tut.ch1.prompt.wheel_out,Scroll all the way down for the map. The fight keeps going.,끝까지 내리면 지도입니다. 지도로 나가도 전투는 계속됩니다.
+tut.ch1.skip,Hide guide,안내 끄기
+unit.squads,{0} squads,{0} 분대
+upcoming.construction,Build {0}d,건설 D-{0}
+upcoming.days,{0}d,D-{0}
+upcoming.refit.name,Refit complete,함정 정비 완료
+upcoming.research.name,Research complete,연구 완료
+upcoming.siege.fall,Under assault +{0}d,공세 중 +{0}일
+upcoming.siege.warn,Assault in {0}d,공세 D-{0}
+warmap.confidence,Intel confidence {0},정찰 신뢰도 {0}
+warmap.footnote,Figures beyond sensor range are estimates. Recon improves accuracy.,관측망 밖 수치는 추정치다. 정찰이 정밀도를 높인다.
+warmap.layer.infection,Infection (est.),감염 추정
+warmap.layer.recon,Recon coverage,정찰 커버리지
+warmap.layer.threat,Threat,위협
+warmap.legend.fleet,Fleet,함대
+warmap.legend.outpost,Secured outpost,확보 거점
+warmap.legend.unsurveyed,Unsurveyed,조사 필요
+warmap.meta,Sensor-based estimates · GLOBAL SITREP,관측 기반 추정 · GLOBAL SITREP
+warmap.stat.coverage,RECON COVERAGE,정찰 커버리지
+warmap.stat.humans,HUMAN SURVIVORS (EST.),잔존 인류 추정
+warmap.stat.infected,GLOBAL INFECTED (EST.),전세계 감염 추정
+warmap.stat.neutralized,CONFIRMED NEUTRALIZED,무력화 누계
+warmap.title,WAR ROOM MAP,전황 지도 · WAR ROOM
+zoom.globe,GLOBE,GLOBE · 지구본
+zoom.region,REGION,REGION · 상세
