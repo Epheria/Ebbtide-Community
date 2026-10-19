@@ -1,15 +1,11 @@
 name: Check translations
 
+# Runs on every pull request, not only on translation changes: main requires this check,
+# and a required check that never runs would block voice-only pull requests forever.
 on:
   pull_request:
-    paths:
-      - "localization/**"
-      - "tools/l10n.py"
   push:
     branches: [main]
-    paths:
-      - "localization/**"
-      - "tools/l10n.py"
 
 jobs:
   check:
