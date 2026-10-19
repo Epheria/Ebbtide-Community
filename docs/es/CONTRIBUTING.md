@@ -1,5 +1,7 @@
 # Cómo contribuir
 
+> **Traducciones de interfaz y guiones de voz:** Sigue la [guía de tareas en español](CONTRIBUTION_WORKFLOW.md): un responsable reserva las líneas y asigna un revisor distinto del traductor. Escribe en la hoja asignada y deja que el bot cree el PR tras la revisión. Los pasos de envío manual de abajo son para otras aportaciones; las normas de formato siguen siendo aplicables.
+
 _Esta página se tradujo con ayuda de IA. Si el español es tu lengua materna, ayúdanos a mejorarla con un pull request. La [versión en inglés](../../CONTRIBUTING.md) es la referencia._
 
 Gracias por ayudar. Esta página explica los pasos prácticos; la parte legal está en [CONTRIBUTOR_TERMS.md](../../CONTRIBUTOR_TERMS.md) (está en inglés; el texto en inglés es la versión oficial).

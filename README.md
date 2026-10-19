@@ -35,6 +35,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the details.
 
 For task reservations, sheet review and export commands, read the [work-order guide](docs/CONTRIBUTION_WORKFLOW.md).
 
+**[Usage guides in 17 languages](docs/CONTRIBUTION_WORKFLOW.md#choose-your-language)** — choose your language for contributor, reviewer and maintainer instructions.
+
 ## Community workspaces
 
 - [Contribution hub](https://docs.google.com/spreadsheets/d/1cqM9Qxld-GjaQj6rIUxeZrGchZwrnBu-3Eq5SdBbGaY/edit): start here for language needs, source versions and the workflow.

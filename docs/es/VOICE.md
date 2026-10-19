@@ -1,5 +1,7 @@
 # Voz
 
+> **Traducción escrita de guiones:** Usa la [guía de tareas en español](CONTRIBUTION_WORKFLOW.md). Necesitas líneas asignadas y un revisor distinto del traductor; trabajas en la hoja asignada y el bot crea el PR. Ese proceso importa texto, no grabaciones. Las instrucciones de audición, archivos de audio y formato de abajo siguen correspondiendo a la participación como actor de voz.
+
 _Esta página se tradujo con ayuda de IA. Si el español es tu lengua materna, ayúdanos a mejorarla con un pull request. La [versión en inglés](../../voice/README.md) es la referencia._
 
 Ahora mismo, todas las líneas de voz de Ebbtide están hechas con IA, y todas se van a reemplazar por actores de voz reales: pilotos, tripulaciones de helicóptero, oficiales de barco, tripulaciones de vehículos y escuadras de infantería. Las rutas de esta página parten de la carpeta [`voice/`](../../voice/).

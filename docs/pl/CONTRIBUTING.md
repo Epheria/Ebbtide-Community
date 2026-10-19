@@ -1,5 +1,7 @@
 # Współtworzenie
 
+> **Tłumaczenie interfejsu i kwestii głosowych:** Stosuj [polski przewodnik po zadaniach](CONTRIBUTION_WORKFLOW.md). Opiekun rezerwuje zakres i wyznacza weryfikatora innego niż tłumacz. Pisz w przydzielonym arkuszu; po weryfikacji bot tworzy PR. Poniższe kroki ręcznego przesyłania dotyczą innych rodzajów wkładu; zasady formatów nadal obowiązują.
+
 *Ta strona została przetłumaczona z pomocą AI. Jeśli polski to twój język ojczysty, pomóż ją poprawić przez pull request. Punktem odniesienia jest [wersja angielska](../../CONTRIBUTING.md).*
 
 Dzięki, że pomagasz. Ta strona opisuje praktyczne kroki. Kwestie prawne są w [CONTRIBUTOR_TERMS.md](../../CONTRIBUTOR_TERMS.md) (dokument jest tylko po angielsku; oficjalną wersją jest tekst angielski).

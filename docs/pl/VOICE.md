@@ -1,5 +1,7 @@
 # Głosy
 
+> **Pisemne tłumaczenia kwestii:** Skorzystaj z [polskiego przewodnika po zadaniach](CONTRIBUTION_WORKFLOW.md). Potrzebujesz przydzielonych wierszy i weryfikatora innego niż tłumacz; pracujesz w arkuszu, a bot tworzy PR. Ten proces importuje tekst, nie nagrania. Poniższe instrukcje przesłuchań, plików audio i formatów nadal dotyczą aktorstwa głosowego.
+
 *Ta strona została przetłumaczona z pomocą AI. Jeśli polski to twój język ojczysty, pomóż ją poprawić przez pull request. Punktem odniesienia jest [wersja angielska](../../voice/README.md).*
 
 Obecnie wszystkie kwestie głosowe w Ebbtide mają głosy AI. Każdą z nich mają zastąpić prawdziwi aktorzy głosowi: piloci, załogi śmigłowców, oficerowie okrętowi, załogi pojazdów i drużyny piechoty. Ścieżki poniżej są w folderze [`voice/`](../../voice/).

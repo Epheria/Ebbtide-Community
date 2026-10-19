@@ -1,5 +1,7 @@
 # Contribuer
 
+> **Traduction de l’interface et des répliques :** Suivez le [guide des tâches en français](CONTRIBUTION_WORKFLOW.md). Un responsable réserve les lignes et désigne un relecteur différent du traducteur. Rédigez dans la feuille attribuée ; le bot crée la PR après la relecture. Les étapes d’envoi manuel ci-dessous concernent les autres contributions ; les règles de format restent applicables.
+
 *Cette page a été traduite avec l'aide de l'IA. Si le français est votre langue maternelle, aidez-nous à l'améliorer avec une pull request. La [version anglaise](../../CONTRIBUTING.md) fait référence.*
 
 Merci de votre aide. Cette page explique les étapes concrètes. La partie juridique se trouve dans [CONTRIBUTOR_TERMS.md](../../CONTRIBUTOR_TERMS.md) (en anglais ; c'est le texte anglais qui fait foi).

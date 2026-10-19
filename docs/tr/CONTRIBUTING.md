@@ -1,5 +1,7 @@
 # Katkıda Bulunma
 
+> **Arayüz ve yazılı seslendirme çevirileri:** Önce [Türkçe iş akışı kılavuzunu](CONTRIBUTION_WORKFLOW.md) oku. Çeviriyi atanan Google E-Tablolar dosyasında yap; farklı bir GitHub kullanıcısı incelenen kopyayı onayladığında bot PR açar. Aşağıdaki doğrudan düzenleme ve fork adımları diğer katkılar içindir; çeviri PR'ları görev ayırma ve onay sürecini atlayamaz.
+
 *Bu sayfa yapay zekâ yardımıyla çevrildi. Türkçe ana dilinse bir pull request açarak sayfayı geliştirmemize yardım edebilirsin. Referans olarak [İngilizce sürüm](../../CONTRIBUTING.md) geçerlidir.*
 
 Yardımın için teşekkürler. Bu sayfa pratik adımları anlatıyor. Hukuki kısım [CONTRIBUTOR_TERMS.md](../../CONTRIBUTOR_TERMS.md) dosyasında (bu dosya İngilizcedir; resmî metin İngilizce olandır).
