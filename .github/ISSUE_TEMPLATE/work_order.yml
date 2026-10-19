@@ -1,0 +1,82 @@
+name: Translation work order
+description: Reserve an existing UI key range or voice script for a contributor and a separate reviewer.
+title: "[Work] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this after a maintainer has agreed on the work and reviewer. An application or a completed form does not reserve any lines. A maintainer must run `/work assign` and the bot must confirm the reservation.
+
+        Use existing source keys only. The range includes the first and last key in source-file order, with a maximum of 200 keys. Do not put email addresses, private ticket contents, recordings, or other personal information in this public issue.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      description: UI translation or written voice-script translation. Recorded audio is handled separately.
+      options:
+        - ui
+        - voice-text
+    validations:
+      required: true
+  - type: input
+    id: locale
+    attributes:
+      label: Locale
+      description: Exact locale code used in the repository, including case and region when applicable.
+      placeholder: ja
+    validations:
+      required: true
+  - type: input
+    id: table
+    attributes:
+      label: Table or voice role
+      description: Existing UI table or voice role name, without a folder or .csv extension.
+      placeholder: carrier_jet_pilot
+    validations:
+      required: true
+  - type: input
+    id: contributor
+    attributes:
+      label: Contributor
+      description: One GitHub login, without @. This person prepares the translation in the sheet.
+      placeholder: contributor-login
+    validations:
+      required: true
+  - type: input
+    id: reviewer
+    attributes:
+      label: Reviewer
+      description: One different GitHub login, without @. This person checks the language and approves the exact preview digest.
+      placeholder: reviewer-login
+    validations:
+      required: true
+  - type: input
+    id: spreadsheet
+    attributes:
+      label: Spreadsheet URL
+      description: Google Sheets URL that the bot can read without signing in. Share edit access with the assigned people separately; do not enable public editing.
+      placeholder: https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit
+    validations:
+      required: true
+  - type: input
+    id: sheet_tab
+    attributes:
+      label: Sheet tab
+      description: Exact worksheet tab name, including spaces and case.
+      placeholder: ja
+    validations:
+      required: true
+  - type: input
+    id: first_key
+    attributes:
+      label: First key
+      description: First existing source key to include. For voice-text, use the script's existing file key, without an audio extension.
+    validations:
+      required: true
+  - type: input
+    id: last_key
+    attributes:
+      label: Last key
+      description: Last existing source key to include. Use the first key again for a single-line task. Source-file order determines the range.
+    validations:
+      required: true

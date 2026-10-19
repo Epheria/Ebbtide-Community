@@ -1,5 +1,7 @@
 # Ebbtide Topluluğu
 
+> **Çevirmenler için not:** Arayüz ve seslendirme metni çevirileri için bir proje sorumlusunun görev ataması ve çeviriyi başka bir kişinin incelemesi gerekir. Sana atanan Google E-Tablolar dosyasında çalış; incelemeden sonra bot pull request açar. Önce İngilizce [iş akışını](../CONTRIBUTION_WORKFLOW.md) oku. Aşağıdaki Git ile doğrudan gönderim adımları diğer katkılar içindir; dosya biçimi açıklamalarından yararlanmaya devam edebilirsin.
+
 *Bu sayfa yapay zekâ yardımıyla çevrildi. Türkçe ana dilinse bir pull request açarak sayfayı geliştirmemize yardım edebilirsin. Referans olarak [İngilizce sürüm](../../README.md) geçerlidir.*
 
 [English](../../README.md) · [Español](../es/README.md) · [Русский](../ru/README.md) · [한국어](../ko/README.md) · [日本語](../ja/README.md) · [Polski](../pl/README.md) · **Türkçe** · [Français](../fr/README.md)

@@ -1,5 +1,7 @@
 # Ebbtide Community
 
+> **Uwaga dla tłumaczy:** Tłumaczenie interfejsu i tekstów do nagrań głosowych wymaga zadania przydzielonego przez opiekuna projektu oraz osoby weryfikującej innej niż autor tłumaczenia. Pracuj w przydzielonym Arkuszu Google; po weryfikacji bot utworzy pull request. Najpierw przeczytaj [opis procesu](../CONTRIBUTION_WORKFLOW.md) po angielsku. Poniższe kroki bezpośredniego przesyłania przez Git dotyczą innych rodzajów wkładu; wskazówki dotyczące formatów plików nadal są przydatne.
+
 *Ta strona została przetłumaczona z pomocą AI. Jeśli polski to twój język ojczysty, pomóż ją poprawić przez pull request. Punktem odniesienia jest [wersja angielska](../../README.md).*
 
 [English](../../README.md) · [Español](../es/README.md) · [Русский](../ru/README.md) · [한국어](../ko/README.md) · [日本語](../ja/README.md) · **Polski** · [Türkçe](../tr/README.md) · [Français](../fr/README.md)

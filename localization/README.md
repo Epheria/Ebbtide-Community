@@ -15,6 +15,8 @@ Language folders use codes like `de`, `fr`, `pt-BR`, `ro`, `zh-Hans`.
 
 ## How to translate
 
+Start with the [work-order guide](../docs/CONTRIBUTION_WORKFLOW.md) before editing. All UI and voice-text translations need an assigned key range and a separate reviewer's approved sheet snapshot; the bot creates the PR. The CSV notes below describe the stored format, not an alternative to the reservation process.
+
 1. Open a [translator issue](../../../issues/new?template=translator.yml) for your language. A maintainer creates the language folder.
 2. Edit the files in `translations/<lang>/`. Fill only the `translation` column.
 3. Keep every placeholder exactly as in English: `{0}`, `{1}`, rich-text tags such as `<b>`, and `\n` line breaks. You may move them within the sentence.

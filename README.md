@@ -19,8 +19,8 @@ Ebbtide is a top-down zombie survival game with real-time command, made by one d
 
 1. Apply with an issue, or get picked from the Discord submissions channel.
 2. Read [CONTRIBUTOR_TERMS.md](CONTRIBUTOR_TERMS.md). You keep ownership of your work; you allow it to be used in Ebbtide.
-3. Fork this repository, add your work, and open a pull request.
-4. Automatic checks run on translations, then a reviewer looks at your pull request.
+3. For UI or voice-script translations, get a [work order](../../issues/new?template=work_order.yml) assigned and write in its Google Sheet.
+4. A separate reviewer approves the exact sheet snapshot. The bot opens a pull request and automatic checks verify it against that approval.
 5. Approved work is merged here, and the developer brings it into the next build.
 
 Every contributor is credited in the game under the name they choose.
@@ -33,7 +33,17 @@ Every contributor is credited in the game under the name they choose.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the details.
 
+For task reservations, sheet review and export commands, read the [work-order guide](docs/CONTRIBUTION_WORKFLOW.md).
+
+## Community workspaces
+
+- [Contribution hub](https://docs.google.com/spreadsheets/d/1cqM9Qxld-GjaQj6rIUxeZrGchZwrnBu-3Eq5SdBbGaY/edit): start here for language needs, source versions and the workflow.
+- [UI translation template](https://docs.google.com/spreadsheets/d/1YegbTot6iaszCQV2_3O_yM_oCkkGGqeUVl1m52xzmbM/edit): a maintainer supplies a working copy for an assigned language.
+- [Voice scripts and localization](https://docs.google.com/spreadsheets/d/1ObgnTm9lYXfxNpR1gkrFSkhU_OmkFCkIqfEqps0S-Vs/edit): English scripts and written voice translations.
+
+The shared reference workbooks are read-only. Ask a maintainer for your assigned working sheet before starting.
+
 ## Status
 
-- Translation: open. The English source is a snapshot of a game still in development, so text will change. Changed lines are marked automatically.
+- Translation: open. The English source is a snapshot of a game still in development. Source changes block stale sheet exports; a maintainer refreshes the working sheet before reassignment.
 - Voice acting: auditions first. Scripts for all 21 roles are in [`voice/scripts/`](voice/scripts/).
