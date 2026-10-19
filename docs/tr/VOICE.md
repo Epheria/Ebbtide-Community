@@ -1,5 +1,7 @@
 # Seslendirme
 
+> **Yazılı çeviri ve ses kaydı ayrı ilerler:** Senaryo çevirileri için [Türkçe iş akışı kılavuzunu](CONTRIBUTION_WORKFLOW.md) kullan. `voice-text` görevi ve incelenen kopyanın onayı yalnızca yazılı replikleri kapsar. Aşağıdaki seçme, rol dağıtımı ve ses dosyası teslim adımları kayıtlar içindir; metnin onaylanması tek başına kayda başlama izni değildir.
+
 *Bu sayfa yapay zekâ yardımıyla çevrildi. Türkçe ana dilinse bir pull request açarak sayfayı geliştirmemize yardım edebilirsin. Referans olarak [İngilizce sürüm](../../voice/README.md) geçerlidir.*
 
 Ebbtide'daki tüm replikler şu an yapay zekâ ile seslendiriliyor. Hepsinin yerini gerçek seslendirme sanatçıları alacak: pilotlar, helikopter mürettebatı, gemi subayları, araç mürettebatı ve piyade timleri.

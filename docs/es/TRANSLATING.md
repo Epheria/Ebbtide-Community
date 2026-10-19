@@ -1,5 +1,7 @@
 # Localización
 
+> **Cómo entregar una traducción:** La [guía de tareas en español](CONTRIBUTION_WORKFLOW.md) es el procedimiento actual. Un responsable reserva las líneas; escribes en la hoja asignada y otra persona revisa antes de que el bot cree el PR. Los pasos de edición y envío manual de abajo quedan como referencia de formatos y mantenimiento; no sustituyen la reserva ni la aprobación.
+
 _Esta página se tradujo con ayuda de IA. Si el español es tu lengua materna, ayúdanos a mejorarla con un pull request. La [versión en inglés](../../localization/README.md) es la referencia._
 
 Los textos de la interfaz de Ebbtide, listos para traducir. El juego está escrito en coreano, y el inglés es la fuente de todos los demás idiomas. Las rutas de esta página parten de la carpeta [`localization/`](../../localization/).

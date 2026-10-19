@@ -1,5 +1,7 @@
 # Doublage
 
+> **Traduction écrite des répliques :** Consultez le [guide des tâches en français](CONTRIBUTION_WORKFLOW.md). Il faut des lignes attribuées et un relecteur différent du traducteur ; le texte est rédigé dans la feuille attribuée et le bot crée la PR. Ce processus importe du texte, pas des enregistrements. Les instructions d’audition, de fichiers audio et de format ci-dessous restent celles du doublage.
+
 *Cette page a été traduite avec l'aide de l'IA. Si le français est votre langue maternelle, aidez-nous à l'améliorer avec une pull request. La [version anglaise](../../voice/README.md) fait référence.*
 
 Pour l'instant, toutes les répliques d'Ebbtide sont doublées par IA. Elles seront toutes remplacées par de vrais comédiens de doublage : pilotes, équipages d'hélicoptère, officiers de marine, équipages de véhicules et escouades d'infanterie.

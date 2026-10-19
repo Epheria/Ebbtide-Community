@@ -1,6 +1,6 @@
 # Ebbtide Community
 
-> **Aviso para traducciones:** La traducción de la interfaz y de los guiones de voz requiere un issue de trabajo asignado por un responsable y una persona distinta para la revisión. Trabaja en la hoja de Google Sheets que te asignen; tras la revisión, el bot abrirá el pull request. Sigue primero el [procedimiento de trabajo](../CONTRIBUTION_WORKFLOW.md) (en inglés). Los pasos de envío directo con Git que aparecen abajo se aplican a otras aportaciones; las indicaciones de formato siguen siendo útiles.
+> **Aviso para traducciones:** Para traducir la interfaz o los guiones de voz, sigue la [guía de tareas en español](CONTRIBUTION_WORKFLOW.md). Necesitas una tarea asignada por un responsable y otra persona para revisarla. Trabaja en la hoja asignada; tras la revisión, el bot abrirá el PR. Los pasos de envío directo con Git que aparecen abajo se aplican a otras aportaciones; las indicaciones de formato siguen siendo útiles.
 
 _Esta página se tradujo con ayuda de IA. Si el español es tu lengua materna, ayúdanos a mejorarla con un pull request. La [versión en inglés](../../README.md) es la referencia._
 

@@ -1,5 +1,7 @@
 # Yerelleştirme
 
+> **Güncel teslim yöntemi:** [Türkçe iş akışı kılavuzunu](CONTRIBUTION_WORKFLOW.md) izle. Sana atanan Google E-Tablolar dosyasında çalış; bağımsız inceleyici belirli kopyayı onaylayınca bot PR açar. Aşağıdaki dosya ve CSV açıklamaları başvuru içindir. GitHub web düzenleyicisiyle veya kendi fork'undan doğrudan PR açmak görev ayırma ve onay sürecinin yerine geçmez.
+
 *Bu sayfa yapay zekâ yardımıyla çevrildi. Türkçe ana dilinse bir pull request açarak sayfayı geliştirmemize yardım edebilirsin. Referans olarak [İngilizce sürüm](../../localization/README.md) geçerlidir.*
 
 Ebbtide'ın arayüz metinleri, çeviriye hazır. Oyun Korece yazılıyor. Diğer tüm diller için kaynak İngilizce.

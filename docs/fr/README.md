@@ -1,6 +1,6 @@
 # Ebbtide Community
 
-> **Avis aux traducteurs :** Les traductions de l’interface et des textes destinés au doublage nécessitent une tâche attribuée par un responsable du projet et une relecture par une autre personne. Travaillez dans la feuille Google Sheets qui vous est attribuée ; après la relecture, le bot créera la pull request. Consultez d’abord la [procédure de travail](../CONTRIBUTION_WORKFLOW.md), en anglais. Les étapes d’envoi direct avec Git ci-dessous concernent les autres contributions ; les indications sur les formats de fichiers restent utiles.
+> **Avis aux traducteurs :** Pour l’interface et les textes de doublage, suivez le [guide des tâches en français](CONTRIBUTION_WORKFLOW.md). Il faut une tâche attribuée par un responsable et une relecture par une autre personne. Travaillez dans la feuille attribuée ; après la relecture, le bot créera la PR. Les étapes d’envoi direct avec Git ci-dessous concernent les autres contributions ; les indications de format restent utiles.
 
 *Cette page a été traduite avec l'aide de l'IA. Si le français est votre langue maternelle, aidez-nous à l'améliorer avec une pull request. La [version anglaise](../../README.md) fait référence.*
 

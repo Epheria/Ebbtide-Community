@@ -1,5 +1,7 @@
 # Localisation
 
+> **Pour livrer une traduction :** Le [guide des tâches en français](CONTRIBUTION_WORKFLOW.md) décrit le processus actuel. Un responsable réserve les lignes, vous rédigez dans la feuille attribuée et une autre personne relit avant la création du PR par le bot. Les étapes d’édition et d’envoi manuel ci-dessous restent une référence pour les formats et la maintenance ; elles ne remplacent ni la réservation ni l’approbation.
+
 *Cette page a été traduite avec l'aide de l'IA. Si le français est votre langue maternelle, aidez-nous à l'améliorer avec une pull request. La [version anglaise](../../localization/README.md) fait référence.*
 
 Les textes de l'interface d'Ebbtide, prêts à être traduits. Le jeu est écrit en coréen, et l'anglais sert de source pour toutes les autres langues.

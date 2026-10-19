@@ -1,6 +1,6 @@
 # Ebbtide Community
 
-> **Uwaga dla tłumaczy:** Tłumaczenie interfejsu i tekstów do nagrań głosowych wymaga zadania przydzielonego przez opiekuna projektu oraz osoby weryfikującej innej niż autor tłumaczenia. Pracuj w przydzielonym Arkuszu Google; po weryfikacji bot utworzy pull request. Najpierw przeczytaj [opis procesu](../CONTRIBUTION_WORKFLOW.md) po angielsku. Poniższe kroki bezpośredniego przesyłania przez Git dotyczą innych rodzajów wkładu; wskazówki dotyczące formatów plików nadal są przydatne.
+> **Uwaga dla tłumaczy:** Dla interfejsu i tekstów do nagrań głosowych stosuj [polski przewodnik po zadaniach](CONTRIBUTION_WORKFLOW.md). Potrzebujesz przydziału od opiekuna oraz weryfikatora innego niż tłumacz. Pracuj w przydzielonym arkuszu; po weryfikacji bot utworzy PR. Poniższe kroki bezpośredniego przesyłania przez Git dotyczą innych rodzajów wkładu; wskazówki dotyczące formatów nadal są przydatne.
 
 *Ta strona została przetłumaczona z pomocą AI. Jeśli polski to twój język ojczysty, pomóż ją poprawić przez pull request. Punktem odniesienia jest [wersja angielska](../../README.md).*
 

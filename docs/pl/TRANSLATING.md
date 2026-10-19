@@ -1,5 +1,7 @@
 # Lokalizacja
 
+> **Przesyłanie tłumaczeń:** Aktualny proces opisuje [polski przewodnik po zadaniach](CONTRIBUTION_WORKFLOW.md). Opiekun rezerwuje zakres, piszesz w przydzielonym arkuszu, a inna osoba sprawdza tekst, zanim bot utworzy PR. Poniższe kroki edycji i ręcznego przesyłania służą jako opis formatów i prac utrzymaniowych; nie zastępują rezerwacji ani zatwierdzenia.
+
 *Ta strona została przetłumaczona z pomocą AI. Jeśli polski to twój język ojczysty, pomóż ją poprawić przez pull request. Punktem odniesienia jest [wersja angielska](../../localization/README.md).*
 
 Tekst interfejsu Ebbtide, gotowy do tłumaczenia. Gra jest pisana po koreańsku, a angielski jest źródłem dla wszystkich pozostałych języków. Wszystkie ścieżki poniżej są w folderze [`localization/`](../../localization/).

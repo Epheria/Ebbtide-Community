@@ -1,5 +1,31 @@
 # Translation work orders
 
+## Choose your language
+
+| Language | Guide |
+| --- | --- |
+| English | This page |
+| 한국어 | [사용법 읽기](ko/CONTRIBUTION_WORKFLOW.md) |
+| 日本語 | [使い方を読む](ja/CONTRIBUTION_WORKFLOW.md) |
+| 简体中文 | [阅读使用指南](zh-Hans/CONTRIBUTION_WORKFLOW.md) |
+| 繁體中文 | [閱讀使用指南](zh-Hant/CONTRIBUTION_WORKFLOW.md) |
+| Português (Brasil) | [Ler o guia](pt-BR/CONTRIBUTION_WORKFLOW.md) |
+| Español | [Leer la guía](es/CONTRIBUTION_WORKFLOW.md) |
+| Français | [Lire le guide](fr/CONTRIBUTION_WORKFLOW.md) |
+| Deutsch | [Anleitung lesen](de/CONTRIBUTION_WORKFLOW.md) |
+| Русский | [Читать руководство](ru/CONTRIBUTION_WORKFLOW.md) |
+| Polski | [Przeczytaj instrukcję](pl/CONTRIBUTION_WORKFLOW.md) |
+| Italiano | [Leggi la guida](it/CONTRIBUTION_WORKFLOW.md) |
+| Türkçe | [Kılavuzu oku](tr/CONTRIBUTION_WORKFLOW.md) |
+| Українська | [Читати посібник](uk/CONTRIBUTION_WORKFLOW.md) |
+| ไทย | [อ่านคู่มือ](th/CONTRIBUTION_WORKFLOW.md) |
+| Română | [Citește ghidul](ro/CONTRIBUTION_WORKFLOW.md) |
+| Čeština | [Přečíst návod](cs/CONTRIBUTION_WORKFLOW.md) |
+
+Commands, issue field labels, CSV column names and status values stay in English because the bot reads them exactly. Localized guides explain the same workflow. The English guide is the reference when instructions differ; native wording corrections are welcome.
+
+## Overview
+
 Google Sheets is the place to write and review a translation. A GitHub work order reserves its scope, records who is responsible, and controls when an approved copy becomes a pull request.
 
 **Editing a sheet does not update the repository or the game.** The bot imports an exact reviewed snapshot into a pull request. A maintainer still reviews and merges that pull request, and the developer brings the result into a game build.
@@ -7,6 +33,8 @@ Google Sheets is the place to write and review a translation. A GitHub work orde
 This workflow covers existing UI strings and written voice-script translations. Recorded audio, auditions, new dialogue drafts, and text without a source ID use their own preparation process.
 
 Community translations use the work-order bot to open their delivery pull request. A manually created translation pull request cannot bypass the reservation and snapshot approval steps.
+
+Post commands as comments on the assigned GitHub work-order issue. When approving, copy all 64 characters after `Digest:` in the bot's preview reply and replace only `<sha256>` in the example command. Keep the command in English; do not paste the placeholder itself.
 
 ## Who does what
 
