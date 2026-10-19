@@ -28,6 +28,7 @@ Leave a row's `translation` empty if you are unsure; an empty row falls back to 
 - GitHub's web editor works for small changes.
 - For larger work, use LibreOffice Calc or Google Sheets. Import as UTF-8 with comma separators, and export back to CSV in UTF-8 with the same four columns.
 - Avoid Microsoft Excel unless you save as "CSV UTF-8"; other formats break non-English characters.
+- In some regions Excel saves CSV files with semicolons. The file must use commas, or the automatic check will reject it.
 
 ## The `status` column
 

@@ -1,5 +1,7 @@
 # Ebbtide Community
 
+**English** · [Español](docs/es/README.md) · [Русский](docs/ru/README.md) · [한국어](docs/ko/README.md) · [日本語](docs/ja/README.md) · [Polski](docs/pl/README.md) · [Türkçe](docs/tr/README.md) · [Français](docs/fr/README.md)
+
 This is where the community helps build Ebbtide: translations, voice acting, and other contributions that go into the game.
 
 Ebbtide is a top-down zombie survival game with real-time command, made by one developer. Many parts of the game started with AI-generated voices, music and translations. The goal of this repository is to replace them, piece by piece, with work made by real people from the community.
@@ -34,4 +36,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the details.
 ## Status
 
 - Translation: open. The English source is a snapshot of a game still in development, so text will change. Changed lines are marked automatically.
-- Voice acting: auditions first. Role scripts will be added to [`voice/scripts/`](voice/) as roles are cast.
+- Voice acting: auditions first. Scripts for all 21 roles are in [`voice/scripts/`](voice/scripts/).
