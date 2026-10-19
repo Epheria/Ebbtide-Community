@@ -1,0 +1,607 @@
+role,take_file,game_file,speaker,callsign,in_game,line,text_source
+ac130_fire_control,AC130_FCO_Effects,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Effects.ogg,AC130_FCO,Spooky Four One,yes,Good effects on target.,script
+ac130_fire_control,AC130_FCO_Gun105a,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Gun105a.ogg,AC130_FCO,Spooky Four One,yes,One-oh-five. Firing.,script
+ac130_fire_control,AC130_FCO_Gun105b,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Gun105b.ogg,AC130_FCO,Spooky Four One,yes,"One-oh-five, shot out.",script
+ac130_fire_control,AC130_FCO_Gun30a,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Gun30a.ogg,AC130_FCO,Spooky Four One,yes,Thirty mike-mike. Firing.,script
+ac130_fire_control,AC130_FCO_Gun30b,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Gun30b.ogg,AC130_FCO,Spooky Four One,yes,Guns hot. Thirty.,script
+ac130_fire_control,AC130_FCO_Retarget,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_FCO_Retarget.ogg,AC130_FCO,Spooky Four One,yes,New group. Adjusting aim.,script
+ac130_pilot,AC130_Pilot_CheckIn,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_Pilot_CheckIn.ogg,AC130_Pilot,Spooky Four One,yes,"Spooky Four One, checking in. Coming into the orbit.",script
+ac130_pilot,AC130_Pilot_EnRoute,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_Pilot_EnRoute.ogg,AC130_Pilot,Spooky Four One,yes,Spooky Four One copies tasking. Preparing for departure.,script
+ac130_pilot,AC130_Pilot_OffStation,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_Pilot_OffStation.ogg,AC130_Pilot,Spooky Four One,yes,"Spooky Four One, off station. Returning to base.",script
+ac130_pilot,AC130_Pilot_OnStation,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_AC130_Pilot_OnStation.ogg,AC130_Pilot,Spooky Four One,yes,"Spooky Four One, on station. We have eyes on your position.",script
+attack_heli_pilot,AH1_AttackMove,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_AttackMove.ogg,AH1_M1,Viper One One,yes,Viper One One copies. Advancing and scanning.,script
+attack_heli_pilot,AH1_AttackMove,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_AttackMove.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies. Advancing and scanning.,script
+attack_heli_pilot,AH1_AttackOrbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_AttackOrbit.ogg,AH1_M1,Viper One One,yes,"Copy. Viper One One, setting attack orbit.",script
+attack_heli_pilot,AH1_AttackOrbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_AttackOrbit.ogg,AH1_M2,Viper One Two,yes,"Copy. Viper One Two, setting attack orbit.",script
+attack_heli_pilot,AH1_AttackOrbitOff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_AttackOrbitOff.ogg,AH1_M1,Viper One One,yes,Viper One One copies. Attack orbit disengaged.,script
+attack_heli_pilot,AH1_AttackOrbitOff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_AttackOrbitOff.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies. Attack orbit disengaged.,script
+attack_heli_pilot,AH1_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_CheckIn.ogg,AH1_M1,Viper One One,yes,"Viper One One, inbound. Two mikes.",design-doc
+attack_heli_pilot,AH1_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_CheckIn.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, inbound. Two mikes.",design-doc
+attack_heli_pilot,AH1_FireSector,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_FireSector.ogg,AH1_M1,Viper One One,yes,Sector set. Viper One One has that lane.,script
+attack_heli_pilot,AH1_FireSector,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_FireSector.ogg,AH1_M2,Viper One Two,yes,Sector set. Viper One Two has that lane.,script
+attack_heli_pilot,AH1_FireSectorClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_FireSectorClear.ogg,AH1_M1,Viper One One,yes,Viper One One copies. Sector restriction cleared.,script
+attack_heli_pilot,AH1_FireSectorClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_FireSectorClear.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies. Sector restriction cleared.,script
+attack_heli_pilot,AH1_FormationAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_FormationAck.ogg,AH1_M1,Viper One One,yes,Viper One One copies formation change.,script
+attack_heli_pilot,AH1_FormationAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_FormationAck.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies formation change.,script
+attack_heli_pilot,AH1_GunTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_GunTarget.ogg,AH1_M1,Viper One One,yes,"Copy gun target. Viper One One, moving to engage.",script
+attack_heli_pilot,AH1_GunTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_GunTarget.ogg,AH1_M2,Viper One Two,yes,"Copy gun target. Viper One Two, moving to engage.",script
+attack_heli_pilot,AH1_Guns,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_Guns.ogg,AH1_M1,Viper One One,yes,"Guns, guns, guns.",design-doc
+attack_heli_pilot,AH1_Guns,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_Guns.ogg,AH1_M2,Viper One Two,yes,"Guns, guns, guns.",design-doc
+attack_heli_pilot,AH1_Hold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Hold.ogg,AH1_M1,Viper One One,yes,"Viper One One, holding. Scanning.",script
+attack_heli_pilot,AH1_Hold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Hold.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, holding. Scanning.",script
+attack_heli_pilot,AH1_Land,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Land.ogg,AH1_M1,Viper One One,yes,"Viper One One, setting down.",script
+attack_heli_pilot,AH1_Land,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Land.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, setting down.",script
+attack_heli_pilot,AH1_LandDenied,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_LandDenied.ogg,AH1_M1,Viper One One,yes,"Viper One One, unable. Landing area obstructed.",script
+attack_heli_pilot,AH1_LandDenied,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_LandDenied.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, unable. Landing area obstructed.",script
+attack_heli_pilot,AH1_Mayday,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Mayday.ogg,AH1_M1,Viper One One,yes,"Mayday, mayday! Viper One One is going down!",script
+attack_heli_pilot,AH1_Mayday,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Mayday.ogg,AH1_M2,Viper One Two,yes,"Mayday, mayday! Viper One Two is going down!",script
+attack_heli_pilot,AH1_MissileTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_MissileTarget.ogg,AH1_M1,Viper One One,yes,"Copy missile target. Viper One One, acquiring.",script
+attack_heli_pilot,AH1_MissileTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_MissileTarget.ogg,AH1_M2,Viper One Two,yes,"Copy missile target. Viper One Two, acquiring.",script
+attack_heli_pilot,AH1_Move1,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Move1.ogg,AH1_M1,Viper One One,yes,"Viper One One, pushing.",script
+attack_heli_pilot,AH1_Move1,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Move1.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, pushing.",script
+attack_heli_pilot,AH1_Move2,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Move2.ogg,AH1_M1,Viper One One,yes,Viper One One copies. Shifting.,script
+attack_heli_pilot,AH1_Move2,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Move2.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies. Shifting.,script
+attack_heli_pilot,AH1_OnStation,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_OnStation.ogg,AH1_M1,Viper One One,yes,Viper One One overhead. Talk me onto the target.,design-doc
+attack_heli_pilot,AH1_OnStation,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_OnStation.ogg,AH1_M2,Viper One Two,yes,Viper One Two overhead. Talk me onto the target.,design-doc
+attack_heli_pilot,AH1_Orbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Orbit.ogg,AH1_M1,Viper One One,yes,"Viper One One, setting up overwatch.",script
+attack_heli_pilot,AH1_Orbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Orbit.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, setting up overwatch.",script
+attack_heli_pilot,AH1_OrbitDirectionAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_OrbitDirectionAck.ogg,AH1_M1,Viper One One,yes,Viper One One copies. Orbit direction set.,script
+attack_heli_pilot,AH1_OrbitDirectionAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_OrbitDirectionAck.ogg,AH1_M2,Viper One Two,yes,Viper One Two copies. Orbit direction set.,script
+attack_heli_pilot,AH1_Rifle,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_Rifle.ogg,AH1_M1,Viper One One,yes,Rifle.,design-doc
+attack_heli_pilot,AH1_Rifle,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_Rifle.ogg,AH1_M2,Viper One Two,yes,Rifle.,design-doc
+attack_heli_pilot,AH1_RocketTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_RocketTarget.ogg,AH1_M1,Viper One One,yes,Copy rockets. Viper One One rolling in.,script
+attack_heli_pilot,AH1_RocketTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_RocketTarget.ogg,AH1_M2,Viper One Two,yes,Copy rockets. Viper One Two rolling in.,script
+attack_heli_pilot,AH1_Rockets1,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_Rockets1.ogg,AH1_M1,Viper One One,yes,"Rockets, rockets.",design-doc
+attack_heli_pilot,AH1_Rockets1,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_Rockets1.ogg,AH1_M2,Viper One Two,yes,"Rockets, rockets.",design-doc
+attack_heli_pilot,AH1_Rockets2,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_Rockets2.ogg,AH1_M1,Viper One One,yes,Rockets away. Heads down!,design-doc
+attack_heli_pilot,AH1_Rockets2,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_Rockets2.ogg,AH1_M2,Viper One Two,yes,Rockets away. Heads down!,design-doc
+attack_heli_pilot,AH1_Rtb,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M1_Rtb.ogg,AH1_M1,Viper One One,yes,"Viper One One, off station. Winchester, RTB.",design-doc
+attack_heli_pilot,AH1_Rtb,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_AH1_M2_Rtb.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, off station. Winchester, RTB.",design-doc
+attack_heli_pilot,AH1_Select,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Select.ogg,AH1_M1,Viper One One,yes,Viper One One. Ready for tasking.,script
+attack_heli_pilot,AH1_Select,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Select.ogg,AH1_M2,Viper One Two,yes,Viper One Two. Ready for tasking.,script
+attack_heli_pilot,AH1_Takeoff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Takeoff.ogg,AH1_M1,Viper One One,yes,"Viper One One, lifting.",script
+attack_heli_pilot,AH1_Takeoff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Takeoff.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, lifting.",script
+attack_heli_pilot,AH1_Unable,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_Unable.ogg,AH1_M1,Viper One One,yes,"Viper One One, unable to engage.",script
+attack_heli_pilot,AH1_Unable,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_Unable.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, unable to engage.",script
+attack_heli_pilot,AH1_WeaponsFree,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_WeaponsFree.ogg,AH1_M1,Viper One One,yes,"Viper One One, engaging hostiles at will.",script
+attack_heli_pilot,AH1_WeaponsFree,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_WeaponsFree.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, engaging hostiles at will.",script
+attack_heli_pilot,AH1_WeaponsHold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M1_WeaponsHold.ogg,AH1_M1,Viper One One,yes,"Viper One One, weapons hold. Your targets only.",script
+attack_heli_pilot,AH1_WeaponsHold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_AH1_M2_WeaponsHold.ogg,AH1_M2,Viper One Two,yes,"Viper One Two, weapons hold. Your targets only.",script
+attack_heli_pilot,GunshipPilot_Inbound,Assets/Audio/Voice/AirSupport/VO_Radio_GunshipPilot_Inbound.ogg,GunshipPilot,Fallback gunship pilot,yes,"Viper One One, coming in to support.",design-doc-partial
+attack_heli_pilot,GunshipPilot_Rockets,Assets/Audio/Voice/AirSupport/VO_Radio_GunshipPilot_Rockets.ogg,GunshipPilot,Fallback gunship pilot,yes,Rockets away!,design-doc
+bradley_commander,Bradley_Ack1,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Ack1.ogg,Bradley,Warhorse,yes,Roger that.,script
+bradley_commander,Bradley_Ack2,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Ack2.ogg,Bradley,Warhorse,yes,Understood.,script
+bradley_commander,Bradley_AmmoLow,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_AmmoLow.ogg,Bradley,Warhorse,yes,Bushmaster ammo running low!,script
+bradley_commander,Bradley_CeaseFire,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_CeaseFire.ogg,Bradley,Warhorse,yes,Cease fire!,script
+bradley_commander,Bradley_Copy,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Copy.ogg,Bradley,Warhorse,yes,Copy. Waypoint noted.,script
+bradley_commander,Bradley_Engaging,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Engaging.ogg,Bradley,Warhorse,yes,Engaging with the Bushmaster!,script
+bradley_commander,Bradley_FireSector,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_FireSector.ogg,Bradley,Warhorse,yes,Roger. Arc of fire set. Covering.,script
+bradley_commander,Bradley_Hold1,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Hold1.ogg,Bradley,Warhorse,yes,Holding position.,script
+bradley_commander,Bradley_Hold2,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Hold2.ogg,Bradley,Warhorse,yes,Copy. Stopping here.,script
+bradley_commander,Bradley_Hold3,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Hold3.ogg,Bradley,Warhorse,yes,Roger. Warhorse holds.,script
+bradley_commander,Bradley_Identified,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Identified.ogg,Bradley,Warhorse,yes,Target identified!,script
+bradley_commander,Bradley_Inbound,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Inbound.ogg,Bradley,Warhorse,yes,Warhorse section moving to your position.,script
+bradley_commander,Bradley_Move1,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Move1.ogg,Bradley,Warhorse,yes,Warhorse moving.,script
+bradley_commander,Bradley_Move2,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Move2.ogg,Bradley,Warhorse,yes,Copy. Repositioning.,script
+bradley_commander,Bradley_Move3,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_Move3.ogg,Bradley,Warhorse,yes,Roger that. On the move.,script
+bradley_commander,Bradley_TowLaunch,Assets/Audio/Voice/Bradley/VO_Radio_Bradley_TowLaunch.ogg,Bradley,Warhorse,yes,On the way. Tracking.,script
+carrier_air_boss,AirBoss_AlertAck,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_AlertAck.ogg,Carrier_AirBoss,Tower,yes,Tower copies. Setting alert five.,script
+carrier_air_boss,AirBoss_AlertReady,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_AlertReady.ogg,Carrier_AirBoss,Tower,yes,Alert five is manned and ready.,script
+carrier_air_boss,AirBoss_AlertSecure,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_AlertSecure.ogg,Carrier_AirBoss,Tower,yes,Secure the alert five.,script
+carrier_air_boss,AirBoss_Charlie,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_Charlie.ogg,Carrier_AirBoss,Tower,yes,"Ninety-nine, signal Charlie.",script
+carrier_air_boss,AirBoss_ClearToLaunch,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_ClearToLaunch.ogg,Carrier_AirBoss,Tower,yes,Green deck. Clear to launch.,script
+carrier_air_boss,AirBoss_LoadoutAck,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_LoadoutAck.ogg,Carrier_AirBoss,Tower,yes,"Tower copies. Ordnance, re-arm the alert aircraft.",script
+carrier_air_boss,AirBoss_ManUp,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_ManUp.ogg,Carrier_AirBoss,Tower,yes,"On the flight deck. Check chocks, tie-downs and loose gear. Start the go aircraft.",script
+carrier_air_boss,AirBoss_NoAircraft,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_NoAircraft.ogg,Carrier_AirBoss,Tower,yes,Negative. No aircraft ready on deck.,script
+carrier_air_boss,AirBoss_OutOfRange,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_OutOfRange.ogg,Carrier_AirBoss,Tower,yes,Negative. Target is outside strike range.,script
+carrier_air_boss,AirBoss_Rearmed,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_Rearmed.ogg,Carrier_AirBoss,Tower,yes,Aircraft re-armed. Ready deck.,script
+carrier_air_boss,AirBoss_RecoveryComplete,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_RecoveryComplete.ogg,Carrier_AirBoss,Tower,yes,Recovery complete.,script
+carrier_air_boss,AirBoss_RecoveryStart,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_RecoveryStart.ogg,Carrier_AirBoss,Tower,yes,Stand by to recover aircraft. Clear the landing area.,script
+carrier_air_boss,AirBoss_StrikeAck,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_StrikeAck.ogg,Carrier_AirBoss,Tower,yes,Tower copies. Starting the go aircraft.,script
+carrier_air_boss,AirBoss_StrikeAckAlert,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_AirBoss_StrikeAckAlert.ogg,Carrier_AirBoss,Tower,yes,Tower copies. Launch the alert five!,script
+carrier_captain,Carrier_CO_Move1,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_Move1.ogg,Carrier_CO,Sovereign,yes,Sovereign copies. Getting underway.,script
+carrier_captain,Carrier_CO_Move2,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_Move2.ogg,Carrier_CO,Sovereign,yes,Coming to new course.,script
+carrier_captain,Carrier_CO_MoveDenied,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_MoveDenied.ogg,Carrier_CO,Sovereign,yes,Negative. That course puts us aground.,script
+carrier_captain,Carrier_CO_Select1,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_Select1.ogg,Carrier_CO,Sovereign,yes,Sovereign Actual.,script
+carrier_captain,Carrier_CO_Select2,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_Select2.ogg,Carrier_CO,Sovereign,yes,Sovereign Actual. Go ahead.,script
+carrier_captain,Carrier_CO_Select3,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_CO_Select3.ogg,Carrier_CO,Sovereign,yes,Bridge. Standing by.,script
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_AckBombing.ogg,FA18_F1,Dagger One Two,yes,Dagger One Two copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_AckBombing.ogg,FA18_F2,Dagger Two Two,yes,Dagger Two Two copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_AckBombing.ogg,FA18_F3,Dagger Three Two,yes,Dagger Three Two copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_AckBombing.ogg,FA18_F4,Dagger Four Two,yes,Dagger Four Two copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_AckBombing.ogg,FA18_M1,Dagger One One,yes,Dagger One One copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_AckBombing.ogg,FA18_M2,Dagger Two One,yes,Dagger Two One copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_AckBombing.ogg,FA18_M3,Dagger Three One,yes,Dagger Three One copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_AckBombing.ogg,FA18_M4,Dagger Four One,yes,Dagger Four One copies area target. Rolling in.,script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_AckPrecision.ogg,FA18_F1,Dagger One Two,yes,"Copy precision strike. Dagger One Two, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_AckPrecision.ogg,FA18_F2,Dagger Two Two,yes,"Copy precision strike. Dagger Two Two, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_AckPrecision.ogg,FA18_F3,Dagger Three Two,yes,"Copy precision strike. Dagger Three Two, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_AckPrecision.ogg,FA18_F4,Dagger Four Two,yes,"Copy precision strike. Dagger Four Two, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_AckPrecision.ogg,FA18_M1,Dagger One One,yes,"Copy precision strike. Dagger One One, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_AckPrecision.ogg,FA18_M2,Dagger Two One,yes,"Copy precision strike. Dagger Two One, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_AckPrecision.ogg,FA18_M3,Dagger Three One,yes,"Copy precision strike. Dagger Three One, searching.",script+hash
+carrier_jet_pilot,FA18_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_AckPrecision.ogg,FA18_M4,Dagger Four One,yes,"Copy precision strike. Dagger Four One, searching.",script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_AckStrafe.ogg,FA18_F1,Dagger One Two,yes,Copy strafe. Dagger One Two in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_AckStrafe.ogg,FA18_F2,Dagger Two Two,yes,Copy strafe. Dagger Two Two in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_AckStrafe.ogg,FA18_F3,Dagger Three Two,yes,Copy strafe. Dagger Three Two in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_AckStrafe.ogg,FA18_F4,Dagger Four Two,yes,Copy strafe. Dagger Four Two in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_AckStrafe.ogg,FA18_M1,Dagger One One,yes,Copy strafe. Dagger One One in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_AckStrafe.ogg,FA18_M2,Dagger Two One,yes,Copy strafe. Dagger Two One in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_AckStrafe.ogg,FA18_M3,Dagger Three One,yes,Copy strafe. Dagger Three One in with guns.,script+hash
+carrier_jet_pilot,FA18_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_AckStrafe.ogg,FA18_M4,Dagger Four One,yes,Copy strafe. Dagger Four One in with guns.,script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_Airborne.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_Airborne.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_Airborne.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_Airborne.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_Airborne.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_Airborne.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_Airborne.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, airborne.",script+hash
+carrier_jet_pilot,FA18_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_Airborne.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, airborne.",script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_AutoOff.ogg,FA18_F1,Dagger One Two,yes,Dagger One Two copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_AutoOff.ogg,FA18_F2,Dagger Two Two,yes,Dagger Two Two copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_AutoOff.ogg,FA18_F3,Dagger Three Two,yes,Dagger Three Two copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_AutoOff.ogg,FA18_F4,Dagger Four Two,yes,Dagger Four Two copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_AutoOff.ogg,FA18_M1,Dagger One One,yes,Dagger One One copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_AutoOff.ogg,FA18_M2,Dagger Two One,yes,Dagger Two One copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_AutoOff.ogg,FA18_M3,Dagger Three One,yes,Dagger Three One copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_AutoOff.ogg,FA18_M4,Dagger Four One,yes,Dagger Four One copies. Manual targeting only.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_AutoOn.ogg,FA18_F1,Dagger One Two,yes,Dagger One Two copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_AutoOn.ogg,FA18_F2,Dagger Two Two,yes,Dagger Two Two copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_AutoOn.ogg,FA18_F3,Dagger Three Two,yes,Dagger Three Two copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_AutoOn.ogg,FA18_F4,Dagger Four Two,yes,Dagger Four Two copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_AutoOn.ogg,FA18_M1,Dagger One One,yes,Dagger One One copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_AutoOn.ogg,FA18_M2,Dagger Two One,yes,Dagger Two One copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_AutoOn.ogg,FA18_M3,Dagger Three One,yes,Dagger Three One copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_AutoOn.ogg,FA18_M4,Dagger Four One,yes,Dagger Four One copies. Continuing attacks in the assigned area.,script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_Ball.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_Ball.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_Ball.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_Ball.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_Ball.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_Ball.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_Ball.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, ball.",script+hash
+carrier_jet_pilot,FA18_Ball,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_Ball.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, ball.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_CheckIn.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_CheckIn.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_CheckIn.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_CheckIn.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_CheckIn.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_CheckIn.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_CheckIn.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_CheckIn.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, checking in. Ready for tasking.",script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_Hold.ogg,FA18_F1,Dagger One Two,yes,Dagger One Two off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_Hold.ogg,FA18_F2,Dagger Two Two,yes,Dagger Two Two off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_Hold.ogg,FA18_F3,Dagger Three Two,yes,Dagger Three Two off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_Hold.ogg,FA18_F4,Dagger Four Two,yes,Dagger Four Two off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_Hold.ogg,FA18_M1,Dagger One One,yes,Dagger One One off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_Hold.ogg,FA18_M2,Dagger Two One,yes,Dagger Two One off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_Hold.ogg,FA18_M3,Dagger Three One,yes,Dagger Three One off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_Hold.ogg,FA18_M4,Dagger Four One,yes,Dagger Four One off target. Holding overhead.,script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_Ready.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_Ready.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_Ready.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_Ready.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_Ready.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_Ready.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_Ready.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, ready for launch.",script+hash
+carrier_jet_pilot,FA18_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_Ready.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, ready for launch.",script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_RtbFuel.ogg,FA18_F1,Dagger One Two,yes,Dagger One Two is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_RtbFuel.ogg,FA18_F2,Dagger Two Two,yes,Dagger Two Two is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_RtbFuel.ogg,FA18_F3,Dagger Three Two,yes,Dagger Three Two is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_RtbFuel.ogg,FA18_F4,Dagger Four Two,yes,Dagger Four Two is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_RtbFuel.ogg,FA18_M1,Dagger One One,yes,Dagger One One is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_RtbFuel.ogg,FA18_M2,Dagger Two One,yes,Dagger Two One is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_RtbFuel.ogg,FA18_M3,Dagger Three One,yes,Dagger Three One is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_RtbFuel.ogg,FA18_M4,Dagger Four One,yes,Dagger Four One is bingo. Returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_RtbOrdered.ogg,FA18_F1,Dagger One Two,yes,Copy. Dagger One Two returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_RtbOrdered.ogg,FA18_F2,Dagger Two Two,yes,Copy. Dagger Two Two returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_RtbOrdered.ogg,FA18_F3,Dagger Three Two,yes,Copy. Dagger Three Two returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_RtbOrdered.ogg,FA18_F4,Dagger Four Two,yes,Copy. Dagger Four Two returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_RtbOrdered.ogg,FA18_M1,Dagger One One,yes,Copy. Dagger One One returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_RtbOrdered.ogg,FA18_M2,Dagger Two One,yes,Copy. Dagger Two One returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_RtbOrdered.ogg,FA18_M3,Dagger Three One,yes,Copy. Dagger Three One returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_RtbOrdered.ogg,FA18_M4,Dagger Four One,yes,Copy. Dagger Four One returning to Mother.,script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_RtbWinchester.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_RtbWinchester.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_RtbWinchester.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_RtbWinchester.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_RtbWinchester.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_RtbWinchester.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_RtbWinchester.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_RtbWinchester.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, Winchester. Returning to Mother.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_Unable.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_Unable.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_Unable.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_Unable.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_Unable.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_Unable.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_Unable.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, unable.",script+hash
+carrier_jet_pilot,FA18_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_Unable.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, unable.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F1_WeaponsAway.ogg,FA18_F1,Dagger One Two,yes,"Dagger One Two, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F2_WeaponsAway.ogg,FA18_F2,Dagger Two Two,yes,"Dagger Two Two, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F3_WeaponsAway.ogg,FA18_F3,Dagger Three Two,yes,"Dagger Three Two, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_F4_WeaponsAway.ogg,FA18_F4,Dagger Four Two,yes,"Dagger Four Two, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M1_WeaponsAway.ogg,FA18_M1,Dagger One One,yes,"Dagger One One, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M2_WeaponsAway.ogg,FA18_M2,Dagger Two One,yes,"Dagger Two One, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M3_WeaponsAway.ogg,FA18_M3,Dagger Three One,yes,"Dagger Three One, weapons away.",script+hash
+carrier_jet_pilot,FA18_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_FA18_M4_WeaponsAway.ogg,FA18_M4,Dagger Four One,yes,"Dagger Four One, weapons away.",script+hash
+carrier_lso,LSO_RogerBall1,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_LSO_RogerBall1.ogg,Carrier_LSO,Paddles,yes,Roger ball.,script
+carrier_lso,LSO_RogerBall2,Assets/Audio/Voice/Fleet/Carrier/VO_Radio_Carrier_LSO_RogerBall2.ogg,Carrier_LSO,Paddles,yes,Roger ball.,script
+cic_gunnery_talker,DDG_Guns_MissileAway,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_Guns_MissileAway.ogg,DDG_Guns,Guns,yes,Missile away.,script
+cic_gunnery_talker,DDG_Guns_MissileImpact,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_Guns_MissileImpact.ogg,DDG_Guns,Guns,yes,Stand by for impact.,script
+cic_gunnery_talker,DDG_Guns_RoundsComplete,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_Guns_RoundsComplete.ogg,DDG_Guns,Guns,yes,"Rounds complete, over.",script
+cic_gunnery_talker,DDG_Guns_Shot,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_Guns_Shot.ogg,DDG_Guns,Guns,yes,"Shot, over.",script
+cic_gunnery_talker,DDG_Guns_Splash,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_Guns_Splash.ogg,DDG_Guns,Guns,yes,"Splash, over.",script
+destroyer_captain,DDG_CO_GunAck1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_GunAck1.ogg,DDG_CO1,Trident,yes,Trident copies fire mission. Ready.,script
+destroyer_captain,DDG_CO_GunAck1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_GunAck1.ogg,DDG_CO2,Mako,yes,Mako copies fire mission. Ready.,script
+destroyer_captain,DDG_CO_GunAck2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_GunAck2.ogg,DDG_CO1,Trident,yes,"Fire mission, Trident. Ready, over.",script
+destroyer_captain,DDG_CO_GunAck2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_GunAck2.ogg,DDG_CO2,Mako,yes,"Fire mission, Mako. Ready, over.",script
+destroyer_captain,DDG_CO_GunBusy,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_GunBusy.ogg,DDG_CO1,Trident,yes,Unable. Gun not ready. Stand by.,script
+destroyer_captain,DDG_CO_GunBusy,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_GunBusy.ogg,DDG_CO2,Mako,yes,Unable. Gun not ready. Stand by.,script
+destroyer_captain,DDG_CO_GunDepleted,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_GunDepleted.ogg,DDG_CO1,Trident,yes,Negative. Ammunition expended.,script
+destroyer_captain,DDG_CO_GunDepleted,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_GunDepleted.ogg,DDG_CO2,Mako,yes,Negative. Ammunition expended.,script
+destroyer_captain,DDG_CO_GunOutOfRange,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_GunOutOfRange.ogg,DDG_CO1,Trident,yes,Negative. Target is out of range.,script
+destroyer_captain,DDG_CO_GunOutOfRange,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_GunOutOfRange.ogg,DDG_CO2,Mako,yes,Negative. Target is out of range.,script
+destroyer_captain,DDG_CO_MissileAck,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_MissileAck.ogg,DDG_CO1,Trident,yes,Trident copies. Strike tasking received.,script
+destroyer_captain,DDG_CO_MissileAck,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_MissileAck.ogg,DDG_CO2,Mako,yes,Mako copies. Strike tasking received.,script
+destroyer_captain,DDG_CO_MissileBusy,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_MissileBusy.ogg,DDG_CO1,Trident,yes,Unable. Missile strike not ready. Stand by.,script
+destroyer_captain,DDG_CO_MissileBusy,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_MissileBusy.ogg,DDG_CO2,Mako,yes,Unable. Missile strike not ready. Stand by.,script
+destroyer_captain,DDG_CO_MissileDepleted,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_MissileDepleted.ogg,DDG_CO1,Trident,yes,Negative. No strike missiles remaining.,script
+destroyer_captain,DDG_CO_MissileDepleted,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_MissileDepleted.ogg,DDG_CO2,Mako,yes,Negative. No strike missiles remaining.,script
+destroyer_captain,DDG_CO_Move1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_Move1.ogg,DDG_CO1,Trident,yes,Trident copies. Coming to new course.,script
+destroyer_captain,DDG_CO_Move1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_Move1.ogg,DDG_CO2,Mako,yes,Mako copies. Coming to new course.,script
+destroyer_captain,DDG_CO_Move2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_Move2.ogg,DDG_CO1,Trident,yes,"Trident, wilco. Changing course.",script
+destroyer_captain,DDG_CO_Move2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_Move2.ogg,DDG_CO2,Mako,yes,"Mako, wilco. Changing course.",script
+destroyer_captain,DDG_CO_MoveDenied,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_MoveDenied.ogg,DDG_CO1,Trident,yes,Negative. Shoal water. Unable.,script
+destroyer_captain,DDG_CO_MoveDenied,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_MoveDenied.ogg,DDG_CO2,Mako,yes,Negative. Shoal water. Unable.,script
+destroyer_captain,DDG_CO_Select1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_Select1.ogg,DDG_CO1,Trident,yes,Trident Actual.,script
+destroyer_captain,DDG_CO_Select1,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_Select1.ogg,DDG_CO2,Mako,yes,Mako Actual.,script
+destroyer_captain,DDG_CO_Select2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO1_Select2.ogg,DDG_CO1,Trident,yes,"Trident, go ahead.",script
+destroyer_captain,DDG_CO_Select2,Assets/Audio/Voice/Fleet/Destroyer/VO_Radio_DDG_CO2_Select2.ogg,DDG_CO2,Mako,yes,"Mako, go ahead.",script
+drone_operator,MQ9_EnRoute,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_EnRoute.ogg,MQ9_Op,Kestrel Two Zero,yes,Kestrel Two Zero copies tasking. En route.,script
+drone_operator,MQ9_Mark,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_Mark.ogg,MQ9_Op,Kestrel Two Zero,yes,Kestrel has a large group. Tracking.,script
+drone_operator,MQ9_OffStation,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_OffStation.ogg,MQ9_Op,Kestrel Two Zero,yes,"Kestrel Two Zero, off station. Returning to base.",script
+drone_operator,MQ9_OnStation,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_OnStation.ogg,MQ9_Op,Kestrel Two Zero,yes,"Kestrel Two Zero, on station. Eyes on.",script
+drone_operator,MQ9_Rifle1,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_Rifle1.ogg,MQ9_Op,Kestrel Two Zero,yes,"Kestrel Two Zero, rifle.",script
+drone_operator,MQ9_Rifle2,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_Rifle2.ogg,MQ9_Op,Kestrel Two Zero,yes,Rifle.,script
+drone_operator,MQ9_Winchester,Assets/Audio/Voice/AirSupport/OrbitSupport/VO_Radio_MQ9_Op_Winchester.ogg,MQ9_Op,Kestrel Two Zero,yes,Kestrel is Winchester.,script
+hawg_pilot,A10_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_AckBombing.ogg,A10_M1,Hawg One One,yes,"Hawg One One, roger. Area attack.",script+hash
+hawg_pilot,A10_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_AckBombing.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, roger. Area attack.",script+hash
+hawg_pilot,A10_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_AckPrecision.ogg,A10_M1,Hawg One One,yes,"Hawg One One, roger. Target received.",script+hash
+hawg_pilot,A10_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_AckPrecision.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, roger. Target received.",script+hash
+hawg_pilot,A10_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_AckStrafe.ogg,A10_M1,Hawg One One,yes,"Hawg One One, roger. Strafing run.",script+hash
+hawg_pilot,A10_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_AckStrafe.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, roger. Strafing run.",script+hash
+hawg_pilot,A10_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Airborne.ogg,A10_M1,Hawg One One,yes,"Hawg One One, airborne.",script+hash
+hawg_pilot,A10_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Airborne.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, airborne.",script+hash
+hawg_pilot,A10_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_AutoOff.ogg,A10_M1,Hawg One One,yes,"Hawg One One, wilco. Further attacks on your command.",script+hash
+hawg_pilot,A10_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_AutoOff.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, wilco. Further attacks on your command.",script+hash
+hawg_pilot,A10_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_AutoOn.ogg,A10_M1,Hawg One One,yes,Hawg One One copies. Continuing attacks in the assigned area.,script+hash
+hawg_pilot,A10_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_AutoOn.ogg,A10_M2,Hawg One Two,yes,Hawg One Two copies. Continuing attacks in the assigned area.,script+hash
+hawg_pilot,A10_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_CheckIn.ogg,A10_M1,Hawg One One,yes,"Hawg One One, checking in. Ready for tasking.",script+hash
+hawg_pilot,A10_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_CheckIn.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, checking in. Ready for tasking.",script+hash
+hawg_pilot,A10_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Hold.ogg,A10_M1,Hawg One One,yes,Hawg One One off target. Holding overhead.,script+hash
+hawg_pilot,A10_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Hold.ogg,A10_M2,Hawg One Two,yes,Hawg One Two off target. Holding overhead.,script+hash
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M1_Attack.ogg,A10_M1,Hawg One One,yes,"In hot! Guns, guns, guns!",design-doc
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M2_Attack.ogg,A10_M2,Hawg One Two,yes,"In hot! Guns, guns, guns!",design-doc
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M3_Attack.ogg,A10_M3,Hawg Two One,yes,"In hot! Guns, guns, guns!",design-doc
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_InHot.ogg,A10_M1,Hawg One One,yes,"In hot! Guns, guns, guns!",script+hash
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_InHot.ogg,A10_M2,Hawg One Two,yes,"In hot! Guns, guns, guns!",script+hash
+hawg_pilot,A10_InHot,Assets/Audio/Voice/AirSupport/VO_Radio_AttackPilot_InHot.ogg,AttackPilot,Fallback attack pilot,yes,"In hot. Guns, guns, guns!",design-doc
+hawg_pilot,A10_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Landed.ogg,A10_M1,Hawg One One,yes,"Hawg One One, back at base.",script+hash
+hawg_pilot,A10_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Landed.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, back at base.",script+hash
+hawg_pilot,A10_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Ready.ogg,A10_M1,Hawg One One,yes,Hawg One One copies. Preparing for departure.,script+hash
+hawg_pilot,A10_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Ready.ogg,A10_M2,Hawg One Two,yes,Hawg One Two copies. Preparing for departure.,script+hash
+hawg_pilot,A10_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Rifle.ogg,A10_M1,Hawg One One,yes,"Hawg One One, rifle.",script+hash
+hawg_pilot,A10_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Rifle.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, rifle.",script+hash
+hawg_pilot,A10_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_RtbFuel.ogg,A10_M1,Hawg One One,yes,"Hawg One One, bingo fuel. Returning to base.",script+hash
+hawg_pilot,A10_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_RtbFuel.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, bingo fuel. Returning to base.",script+hash
+hawg_pilot,A10_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_RtbOrdered.ogg,A10_M1,Hawg One One,yes,"Copy, Hawg One One returning to base.",script+hash
+hawg_pilot,A10_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_RtbOrdered.ogg,A10_M2,Hawg One Two,yes,"Copy, Hawg One Two returning to base.",script+hash
+hawg_pilot,A10_RtbWinchester,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M1_Rtb.ogg,A10_M1,Hawg One One,yes,"Hawg One One, Winchester. Returning to base.",design-doc
+hawg_pilot,A10_RtbWinchester,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M2_Rtb.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, Winchester. Returning to base.",design-doc
+hawg_pilot,A10_RtbWinchester,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M3_Rtb.ogg,A10_M3,Hawg Two One,yes,"Hawg Two One, Winchester. Returning to base.",design-doc
+hawg_pilot,A10_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_RtbWinchester.ogg,A10_M1,Hawg One One,yes,"Hawg One One, Winchester. Returning to base.",script+hash
+hawg_pilot,A10_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_RtbWinchester.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, Winchester. Returning to base.",script+hash
+hawg_pilot,A10_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M1_CheckIn.ogg,A10_M1,Hawg One One,yes,"Hawg One One, inbound. Talk me on.",design-doc
+hawg_pilot,A10_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M2_CheckIn.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, inbound. Talk me on.",design-doc
+hawg_pilot,A10_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_A10_M3_CheckIn.ogg,A10_M3,Hawg Two One,yes,"Hawg Two One, inbound. Talk me on.",design-doc
+hawg_pilot,A10_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_Unable.ogg,A10_M1,Hawg One One,yes,"Hawg One One, unable.",script+hash
+hawg_pilot,A10_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_Unable.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, unable.",script+hash
+hawg_pilot,A10_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M1_WeaponsAway.ogg,A10_M1,Hawg One One,yes,"Hawg One One, weapons away.",script+hash
+hawg_pilot,A10_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_A10_M2_WeaponsAway.ogg,A10_M2,Hawg One Two,yes,"Hawg One Two, weapons away.",script+hash
+hq_dispatcher,HQ_AirDispatch,Assets/Audio/Voice/AirSupport/VO_Radio_HQ_AirDispatch.ogg,HQ,HQ dispatcher,yes,Friendly air support is inbound.,design-doc-partial
+humvee_driver,Humvee_Ack1,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Ack1.ogg,Humvee,Humvee driver,yes,Got it.,script
+humvee_driver,Humvee_Ack2,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Ack2.ogg,Humvee,Humvee driver,yes,"Yeah, copy.",script
+humvee_driver,Humvee_Boarded,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Boarded.ogg,Humvee,Humvee driver,yes,All in. Let's roll.,script
+humvee_driver,Humvee_CeaseFire,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_CeaseFire.ogg,Humvee,Humvee driver,yes,Hold your fire!,script
+humvee_driver,Humvee_Copy,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Copy.ogg,Humvee,Humvee driver,yes,Copy. Adding the stop.,script
+humvee_driver,Humvee_Dismount,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Dismount.ogg,Humvee,Humvee driver,yes,Everybody out!,script
+humvee_driver,Humvee_FireSector,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_FireSector.ogg,Humvee,Humvee driver,yes,Copy. Scanning that sector.,script
+humvee_driver,Humvee_Hold1,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Hold1.ogg,Humvee,Humvee driver,yes,Copy. Pulling over.,script
+humvee_driver,Humvee_Hold2,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Hold2.ogg,Humvee,Humvee driver,yes,Holding right here.,script
+humvee_driver,Humvee_Hold3,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Hold3.ogg,Humvee,Humvee driver,yes,Roger. We stopped.,script
+humvee_driver,Humvee_Inbound,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Inbound.ogg,Humvee,Humvee driver,yes,Convoy rolling out. Be there in two.,script
+humvee_driver,Humvee_Mount,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Mount.ogg,Humvee,Humvee driver,yes,Get in! Get in!,script
+humvee_driver,Humvee_Move1,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Move1.ogg,Humvee,Humvee driver,yes,"Yeah, copy. We are moving.",script
+humvee_driver,Humvee_Move2,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Move2.ogg,Humvee,Humvee driver,yes,Hauling out!,script
+humvee_driver,Humvee_Move3,Assets/Audio/Voice/Humvee/VO_Radio_Humvee_Move3.ogg,Humvee,Humvee driver,yes,"Rolling, rolling!",script
+lav_crew,LAVCommander_Boarded,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVCommander_Boarded.ogg,LAV,LAV crew,yes,Dismounts aboard. Ready to move.,design-doc
+lav_crew,LAVCommander_Dismount,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVCommander_Dismount.ogg,LAV,LAV crew,yes,Dismounting!,design-doc
+lav_crew,LAVCommander_Mount,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVCommander_Mount.ogg,LAV,LAV crew,yes,Mount up!,design-doc
+lav_crew,LAVDriver_Holding,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVDriver_Holding.ogg,LAV,LAV crew,yes,Roger. Holding position.,design-doc
+lav_crew,LAVDriver_Moving,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVDriver_Moving.ogg,LAV,LAV crew,yes,Wilco. Moving.,design-doc
+lav_crew,LAVGunner_AmmoLow,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVGunner_AmmoLow.ogg,LAV,LAV crew,yes,Twenty-five millimeter ammunition low!,design-doc
+lav_crew,LAVGunner_Engaging,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVGunner_Engaging.ogg,LAV,LAV crew,yes,Engaging!,design-doc
+lav_crew,LAV_FireSector,Assets/Audio/Voice/LAV/VO_Radio_LAV_FireSector.ogg,LAV,LAV crew,yes,Copy. Sector set. Covering that lane.,script
+lav_crew,LAV_Hold2,Assets/Audio/Voice/LAV/VO_Radio_LAV_Hold2.ogg,LAV,LAV crew,yes,Copy. LAV holding.,script
+lav_crew,LAV_Hold3,Assets/Audio/Voice/LAV/VO_Radio_LAV_Hold3.ogg,LAV,LAV crew,yes,Holding here.,script
+lav_crew,LAV_Inbound,Assets/Audio/Voice/LAV/VO_Radio_LAV_Inbound.ogg,LAV,LAV crew,yes,LAV inbound. Hold tight.,script
+lav_crew,LAV_Move2,Assets/Audio/Voice/LAV/VO_Radio_LAV_Move2.ogg,LAV,LAV crew,yes,Roger. LAV moving.,script
+lav_crew,LAV_Move3,Assets/Audio/Voice/LAV/VO_Radio_LAV_Move3.ogg,LAV,LAV crew,yes,Copy. Rolling out.,script
+lav_crew,TankCommander_CeaseFire,Assets/Audio/Voice/VehicleFastV5/VO_Radio_TankCommander_CeaseFire.ogg,LAV,LAV crew,yes,Cease fire!,design-doc
+lav_crew,TankGunner_Identified,Assets/Audio/Voice/VehicleFastV5/VO_Radio_TankGunner_Identified.ogg,LAV,LAV crew,yes,Identified!,design-doc
+lav_crew,Vehicle_Copy,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_Copy.ogg,LAV,LAV crew,yes,Copy.,design-doc-partial
+lav_crew,Vehicle_Roger,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_Roger.ogg,LAV,LAV crew,yes,Roger.,design-doc
+lav_crew,Vehicle_Wilco,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_Wilco.ogg,LAV,LAV crew,yes,Wilco.,design-doc
+lav_crew,,Assets/Audio/Voice/LAV/VO_Radio_LAVDriver_Holding.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/LAV/VO_Radio_LAVDriver_Moving.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/LAV/VO_Radio_LAVGunner_AmmoLow.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/LAV/VO_Radio_LAVGunner_Engaging.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVCommander_Boarded.ogg,LAV,LAV crew,no,Dismounts aboard. Ready to move.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVDriver_Holding.ogg,LAV,LAV crew,no,Roger. Holding position.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_LAVGunner_AmmoLow.ogg,LAV,LAV crew,no,Twenty-five millimeter ammunition low!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_TankGunner_AmmoLow.ogg,LAV,LAV crew,no,Main gun ammunition low!,design-doc-partial
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_TankGunner_OnTheWay.ogg,LAV,LAV crew,no,On the way!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_TankLoader_Up.ogg,LAV,LAV crew,no,Up!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_RadioCheck.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_Readability.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleFastV5/VO_Radio_Vehicle_SayAgain.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVCommander_Boarded.ogg,LAV,LAV crew,no,Dismounts aboard. Ready to move.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVCommander_Dismount.ogg,LAV,LAV crew,no,Dismounting!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVCommander_Mount.ogg,LAV,LAV crew,no,Mount up!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVDriver_Holding.ogg,LAV,LAV crew,no,Roger. Holding position.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVDriver_Moving.ogg,LAV,LAV crew,no,Wilco. Moving.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVGunner_AmmoLow.ogg,LAV,LAV crew,no,Twenty-five millimeter ammunition low!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_LAVGunner_Engaging.ogg,LAV,LAV crew,no,Engaging!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_TankCommander_CeaseFire.ogg,LAV,LAV crew,no,Cease fire!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_TankGunner_AmmoLow.ogg,LAV,LAV crew,no,Main gun ammunition low!,design-doc-partial
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_TankGunner_Identified.ogg,LAV,LAV crew,no,Identified!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_TankGunner_OnTheWay.ogg,LAV,LAV crew,no,On the way!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_TankLoader_Up.ogg,LAV,LAV crew,no,Up!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_Copy.ogg,LAV,LAV crew,no,Copy.,design-doc-partial
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_RadioCheck.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_Readability.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_Roger.ogg,LAV,LAV crew,no,Roger.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_SayAgain.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleMaleV3/VO_Radio_Vehicle_Wilco.ogg,LAV,LAV crew,no,Wilco.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVCommander_Dismount.ogg,LAV,LAV crew,no,Dismounting!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVCommander_Mount.ogg,LAV,LAV crew,no,Mount up!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVDriver_Moving.ogg,LAV,LAV crew,no,Wilco. Moving.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_LAVGunner_Engaging.ogg,LAV,LAV crew,no,Engaging!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_TankCommander_CeaseFire.ogg,LAV,LAV crew,no,Cease fire!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_TankGunner_AmmoLow.ogg,LAV,LAV crew,no,Main gun ammunition low!,design-doc-partial
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_TankGunner_Identified.ogg,LAV,LAV crew,no,Identified!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_TankGunner_OnTheWay.ogg,LAV,LAV crew,no,On the way!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_TankLoader_Up.ogg,LAV,LAV crew,no,Up!,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_Copy.ogg,LAV,LAV crew,no,Copy.,design-doc-partial
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_RadioCheck.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_Readability.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_Roger.ogg,LAV,LAV crew,no,Roger.,design-doc
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_SayAgain.ogg,LAV,LAV crew,no,,not-found
+lav_crew,,Assets/Audio/Voice/VehicleUrgentV4/VO_Radio_Vehicle_Wilco.ogg,LAV,LAV crew,no,Wilco.,design-doc
+marine_jet_pilot,F35B_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_AckBombing.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two copies area target. Rolling in.,script
+marine_jet_pilot,F35B_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_AckBombing.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One copies area target. Rolling in.,script
+marine_jet_pilot,F35B_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_AckPrecision.ogg,F35B_F1,Wraith Three Two,yes,"Copy precision strike. Wraith Three Two, searching.",script
+marine_jet_pilot,F35B_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_AckPrecision.ogg,F35B_M1,Wraith Three One,yes,"Copy precision strike. Wraith Three One, searching.",script
+marine_jet_pilot,F35B_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_AckStrafe.ogg,F35B_F1,Wraith Three Two,yes,Copy strafe. Wraith Three Two in with guns.,script
+marine_jet_pilot,F35B_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_AckStrafe.ogg,F35B_M1,Wraith Three One,yes,Copy strafe. Wraith Three One in with guns.,script
+marine_jet_pilot,F35B_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_Airborne.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, airborne.",script
+marine_jet_pilot,F35B_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_Airborne.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, airborne.",script
+marine_jet_pilot,F35B_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_AutoOff.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two copies. Manual targeting only.,script
+marine_jet_pilot,F35B_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_AutoOff.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One copies. Manual targeting only.,script
+marine_jet_pilot,F35B_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_AutoOn.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two copies. Continuing attacks in the assigned area.,script
+marine_jet_pilot,F35B_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_AutoOn.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One copies. Continuing attacks in the assigned area.,script
+marine_jet_pilot,F35B_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_CheckIn.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, checking in. Ready for tasking.",script
+marine_jet_pilot,F35B_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_CheckIn.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, checking in. Ready for tasking.",script
+marine_jet_pilot,F35B_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_Hold.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two off target. Holding overhead.,script
+marine_jet_pilot,F35B_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_Hold.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One off target. Holding overhead.,script
+marine_jet_pilot,F35B_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_Landed.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, back at base.",script
+marine_jet_pilot,F35B_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_Landed.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, back at base.",script
+marine_jet_pilot,F35B_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_Ready.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two copies. Preparing for departure.,script
+marine_jet_pilot,F35B_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_Ready.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One copies. Preparing for departure.,script
+marine_jet_pilot,F35B_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_RtbFuel.ogg,F35B_F1,Wraith Three Two,yes,Wraith Three Two is bingo. Returning to base.,script
+marine_jet_pilot,F35B_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_RtbFuel.ogg,F35B_M1,Wraith Three One,yes,Wraith Three One is bingo. Returning to base.,script
+marine_jet_pilot,F35B_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_RtbOrdered.ogg,F35B_F1,Wraith Three Two,yes,Copy. Wraith Three Two returning to base.,script
+marine_jet_pilot,F35B_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_RtbOrdered.ogg,F35B_M1,Wraith Three One,yes,Copy. Wraith Three One returning to base.,script
+marine_jet_pilot,F35B_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_RtbWinchester.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, Winchester. Returning to base.",script
+marine_jet_pilot,F35B_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_RtbWinchester.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, Winchester. Returning to base.",script
+marine_jet_pilot,F35B_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_Unable.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, unable.",script
+marine_jet_pilot,F35B_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_Unable.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, unable.",script
+marine_jet_pilot,F35B_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_F1_WeaponsAway.ogg,F35B_F1,Wraith Three Two,yes,"Wraith Three Two, weapons away.",script
+marine_jet_pilot,F35B_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F35B_M1_WeaponsAway.ogg,F35B_M1,Wraith Three One,yes,"Wraith Three One, weapons away.",script
+rifleman,Marine_Corpsman,Assets/Audio/Voice/Squad/VO_Radio_Marine_Corpsman.ogg,Marine,Marine rifleman,yes,Corpsman!,design-doc
+rifleman,Rifleman_ManDown,Assets/Audio/Voice/Squad/VO_Radio_Rifleman_ManDown.ogg,Rifleman,Rifleman,yes,Man down!,design-doc
+rifleman,Rifleman_Reload,Assets/Audio/Voice/Squad/VO_Radio_Rifleman_Reload.ogg,Rifleman,Rifleman,yes,Reloading!,design-doc-partial
+squad_leader,SquadLeader_Boarded,Assets/Audio/Voice/LAV/VO_Radio_SquadLeader_Boarded.ogg,SquadLeader,Squad leader,yes,Everyone's in.,design-doc
+squad_leader,SquadLeader_Dismount,Assets/Audio/Voice/LAV/VO_Radio_SquadLeader_Dismount.ogg,SquadLeader,Squad leader,yes,Dismount! Move! Move! Move!,design-doc-partial
+squad_leader,SquadLeader_FallBack,Assets/Audio/Voice/Squad/VO_Radio_SquadLeader_FallBack.ogg,SquadLeader,Squad leader,yes,Fall back!,design-doc
+squad_leader,SquadLeader_Hold,Assets/Audio/Voice/Squad/VO_Radio_SquadLeader_Hold.ogg,SquadLeader,Squad leader,yes,Hold here. Watch your sectors.,design-doc
+squad_leader,SquadLeader_Mount,Assets/Audio/Voice/LAV/VO_Radio_SquadLeader_Mount.ogg,SquadLeader,Squad leader,yes,Mount up! Let's go!,design-doc
+squad_leader,SquadLeader_Move,Assets/Audio/Voice/Squad/VO_Radio_SquadLeader_Move.ogg,SquadLeader,Squad leader,yes,Copy. Moving.,design-doc
+squad_leader,SquadLeader_MoveFast,Assets/Audio/Voice/Squad/VO_Radio_SquadLeader_MoveFast.ogg,SquadLeader,Squad leader,yes,Move! Move! Move!,design-doc
+squad_leader,SquadLeader_Rally,Assets/Audio/Voice/Squad/VO_Radio_SquadLeader_Rally.ogg,SquadLeader,Squad leader,yes,Rally on me!,design-doc
+strike_eagle_pilot,F15E_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_AckBombing.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, roger. Area attack.",script+hash
+strike_eagle_pilot,F15E_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_AckBombing.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, roger. Area attack.",script+hash
+strike_eagle_pilot,F15E_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_AckBombing.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, roger. Area attack.",script+hash
+strike_eagle_pilot,F15E_AckBombing,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_AckBombing.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, roger. Area attack.",script+hash
+strike_eagle_pilot,F15E_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_AckPrecision.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, roger. Target received.",script+hash
+strike_eagle_pilot,F15E_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_AckPrecision.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, roger. Target received.",script+hash
+strike_eagle_pilot,F15E_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_AckPrecision.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, roger. Target received.",script+hash
+strike_eagle_pilot,F15E_AckPrecision,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_AckPrecision.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, roger. Target received.",script+hash
+strike_eagle_pilot,F15E_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_AckStrafe.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, roger. Strafing run.",script+hash
+strike_eagle_pilot,F15E_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_AckStrafe.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, roger. Strafing run.",script+hash
+strike_eagle_pilot,F15E_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_AckStrafe.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, roger. Strafing run.",script+hash
+strike_eagle_pilot,F15E_AckStrafe,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_AckStrafe.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, roger. Strafing run.",script+hash
+strike_eagle_pilot,F15E_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Airborne.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, airborne.",script+hash
+strike_eagle_pilot,F15E_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Airborne.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, airborne.",script+hash
+strike_eagle_pilot,F15E_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Airborne.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, airborne.",script+hash
+strike_eagle_pilot,F15E_Airborne,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Airborne.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, airborne.",script+hash
+strike_eagle_pilot,F15E_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_AutoOff.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, wilco. Further attacks on your command.",script+hash
+strike_eagle_pilot,F15E_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_AutoOff.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, wilco. Further attacks on your command.",script+hash
+strike_eagle_pilot,F15E_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_AutoOff.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, wilco. Further attacks on your command.",script+hash
+strike_eagle_pilot,F15E_AutoOff,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_AutoOff.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, wilco. Further attacks on your command.",script+hash
+strike_eagle_pilot,F15E_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_AutoOn.ogg,F15E_F1,Eagle Two One,yes,Eagle Two One copies. Continuing attacks in the assigned area.,script+hash
+strike_eagle_pilot,F15E_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_AutoOn.ogg,F15E_F2,Eagle Two Two,yes,Eagle Two Two copies. Continuing attacks in the assigned area.,script+hash
+strike_eagle_pilot,F15E_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_AutoOn.ogg,F15E_M1,Eagle Three One,yes,Eagle Three One copies. Continuing attacks in the assigned area.,script+hash
+strike_eagle_pilot,F15E_AutoOn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_AutoOn.ogg,F15E_M2,Eagle Three Two,yes,Eagle Three Two copies. Continuing attacks in the assigned area.,script+hash
+strike_eagle_pilot,F15E_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_CheckIn.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, checking in. Ready for tasking.",script+hash
+strike_eagle_pilot,F15E_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_CheckIn.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, checking in. Ready for tasking.",script+hash
+strike_eagle_pilot,F15E_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_CheckIn.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, checking in. Ready for tasking.",script+hash
+strike_eagle_pilot,F15E_CheckIn,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_CheckIn.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, checking in. Ready for tasking.",script+hash
+strike_eagle_pilot,F15E_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Hold.ogg,F15E_F1,Eagle Two One,yes,Eagle Two One off target. Holding overhead.,script+hash
+strike_eagle_pilot,F15E_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Hold.ogg,F15E_F2,Eagle Two Two,yes,Eagle Two Two off target. Holding overhead.,script+hash
+strike_eagle_pilot,F15E_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Hold.ogg,F15E_M1,Eagle Three One,yes,Eagle Three One off target. Holding overhead.,script+hash
+strike_eagle_pilot,F15E_Hold,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Hold.ogg,F15E_M2,Eagle Three Two,yes,Eagle Three Two off target. Holding overhead.,script+hash
+strike_eagle_pilot,F15E_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Landed.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, back at base.",script+hash
+strike_eagle_pilot,F15E_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Landed.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, back at base.",script+hash
+strike_eagle_pilot,F15E_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Landed.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, back at base.",script+hash
+strike_eagle_pilot,F15E_Landed,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Landed.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, back at base.",script+hash
+strike_eagle_pilot,F15E_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Ready.ogg,F15E_F1,Eagle Two One,yes,Eagle Two One copies. Preparing for departure.,script+hash
+strike_eagle_pilot,F15E_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Ready.ogg,F15E_F2,Eagle Two Two,yes,Eagle Two Two copies. Preparing for departure.,script+hash
+strike_eagle_pilot,F15E_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Ready.ogg,F15E_M1,Eagle Three One,yes,Eagle Three One copies. Preparing for departure.,script+hash
+strike_eagle_pilot,F15E_Ready,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Ready.ogg,F15E_M2,Eagle Three Two,yes,Eagle Three Two copies. Preparing for departure.,script+hash
+strike_eagle_pilot,F15E_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Rifle.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, rifle.",script+hash
+strike_eagle_pilot,F15E_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Rifle.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, rifle.",script+hash
+strike_eagle_pilot,F15E_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Rifle.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, rifle.",script+hash
+strike_eagle_pilot,F15E_Rifle,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Rifle.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, rifle.",script+hash
+strike_eagle_pilot,F15E_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_RtbFuel.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, bingo fuel. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_RtbFuel.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, bingo fuel. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_RtbFuel.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, bingo fuel. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbFuel,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_RtbFuel.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, bingo fuel. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_RtbOrdered.ogg,F15E_F1,Eagle Two One,yes,"Copy, Eagle Two One returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_RtbOrdered.ogg,F15E_F2,Eagle Two Two,yes,"Copy, Eagle Two Two returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_RtbOrdered.ogg,F15E_M1,Eagle Three One,yes,"Copy, Eagle Three One returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbOrdered,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_RtbOrdered.ogg,F15E_M2,Eagle Three Two,yes,"Copy, Eagle Three Two returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_RtbWinchester.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, Winchester. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_RtbWinchester.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, Winchester. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_RtbWinchester.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, Winchester. Returning to base.",script+hash
+strike_eagle_pilot,F15E_RtbWinchester,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_RtbWinchester.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, Winchester. Returning to base.",script+hash
+strike_eagle_pilot,F15E_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_Unable.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, unable.",script+hash
+strike_eagle_pilot,F15E_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_Unable.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, unable.",script+hash
+strike_eagle_pilot,F15E_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_Unable.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, unable.",script+hash
+strike_eagle_pilot,F15E_Unable,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_Unable.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, unable.",script+hash
+strike_eagle_pilot,F15E_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F1_WeaponsAway.ogg,F15E_F1,Eagle Two One,yes,"Eagle Two One, weapons away.",script+hash
+strike_eagle_pilot,F15E_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_F2_WeaponsAway.ogg,F15E_F2,Eagle Two Two,yes,"Eagle Two Two, weapons away.",script+hash
+strike_eagle_pilot,F15E_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M1_WeaponsAway.ogg,F15E_M1,Eagle Three One,yes,"Eagle Three One, weapons away.",script+hash
+strike_eagle_pilot,F15E_WeaponsAway,Assets/Audio/Voice/AirSupport/StrikePilots/VO_Radio_F15E_M2_WeaponsAway.ogg,F15E_M2,Eagle Three Two,yes,"Eagle Three Two, weapons away.",script+hash
+strike_eagle_pilot,F15_Support_Attack,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F1_Attack.ogg,F15_F1,Eagle Two One,yes,"Eagle Two One, pickle. Bombs away.",design-doc
+strike_eagle_pilot,F15_Support_Attack,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F2_Attack.ogg,F15_F2,Eagle Two Two,yes,"Eagle Two Two, pickle. Bombs away.",design-doc
+strike_eagle_pilot,F15_Support_Attack,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M1_Attack.ogg,F15_M1,Eagle Three One,yes,"Eagle Three One, pickle. Bombs away.",design-doc
+strike_eagle_pilot,F15_Support_Attack,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M2_Attack.ogg,F15_M2,Eagle Three Two,yes,"Eagle Three Two, pickle. Bombs away.",design-doc
+strike_eagle_pilot,F15_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F1_CheckIn.ogg,F15_F1,Eagle Two One,yes,"Eagle Two One, inbound. Two minutes out.",design-doc
+strike_eagle_pilot,F15_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F2_CheckIn.ogg,F15_F2,Eagle Two Two,yes,"Eagle Two Two, inbound. Two minutes out.",design-doc
+strike_eagle_pilot,F15_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M1_CheckIn.ogg,F15_M1,Eagle Three One,yes,"Eagle Three One, inbound. Two minutes out.",design-doc
+strike_eagle_pilot,F15_Support_CheckIn,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M2_CheckIn.ogg,F15_M2,Eagle Three Two,yes,"Eagle Three Two, inbound. Two minutes out.",design-doc
+strike_eagle_pilot,F15_Support_Rtb,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F1_Rtb.ogg,F15_F1,Eagle Two One,yes,Eagle Two One is Winchester. Returning to base.,design-doc
+strike_eagle_pilot,F15_Support_Rtb,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_F2_Rtb.ogg,F15_F2,Eagle Two Two,yes,Eagle Two Two is Winchester. Returning to base.,design-doc
+strike_eagle_pilot,F15_Support_Rtb,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M1_Rtb.ogg,F15_M1,Eagle Three One,yes,Eagle Three One is Winchester. Returning to base.,design-doc
+strike_eagle_pilot,F15_Support_Rtb,Assets/Audio/Voice/AirSupport/Pilots/VO_Radio_F15_M2_Rtb.ogg,F15_M2,Eagle Three Two,yes,Eagle Three Two is Winchester. Returning to base.,design-doc
+strike_eagle_pilot,FighterPilot_Bombs,Assets/Audio/Voice/AirSupport/VO_Radio_FighterPilot_Bombs.ogg,FighterPilot,Fallback fighter pilot,yes,Bombs away.,design-doc
+strike_eagle_pilot,FighterPilot_RTB,Assets/Audio/Voice/AirSupport/VO_Radio_FighterPilot_RTB.ogg,FighterPilot,Fallback fighter pilot,yes,Winchester. RTB.,design-doc
+tank_commander,Tank_Ack1,Assets/Audio/Voice/Tank/VO_Radio_Tank_Ack1.ogg,Tank,Tank commander,yes,Roger.,script
+tank_commander,Tank_Ack2,Assets/Audio/Voice/Tank/VO_Radio_Tank_Ack2.ogg,Tank,Tank commander,yes,Copy that.,script
+tank_commander,Tank_AmmoLow,Assets/Audio/Voice/Tank/VO_Radio_Tank_AmmoLow.ogg,Tank,Tank commander,yes,Main gun ammunition low!,script
+tank_commander,Tank_CeaseFire,Assets/Audio/Voice/Tank/VO_Radio_Tank_CeaseFire.ogg,Tank,Tank commander,yes,Cease fire!,script
+tank_commander,Tank_Copy,Assets/Audio/Voice/Tank/VO_Radio_Tank_Copy.ogg,Tank,Tank commander,yes,Copy. Next waypoint.,script
+tank_commander,Tank_FireSector,Assets/Audio/Voice/Tank/VO_Radio_Tank_FireSector.ogg,Tank,Tank commander,yes,Roger. Orienting main gun on that sector.,script
+tank_commander,Tank_Hold1,Assets/Audio/Voice/Tank/VO_Radio_Tank_Hold1.ogg,Tank,Tank commander,yes,Roger. Armor holding.,script
+tank_commander,Tank_Hold2,Assets/Audio/Voice/Tank/VO_Radio_Tank_Hold2.ogg,Tank,Tank commander,yes,Halting. Scanning.,script
+tank_commander,Tank_Hold3,Assets/Audio/Voice/Tank/VO_Radio_Tank_Hold3.ogg,Tank,Tank commander,yes,Copy. We are set.,script
+tank_commander,Tank_Identified,Assets/Audio/Voice/Tank/VO_Radio_Tank_Identified.ogg,Tank,Tank commander,yes,Identified!,script
+tank_commander,Tank_Inbound,Assets/Audio/Voice/Tank/VO_Radio_Tank_Inbound.ogg,Tank,Tank commander,yes,Armor inbound. Steel on the way.,script
+tank_commander,Tank_Move1,Assets/Audio/Voice/Tank/VO_Radio_Tank_Move1.ogg,Tank,Tank commander,yes,Roger. Armor moving.,script
+tank_commander,Tank_Move2,Assets/Audio/Voice/Tank/VO_Radio_Tank_Move2.ogg,Tank,Tank commander,yes,Copy that. Tracks rolling.,script
+tank_commander,Tank_Move3,Assets/Audio/Voice/Tank/VO_Radio_Tank_Move3.ogg,Tank,Tank commander,yes,Steel is on the move.,script
+tank_commander,Tank_OnTheWay,Assets/Audio/Voice/Tank/VO_Radio_Tank_OnTheWay.ogg,Tank,Tank commander,yes,On the way!,script
+tank_commander,Tank_Up,Assets/Audio/Voice/Tank/VO_Radio_Tank_Up.ogg,Tank,Tank commander,yes,Up!,script
+transport_heli_pilot,TransportPilot_Inbound,Assets/Audio/Voice/AirSupport/VO_Radio_TransportPilot_Inbound.ogg,TransportPilot,Fallback transport pilot,yes,Raven Six inbound.,design-doc-partial
+transport_heli_pilot,UH60_AttackMove,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_AttackMove.ogg,UH60_F1,Raven Six,yes,Raven Six copies. Moving with door gunners covering.,script
+transport_heli_pilot,UH60_AttackMove,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_AttackMove.ogg,UH60_M1,Raven Four,yes,Raven Four copies. Moving with door gunners covering.,script
+transport_heli_pilot,UH60_Boarded,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Boarded.ogg,UH60_F1,Raven Six,yes,Troops aboard. Raven Six ready to lift.,script
+transport_heli_pilot,UH60_Boarded,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Boarded.ogg,UH60_M1,Raven Four,yes,Troops aboard. Raven Four ready to lift.,script
+transport_heli_pilot,UH60_CargoLoad,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_CargoLoad.ogg,UH60_F1,Raven Six,yes,Vehicle secured. Raven Six ready to lift.,script
+transport_heli_pilot,UH60_CargoLoad,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_CargoLoad.ogg,UH60_M1,Raven Four,yes,Vehicle secured. Raven Four ready to lift.,script
+transport_heli_pilot,UH60_CargoUnload,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_CargoUnload.ogg,UH60_F1,Raven Six,yes,Vehicle unloaded. Raven Six standing by.,script
+transport_heli_pilot,UH60_CargoUnload,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_CargoUnload.ogg,UH60_M1,Raven Four,yes,Vehicle unloaded. Raven Four standing by.,script
+transport_heli_pilot,UH60_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_CheckIn.ogg,UH60_F1,Raven Six,yes,"Raven Six, wheels up. Inbound your LZ, two minutes.",design-doc
+transport_heli_pilot,UH60_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_CheckIn.ogg,UH60_F2,Raven Five,yes,"Raven Five, wheels up. Inbound your LZ, two minutes.",design-doc
+transport_heli_pilot,UH60_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_CheckIn.ogg,UH60_M1,Raven Four,yes,"Raven Four, wheels up. Inbound your LZ, two minutes.",design-doc
+transport_heli_pilot,UH60_CheckIn,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_CheckIn.ogg,UH60_M2,Raven Seven,yes,"Raven Seven, wheels up. Inbound your LZ, two minutes.",design-doc
+transport_heli_pilot,UH60_DismountAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_DismountAck.ogg,UH60_F1,Raven Six,yes,Copy. Putting them on the deck.,script
+transport_heli_pilot,UH60_DismountAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_DismountAck.ogg,UH60_M1,Raven Four,yes,Copy. Putting them on the deck.,script
+transport_heli_pilot,UH60_Final,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_Final.ogg,UH60_F1,Raven Six,yes,"Raven Six, one minute. LZ in sight.",design-doc
+transport_heli_pilot,UH60_Final,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_Final.ogg,UH60_F2,Raven Five,yes,"Raven Five, one minute. LZ in sight.",design-doc
+transport_heli_pilot,UH60_Final,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_Final.ogg,UH60_M1,Raven Four,yes,"Raven Four, one minute. LZ in sight.",design-doc
+transport_heli_pilot,UH60_Final,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_Final.ogg,UH60_M2,Raven Seven,yes,"Raven Seven, one minute. LZ in sight.",design-doc
+transport_heli_pilot,UH60_FinalEgg,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_FinalEgg.ogg,UH60_F1,Raven Six,yes,"Raven Six, in the pipe, five by five.",design-doc
+transport_heli_pilot,UH60_FireSector,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_FireSector.ogg,UH60_F1,Raven Six,yes,Sector set. Raven Six covering that lane.,script
+transport_heli_pilot,UH60_FireSector,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_FireSector.ogg,UH60_M1,Raven Four,yes,Sector set. Raven Four covering that lane.,script
+transport_heli_pilot,UH60_FireSectorClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_FireSectorClear.ogg,UH60_F1,Raven Six,yes,Raven Six copies. Sector restriction cleared.,script
+transport_heli_pilot,UH60_FireSectorClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_FireSectorClear.ogg,UH60_M1,Raven Four,yes,Raven Four copies. Sector restriction cleared.,script
+transport_heli_pilot,UH60_FormationAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_FormationAck.ogg,UH60_F1,Raven Six,yes,Raven Six copies formation change.,script
+transport_heli_pilot,UH60_FormationAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_FormationAck.ogg,UH60_M1,Raven Four,yes,Raven Four copies formation change.,script
+transport_heli_pilot,UH60_GunTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_GunTarget.ogg,UH60_F1,Raven Six,yes,"Copy gun target. Raven Six, moving to engage.",script
+transport_heli_pilot,UH60_GunTarget,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_GunTarget.ogg,UH60_M1,Raven Four,yes,"Copy gun target. Raven Four, moving to engage.",script
+transport_heli_pilot,UH60_Hold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Hold.ogg,UH60_F1,Raven Six,yes,"Raven Six, holding in a hover.",script
+transport_heli_pilot,UH60_Hold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Hold.ogg,UH60_M1,Raven Four,yes,"Raven Four, holding in a hover.",script
+transport_heli_pilot,UH60_Land,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Land.ogg,UH60_F1,Raven Six,yes,Copy. Raven Six setting down.,script
+transport_heli_pilot,UH60_Land,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Land.ogg,UH60_M1,Raven Four,yes,Copy. Raven Four setting down.,script
+transport_heli_pilot,UH60_LandDenied,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_LandDenied.ogg,UH60_F1,Raven Six,yes,Negative. LZ is obstructed. Unable to land.,script
+transport_heli_pilot,UH60_LandDenied,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_LandDenied.ogg,UH60_M1,Raven Four,yes,Negative. LZ is obstructed. Unable to land.,script
+transport_heli_pilot,UH60_Liftoff,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_Liftoff.ogg,UH60_F1,Raven Six,yes,Last man clear. Raven Six coming out.,design-doc
+transport_heli_pilot,UH60_Liftoff,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_Liftoff.ogg,UH60_F2,Raven Five,yes,Last man clear. Raven Five coming out.,design-doc
+transport_heli_pilot,UH60_Liftoff,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_Liftoff.ogg,UH60_M1,Raven Four,yes,Last man clear. Raven Four coming out.,design-doc
+transport_heli_pilot,UH60_Liftoff,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_Liftoff.ogg,UH60_M2,Raven Seven,yes,Last man clear. Raven Seven coming out.,design-doc
+transport_heli_pilot,UH60_Mayday,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Mayday.ogg,UH60_F1,Raven Six,yes,"Mayday, mayday! Raven Six is going down!",script
+transport_heli_pilot,UH60_Mayday,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Mayday.ogg,UH60_M1,Raven Four,yes,"Mayday, mayday! Raven Four is going down!",script
+transport_heli_pilot,UH60_Move1,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Move1.ogg,UH60_F1,Raven Six,yes,Raven Six copies. Repositioning.,script
+transport_heli_pilot,UH60_Move1,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Move1.ogg,UH60_M1,Raven Four,yes,Raven Four copies. Repositioning.,script
+transport_heli_pilot,UH60_Move2,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Move2.ogg,UH60_F1,Raven Six,yes,On the way.,script
+transport_heli_pilot,UH60_Move2,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Move2.ogg,UH60_M1,Raven Four,yes,On the way.,script
+transport_heli_pilot,UH60_Orbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Orbit.ogg,UH60_F1,Raven Six,yes,"Raven Six, orbiting overhead.",script
+transport_heli_pilot,UH60_Orbit,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Orbit.ogg,UH60_M1,Raven Four,yes,"Raven Four, orbiting overhead.",script
+transport_heli_pilot,UH60_OrbitDirectionAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_OrbitDirectionAck.ogg,UH60_F1,Raven Six,yes,Raven Six copies. Orbit direction set.,script
+transport_heli_pilot,UH60_OrbitDirectionAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_OrbitDirectionAck.ogg,UH60_M1,Raven Four,yes,Raven Four copies. Orbit direction set.,script
+transport_heli_pilot,UH60_RappelAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_RappelAck.ogg,UH60_F1,Raven Six,yes,Copy rope insertion. Holding steady.,script
+transport_heli_pilot,UH60_RappelAck,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_RappelAck.ogg,UH60_M1,Raven Four,yes,Copy rope insertion. Holding steady.,script
+transport_heli_pilot,UH60_RopeAbort,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_RopeAbort.ogg,UH60_F1,Raven Six,yes,LZ's crawling. Ropes going down.,design-doc
+transport_heli_pilot,UH60_RopeAbort,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_RopeAbort.ogg,UH60_F2,Raven Five,yes,LZ's crawling. Ropes going down.,design-doc
+transport_heli_pilot,UH60_RopeAbort,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_RopeAbort.ogg,UH60_M1,Raven Four,yes,LZ's crawling. Ropes going down.,design-doc
+transport_heli_pilot,UH60_RopeAbort,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_RopeAbort.ogg,UH60_M2,Raven Seven,yes,LZ's crawling. Ropes going down.,design-doc
+transport_heli_pilot,UH60_RopesDown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_RopesDown.ogg,UH60_F1,Raven Six,yes,"Ropes down! Go, go!",design-doc
+transport_heli_pilot,UH60_RopesDown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_RopesDown.ogg,UH60_F2,Raven Five,yes,"Ropes down! Go, go!",design-doc
+transport_heli_pilot,UH60_RopesDown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_RopesDown.ogg,UH60_M1,Raven Four,yes,"Ropes down! Go, go!",design-doc
+transport_heli_pilot,UH60_RopesDown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_RopesDown.ogg,UH60_M2,Raven Seven,yes,"Ropes down! Go, go!",design-doc
+transport_heli_pilot,UH60_Select,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Select.ogg,UH60_F1,Raven Six,yes,Raven Six. Standing by.,script
+transport_heli_pilot,UH60_Select,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Select.ogg,UH60_M1,Raven Four,yes,Raven Four. Standing by.,script
+transport_heli_pilot,UH60_SlingClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_SlingClear.ogg,UH60_F1,Raven Six,yes,Load released. Raven Six is clear.,script
+transport_heli_pilot,UH60_SlingClear,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_SlingClear.ogg,UH60_M1,Raven Four,yes,Load released. Raven Four is clear.,script
+transport_heli_pilot,UH60_SlingDeliver,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_SlingDeliver.ogg,UH60_F1,Raven Six,yes,Load coming down. Clear below.,script
+transport_heli_pilot,UH60_SlingDeliver,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_SlingDeliver.ogg,UH60_M1,Raven Four,yes,Load coming down. Clear below.,script
+transport_heli_pilot,UH60_SlingHooked,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_SlingHooked.ogg,UH60_F1,Raven Six,yes,Load is hooked. Coming up.,script
+transport_heli_pilot,UH60_SlingHooked,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_SlingHooked.ogg,UH60_M1,Raven Four,yes,Load is hooked. Coming up.,script
+transport_heli_pilot,UH60_SlingPickup,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_SlingPickup.ogg,UH60_F1,Raven Six,yes,Copy. Raven Six moving to hook up.,script
+transport_heli_pilot,UH60_SlingPickup,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_SlingPickup.ogg,UH60_M1,Raven Four,yes,Copy. Raven Four moving to hook up.,script
+transport_heli_pilot,UH60_Takeoff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Takeoff.ogg,UH60_F1,Raven Six,yes,"Raven Six, lifting.",script
+transport_heli_pilot,UH60_Takeoff,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Takeoff.ogg,UH60_M1,Raven Four,yes,"Raven Four, lifting.",script
+transport_heli_pilot,UH60_Touchdown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F1_Touchdown.ogg,UH60_F1,Raven Six,yes,"Touching down. Go, go, go!",design-doc
+transport_heli_pilot,UH60_Touchdown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_F2_Touchdown.ogg,UH60_F2,Raven Five,yes,"Touching down. Go, go, go!",design-doc
+transport_heli_pilot,UH60_Touchdown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M1_Touchdown.ogg,UH60_M1,Raven Four,yes,"Touching down. Go, go, go!",design-doc
+transport_heli_pilot,UH60_Touchdown,Assets/Audio/Voice/AirSupport/HeliPilots/VO_Radio_UH60_M2_Touchdown.ogg,UH60_M2,Raven Seven,yes,"Touching down. Go, go, go!",design-doc
+transport_heli_pilot,UH60_Touchdown,Assets/Audio/Voice/AirSupport/VO_Radio_TransportPilot_Touchdown.ogg,TransportPilot,Fallback transport pilot,yes,"Touching down. Go, go, go!",design-doc
+transport_heli_pilot,UH60_Unable,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_Unable.ogg,UH60_F1,Raven Six,yes,"Raven Six, unable to comply.",script
+transport_heli_pilot,UH60_Unable,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_Unable.ogg,UH60_M1,Raven Four,yes,"Raven Four, unable to comply.",script
+transport_heli_pilot,UH60_WeaponsFree,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_WeaponsFree.ogg,UH60_F1,Raven Six,yes,"Raven Six, engaging hostiles at will.",script
+transport_heli_pilot,UH60_WeaponsFree,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_WeaponsFree.ogg,UH60_M1,Raven Four,yes,"Raven Four, engaging hostiles at will.",script
+transport_heli_pilot,UH60_WeaponsHold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_F1_WeaponsHold.ogg,UH60_F1,Raven Six,yes,"Raven Six, holding fire. Your targets only.",script
+transport_heli_pilot,UH60_WeaponsHold,Assets/Audio/Voice/AirSupport/HeliCrews/VO_Radio_UH60_M1_WeaponsHold.ogg,UH60_M1,Raven Four,yes,"Raven Four, holding fire. Your targets only.",script

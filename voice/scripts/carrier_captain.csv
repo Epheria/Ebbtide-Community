@@ -1,0 +1,7 @@
+file,situation,tone,line,current_voices
+Carrier_CO_Select1,The player selects the carrier.,"Calm, authoritative, brisk",Sovereign Actual.,"Sovereign Actual, carrier captain (M)"
+Carrier_CO_Select2,The player selects the carrier (second variation).,"Calm, authoritative, brisk",Sovereign Actual. Go ahead.,"Sovereign Actual, carrier captain (M)"
+Carrier_CO_Select3,The player selects the carrier (third variation).,"Calm, authoritative, brisk",Bridge. Standing by.,"Sovereign Actual, carrier captain (M)"
+Carrier_CO_Move1,Move order while at anchor; getting underway.,"Calm, authoritative, brisk",Sovereign copies. Getting underway.,"Sovereign Actual, carrier captain (M)"
+Carrier_CO_Move2,Move order while sailing; changing course.,"Calm, authoritative, brisk",Coming to new course.,"Sovereign Actual, carrier captain (M)"
+Carrier_CO_MoveDenied,Move refused: the course would run aground.,"Calm, authoritative, brisk",Negative. That course puts us aground.,"Sovereign Actual, carrier captain (M)"

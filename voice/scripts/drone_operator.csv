@@ -1,0 +1,8 @@
+file,situation,tone,line,current_voices
+MQ9_EnRoute,Tasking accepted; the drone is on its way.,"Quiet, analytical",Kestrel Two Zero copies tasking. En route.,"Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_OnStation,Drone arrived over the area; camera on.,"Quiet, analytical","Kestrel Two Zero, on station. Eyes on.","Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_Mark,Spotted a large horde; tracking it.,"Quiet, analytical",Kestrel has a large group. Tracking.,"Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_Rifle1,Missile launched.,"Quiet, quick","Kestrel Two Zero, rifle.","Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_Rifle2,Missile launched (short variation).,"Quiet, quick",Rifle.,"Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_Winchester,Out of missiles.,"Quiet, analytical",Kestrel is Winchester.,"Kestrel Two Zero, MQ-9 operator (F)"
+MQ9_OffStation,Leaving the area; heading home.,"Quiet, analytical","Kestrel Two Zero, off station. Returning to base.","Kestrel Two Zero, MQ-9 operator (F)"

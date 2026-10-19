@@ -1,0 +1,2 @@
+file,situation,tone,line,current_voices
+HQ_AirDispatch,"HQ confirms an air support call. Fallback line, heard only when no pilot voice is available. [Wording not confirmed: check against the current game clip before recording.]","Calm, distant HQ",Friendly air support is inbound.,HQ dispatcher

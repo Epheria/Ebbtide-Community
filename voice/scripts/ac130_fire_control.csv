@@ -1,0 +1,7 @@
+file,situation,tone,line,current_voices
+AC130_FCO_Gun30a,Opening fire with the 30 mm cannon.,"Flat, matter-of-fact",Thirty mike-mike. Firing.,"Spooky Four One, fire control officer (M)"
+AC130_FCO_Gun30b,Opening fire with the 30 mm cannon (second variation).,"Flat, matter-of-fact",Guns hot. Thirty.,"Spooky Four One, fire control officer (M)"
+AC130_FCO_Gun105a,Firing the 105 mm howitzer.,"Flat, matter-of-fact",One-oh-five. Firing.,"Spooky Four One, fire control officer (M)"
+AC130_FCO_Gun105b,Firing the 105 mm howitzer (second variation).,"Flat, matter-of-fact","One-oh-five, shot out.","Spooky Four One, fire control officer (M)"
+AC130_FCO_Effects,A 105 mm round just hit a large group.,"Flat, matter-of-fact",Good effects on target.,"Spooky Four One, fire control officer (M)"
+AC130_FCO_Retarget,Switching to a new group of targets.,"Flat, matter-of-fact",New group. Adjusting aim.,"Spooky Four One, fire control officer (M)"

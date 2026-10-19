@@ -1,0 +1,4 @@
+file,situation,tone,line,current_voices
+Rifleman_ManDown,A squad member just went down.,"Panicked, shouting",Man down!,Rifleman
+Marine_Corpsman,A squad member is hit; calling for the medic.,"Panicked, shouting",Corpsman!,Marine rifleman
+Rifleman_Reload,"Reloading during a fight (routine call, muted by default). [Wording not confirmed: check against the current game clip before recording.]",Shouting,Reloading!,Rifleman

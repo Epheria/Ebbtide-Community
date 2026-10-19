@@ -1,0 +1,9 @@
+file,situation,tone,line,current_voices
+SquadLeader_Move,Move order to the squad.,"Calm, clipped",Copy. Moving.,Squad leader
+SquadLeader_Hold,"Hold or defend order, or the squad reached its spot.","Firm, steady",Hold here. Watch your sectors.,Squad leader
+SquadLeader_FallBack,Retreat order.,Shouting,Fall back!,Squad leader
+SquadLeader_Rally,Order to follow the player.,"Shouting, commanding",Rally on me!,Squad leader
+SquadLeader_MoveFast,Rush order: move at full speed.,"Shouting, urgent",Move! Move! Move!,Squad leader
+SquadLeader_Mount,Order to board a vehicle or helicopter.,"Urgent, commanding",Mount up! Let's go!,Squad leader
+SquadLeader_Boarded,The whole squad is aboard.,"Quick, matter-of-fact",Everyone's in.,Squad leader
+SquadLeader_Dismount,The vehicle is disabled; ordering everyone out (LAV and Humvee). [Wording not confirmed: check against the current game clip before recording.],"Shouting, urgent",Dismount! Move! Move! Move!,Squad leader

@@ -1,0 +1,5 @@
+file,situation,tone,line,current_voices
+AC130_Pilot_EnRoute,Tasking accepted from the operations map; taking off.,"Calm, clipped radio",Spooky Four One copies tasking. Preparing for departure.,"Spooky Four One, pilot (M)"
+AC130_Pilot_CheckIn,Entering the battlefield; moving into the firing orbit.,"Calm, clipped radio","Spooky Four One, checking in. Coming into the orbit.","Spooky Four One, pilot (M)"
+AC130_Pilot_OnStation,Settled into the orbit; watching the player's position.,"Calm, clipped radio","Spooky Four One, on station. We have eyes on your position.","Spooky Four One, pilot (M)"
+AC130_Pilot_OffStation,Leaving the orbit and heading home.,"Calm, clipped radio","Spooky Four One, off station. Returning to base.","Spooky Four One, pilot (M)"

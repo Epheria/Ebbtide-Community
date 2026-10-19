@@ -1,0 +1,22 @@
+file,situation,tone,line,current_voices
+F15E_Ready,Strike sortie accepted at the air base; getting ready to take off.,"Calm, professional",<callsign> copies. Preparing for departure.,Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_Airborne,Just took off; climbing out toward the battlefield.,"Calm, professional","<callsign>, airborne.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_CheckIn,Arriving over the battlefield; first check-in of the sortie.,"Calm, professional","<callsign>, checking in. Ready for tasking.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_AckBombing,Accepting an order to bomb an area.,"Focused, quick","<callsign>, roger. Area attack.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_AckStrafe,Accepting an order for a strafing run with the gun.,"Focused, quick","<callsign>, roger. Strafing run.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_AckPrecision,Accepting an order to hit one precise target.,"Focused, quick","<callsign>, roger. Target received.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_WeaponsAway,Bombs released on the target.,"Calm, professional","<callsign>, weapons away.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_Rifle,Air-to-ground missile launched.,"Focused, quick","<callsign>, rifle.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_Hold,"Attack run finished; circling overhead, waiting for the next order.","Calm, professional",<callsign> off target. Holding overhead.,Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_AutoOn,Automatic attacks switched on for the assigned area.,"Calm, professional",<callsign> copies. Continuing attacks in the assigned area.,Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_AutoOff,Automatic attacks switched off; waiting for the player to pick targets.,"Calm, professional","<callsign>, wilco. Further attacks on your command.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_Unable,"Refusing an order (line of fire blocked, already on a run, or no weapons left).","Calm, professional","<callsign>, unable.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_RtbFuel,Low on fuel; heading home.,"Calm, professional","<callsign>, bingo fuel. Returning to base.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_RtbWinchester,Out of weapons; heading home.,"Calm, professional","<callsign>, Winchester. Returning to base.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_RtbOrdered,The player ordered the flight home.,"Calm, professional","Copy, <callsign> returning to base.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15E_Landed,Landed safely back at base.,"Calm, professional","<callsign>, back at base.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15_Support_CheckIn,Air support call accepted; inbound to the area (support-call voice bank).,"Calm, professional","<callsign>, inbound. Two minutes out.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15_Support_Attack,Weapons release on the first pass (support-call voice bank).,"Focused, quick","<callsign>, pickle. Bombs away.",Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+F15_Support_Rtb,Out of weapons; leaving the area (support-call voice bank).,"Calm, professional",<callsign> is Winchester. Returning to base.,Eagle Two One (F); Eagle Two Two (F); Eagle Three One (M); Eagle Three Two (M)
+FighterPilot_Bombs,"Bombs released. Fallback line, heard only if the pilot voice bank is empty.","Focused, quick",Bombs away.,Fallback fighter pilot
+FighterPilot_RTB,"Leaving the area out of weapons. Fallback line, heard only if the pilot voice bank is empty.","Calm, professional",Winchester. RTB.,Fallback fighter pilot

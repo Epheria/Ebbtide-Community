@@ -1,0 +1,6 @@
+file,situation,tone,line,current_voices
+DDG_Guns_Shot,The guns just fired a salvo.,"Crisp, raised voice","Shot, over.","Guns, CIC talker (M)"
+DDG_Guns_Splash,Five seconds before the shells land.,"Crisp, raised voice","Splash, over.","Guns, CIC talker (M)"
+DDG_Guns_RoundsComplete,All rounds of the fire mission are fired.,"Crisp, procedural","Rounds complete, over.","Guns, CIC talker (M)"
+DDG_Guns_MissileAway,Cruise missile launched from the vertical launcher.,"Crisp, raised voice",Missile away.,"Guns, CIC talker (M)"
+DDG_Guns_MissileImpact,The missile is about to hit.,"Crisp, procedural",Stand by for impact.,"Guns, CIC talker (M)"
