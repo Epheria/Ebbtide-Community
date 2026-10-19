@@ -9,6 +9,12 @@ Thank you for helping. This page covers the practical steps; the legal side is i
 
 ## Making changes
 
+### UI and written voice translations
+
+Use the [work-order and reviewed-sheet workflow](docs/CONTRIBUTION_WORKFLOW.md). A maintainer reserves the exact keys for you, a different person reviews the sheet, and the bot creates the pull request. Direct translation pull requests without a recorded assignment and approved snapshot are rejected by the delivery policy. You can do the translation itself entirely in Google Sheets.
+
+### Other contributions
+
 You do not need to know Git well. Either:
 
 - **In the browser:** open a file on GitHub, click the pencil icon, edit, and choose "Create a new branch and start a pull request".

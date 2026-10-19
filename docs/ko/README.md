@@ -1,5 +1,7 @@
 # Ebbtide 커뮤니티
 
+> **번역 참여 안내:** UI와 음성 대사 번역에는 관리자가 배정한 작업 이슈와 번역자와 다른 검수자가 필요합니다. 배정받은 Google 시트에서 작업하면 검수 뒤 봇이 풀 리퀘스트를 만듭니다. 먼저 [작업 절차](../CONTRIBUTION_WORKFLOW.md)(영문)를 확인해 주세요. 아래의 Git 직접 제출 과정은 다른 분야의 기여에 해당하며, 파일 형식 안내는 계속 참고할 수 있습니다.
+
 *이 페이지는 AI의 도움을 받아 번역했습니다. 한국어가 모국어라면 풀 리퀘스트로 번역을 다듬어 주세요. 기준이 되는 문서는 [영어판](../../README.md)입니다.*
 
 [English](../../README.md) · [Español](../es/README.md) · [Русский](../ru/README.md) · **한국어** · [日本語](../ja/README.md) · [Polski](../pl/README.md) · [Türkçe](../tr/README.md) · [Français](../fr/README.md)

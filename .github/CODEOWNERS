@@ -1,0 +1,5 @@
+# Workflow, validators and source changes need the developer's review.
+/.github/ @Epheria
+/tools/ @Epheria
+/localization/source/ @Epheria
+/voice/scripts/ @Epheria

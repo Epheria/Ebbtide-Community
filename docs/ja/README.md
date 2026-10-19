@@ -1,5 +1,7 @@
 # Ebbtide Community
 
+> **翻訳に参加する方へ:** UIと音声台本の翻訳には、管理者が割り当てた作業Issueと、翻訳担当者とは別の確認担当者が必要です。割り当てられたGoogleスプレッドシートで作業すると、確認後にボットがプルリクエストを作成します。まず[作業手順](../CONTRIBUTION_WORKFLOW.md)（英語）をご確認ください。以下のGitによる直接提出の手順は、その他の貢献が対象です。ファイル形式の説明は引き続き参考にできます。
+
 *このページは AI の支援を受けて翻訳しました。日本語が母語の方は、プルリクエストで改善にご協力いただけるとうれしいです。基準となるのは[英語版](../../README.md)です。*
 
 [English](../../README.md) · [Español](../es/README.md) · [Русский](../ru/README.md) · [한국어](../ko/README.md) · **日本語** · [Polski](../pl/README.md) · [Türkçe](../tr/README.md) · [Français](../fr/README.md)
