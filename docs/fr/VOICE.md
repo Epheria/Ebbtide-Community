@@ -13,7 +13,7 @@ Les chemins ci-dessous partent du dossier [`voice/`](../../voice/).
 1. **Audition.** Postez une courte prise dans le salon des soumissions du Discord, en lisant les répliques d'exemple épinglées là-bas.
 2. **Casting.** Si votre voix colle à un rôle, un mainteneur vous contacte et ouvre un ticket privé.
 3. **Script.** Le script complet de votre rôle est ajouté dans `scripts/<role>.csv` : nom de fichier, situation, ton et réplique.
-4. **Livraison.** Ouvrez une pull request qui ajoute vos prises dans `takes/<role>/<your name>/` (`<your name>` = votre nom), un fichier par réplique, nommé exactement comme dans le script.
+4. **Livraison.** Déposez les prises dans votre dossier Drive privé et cochez `Ready to submit` dans votre feuille de travail. Un fichier par réplique, avec le nom exact du script. Suivez le [guide des enregistrements (en anglais)](../VOICE_SUBMISSIONS.md). N’ajoutez pas d’audio dans une PR publique.
 5. **Validation.** On écoute, on demande de nouvelles prises si besoin, on fusionne, puis on intègre les répliques dans la prochaine build.
 
 ## Consignes d'enregistrement

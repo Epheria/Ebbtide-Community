@@ -1,5 +1,7 @@
 # Übersetzungsaufträge
 
+> **Sprachaufnahmen einreichen:** siehe die [Anleitung für Aufnahmen im privaten Drive (Englisch)](../VOICE_SUBMISSIONS.md). Nach Upload und Ankreuzen hört eine andere Person die Dateien an und gibt sie frei. Erst dann entsteht ein PR mit der Abgabeliste. Die Audiodateien bleiben in Drive. Die folgende Anleitung behandelt Textübersetzungen.
+
 Dieser Leitfaden wurde mit KI-Unterstützung übersetzt. Maßgeblich ist die [englische Fassung](../CONTRIBUTION_WORKFLOW.md). Wenn du gut Deutsch sprichst, sind sprachliche Korrekturen willkommen. Diese Fassung wird nicht als muttersprachlich geprüft ausgegeben.
 
 In Google Tabellen werden Übersetzungen geschrieben und geprüft. Ein Arbeitsauftrag als GitHub-Issue reserviert den Umfang, hält die Zuständigkeiten fest und bestimmt, wann eine geprüfte Kopie als Pull Request (PR) eingereicht werden kann.

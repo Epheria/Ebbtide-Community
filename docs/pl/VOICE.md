@@ -11,7 +11,7 @@ Obecnie wszystkie kwestie głosowe w Ebbtide mają głosy AI. Każdą z nich maj
 1. **Przesłuchanie.** Wrzuć krótkie nagranie na kanał zgłoszeń na Discordzie. Przeczytaj w nim przykładowe kwestie przypięte na tym kanale.
 2. **Obsada.** Jeśli twój głos pasuje do roli, opiekun projektu skontaktuje się z tobą i otworzy prywatny ticket.
 3. **Skrypt.** Pełny skrypt twojej roli trafia do [`scripts/<role>.csv`](../../voice/scripts/): nazwa pliku, sytuacja, ton i kwestia.
-4. **Wysyłka.** Otwórz pull request, który dodaje twoje nagrania (take'i) do `takes/<role>/<your name>/`. Jeden plik na kwestię, nazwany dokładnie tak jak w skrypcie.
+4. **Wysyłka.** Prześlij nagrania do przydzielonego prywatnego folderu Drive i zaznacz `Ready to submit` w arkuszu roboczym. Jeden plik na kwestię, z dokładną nazwą ze skryptu. Postępuj zgodnie z [instrukcją nagrań (po angielsku)](../VOICE_SUBMISSIONS.md). Nie dodawaj audio do publicznego PR.
 5. **Sprawdzenie.** Odsłuchujemy, w razie potrzeby prosimy o ponowne nagranie, scalamy i dodajemy kwestie do następnego buildu.
 
 ## Wymagania nagrań

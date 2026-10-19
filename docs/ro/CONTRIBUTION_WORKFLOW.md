@@ -1,5 +1,7 @@
 # Cum lucrăm la traduceri
 
+> **Trimiterea înregistrărilor:** consultați [ghidul pentru înregistrări în Drive privat (în engleză)](../VOICE_SUBMISSIONS.md). După încărcare și bifarea căsuțelor, o altă persoană ascultă și aprobă fișierele înainte de crearea unui PR care conține doar lista livrării. Fișierele audio rămân în Drive. Instrucțiunile de mai jos sunt pentru traduceri de text.
+
 [Versiunea în engleză](../CONTRIBUTION_WORKFLOW.md) este referința în caz de diferențe. Corecturile propuse de vorbitori nativi de română sunt binevenite. Comenzile, numele câmpurilor, antetele CSV și valorile stărilor rămân în engleză: botul le citește exact.
 
 Scrie comenzile din acest ghid sub formă de comentarii în issue-ul GitHub al sarcinii atribuite. Păstrează textul englezesc al comenzii exact ca în exemplu.

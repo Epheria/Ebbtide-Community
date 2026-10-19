@@ -11,7 +11,7 @@ Ahora mismo, todas las líneas de voz de Ebbtide están hechas con IA, y todas s
 1. **Audición.** Publica una toma corta en el canal de envíos (submissions) de Discord, leyendo las frases de muestra que están fijadas allí.
 2. **Casting.** Si tu voz encaja con un papel, un mantenedor se pone en contacto contigo y abre un ticket privado.
 3. **Guion.** El guion completo de tu papel se añade a `scripts/<role>.csv`: nombre de archivo, situación, tono y línea.
-4. **Entrega.** Abre un pull request que añada tus tomas a `takes/<role>/<your name>/`, un archivo por línea, con el nombre exacto que aparece en el guion.
+4. **Entrega.** Sube las tomas a tu carpeta privada de Drive y marca `Ready to submit` en tu hoja de trabajo. Un archivo por línea, con el nombre exacto del guion. Sigue la [guía de grabaciones (en inglés)](../VOICE_SUBMISSIONS.md). No subas audio a un PR público.
 5. **Revisión.** Escuchamos, pedimos repeticiones si hace falta, fusionamos y llevamos las líneas a la siguiente build.
 
 ## Especificaciones de grabación

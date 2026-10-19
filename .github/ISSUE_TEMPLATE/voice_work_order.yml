@@ -1,0 +1,86 @@
+name: Voice recording work order
+description: Reserve approved spoken lines for private Drive recording and independent listening review.
+title: "[Voice] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A maintainer must agree on the casting slot, private Drive folder and reviewer, then run `/voice assign`. This public form does not grant upload access or reserve work by itself.
+
+        Audio stays in private Drive. The owner bridge freezes submitted files and publishes metadata-only Outbox receipts. `/voice preview` prepares those receipts for listening review; only the designated independent reviewer may `/voice approve <digest>`. Approval opens a manifest-only PR. A maintainer must still merge it.
+
+        Do not put private folders, contact details, emails or ticket contents in this public issue. The Spreadsheet URL must be the coordinator's public reader Outbox, never a private staff workbook. Exact source take IDs only, maximum 200. Localized recording requires committed approved spoken translations first. Unconfirmed source lines cannot be assigned.
+  - type: input
+    id: locale
+    attributes:
+      label: Locale
+      placeholder: en
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Voice role
+      description: Existing voice/scripts role filename without .csv.
+      placeholder: rifleman
+    validations:
+      required: true
+  - type: input
+    id: casting_slot
+    attributes:
+      label: Casting slot
+      description: Coordinator-approved character or callsign. ASCII letters, digits, underscores and hyphens only. Separate slots allow distinct characters; do not invent a slot to bypass a reservation.
+      placeholder: rifleman_alpha
+    validations:
+      required: true
+  - type: input
+    id: recording_version
+    attributes:
+      label: Recording version
+      description: Positive integer. Start at 1. Re-recording completed takes requires a new issue and a higher version.
+      placeholder: "1"
+    validations:
+      required: true
+  - type: input
+    id: contributor
+    attributes:
+      label: Contributor
+      description: One assigned actor's GitHub login, without @.
+    validations:
+      required: true
+  - type: input
+    id: reviewer
+    attributes:
+      label: Reviewer
+      description: Different GitHub login. This person needs private frozen-file access and must listen before approving.
+    validations:
+      required: true
+  - type: input
+    id: spreadsheet
+    attributes:
+      label: Spreadsheet URL
+      description: Coordinator-owned public reader Google Sheets Outbox. Editing must remain private to the coordinator.
+      placeholder: https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit
+    validations:
+      required: true
+  - type: input
+    id: tab
+    attributes:
+      label: Sheet tab
+      placeholder: Recording Outbox
+    validations:
+      required: true
+  - type: input
+    id: first_take
+    attributes:
+      label: First take
+      description: Exact existing source file ID, without audio extension.
+    validations:
+      required: true
+  - type: input
+    id: last_take
+    attributes:
+      label: Last take
+      description: Inclusive source-file order. Repeat First take for one line.
+    validations:
+      required: true

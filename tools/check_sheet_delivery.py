@@ -1,7 +1,7 @@
 """Delivery policy executed exclusively from the trusted default branch.
 
-Pull-request code is never downloaded or executed. Translation deliveries must
-exactly match an assigned, independently reviewed and frozen sheet snapshot. The
+Pull-request code is never downloaded or executed. Translation and voice-manifest
+deliveries must match an assigned, independently reviewed and frozen snapshot. The
 only write is publishing the check result to the inspected PR commit's status.
 """
 
@@ -25,6 +25,8 @@ _DELIVERY = re.compile(r"^(?:localization|voice)/translations/[^/]+/[^/]+\.csv$"
 _HASH = re.compile(r"^[0-9a-f]{64}$")
 _COMMIT = re.compile(r"^[0-9a-f]{40}$")
 _ROOTS = ("localization/translations/", "voice/translations/")
+_VOICE_ROOT = "voice/submissions/"
+_VOICE_DELIVERY = re.compile(r"^voice/submissions/[^/]+/[^/]+/[^/]+/[1-9][0-9]*\.json$")
 
 
 def _positive_integer(value, name):
@@ -72,7 +74,23 @@ def _translation_paths(files):
     return deliveries
 
 
-def _live_approval(gh, assignment, digest):
+def _voice_paths(files):
+    deliveries = []
+    for item in files:
+        # The previous name matters: moving a protected manifest elsewhere is
+        # still a delivery change, not an unrelated documentation change.
+        for field in ("filename", "previous_filename"):
+            path = item.get(field, "")
+            if not isinstance(path, str):
+                raise WorkflowError("GitHub returned an invalid changed path")
+            if path.startswith(_VOICE_ROOT):
+                if not _VOICE_DELIVERY.fullmatch(path):
+                    raise WorkflowError("Unsupported voice manifest path; use a voice work order")
+                deliveries.append(path)
+    return deliveries
+
+
+def _live_approval(gh, assignment, digest, *, command="work", require_comment=False):
     reviewer = assignment.get("reviewer")
     contributor = assignment.get("contributor")
     approved = assignment.get("approved_by")
@@ -82,6 +100,8 @@ def _live_approval(gh, assignment, digest):
         raise WorkflowError("Only the designated independent reviewer can approve the snapshot")
     comment_id = assignment.get("approval_comment")
     if comment_id is None:
+        if require_comment:
+            raise WorkflowError("Voice delivery requires the assigned reviewer's approval comment")
         # Workflow-dispatch approvals have no comment; the trusted coordinator
         # separately requires maintainer authorization before recording them.
         return
@@ -89,7 +109,7 @@ def _live_approval(gh, assignment, digest):
     comment = gh.api(f"/issues/comments/{comment_id}")
     if (not isinstance(comment, dict)
             or comment.get("user", {}).get("login", "").casefold() != reviewer.casefold()
-            or comment.get("body", "").strip() != f"/work approve {digest}"
+            or comment.get("body", "").strip() != f"/{command} approve {digest}"
             or comment.get("issue_url") != f"https://api.github.com/repos/{gh.repo}/issues/{assignment['issue']}"):
         raise WorkflowError("Recorded approval comment was edited, moved or is not from the assigned reviewer")
 
@@ -144,6 +164,13 @@ def check_delivery(gh, state_store, pr_number, source_root=ROOT, *, checked_out_
         raise WorkflowError("Delivery policy only verifies PRs targeting this repository's default branch")
     files = _changed_files(gh, number, pr)
     deliveries = _translation_paths(files)
+    voice_deliveries = _voice_paths(files)
+    if voice_deliveries:
+        if deliveries or len(files) != 1 or len(voice_deliveries) != 1 or files[0].get("status") != "added":
+            raise WorkflowError("A voice delivery must add exactly one manifest and no other files")
+        return check_voice_delivery(gh, number, source_root,
+                                    checked_out_sha=checked_out_sha,
+                                    expected_head_sha=pr.get("head", {}).get("sha"))
     if not deliveries:
         latest = gh.api(f"/pulls/{number}")
         if (latest.get("head", {}).get("sha") != pr.get("head", {}).get("sha")
@@ -209,17 +236,93 @@ def check_delivery(gh, state_store, pr_number, source_root=ROOT, *, checked_out_
     return f"PASS: PR #{number} exactly matches reviewed snapshot {digest} for work order #{issue}"
 
 
+def check_voice_delivery(gh, pr_number, source_root=ROOT, *, state_store=None,
+                         checked_out_sha=None, expected_head_sha=None):
+    """Verify only a private-audio receipt manifest, using trusted local code.
+
+    This never fetches or publishes private Drive audio. Human listening is
+    attested by the designated reviewer's live, exact-digest issue comment.
+    """
+    from voice_submission_bot import VoiceState
+    from voice_submission_core import build_export as voice_export, snapshot_hash as voice_hash
+
+    number = _positive_integer(pr_number, "PR number")
+    pr = gh.api(f"/pulls/{number}")
+    if not isinstance(pr, dict) or pr.get("number") != number:
+        raise WorkflowError("GitHub returned an invalid pull request")
+    head = pr.get("head", {})
+    head_sha = head.get("sha")
+    if expected_head_sha is not None and head_sha != expected_head_sha:
+        raise WorkflowError("PR head changed before verification; rerun the policy check")
+    default_branch = gh.api("").get("default_branch")
+    base_identity = _base_identity(pr)
+    if (not isinstance(default_branch, str) or not default_branch
+            or base_identity[0] != default_branch or base_identity[1] != gh.repo.casefold()):
+        raise WorkflowError("Delivery policy only verifies PRs targeting this repository's default branch")
+    files = _changed_files(gh, number, pr)
+    paths = _voice_paths(files)
+    if len(files) != 1 or len(paths) != 1 or files[0].get("status") != "added":
+        raise WorkflowError("A voice delivery must add exactly one manifest and no other files")
+    if pr.get("state") != "open":
+        raise WorkflowError("Voice delivery PR is no longer open")
+    store = state_store if state_store is not None else VoiceState(gh)
+    try:
+        state_sha, ledger = store.read()
+    except ApiError as error:
+        if error.status == 404:
+            raise WorkflowError("No voice reservation registry exists; start with a voice work order") from None
+        raise
+    if not isinstance(ledger, dict) or not isinstance(ledger.get("assignments"), list):
+        raise WorkflowError("Voice reservation registry is invalid")
+    matches = [item for item in ledger["assignments"] if isinstance(item, dict) and item.get("pr") == number]
+    if len(matches) != 1 or matches[0].get("status") != "pr_open":
+        raise WorkflowError("Voice PR has no unique active work-order reservation")
+    assignment = matches[0]
+    issue = _positive_integer(assignment.get("issue"), "voice work-order issue")
+    digest = assignment.get("candidate")
+    if not isinstance(digest, str) or not _HASH.fullmatch(digest):
+        raise WorkflowError("Voice reservation has no valid reviewed snapshot digest")
+    _live_approval(gh, assignment, digest, command="voice", require_comment=True)
+    expected_branch = f"community/voice-{issue}-{digest[:12]}"
+    if (head.get("repo", {}).get("full_name", "").casefold() != gh.repo.casefold()
+            or assignment.get("branch") != expected_branch or head.get("ref") != expected_branch
+            or not isinstance(head_sha, str) or not _COMMIT.fullmatch(head_sha)):
+        raise WorkflowError("Voice PR head must be the recorded delivery branch in this repository")
+    default_ref = "/git/ref/heads/" + urllib.parse.quote(default_branch, safe="")
+    default_sha = gh.api(default_ref)["object"]["sha"]
+    if checked_out_sha is not None and checked_out_sha != default_sha:
+        raise WorkflowError("Default branch advanced; rerun with a fresh trusted checkout")
+    snapshot = store.read_file(f"snapshots/{issue}/{digest}.json", state_sha)
+    if not isinstance(snapshot, dict) or snapshot.get("digest") != digest or voice_hash(snapshot) != digest:
+        raise WorkflowError("Saved voice snapshot digest is invalid")
+    relative, expected_json = voice_export(source_root, assignment, snapshot)
+    if relative != files[0]["filename"]:
+        raise WorkflowError("Changed voice manifest is outside the assigned snapshot scope")
+    _regular_blob(gh, relative, head_sha)
+    if _head_csv(gh, relative, head_sha) != expected_json:
+        raise WorkflowError("Voice manifest differs from the independently approved snapshot")
+    latest_pr = gh.api(f"/pulls/{number}")
+    if (latest_pr.get("head", {}).get("sha") != head_sha or latest_pr.get("state") != "open"
+            or _base_identity(latest_pr) != base_identity):
+        raise WorkflowError("PR changed during verification; rerun the policy check")
+    if (store.read()[0] != state_sha or gh.api(default_ref)["object"]["sha"] != default_sha
+            or gh.api("").get("default_branch") != default_branch):
+        raise WorkflowError("Voice reservation or default branch changed during verification; rerun")
+    _live_approval(gh, assignment, digest, command="voice", require_comment=True)
+    return f"PASS: PR #{number} exactly matches reviewed voice snapshot {digest} for work order #{issue}"
+
+
 def _publish_status(gh, head_sha, success):
     """Publish only this check's outcome, attached to the exact inspected head."""
     data = {"context": "reviewed-sheet", "state": "success" if success else "failure",
-            "description": "Sheet delivery policy passed" if success else "Sheet delivery policy failed; see workflow logs"}
+            "description": "Contribution delivery policy passed" if success else "Contribution delivery policy failed; see workflow logs"}
     run_id = os.environ.get("GITHUB_RUN_ID", "")
     if re.fullmatch(r"[1-9][0-9]*", run_id):
         data["target_url"] = f"https://github.com/{gh.repo}/actions/runs/{run_id}"
     gh.api("/statuses/" + head_sha, "POST", data)
 
 
-def resolve_pr_number(state_store, event=None, raw_number=None):
+def resolve_pr_number(state_store, event=None, raw_number=None, *, voice_state_store=None):
     """Resolve explicit/PR events or a recorded approval's edited/deleted event.
 
     Comment text never supplies a PR number. A comment event can recheck only
@@ -236,16 +339,20 @@ def resolve_pr_number(state_store, event=None, raw_number=None):
         raise WorkflowError("Set PR_NUMBER to the pull request number")
     comment_id = _positive_integer(event["comment"].get("id"), "event comment")
     issue = _positive_integer(event["issue"].get("number"), "event issue")
-    try:
-        _, ledger = state_store.read()
-    except ApiError as error:
-        if error.status == 404:
-            return None
-        raise
-    if not isinstance(ledger, dict) or not isinstance(ledger.get("assignments"), list):
-        raise WorkflowError("Reservation registry is invalid")
-    matches = [item for item in ledger["assignments"] if isinstance(item, dict)
-               and item.get("approval_comment") == comment_id and item.get("issue") == issue]
+    matches = []
+    for store in (state_store, voice_state_store):
+        if store is None:
+            continue
+        try:
+            _, ledger = store.read()
+        except ApiError as error:
+            if error.status == 404:
+                continue
+            raise
+        if not isinstance(ledger, dict) or not isinstance(ledger.get("assignments"), list):
+            raise WorkflowError("Reservation registry is invalid")
+        matches.extend(item for item in ledger["assignments"] if isinstance(item, dict)
+                       and item.get("approval_comment") == comment_id and item.get("issue") == issue)
     if not matches or len(matches) == 1 and not matches[0].get("pr"):
         return None
     if len(matches) != 1:
@@ -265,7 +372,12 @@ def main():
         if not checkout or not _COMMIT.fullmatch(checkout):
             raise WorkflowError("CHECKED_OUT_SHA must identify the trusted default-branch checkout")
         store = State(gh)
-        number = resolve_pr_number(store, event, raw_number)
+        voice_store = None
+        if event is not None and (event.get("comment", {}).get("body", "").startswith("/voice approve ")
+                                  or event.get("changes", {}).get("body", {}).get("from", "").startswith("/voice approve ")):
+            from voice_submission_bot import VoiceState
+            voice_store = VoiceState(gh)
+        number = resolve_pr_number(store, event, raw_number, voice_state_store=voice_store)
         if number is None:
             print("SKIP: edited/deleted comment is not bound to a registered delivery PR")
             return 0

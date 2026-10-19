@@ -1,5 +1,7 @@
 # Jak pracovat na překladech
 
+> **Odevzdání nahrávek:** viz [návod pro nahrávky v soukromém Drive (anglicky)](../VOICE_SUBMISSIONS.md). Po nahrání a zaškrtnutí políček jiná osoba soubory poslechne a schválí. Teprve poté vznikne PR obsahující pouze seznam odevzdaných souborů. Audio zůstává v Drive. Pokyny níže se týkají překladu textu.
+
 Při rozdílech platí [anglický originál](../CONTRIBUTION_WORKFLOW.md). Uvítáme jazykové opravy od rodilých mluvčích. Příkazy, názvy polí, hlavičky CSV a hodnoty stavů zůstávají anglicky, protože je bot čte přesně.
 
 Příkazy z této příručky pište jako komentáře do issue přiděleného úkolu na GitHubu. Anglický text příkazu ponechte přesně podle ukázky.

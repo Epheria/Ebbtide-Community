@@ -1,5 +1,7 @@
 # Çeviri görevleri nasıl yürütülür?
 
+> **Ses kaydı teslimi:** [özel Drive kayıt kılavuzuna (İngilizce)](../VOICE_SUBMISSIONS.md) bakın. Dosyaları yükleyip kutuları işaretledikten sonra başka bir kişi kayıtları dinleyip onaylar; ardından yalnızca teslim listesini içeren bir PR oluşturulur. Ses dosyaları Drive’da kalır. Aşağıdaki talimatlar metin çevirileri içindir.
+
 Farklılık olması hâlinde [İngilizce asıl kılavuz](../CONTRIBUTION_WORKFLOW.md) esas alınır. Ana dili Türkçe olan kişilerin ifade düzeltmelerini bekliyoruz. Bot birebir okuduğu için komutlar, issue alan adları, CSV başlıkları ve durum değerleri İngilizce kalır.
 
 Bu kılavuzdaki komutları, sana atanan GitHub görev issue'suna yorum olarak yaz. Komutun İngilizce yazımını aynen koru.

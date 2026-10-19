@@ -1,5 +1,7 @@
 # Zadania tłumaczeniowe
 
+> **Przesyłanie nagrań:** zobacz [instrukcję nagrań w prywatnym Drive (po angielsku)](../VOICE_SUBMISSIONS.md). Po przesłaniu plików i zaznaczeniu pól inna osoba odsłuchuje i zatwierdza nagrania. Dopiero wtedy powstaje PR zawierający sam wykaz zgłoszenia. Audio pozostaje w Drive. Poniższe instrukcje dotyczą tłumaczenia tekstu.
+
 Ten przewodnik przetłumaczono z pomocą AI. Punktem odniesienia jest [wersja angielska](../CONTRIBUTION_WORKFLOW.md). Jeśli dobrze znasz polski, uwagi językowe są mile widziane. Nie przedstawiamy tej wersji jako sprawdzonej przez rodzimego użytkownika języka.
 
 Arkusze Google służą do pisania i weryfikacji tłumaczeń. Zadanie w GitHubie rezerwuje zakres, wskazuje odpowiedzialne osoby i określa, kiedy sprawdzona kopia może trafić do pull requesta (PR).
