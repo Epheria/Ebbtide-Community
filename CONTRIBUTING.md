@@ -13,7 +13,11 @@ Thank you for helping. This page covers the practical steps; the legal side is i
 
 Use the [work-order and reviewed-sheet workflow](docs/CONTRIBUTION_WORKFLOW.md). A maintainer reserves the exact keys for you, a different person reviews the sheet, and the bot creates the pull request. Direct translation pull requests without a recorded assignment and approved snapshot are rejected by the delivery policy. You can do the translation itself entirely in Google Sheets.
 
-### Other contributions
+### Recorded voice
+
+Use the [private Drive recording workflow](docs/VOICE_SUBMISSIONS.md) ([한국어](docs/ko/VOICE_SUBMISSIONS.md)). Upload to the assigned folder and request intake in the working sheet. Independent listening approval opens a manifest-only PR; audio stays private in Drive. Do not add WAV/FLAC files through the general PR route below.
+
+### Music, sound, art and documentation
 
 You do not need to know Git well. Either:
 
@@ -27,7 +31,7 @@ Keep each pull request to one language or one voice role, so it is easy to revie
 - [ ] The work is my own, and none of it is AI-generated.
 - [ ] I agree to [CONTRIBUTOR_TERMS.md](CONTRIBUTOR_TERMS.md).
 - [ ] Translations: I only changed the `translation` and `status` columns.
-- [ ] Voice: file names match the role script exactly.
+- [ ] Voice manifests: filenames match the assigned script; the independent reviewer has listened to the frozen private files. No raw audio is included in the PR.
 
 ## Review
 

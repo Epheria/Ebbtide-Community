@@ -1,5 +1,7 @@
 # Tâches de traduction
 
+> **Envoi des enregistrements :** consultez le [guide des enregistrements sur Drive privé (en anglais)](../VOICE_SUBMISSIONS.md). Après le dépôt et la validation des cases, une autre personne écoute et approuve les fichiers avant la création d’une PR contenant uniquement la liste de livraison. L’audio reste sur Drive. Les instructions ci-dessous concernent la traduction de texte.
+
 Ce guide a été traduit avec l’aide de l’IA. La [version anglaise](../CONTRIBUTION_WORKFLOW.md) fait référence. Les corrections de personnes maîtrisant le français sont les bienvenues ; cette version n’est pas présentée comme relue par une personne de langue maternelle française.
 
 Google Sheets sert à rédiger et à relire les traductions. Une tâche GitHub réserve les lignes, désigne les responsables et détermine quand une copie validée peut devenir une pull request (PR).

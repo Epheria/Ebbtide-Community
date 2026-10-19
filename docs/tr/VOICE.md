@@ -11,10 +11,10 @@ Ebbtide'daki tüm replikler şu an yapay zekâ ile seslendiriliyor. Hepsinin yer
 1. **Seçme.** Discord'daki gönderim (submissions) kanalına kısa bir kayıt at. Kanalda sabitlenmiş örnek replikleri oku.
 2. **Rol dağıtımı.** Sesin bir role uyuyorsa bir proje sorumlusu (maintainer) seninle iletişime geçer ve özel bir ticket açar.
 3. **Senaryo.** Rolünün tam senaryosu `scripts/<role>.csv` dosyasına eklenir: dosya adı, durum, ton ve replik.
-4. **Teslim.** Kayıtlarını `takes/<role>/<your name>/` klasörüne ekleyen bir pull request aç. Her replik ayrı bir dosya olsun ve adı senaryodakiyle birebir aynı olsun.
+4. **Teslim.** Kayıtları size ayrılan özel Drive klasörüne yükleyin ve çalışma sayfanızda `Ready to submit` kutularını işaretleyin. Her replik ayrı bir dosya olmalı ve adı senaryodakiyle aynı olmalıdır. [Kayıt teslim kılavuzunu (İngilizce)](../VOICE_SUBMISSIONS.md) izleyin. Ses dosyalarını herkese açık PR’a eklemeyin.
 5. **İnceleme.** Kayıtları dinleriz, gerekirse yeniden kayıt isteriz, birleştiririz ve replikleri bir sonraki sürüme ekleriz.
 
-`scripts/` ve `takes/` klasörleri [`voice/`](../../voice/) içindedir. Mevcut senaryolar: [`voice/scripts/`](../../voice/scripts/).
+Mevcut senaryolar: [`voice/scripts/`](../../voice/scripts/). Ses dosyaları özel Drive klasöründe saklanır.
 
 ## Kayıt özellikleri
 

@@ -1,5 +1,7 @@
 # Come lavorare alle traduzioni
 
+> **Invio delle registrazioni:** consulta la [guida alle registrazioni su Drive privato (in inglese)](../VOICE_SUBMISSIONS.md). Dopo il caricamento e la selezione delle caselle, un’altra persona ascolta e approva i file prima della creazione di una PR contenente solo l’elenco della consegna. L’audio rimane su Drive. Le istruzioni seguenti riguardano le traduzioni di testo.
+
 L'[originale inglese](../CONTRIBUTION_WORKFLOW.md) è il riferimento in caso di differenze. Le correzioni di chi parla italiano come lingua madre sono benvenute. Comandi, nomi dei campi, intestazioni CSV e stati restano in inglese: il bot li legge esattamente come sono scritti.
 
 Scrivi i comandi di questa guida come commenti nell'issue GitHub dell'incarico assegnato. Mantieni il comando in inglese esattamente come indicato.

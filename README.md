@@ -37,6 +37,8 @@ For task reservations, sheet review and export commands, read the [work-order gu
 
 **[Usage guides in 17 languages](docs/CONTRIBUTION_WORKFLOW.md#choose-your-language)** — choose your language for contributor, reviewer and maintainer instructions.
 
+**[Recording submissions](docs/VOICE_SUBMISSIONS.md)** ([한국어](docs/ko/VOICE_SUBMISSIONS.md)) — private Drive upload, checkbox intake, independent listening review and a manifest-only PR. Audio files stay in Drive.
+
 ## Community workspaces
 
 - [Contribution hub](https://docs.google.com/spreadsheets/d/1cqM9Qxld-GjaQj6rIUxeZrGchZwrnBu-3Eq5SdBbGaY/edit): start here for language needs, source versions and the workflow.

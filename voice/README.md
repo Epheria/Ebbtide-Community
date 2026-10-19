@@ -7,8 +7,10 @@ Every voice line in Ebbtide is currently AI voiced, and all of them are to be re
 1. **Audition.** Post a short take in the Discord submissions channel, reading the sample lines pinned there.
 2. **Casting.** If your voice fits a role, a maintainer contacts you and opens a private ticket.
 3. **Script.** Your role's full script is added to `scripts/<role>.csv`: file name, situation, tone and line.
-4. **Delivery.** Open a pull request that adds your takes to `takes/<role>/<your name>/`, one file per line, named exactly as in the script.
-5. **Review.** We listen, ask for retakes if needed, merge, and bring the lines into the next build.
+4. **Delivery.** Upload your takes to your assigned private Drive folder and check `Ready to submit` in your working sheet. One file per line, named exactly as in the script. See the [recording submission guide](../docs/VOICE_SUBMISSIONS.md) ([한국어](../docs/ko/VOICE_SUBMISSIONS.md)). Do not add audio to a public pull request.
+5. **Review.** The owner bridge freezes private copies and publishes a receipt. A separate reviewer listens and approves the exact preview; the bot opens a manifest-only PR. A maintainer merges it, and the developer brings approved audio into the game separately.
+
+The checkbox requests intake; it does not create a PR or approve the recording. A maintainer must first register the assignment and activate the owner-only Google connection. Written script translations use the [translation workflow](../docs/CONTRIBUTION_WORKFLOW.md).
 
 ## Recording specs
 

@@ -1,5 +1,7 @@
 # Tarefas de tradução
 
+> **Envio de gravações:** consulte o [guia de gravações no Drive privado (em inglês)](../VOICE_SUBMISSIONS.md). Após o envio e a marcação das caixas, outra pessoa ouve e aprova os arquivos antes da criação de um PR apenas com a lista de entregas. O áudio fica no Drive. As instruções abaixo são para tradução de texto.
+
 Este guia foi traduzido com ajuda de IA. A [versão em inglês](../CONTRIBUTION_WORKFLOW.md) é a referência. Se você domina o português brasileiro, sugestões de melhoria são bem-vindas; esta versão não é apresentada como revisada por um falante nativo.
 
 O Google Planilhas é o lugar para escrever e revisar traduções. Uma tarefa no GitHub reserva o trecho, registra os responsáveis e controla quando uma cópia revisada pode virar um pull request (PR).

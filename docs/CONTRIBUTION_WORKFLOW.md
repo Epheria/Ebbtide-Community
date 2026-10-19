@@ -1,5 +1,7 @@
 # Translation work orders
 
+> **Recorded audio:** use the [private Drive recording guide](VOICE_SUBMISSIONS.md). Upload and checkbox intake are followed by independent listening approval and a manifest-only PR. Audio stays in Drive; this page below covers written translations.
+
 ## Choose your language
 
 | Language | Guide |
